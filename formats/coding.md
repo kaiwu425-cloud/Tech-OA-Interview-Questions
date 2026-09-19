@@ -2,13 +2,17 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**2,141 questions**
+**2,145 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**GoodScore**|[Count Divisible Power Sums](https://www.fastprep.io/problems/goodscore-count-divisible-power-sums)|[![Practice][p]](https://www.fastprep.io/problems/goodscore-count-divisible-power-sums)|🔥 Sep 19, 2026|
 |**Stripe**|[Incident Monitor](https://www.fastprep.io/problems/stripe-incident-monitor)|[![Practice][p]](https://www.fastprep.io/problems/stripe-incident-monitor)|🔥 Sep 19, 2026|
+|**Tata Consultancy Services**|[Maximum Gap After Sorting](https://www.fastprep.io/problems/tata-consultancy-services-maximum-gap)|[![Practice][p]](https://www.fastprep.io/problems/tata-consultancy-services-maximum-gap)|🔥 Sep 18, 2026|
+|**Tata Consultancy Services**|[EV Charging Cost Optimization](https://www.fastprep.io/problems/tata-consultancy-services-ev-charging-cost-optimization)|[![Practice][p]](https://www.fastprep.io/problems/tata-consultancy-services-ev-charging-cost-optimization)|🔥 Sep 18, 2026|
+|**Amazon**|[Inventory Allocation](https://www.fastprep.io/problems/amazon-inventory-allocation)|[![Practice][p]](https://www.fastprep.io/problems/amazon-inventory-allocation)|🔥 Sep 18, 2026|
 |**Waymo**|[Obstacle-Aware Return to Origin](https://www.fastprep.io/problems/waymo-obstacle-aware-return-to-origin)|[![Practice][p]](https://www.fastprep.io/problems/waymo-obstacle-aware-return-to-origin)|🔥 Sep 18, 2026|
 |**Waymo**|[Dictionary Matches from Repeated Letters](https://www.fastprep.io/problems/waymo-repeated-letter-dictionary-matches)|[![Practice][p]](https://www.fastprep.io/problems/waymo-repeated-letter-dictionary-matches)|🔥 Sep 18, 2026|
 |**Amazon**|[LRU Cache for Query Results](https://www.fastprep.io/problems/amazon-lru-query-result-cache)|[![Practice][p]](https://www.fastprep.io/problems/amazon-lru-query-result-cache)|🔥 Sep 18, 2026|
@@ -35,6 +39,7 @@
 |**Instacart**|[Product Total With the Cheapest Promotion](https://www.fastprep.io/problems/instacart-product-total-with-cheapest-promotion)|[![Practice][p]](https://www.fastprep.io/problems/instacart-product-total-with-cheapest-promotion)|🔥 Sep 18, 2026|
 |**Amazon**|[Course Order and Cycle](https://www.fastprep.io/problems/amazon-course-order-and-cycle)|[![Practice][p]](https://www.fastprep.io/problems/amazon-course-order-and-cycle)|🔥 Sep 18, 2026|
 |**Rippling**|[Corporate Card Expense Rules](https://www.fastprep.io/problems/rippling-corporate-card-rules-engine)|[![Practice][p]](https://www.fastprep.io/problems/rippling-corporate-card-rules-engine)|🔥 Sep 18, 2026|
+|**Amazon**|[Minimum Stick Connection Cost](https://www.fastprep.io/problems/amazon-minimum-stick-connection-cost)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-stick-connection-cost)|🔥 Sep 18, 2026|
 |**Capital One**|[Format a Newspaper Page](https://www.fastprep.io/problems/capital-one-format-newspaper-page)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-format-newspaper-page)|🔥 Sep 18, 2026|
 |**Capital One**|[Compare Counts Around Pivot](https://www.fastprep.io/problems/capital-one-compare-counts-around-pivot)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-compare-counts-around-pivot)|🔥 Sep 18, 2026|
 |**Capital One**|[Reconstruct Landmark Journey](https://www.fastprep.io/problems/capital-one-reconstruct-landmark-journey)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-reconstruct-landmark-journey)|🔥 Sep 18, 2026|
@@ -1039,7 +1044,6 @@
 |**Amazon**|[Dynamic Kth Largest Queries](https://www.fastprep.io/problems/amazon-dynamic-kth-largest-queries)|[![Practice][p]](https://www.fastprep.io/problems/amazon-dynamic-kth-largest-queries)|Apr 09, 2026|
 |**Amazon**|[Longest Zero Sum Subarray](https://www.fastprep.io/problems/amazon-longest-zero-sum-subarray)|[![Practice][p]](https://www.fastprep.io/problems/amazon-longest-zero-sum-subarray)|Apr 09, 2026|
 |**Amazon**|[Maximize Minimum Machine Power](https://www.fastprep.io/problems/amazon-maximize-minimum-machine-power)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-minimum-machine-power)|Apr 09, 2026|
-|**Amazon**|[Minimum Stick Connection Cost](https://www.fastprep.io/problems/amazon-minimum-stick-connection-cost)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-stick-connection-cost)|Apr 09, 2026|
 |**Uber**|[Balanced Permutation Subarrays](https://www.fastprep.io/problems/uber-balanced-permutation-subarrays)|[![Practice][p]](https://www.fastprep.io/problems/uber-balanced-permutation-subarrays)|Apr 09, 2026|
 |**Uber**|[Maximum Comfortable Riders](https://www.fastprep.io/problems/uber-maximum-comfortable-riders)|[![Practice][p]](https://www.fastprep.io/problems/uber-maximum-comfortable-riders)|Apr 09, 2026|
 |**Uber**|[Palindrome Path Queries in a Tree](https://www.fastprep.io/problems/uber-palindrome-path-queries)|[![Practice][p]](https://www.fastprep.io/problems/uber-palindrome-path-queries)|Apr 09, 2026|
@@ -1894,9 +1898,4 @@
 |**Trade Desk**|[Last to Be Checked](https://www.fastprep.io/problems/tdesk-last-to-be-checked)|[![Practice][p]](https://www.fastprep.io/problems/tdesk-last-to-be-checked)|Mar 21, 2024|
 |**Trade Desk**|[Buddies Greater Than Target](https://www.fastprep.io/problems/tdesk-buddies-greater-than-threshold)|[![Practice][p]](https://www.fastprep.io/problems/tdesk-buddies-greater-than-threshold)|Mar 21, 2024|
 |**Trade Desk**|[Earn The Most](https://www.fastprep.io/problems/tdesk-about-profit)|[![Practice][p]](https://www.fastprep.io/problems/tdesk-about-profit)|Mar 21, 2024|
-|**Trade Desk**|[Light Sources](https://www.fastprep.io/problems/tdesk-about-lamps)|[![Practice][p]](https://www.fastprep.io/problems/tdesk-about-lamps)|Mar 21, 2024|
-|**Trade Desk**|[Flights](https://www.fastprep.io/problems/tdesk-flights)|[![Practice][p]](https://www.fastprep.io/problems/tdesk-flights)|Mar 21, 2024|
-|**Trade Desk**|[Friend List](https://www.fastprep.io/problems/tdesk-friend-list)|[![Practice][p]](https://www.fastprep.io/problems/tdesk-friend-list)|Mar 21, 2024|
-|**DoorDash**|[Find Different Value](https://www.fastprep.io/problems/doordash-find-difference-value)|[![Practice][p]](https://www.fastprep.io/problems/doordash-find-difference-value)|Mar 20, 2024|
-|**IBM**|[Elementary School](https://www.fastprep.io/problems/ibm-elementary-school)|[![Practice][p]](https://www.fastprep.io/problems/ibm-elementary-school)|Mar 20, 2024|
 <a id="bottom"></a>

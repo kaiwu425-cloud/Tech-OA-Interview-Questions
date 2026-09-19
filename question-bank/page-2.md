@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Google**|[Count Subsequences Without Three Equal-Parity Elements in a Row](https://www.fastprep.io/problems/google-count-valid-parity-run-subsequences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-count-valid-parity-run-subsequences)|Jul 05, 2025|
+|**Fortinet**|[Madam C.J. Walker's Business Plan](https://www.fastprep.io/problems/fortinet-calculate-maximum-profit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fortinet-calculate-maximum-profit)|Jun 24, 2025|
+|**Fortinet**|[K-Means Clustering](https://www.fastprep.io/problems/fortinet-get-maximum-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fortinet-get-maximum-distance)|Jun 24, 2025|
+|**Fortinet**|[Signal Pings](https://www.fastprep.io/problems/fortinet-get-required-sweeps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fortinet-get-required-sweeps)|Jun 24, 2025|
 |**Box**|[Retention Policy Collision](https://www.fastprep.io/problems/box-find-remaining-policies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/box-find-remaining-policies)|Jun 24, 2025|
 |**Box**|[Counterfeit Currency](https://www.fastprep.io/problems/box-count-counterfeit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/box-count-counterfeit)|Jun 24, 2025|
 |**Box**|[Box Fro~yo](https://www.fastprep.io/problems/box-flavor-changer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/box-flavor-changer)|Jun 24, 2025|

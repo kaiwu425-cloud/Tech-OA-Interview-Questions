@@ -2,12 +2,17 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,141 questions**
+**2,145 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Trade Desk**|[Light Sources](https://www.fastprep.io/problems/tdesk-about-lamps)|[![Practice][p]](https://www.fastprep.io/problems/tdesk-about-lamps)|Mar 21, 2024|
+|**Trade Desk**|[Flights](https://www.fastprep.io/problems/tdesk-flights)|[![Practice][p]](https://www.fastprep.io/problems/tdesk-flights)|Mar 21, 2024|
+|**Trade Desk**|[Friend List](https://www.fastprep.io/problems/tdesk-friend-list)|[![Practice][p]](https://www.fastprep.io/problems/tdesk-friend-list)|Mar 21, 2024|
+|**DoorDash**|[Find Different Value](https://www.fastprep.io/problems/doordash-find-difference-value)|[![Practice][p]](https://www.fastprep.io/problems/doordash-find-difference-value)|Mar 20, 2024|
+|**IBM**|[Elementary School](https://www.fastprep.io/problems/ibm-elementary-school)|[![Practice][p]](https://www.fastprep.io/problems/ibm-elementary-school)|Mar 20, 2024|
 |**Goldman Sachs**|[Find Niceness](https://www.fastprep.io/problems/goldman-find-niceness)|[![Practice][p]](https://www.fastprep.io/problems/goldman-find-niceness)|Mar 20, 2024|
 |**IXL Learning**|[Card Packets](https://www.fastprep.io/problems/ixl-card-packets)|[![Practice][p]](https://www.fastprep.io/problems/ixl-card-packets)|Mar 20, 2024|
 |**IXL Learning**|[Count Max](https://www.fastprep.io/problems/ixl-count-max)|[![Practice][p]](https://www.fastprep.io/problems/ixl-count-max)|Mar 20, 2024|
