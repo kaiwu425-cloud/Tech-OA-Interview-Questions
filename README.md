@@ -23,7 +23,7 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,141)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (348)](formats/system-design.md) · [Low-level design (92)](formats/low-level-design.md) · [AI coding (42)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,145)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (348)](formats/system-design.md) · [Low-level design (92)](formats/low-level-design.md) · [AI coding (42)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -34,7 +34,11 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
 |**GoodScore**|[Design and Implement a Thread-Safe In-Memory Task Queue](https://www.fastprep.io/low-level-design/thread-safe-in-memory-task-queue)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-in-memory-task-queue)|🔥 Sep 19, 2026|
+|**GoodScore**|[Count Divisible Power Sums](https://www.fastprep.io/problems/goodscore-count-divisible-power-sums)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goodscore-count-divisible-power-sums)|🔥 Sep 19, 2026|
 |**Stripe**|[Incident Monitor](https://www.fastprep.io/problems/stripe-incident-monitor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-incident-monitor)|🔥 Sep 19, 2026|
+|**Tata Consultancy Services**|[Maximum Gap After Sorting](https://www.fastprep.io/problems/tata-consultancy-services-maximum-gap)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tata-consultancy-services-maximum-gap)|🔥 Sep 18, 2026|
+|**Tata Consultancy Services**|[EV Charging Cost Optimization](https://www.fastprep.io/problems/tata-consultancy-services-ev-charging-cost-optimization)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tata-consultancy-services-ev-charging-cost-optimization)|🔥 Sep 18, 2026|
+|**Amazon**|[Inventory Allocation](https://www.fastprep.io/problems/amazon-inventory-allocation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-inventory-allocation)|🔥 Sep 18, 2026|
 |**Waymo**|[Design Fleet Map Data Collection](https://www.fastprep.io/system-design/fleet-map-data-collection)|System design|[![Practice][p]](https://www.fastprep.io/system-design/fleet-map-data-collection)|🔥 Sep 18, 2026|
 |**New Relic**|[Design Long-Running Trace Event Grouping](https://www.fastprep.io/system-design/distributed-trace-event-grouping)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-trace-event-grouping)|🔥 Sep 18, 2026|
 |**Waymo**|[Obstacle-Aware Return to Origin](https://www.fastprep.io/problems/waymo-obstacle-aware-return-to-origin)|Coding|[![Practice][p]](https://www.fastprep.io/problems/waymo-obstacle-aware-return-to-origin)|🔥 Sep 18, 2026|
@@ -72,6 +76,7 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Amazon**|[Design an Employee Directory and Organization Hierarchy](https://www.fastprep.io/system-design/employee-directory-and-org-hierarchy)|System design|[![Practice][p]](https://www.fastprep.io/system-design/employee-directory-and-org-hierarchy)|🔥 Sep 18, 2026|
 |**JioStar**|[Design Streaming Home Personalization](https://www.fastprep.io/system-design/streaming-home-personalization)|System design|[![Practice][p]](https://www.fastprep.io/system-design/streaming-home-personalization)|🔥 Sep 18, 2026|
 |**JioStar**|[Design and Implement a Parameterized Configuration Library](https://www.fastprep.io/low-level-design/parameterized-configuration-library)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/parameterized-configuration-library)|🔥 Sep 18, 2026|
+|**Amazon**|[Minimum Stick Connection Cost](https://www.fastprep.io/problems/amazon-minimum-stick-connection-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-stick-connection-cost)|🔥 Sep 18, 2026|
 |**Capital One**|[Format a Newspaper Page](https://www.fastprep.io/problems/capital-one-format-newspaper-page)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-format-newspaper-page)|🔥 Sep 18, 2026|
 |**Capital One**|[Compare Counts Around Pivot](https://www.fastprep.io/problems/capital-one-compare-counts-around-pivot)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-compare-counts-around-pivot)|🔥 Sep 18, 2026|
 |**Capital One**|[Reconstruct Landmark Journey](https://www.fastprep.io/problems/capital-one-reconstruct-landmark-journey)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-reconstruct-landmark-journey)|🔥 Sep 18, 2026|
@@ -1528,7 +1533,6 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Amazon**|[Dynamic Kth Largest Queries](https://www.fastprep.io/problems/amazon-dynamic-kth-largest-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-dynamic-kth-largest-queries)|Apr 09, 2026|
 |**Amazon**|[Longest Zero Sum Subarray](https://www.fastprep.io/problems/amazon-longest-zero-sum-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-longest-zero-sum-subarray)|Apr 09, 2026|
 |**Amazon**|[Maximize Minimum Machine Power](https://www.fastprep.io/problems/amazon-maximize-minimum-machine-power)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-minimum-machine-power)|Apr 09, 2026|
-|**Amazon**|[Minimum Stick Connection Cost](https://www.fastprep.io/problems/amazon-minimum-stick-connection-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-stick-connection-cost)|Apr 09, 2026|
 |**Uber**|[Balanced Permutation Subarrays](https://www.fastprep.io/problems/uber-balanced-permutation-subarrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-balanced-permutation-subarrays)|Apr 09, 2026|
 |**Uber**|[Maximum Comfortable Riders](https://www.fastprep.io/problems/uber-maximum-comfortable-riders)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-maximum-comfortable-riders)|Apr 09, 2026|
 |**Uber**|[Palindrome Path Queries in a Tree](https://www.fastprep.io/problems/uber-palindrome-path-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-palindrome-path-queries)|Apr 09, 2026|
@@ -1717,8 +1721,4 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Salesforce**|[Integrity Score](https://www.fastprep.io/problems/salesforce-integrity-score)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-integrity-score)|Jul 08, 2025|
 |**Fortinet**|[Compute Checksum Aggregation](https://www.fastprep.io/problems/fortinet-compute-checksum-aggregation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fortinet-compute-checksum-aggregation)|Jul 08, 2025|
 |**Google**|[Minimum Swaps to Sort a Ternary Array After Updates](https://www.fastprep.io/problems/google-minimum-swaps-to-sort-ternary-array-after-updates)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-swaps-to-sort-ternary-array-after-updates)|Jul 05, 2025|
-|**Google**|[Count Subsequences Without Three Equal-Parity Elements in a Row](https://www.fastprep.io/problems/google-count-valid-parity-run-subsequences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-count-valid-parity-run-subsequences)|Jul 05, 2025|
-|**Fortinet**|[Madam C.J. Walker's Business Plan](https://www.fastprep.io/problems/fortinet-calculate-maximum-profit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fortinet-calculate-maximum-profit)|Jun 24, 2025|
-|**Fortinet**|[K-Means Clustering](https://www.fastprep.io/problems/fortinet-get-maximum-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fortinet-get-maximum-distance)|Jun 24, 2025|
-|**Fortinet**|[Signal Pings](https://www.fastprep.io/problems/fortinet-get-required-sweeps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fortinet-get-required-sweeps)|Jun 24, 2025|
 <a id="bottom"></a>
