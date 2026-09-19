@@ -39,6 +39,7 @@
 |**Capital One**|[Compare Counts Around Pivot](https://www.fastprep.io/problems/capital-one-compare-counts-around-pivot)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-compare-counts-around-pivot)|🔥 Sep 18, 2026|
 |**Capital One**|[Reconstruct Landmark Journey](https://www.fastprep.io/problems/capital-one-reconstruct-landmark-journey)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-reconstruct-landmark-journey)|🔥 Sep 18, 2026|
 |**Capital One**|[Linear Warehouse Drone Delivery](https://www.fastprep.io/problems/capital-one-linear-warehouse-drone-delivery)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-linear-warehouse-drone-delivery)|🔥 Sep 18, 2026|
+|**Two Sigma**|[Sewer Drainage Partition](https://www.fastprep.io/problems/twosigma-sewer-drainage-partition)|[![Practice][p]](https://www.fastprep.io/problems/twosigma-sewer-drainage-partition)|🔥 Sep 18, 2026|
 |**Citadel**|[Top Ten Trades by Notional Value](https://www.fastprep.io/problems/citadel-top-ten-trades-by-notional)|[![Practice][p]](https://www.fastprep.io/problems/citadel-top-ten-trades-by-notional)|🔥 Sep 17, 2026|
 |**Citadel**|[Reconcile Unmatched Trades with Timestamp Tolerance](https://www.fastprep.io/problems/citadel-reconcile-unmatched-trades)|[![Practice][p]](https://www.fastprep.io/problems/citadel-reconcile-unmatched-trades)|🔥 Sep 17, 2026|
 |**Uber**|[First Unique IP Hitting the Server](https://www.fastprep.io/problems/uber-first-unique-ip-hitting-server)|[![Practice][p]](https://www.fastprep.io/problems/uber-first-unique-ip-hitting-server)|🔥 Sep 17, 2026|
@@ -1056,7 +1057,6 @@
 |**Microsoft**|[Visible Profiles Count](https://www.fastprep.io/problems/microsoft-visible-profiles-count)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-visible-profiles-count)|Mar 21, 2026|
 |**Swiggy**|[First and Last Occurrence](https://www.fastprep.io/problems/swiggy-first-and-last-occurrence)|[![Practice][p]](https://www.fastprep.io/problems/swiggy-first-and-last-occurrence)|Mar 20, 2026|
 |**TCS**|[Gym Fees Calculator](https://www.fastprep.io/problems/tcs-gym-fees-calculator)|[![Practice][p]](https://www.fastprep.io/problems/tcs-gym-fees-calculator)|Mar 20, 2026|
-|**Two Sigma**|[Sewer Drainage Partition](https://www.fastprep.io/problems/twosigma-sewer-drainage-partition)|[![Practice][p]](https://www.fastprep.io/problems/twosigma-sewer-drainage-partition)|Mar 18, 2026|
 |**Salesforce**|[Key Teams in Tree](https://www.fastprep.io/problems/salesforce-key-teams-in-tree)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-key-teams-in-tree)|Mar 15, 2026|
 |**Salesforce**|[System Energy Reduction](https://www.fastprep.io/problems/salesforce-system-energy-reduction)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-system-energy-reduction)|Mar 15, 2026|
 |**Salesforce**|[Update Logs by Symmetric XOR](https://www.fastprep.io/problems/salesforce-update-logs-by-symmetric-xor)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-update-logs-by-symmetric-xor)|Mar 15, 2026|
