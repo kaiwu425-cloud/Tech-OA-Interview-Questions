@@ -35,6 +35,10 @@
 |**Instacart**|[Product Total With the Cheapest Promotion](https://www.fastprep.io/problems/instacart-product-total-with-cheapest-promotion)|[![Practice][p]](https://www.fastprep.io/problems/instacart-product-total-with-cheapest-promotion)|🔥 Sep 18, 2026|
 |**Amazon**|[Course Order and Cycle](https://www.fastprep.io/problems/amazon-course-order-and-cycle)|[![Practice][p]](https://www.fastprep.io/problems/amazon-course-order-and-cycle)|🔥 Sep 18, 2026|
 |**Rippling**|[Corporate Card Expense Rules](https://www.fastprep.io/problems/rippling-corporate-card-rules-engine)|[![Practice][p]](https://www.fastprep.io/problems/rippling-corporate-card-rules-engine)|🔥 Sep 18, 2026|
+|**Capital One**|[Format a Newspaper Page](https://www.fastprep.io/problems/capital-one-format-newspaper-page)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-format-newspaper-page)|🔥 Sep 18, 2026|
+|**Capital One**|[Compare Counts Around Pivot](https://www.fastprep.io/problems/capital-one-compare-counts-around-pivot)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-compare-counts-around-pivot)|🔥 Sep 18, 2026|
+|**Capital One**|[Reconstruct Landmark Journey](https://www.fastprep.io/problems/capital-one-reconstruct-landmark-journey)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-reconstruct-landmark-journey)|🔥 Sep 18, 2026|
+|**Capital One**|[Linear Warehouse Drone Delivery](https://www.fastprep.io/problems/capital-one-linear-warehouse-drone-delivery)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-linear-warehouse-drone-delivery)|🔥 Sep 18, 2026|
 |**Citadel**|[Top Ten Trades by Notional Value](https://www.fastprep.io/problems/citadel-top-ten-trades-by-notional)|[![Practice][p]](https://www.fastprep.io/problems/citadel-top-ten-trades-by-notional)|🔥 Sep 17, 2026|
 |**Citadel**|[Reconcile Unmatched Trades with Timestamp Tolerance](https://www.fastprep.io/problems/citadel-reconcile-unmatched-trades)|[![Practice][p]](https://www.fastprep.io/problems/citadel-reconcile-unmatched-trades)|🔥 Sep 17, 2026|
 |**Uber**|[First Unique IP Hitting the Server](https://www.fastprep.io/problems/uber-first-unique-ip-hitting-server)|[![Practice][p]](https://www.fastprep.io/problems/uber-first-unique-ip-hitting-server)|🔥 Sep 17, 2026|
@@ -722,13 +726,10 @@
 |**Airbnb**|[Robot Final Direction](https://www.fastprep.io/problems/airbnb-robot-final-direction)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-robot-final-direction)|Jul 20, 2026|
 |**Airbnb**|[Robot Inventory Tracking](https://www.fastprep.io/problems/airbnb-robot-inventory-tracking)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-robot-inventory-tracking)|Jul 20, 2026|
 |**Akuna**|[Communications Handler](https://www.fastprep.io/problems/akuna-communications-handler)|[![Practice][p]](https://www.fastprep.io/problems/akuna-communications-handler)|Jul 20, 2026|
-|**Capital One**|[Format a Newspaper Page](https://www.fastprep.io/problems/capital-one-format-newspaper-page)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-format-newspaper-page)|Jul 20, 2026|
 |**Akuna**|[Maximum K-Star Sum](https://www.fastprep.io/problems/akuna-maximum-k-star-sum)|[![Practice][p]](https://www.fastprep.io/problems/akuna-maximum-k-star-sum)|Jul 20, 2026|
 |**Microsoft**|[Maximum Pipeline Throughput](https://www.fastprep.io/problems/microsoft-maximum-pipeline-throughput)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximum-pipeline-throughput)|Jul 20, 2026|
 |**Microsoft**|[Maximum Strong Team Subarray](https://www.fastprep.io/problems/microsoft-maximum-strong-team-subarray)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximum-strong-team-subarray)|Jul 20, 2026|
 |**PhonePe**|[Luna and the Colorful Socks](https://www.fastprep.io/problems/phonepe-colorful-socks)|[![Practice][p]](https://www.fastprep.io/problems/phonepe-colorful-socks)|Jul 20, 2026|
-|**Capital One**|[Compare Counts Around Pivot](https://www.fastprep.io/problems/capital-one-compare-counts-around-pivot)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-compare-counts-around-pivot)|Jul 20, 2026|
-|**Capital One**|[Reconstruct Landmark Journey](https://www.fastprep.io/problems/capital-one-reconstruct-landmark-journey)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-reconstruct-landmark-journey)|Jul 20, 2026|
 |**Capital One**|[Alternate String Ends](https://www.fastprep.io/problems/capital-one-alternating-string-ends)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-alternating-string-ends)|Jul 19, 2026|
 |**Capital One**|[Sort Every Matrix Border Layer](https://www.fastprep.io/problems/capital-one-sort-matrix-border-layers)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-sort-matrix-border-layers)|Jul 19, 2026|
 |**Waymo**|[Average or Zero](https://www.fastprep.io/problems/waymo-average-or-zero)|[![Practice][p]](https://www.fastprep.io/problems/waymo-average-or-zero)|Jul 19, 2026|
@@ -917,7 +918,6 @@
 |**Goldman Sachs**|[Valid Binary Prefix](https://www.fastprep.io/problems/goldman-valid-binary-prefix)|[![Practice][p]](https://www.fastprep.io/problems/goldman-valid-binary-prefix)|Jun 29, 2026|
 |**Expedia**|[Maximum Team Size](https://www.fastprep.io/problems/expedia-maximum-team-size)|[![Practice][p]](https://www.fastprep.io/problems/expedia-maximum-team-size)|Jun 29, 2026|
 |**SeekOut**|[Merge Intervals](https://www.fastprep.io/problems/seekout-merge-intervals)|[![Practice][p]](https://www.fastprep.io/problems/seekout-merge-intervals)|Jun 27, 2026|
-|**Capital One**|[Linear Warehouse Drone Delivery](https://www.fastprep.io/problems/capital-one-linear-warehouse-drone-delivery)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-linear-warehouse-drone-delivery)|Jun 26, 2026|
 |**Amazon**|[Find Minimum Groups](https://www.fastprep.io/problems/amazon-find-minimum-groups)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-groups)|Jun 24, 2026|
 |**Snowflake**|[Drawing Edge](https://www.fastprep.io/problems/snowflake-drawing-edge)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-drawing-edge)|Jun 24, 2026|
 |**Microsoft**|[Programmer Strings](https://www.fastprep.io/problems/microsoft-programmer-strings)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-programmer-strings)|Jun 24, 2026|
