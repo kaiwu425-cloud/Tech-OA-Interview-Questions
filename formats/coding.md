@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**2,131 questions**
+**2,135 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -584,6 +584,7 @@
 |**Infosys**|[Count Valid A-B-C Sequences Under a Modulo-Four Rule](https://www.fastprep.io/problems/infosys-count-valid-abc-sequences-mod-four)|[![Practice][p]](https://www.fastprep.io/problems/infosys-count-valid-abc-sequences-mod-four)|Aug 02, 2026|
 |**Infosys**|[Maximum Product of a Strictly Increasing Contiguous Subarray](https://www.fastprep.io/problems/infosys-maximum-product-increasing-subarray)|[![Practice][p]](https://www.fastprep.io/problems/infosys-maximum-product-increasing-subarray)|Aug 02, 2026|
 |**Infosys**|[Minimum Cost to Assign Candidates to Two Cities](https://www.fastprep.io/problems/infosys-two-city-candidate-assignment-cost)|[![Practice][p]](https://www.fastprep.io/problems/infosys-two-city-candidate-assignment-cost)|Aug 02, 2026|
+|**Adobe**|[Minimum Snapshots for a Version Tree](https://www.fastprep.io/problems/adobe-snapshot-budget)|[![Practice][p]](https://www.fastprep.io/problems/adobe-snapshot-budget)|Jul 31, 2026|
 |**Superhuman**|[Reverse a Singly Linked List](https://www.fastprep.io/problems/superhuman-reverse-linked-list)|[![Practice][p]](https://www.fastprep.io/problems/superhuman-reverse-linked-list)|Jul 31, 2026|
 |**Superhuman**|[Recover a Tree from Preorder Depth Encoding](https://www.fastprep.io/problems/superhuman-recover-tree-from-preorder-depth)|[![Practice][p]](https://www.fastprep.io/problems/superhuman-recover-tree-from-preorder-depth)|Jul 31, 2026|
 |**Superhuman**|[Deep Copy a Singly Linked List](https://www.fastprep.io/problems/superhuman-deep-copy-linked-list)|[![Practice][p]](https://www.fastprep.io/problems/superhuman-deep-copy-linked-list)|Jul 31, 2026|
@@ -1060,6 +1061,9 @@
 |**Salesforce**|[System Energy Reduction](https://www.fastprep.io/problems/salesforce-system-energy-reduction)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-system-energy-reduction)|Mar 15, 2026|
 |**Salesforce**|[Update Logs by Symmetric XOR](https://www.fastprep.io/problems/salesforce-update-logs-by-symmetric-xor)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-update-logs-by-symmetric-xor)|Mar 15, 2026|
 |**FlexTrade**|[Reverse a String](https://www.fastprep.io/problems/flextrade-reverse-string)|[![Practice][p]](https://www.fastprep.io/problems/flextrade-reverse-string)|Mar 14, 2026|
+|**Adobe**|[Closest Number Pairs](https://www.fastprep.io/problems/adobe-closest-number-pairs)|[![Practice][p]](https://www.fastprep.io/problems/adobe-closest-number-pairs)|Mar 12, 2026|
+|**Adobe**|[Maximum Reachable Value Within a Step Budget](https://www.fastprep.io/problems/adobe-maximum-reachable-value)|[![Practice][p]](https://www.fastprep.io/problems/adobe-maximum-reachable-value)|Mar 12, 2026|
+|**Adobe**|[Count Distinct Fixed-Length Substrings](https://www.fastprep.io/problems/adobe-count-distinct-fixed-length-substrings)|[![Practice][p]](https://www.fastprep.io/problems/adobe-count-distinct-fixed-length-substrings)|Mar 12, 2026|
 |**Salesforce**|[Count Palindromic Concatenation Pairs](https://www.fastprep.io/problems/salesforce-count-palindromic-concatenation-pairs)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-count-palindromic-concatenation-pairs)|Mar 02, 2026|
 |**Google**|[All Long Subsequences Are Dictionary Words](https://www.fastprep.io/problems/google-all-long-subsequences-are-words)|[![Practice][p]](https://www.fastprep.io/problems/google-all-long-subsequences-are-words)|Feb 28, 2026|
 |**Google**|[Frequency-Weighted Next-Word Sampling](https://www.fastprep.io/problems/google-frequency-weighted-next-word-sampling)|[![Practice][p]](https://www.fastprep.io/problems/google-frequency-weighted-next-word-sampling)|Feb 28, 2026|
@@ -1897,9 +1901,4 @@
 |**Amazon**|[Count Faults (Faulty Binding 101 😁)](https://www.fastprep.io/problems/amazon-count-faults)|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-faults)|Mar 19, 2024|
 |**Amazon**|[Find Max Num](https://www.fastprep.io/problems/amazon-find-maximum-num)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-maximum-num)|Mar 19, 2024|
 |**Wolverine Trading**|[Count Operations](https://www.fastprep.io/problems/wolverine-trading-count-operations)|[![Practice][p]](https://www.fastprep.io/problems/wolverine-trading-count-operations)|Mar 19, 2024|
-|**Wolverine Trading**|[Encode](https://www.fastprep.io/problems/wolverine-trading-decode)|[![Practice][p]](https://www.fastprep.io/problems/wolverine-trading-decode)|Mar 19, 2024|
-|**Wolverine Trading**|[Max Shared](https://www.fastprep.io/problems/wolverine-trading-max-shared)|[![Practice][p]](https://www.fastprep.io/problems/wolverine-trading-max-shared)|Mar 19, 2024|
-|**Amazon**|[Minimize Sum of Absolute Differences](https://www.fastprep.io/problems/amazon-minimize-sum-of-absolute-differences)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimize-sum-of-absolute-differences)|Mar 18, 2024|
-|**DoorDash**|[Adjust Prices](https://www.fastprep.io/problems/doordash-adjust-prices)|[![Practice][p]](https://www.fastprep.io/problems/doordash-adjust-prices)|Mar 18, 2024|
-|**Two Sigma**|[Num to Be Divided by N](https://www.fastprep.io/problems/ts-nums-that-can-be-divided-by-n)|[![Practice][p]](https://www.fastprep.io/problems/ts-nums-that-can-be-divided-by-n)|Mar 18, 2024|
 <a id="bottom"></a>

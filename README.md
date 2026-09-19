@@ -23,7 +23,7 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,131)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (348)](formats/system-design.md) · [Low-level design (92)](formats/low-level-design.md) · [AI coding (42)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,135)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (348)](formats/system-design.md) · [Low-level design (92)](formats/low-level-design.md) · [AI coding (42)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -980,6 +980,7 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Scale AI**|[Design an Embedding and Classification API](https://www.fastprep.io/system-design/embedding-and-classification-api)|System design|[![Practice][p]](https://www.fastprep.io/system-design/embedding-and-classification-api)|Aug 01, 2026|
 |**Apple**|[Design an Online Voting Service](https://www.fastprep.io/system-design/online-voting-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/online-voting-service)|Aug 01, 2026|
 |**Scale AI**|[Build a CSV-to-JSON LLM Categorization Service](https://www.fastprep.io/project-coding/scale-csv-json-llm-categorization-service)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-csv-json-llm-categorization-service)|Aug 01, 2026|
+|**Adobe**|[Minimum Snapshots for a Version Tree](https://www.fastprep.io/problems/adobe-snapshot-budget)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adobe-snapshot-budget)|Jul 31, 2026|
 |**Superhuman**|[Reverse a Singly Linked List](https://www.fastprep.io/problems/superhuman-reverse-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/superhuman-reverse-linked-list)|Jul 31, 2026|
 |**Superhuman**|[Recover a Tree from Preorder Depth Encoding](https://www.fastprep.io/problems/superhuman-recover-tree-from-preorder-depth)|Coding|[![Practice][p]](https://www.fastprep.io/problems/superhuman-recover-tree-from-preorder-depth)|Jul 31, 2026|
 |**Superhuman**|[Deep Copy a Singly Linked List](https://www.fastprep.io/problems/superhuman-deep-copy-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/superhuman-deep-copy-linked-list)|Jul 31, 2026|
@@ -1552,6 +1553,9 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Salesforce**|[System Energy Reduction](https://www.fastprep.io/problems/salesforce-system-energy-reduction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-system-energy-reduction)|Mar 15, 2026|
 |**Salesforce**|[Update Logs by Symmetric XOR](https://www.fastprep.io/problems/salesforce-update-logs-by-symmetric-xor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-update-logs-by-symmetric-xor)|Mar 15, 2026|
 |**FlexTrade**|[Reverse a String](https://www.fastprep.io/problems/flextrade-reverse-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flextrade-reverse-string)|Mar 14, 2026|
+|**Adobe**|[Closest Number Pairs](https://www.fastprep.io/problems/adobe-closest-number-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adobe-closest-number-pairs)|Mar 12, 2026|
+|**Adobe**|[Maximum Reachable Value Within a Step Budget](https://www.fastprep.io/problems/adobe-maximum-reachable-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adobe-maximum-reachable-value)|Mar 12, 2026|
+|**Adobe**|[Count Distinct Fixed-Length Substrings](https://www.fastprep.io/problems/adobe-count-distinct-fixed-length-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adobe-count-distinct-fixed-length-substrings)|Mar 12, 2026|
 |**Salesforce**|[Count Palindromic Concatenation Pairs](https://www.fastprep.io/problems/salesforce-count-palindromic-concatenation-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-count-palindromic-concatenation-pairs)|Mar 02, 2026|
 |**Google**|[All Long Subsequences Are Dictionary Words](https://www.fastprep.io/problems/google-all-long-subsequences-are-words)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-all-long-subsequences-are-words)|Feb 28, 2026|
 |**Google**|[Frequency-Weighted Next-Word Sampling](https://www.fastprep.io/problems/google-frequency-weighted-next-word-sampling)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-frequency-weighted-next-word-sampling)|Feb 28, 2026|
@@ -1719,8 +1723,4 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Amazon**|[Find Security Level](https://www.fastprep.io/problems/amazon-find-security-level)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-security-level)|Jun 18, 2025|
 |**Amazon**|[Minimize Variation](https://www.fastprep.io/problems/amazon-minimize-variation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimize-variation)|Jun 18, 2025|
 |**JP Morgan**|[Calculate Net Profit](https://www.fastprep.io/problems/jpmorgan-calculate-net-profit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-calculate-net-profit)|Jun 18, 2025|
-|**JP Morgan**|[Balanced Sum](https://www.fastprep.io/problems/jpmorgan-balanced-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-balanced-sum)|Jun 18, 2025|
-|**JP Morgan**|[Get Min Operations](https://www.fastprep.io/problems/jpmorgan-get-min-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-min-operations)|Jun 18, 2025|
-|**JP Morgan**|[Get Search Result](https://www.fastprep.io/problems/jpmorgan-get-search-results)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-search-results)|Jun 18, 2025|
-|**JP Morgan**|[One Substring Count](https://www.fastprep.io/problems/jpmorgan-one-substring-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-one-substring-count)|Jun 18, 2025|
 <a id="bottom"></a>
