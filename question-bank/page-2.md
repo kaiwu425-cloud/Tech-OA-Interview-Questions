@@ -9,6 +9,14 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Box**|[Retention Policy Collision](https://www.fastprep.io/problems/box-find-remaining-policies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/box-find-remaining-policies)|Jun 24, 2025|
+|**Box**|[Counterfeit Currency](https://www.fastprep.io/problems/box-count-counterfeit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/box-count-counterfeit)|Jun 24, 2025|
+|**Box**|[Box Fro~yo](https://www.fastprep.io/problems/box-flavor-changer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/box-flavor-changer)|Jun 24, 2025|
+|**Amazon**|[Predict Answer](https://www.fastprep.io/problems/amazon-predict-answer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-predict-answer)|Jun 23, 2025|
+|**Amazon**|[Get Min Subsegments](https://www.fastprep.io/problems/amazon-get-min-subsegments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-subsegments)|Jun 18, 2025|
+|**Amazon**|[Find Security Level](https://www.fastprep.io/problems/amazon-find-security-level)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-security-level)|Jun 18, 2025|
+|**Amazon**|[Minimize Variation](https://www.fastprep.io/problems/amazon-minimize-variation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimize-variation)|Jun 18, 2025|
+|**JP Morgan**|[Calculate Net Profit](https://www.fastprep.io/problems/jpmorgan-calculate-net-profit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-calculate-net-profit)|Jun 18, 2025|
 |**JP Morgan**|[Balanced Sum](https://www.fastprep.io/problems/jpmorgan-balanced-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-balanced-sum)|Jun 18, 2025|
 |**JP Morgan**|[Get Min Operations](https://www.fastprep.io/problems/jpmorgan-get-min-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-min-operations)|Jun 18, 2025|
 |**JP Morgan**|[Get Search Result](https://www.fastprep.io/problems/jpmorgan-get-search-results)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-search-results)|Jun 18, 2025|

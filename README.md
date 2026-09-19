@@ -23,7 +23,7 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,135)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (348)](formats/system-design.md) · [Low-level design (92)](formats/low-level-design.md) · [AI coding (42)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,141)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (348)](formats/system-design.md) · [Low-level design (92)](formats/low-level-design.md) · [AI coding (42)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -895,6 +895,8 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Spotify**|[Design a Personalized Session Playlist Ranking System](https://www.fastprep.io/system-design/personalized-session-playlist-ranking)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-session-playlist-ranking)|🆕 Aug 14, 2026|
 |**Wells Fargo**|[Cursor-Paginated Records Service](https://www.fastprep.io/system-design/cursor-paginated-records-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cursor-paginated-records-service)|🆕 Aug 14, 2026|
 |**Rippling**|[Delivery Cost Tracker](https://www.fastprep.io/problems/rippling-delivery-cost-tracker)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-delivery-cost-tracker)|🆕 Aug 14, 2026|
+|**Adobe**|[Count Parent Nodes With a Target Sum](https://www.fastprep.io/problems/adobe-count-parent-nodes-with-target-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adobe-count-parent-nodes-with-target-sum)|🆕 Aug 14, 2026|
+|**Adobe**|[Largest Binary Number by Concatenation](https://www.fastprep.io/problems/adobe-largest-binary-number-by-concatenation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adobe-largest-binary-number-by-concatenation)|🆕 Aug 14, 2026|
 |**Anthropic**|[Design Peer-to-Peer Model Distribution](https://www.fastprep.io/system-design/peer-to-peer-model-distribution)|System design|[![Practice][p]](https://www.fastprep.io/system-design/peer-to-peer-model-distribution)|🆕 Aug 13, 2026|
 |**OpenAI**|[Design a Distributed Crossword Solver](https://www.fastprep.io/system-design/distributed-crossword-solver-orchestration)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-crossword-solver-orchestration)|🆕 Aug 13, 2026|
 |**Meta**|[Design a Multimodal Public-Content Safety Platform](https://www.fastprep.io/system-design/multimodal-public-content-safety-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multimodal-public-content-safety-platform)|🆕 Aug 13, 2026|
@@ -931,6 +933,10 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**IBM**|[Count Digit Holes](https://www.fastprep.io/problems/ibm-count-digit-holes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-digit-holes)|🆕 Aug 09, 2026|
 |**Adobe**|[Design Infinite Scroll for Mutable Data](https://www.fastprep.io/low-level-design/adobe-mutable-infinite-scroll)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/adobe-mutable-infinite-scroll)|🆕 Aug 09, 2026|
 |**Adobe**|[Design a Promotion Display Decision Engine](https://www.fastprep.io/low-level-design/promotion-display-decision-engine)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/promotion-display-decision-engine)|🆕 Aug 09, 2026|
+|**Adobe**|[Minimum Numeric Code Transformation](https://www.fastprep.io/problems/adobe-minimum-numeric-code-transformation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adobe-minimum-numeric-code-transformation)|🆕 Aug 09, 2026|
+|**Adobe**|[K-th Ancestor Subtree Preorder Query](https://www.fastprep.io/problems/adobe-kth-ancestor-subtree-preorder)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adobe-kth-ancestor-subtree-preorder)|🆕 Aug 09, 2026|
+|**Adobe**|[Number-Character Bijective Mapping](https://www.fastprep.io/problems/adobe-number-character-bijective-mapping)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adobe-number-character-bijective-mapping)|🆕 Aug 09, 2026|
+|**Adobe**|[Trapped Characters in a Grid](https://www.fastprep.io/problems/adobe-trapped-characters-in-grid)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adobe-trapped-characters-in-grid)|🆕 Aug 09, 2026|
 |**Zoox**|[Design a Real-Time Fleet Location Display](https://www.fastprep.io/system-design/real-time-fleet-location-display)|System design|[![Practice][p]](https://www.fastprep.io/system-design/real-time-fleet-location-display)|🆕 Aug 07, 2026|
 |**Figma**|[Design Trending Design Files](https://www.fastprep.io/system-design/trending-design-files)|System design|[![Practice][p]](https://www.fastprep.io/system-design/trending-design-files)|🆕 Aug 07, 2026|
 |**Anthropic**|[Repair an Agent and Reduce Its Turn Count](https://www.fastprep.io/project-coding/anthropic-agent-turn-reduction)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-agent-turn-reduction)|🆕 Aug 06, 2026|
@@ -1715,12 +1721,4 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Fortinet**|[Madam C.J. Walker's Business Plan](https://www.fastprep.io/problems/fortinet-calculate-maximum-profit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fortinet-calculate-maximum-profit)|Jun 24, 2025|
 |**Fortinet**|[K-Means Clustering](https://www.fastprep.io/problems/fortinet-get-maximum-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fortinet-get-maximum-distance)|Jun 24, 2025|
 |**Fortinet**|[Signal Pings](https://www.fastprep.io/problems/fortinet-get-required-sweeps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fortinet-get-required-sweeps)|Jun 24, 2025|
-|**Box**|[Retention Policy Collision](https://www.fastprep.io/problems/box-find-remaining-policies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/box-find-remaining-policies)|Jun 24, 2025|
-|**Box**|[Counterfeit Currency](https://www.fastprep.io/problems/box-count-counterfeit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/box-count-counterfeit)|Jun 24, 2025|
-|**Box**|[Box Fro~yo](https://www.fastprep.io/problems/box-flavor-changer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/box-flavor-changer)|Jun 24, 2025|
-|**Amazon**|[Predict Answer](https://www.fastprep.io/problems/amazon-predict-answer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-predict-answer)|Jun 23, 2025|
-|**Amazon**|[Get Min Subsegments](https://www.fastprep.io/problems/amazon-get-min-subsegments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-subsegments)|Jun 18, 2025|
-|**Amazon**|[Find Security Level](https://www.fastprep.io/problems/amazon-find-security-level)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-security-level)|Jun 18, 2025|
-|**Amazon**|[Minimize Variation](https://www.fastprep.io/problems/amazon-minimize-variation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimize-variation)|Jun 18, 2025|
-|**JP Morgan**|[Calculate Net Profit](https://www.fastprep.io/problems/jpmorgan-calculate-net-profit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-calculate-net-profit)|Jun 18, 2025|
 <a id="bottom"></a>

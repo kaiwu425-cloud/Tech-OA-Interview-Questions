@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**2,135 questions**
+**2,141 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -561,11 +561,17 @@
 |**IBM**|[Count Invalid Log Groups](https://www.fastprep.io/problems/ibm-count-invalid-log-groups)|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-invalid-log-groups)|🆕 Aug 18, 2026|
 |**IBM**|[Count Paginated Medical Records in a Range](https://www.fastprep.io/problems/ibm-count-paginated-medical-records-in-range)|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-paginated-medical-records-in-range)|🆕 Aug 18, 2026|
 |**Rippling**|[Delivery Cost Tracker](https://www.fastprep.io/problems/rippling-delivery-cost-tracker)|[![Practice][p]](https://www.fastprep.io/problems/rippling-delivery-cost-tracker)|🆕 Aug 14, 2026|
+|**Adobe**|[Count Parent Nodes With a Target Sum](https://www.fastprep.io/problems/adobe-count-parent-nodes-with-target-sum)|[![Practice][p]](https://www.fastprep.io/problems/adobe-count-parent-nodes-with-target-sum)|🆕 Aug 14, 2026|
+|**Adobe**|[Largest Binary Number by Concatenation](https://www.fastprep.io/problems/adobe-largest-binary-number-by-concatenation)|[![Practice][p]](https://www.fastprep.io/problems/adobe-largest-binary-number-by-concatenation)|🆕 Aug 14, 2026|
 |**IMC**|[Rock Jumping](https://www.fastprep.io/problems/imc-rock-jumping)|[![Practice][p]](https://www.fastprep.io/problems/imc-rock-jumping)|🆕 Aug 13, 2026|
 |**IMC**|[Stack Batch Removal](https://www.fastprep.io/problems/imc-stack-batch-removal)|[![Practice][p]](https://www.fastprep.io/problems/imc-stack-batch-removal)|🆕 Aug 13, 2026|
 |**Adobe**|[Hall of Shifting Tiles](https://www.fastprep.io/problems/adobe-hall-of-shifting-tiles)|[![Practice][p]](https://www.fastprep.io/problems/adobe-hall-of-shifting-tiles)|🆕 Aug 09, 2026|
 |**IBM**|[Maximize Consecutive XOR](https://www.fastprep.io/problems/ibm-maximize-consecutive-xor)|[![Practice][p]](https://www.fastprep.io/problems/ibm-maximize-consecutive-xor)|🆕 Aug 09, 2026|
 |**IBM**|[Count Digit Holes](https://www.fastprep.io/problems/ibm-count-digit-holes)|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-digit-holes)|🆕 Aug 09, 2026|
+|**Adobe**|[Minimum Numeric Code Transformation](https://www.fastprep.io/problems/adobe-minimum-numeric-code-transformation)|[![Practice][p]](https://www.fastprep.io/problems/adobe-minimum-numeric-code-transformation)|🆕 Aug 09, 2026|
+|**Adobe**|[K-th Ancestor Subtree Preorder Query](https://www.fastprep.io/problems/adobe-kth-ancestor-subtree-preorder)|[![Practice][p]](https://www.fastprep.io/problems/adobe-kth-ancestor-subtree-preorder)|🆕 Aug 09, 2026|
+|**Adobe**|[Number-Character Bijective Mapping](https://www.fastprep.io/problems/adobe-number-character-bijective-mapping)|[![Practice][p]](https://www.fastprep.io/problems/adobe-number-character-bijective-mapping)|🆕 Aug 09, 2026|
+|**Adobe**|[Trapped Characters in a Grid](https://www.fastprep.io/problems/adobe-trapped-characters-in-grid)|[![Practice][p]](https://www.fastprep.io/problems/adobe-trapped-characters-in-grid)|🆕 Aug 09, 2026|
 |**TikTok**|[Distribution Center Package Allocation](https://www.fastprep.io/problems/tiktok-distribution-center-package-allocation)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-distribution-center-package-allocation)|🆕 Aug 05, 2026|
 |**TikTok**|[Concatenate Digit-wise Sums](https://www.fastprep.io/problems/tiktok-concatenate-digit-wise-sums)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-concatenate-digit-wise-sums)|🆕 Aug 05, 2026|
 |**TikTok**|[Count 2x2 Submatrices by Black Cells](https://www.fastprep.io/problems/tiktok-count-black-blocks)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-black-blocks)|🆕 Aug 05, 2026|
@@ -1893,12 +1899,4 @@
 |**Trade Desk**|[Friend List](https://www.fastprep.io/problems/tdesk-friend-list)|[![Practice][p]](https://www.fastprep.io/problems/tdesk-friend-list)|Mar 21, 2024|
 |**DoorDash**|[Find Different Value](https://www.fastprep.io/problems/doordash-find-difference-value)|[![Practice][p]](https://www.fastprep.io/problems/doordash-find-difference-value)|Mar 20, 2024|
 |**IBM**|[Elementary School](https://www.fastprep.io/problems/ibm-elementary-school)|[![Practice][p]](https://www.fastprep.io/problems/ibm-elementary-school)|Mar 20, 2024|
-|**Goldman Sachs**|[Find Niceness](https://www.fastprep.io/problems/goldman-find-niceness)|[![Practice][p]](https://www.fastprep.io/problems/goldman-find-niceness)|Mar 20, 2024|
-|**IXL Learning**|[Card Packets](https://www.fastprep.io/problems/ixl-card-packets)|[![Practice][p]](https://www.fastprep.io/problems/ixl-card-packets)|Mar 20, 2024|
-|**IXL Learning**|[Count Max](https://www.fastprep.io/problems/ixl-count-max)|[![Practice][p]](https://www.fastprep.io/problems/ixl-count-max)|Mar 20, 2024|
-|**IXL Learning**|[Get Min Difference](https://www.fastprep.io/problems/ixl-get-minimum-difference)|[![Practice][p]](https://www.fastprep.io/problems/ixl-get-minimum-difference)|Mar 20, 2024|
-|**IXL Learning**|[Prison](https://www.fastprep.io/problems/ixl-prison)|[![Practice][p]](https://www.fastprep.io/problems/ixl-prison)|Mar 20, 2024|
-|**Amazon**|[Count Faults (Faulty Binding 101 😁)](https://www.fastprep.io/problems/amazon-count-faults)|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-faults)|Mar 19, 2024|
-|**Amazon**|[Find Max Num](https://www.fastprep.io/problems/amazon-find-maximum-num)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-maximum-num)|Mar 19, 2024|
-|**Wolverine Trading**|[Count Operations](https://www.fastprep.io/problems/wolverine-trading-count-operations)|[![Practice][p]](https://www.fastprep.io/problems/wolverine-trading-count-operations)|Mar 19, 2024|
 <a id="bottom"></a>
