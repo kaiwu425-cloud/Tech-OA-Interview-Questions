@@ -23,7 +23,7 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,136)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (348)](formats/system-design.md) · [Low-level design (92)](formats/low-level-design.md) · [AI coding (42)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,135)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (348)](formats/system-design.md) · [Low-level design (92)](formats/low-level-design.md) · [AI coding (42)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -37,7 +37,6 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Stripe**|[Incident Monitor](https://www.fastprep.io/problems/stripe-incident-monitor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-incident-monitor)|🔥 Sep 19, 2026|
 |**Waymo**|[Design Fleet Map Data Collection](https://www.fastprep.io/system-design/fleet-map-data-collection)|System design|[![Practice][p]](https://www.fastprep.io/system-design/fleet-map-data-collection)|🔥 Sep 18, 2026|
 |**New Relic**|[Design Long-Running Trace Event Grouping](https://www.fastprep.io/system-design/distributed-trace-event-grouping)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-trace-event-grouping)|🔥 Sep 18, 2026|
-|**Microsoft**|[Minimum Edge Reversals for Every Root](https://www.fastprep.io/problems/microsoft-minimum-edge-reversals-for-every-root)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-edge-reversals-for-every-root)|🔥 Sep 18, 2026|
 |**Waymo**|[Obstacle-Aware Return to Origin](https://www.fastprep.io/problems/waymo-obstacle-aware-return-to-origin)|Coding|[![Practice][p]](https://www.fastprep.io/problems/waymo-obstacle-aware-return-to-origin)|🔥 Sep 18, 2026|
 |**Waymo**|[Dictionary Matches from Repeated Letters](https://www.fastprep.io/problems/waymo-repeated-letter-dictionary-matches)|Coding|[![Practice][p]](https://www.fastprep.io/problems/waymo-repeated-letter-dictionary-matches)|🔥 Sep 18, 2026|
 |**DoorDash / Robinhood / Snowflake / Postman / Figma / LinkedIn / Airbnb / Nextdoor / Decagon / Amazon**|[Design a Scheduled Job Execution System](https://www.fastprep.io/system-design/scheduled-job-execution-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/scheduled-job-execution-system)|🔥 Sep 18, 2026|
@@ -1722,4 +1721,6 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Amazon**|[Predict Answer](https://www.fastprep.io/problems/amazon-predict-answer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-predict-answer)|Jun 23, 2025|
 |**Amazon**|[Get Min Subsegments](https://www.fastprep.io/problems/amazon-get-min-subsegments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-subsegments)|Jun 18, 2025|
 |**Amazon**|[Find Security Level](https://www.fastprep.io/problems/amazon-find-security-level)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-security-level)|Jun 18, 2025|
+|**Amazon**|[Minimize Variation](https://www.fastprep.io/problems/amazon-minimize-variation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimize-variation)|Jun 18, 2025|
+|**JP Morgan**|[Calculate Net Profit](https://www.fastprep.io/problems/jpmorgan-calculate-net-profit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-calculate-net-profit)|Jun 18, 2025|
 <a id="bottom"></a>

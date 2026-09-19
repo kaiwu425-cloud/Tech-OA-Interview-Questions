@@ -2,14 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**2,136 questions**
+**2,135 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
 |**Stripe**|[Incident Monitor](https://www.fastprep.io/problems/stripe-incident-monitor)|[![Practice][p]](https://www.fastprep.io/problems/stripe-incident-monitor)|🔥 Sep 19, 2026|
-|**Microsoft**|[Minimum Edge Reversals for Every Root](https://www.fastprep.io/problems/microsoft-minimum-edge-reversals-for-every-root)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-edge-reversals-for-every-root)|🔥 Sep 18, 2026|
 |**Waymo**|[Obstacle-Aware Return to Origin](https://www.fastprep.io/problems/waymo-obstacle-aware-return-to-origin)|[![Practice][p]](https://www.fastprep.io/problems/waymo-obstacle-aware-return-to-origin)|🔥 Sep 18, 2026|
 |**Waymo**|[Dictionary Matches from Repeated Letters](https://www.fastprep.io/problems/waymo-repeated-letter-dictionary-matches)|[![Practice][p]](https://www.fastprep.io/problems/waymo-repeated-letter-dictionary-matches)|🔥 Sep 18, 2026|
 |**Amazon**|[LRU Cache for Query Results](https://www.fastprep.io/problems/amazon-lru-query-result-cache)|[![Practice][p]](https://www.fastprep.io/problems/amazon-lru-query-result-cache)|🔥 Sep 18, 2026|
@@ -1901,4 +1900,5 @@
 |**IXL Learning**|[Prison](https://www.fastprep.io/problems/ixl-prison)|[![Practice][p]](https://www.fastprep.io/problems/ixl-prison)|Mar 20, 2024|
 |**Amazon**|[Count Faults (Faulty Binding 101 😁)](https://www.fastprep.io/problems/amazon-count-faults)|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-faults)|Mar 19, 2024|
 |**Amazon**|[Find Max Num](https://www.fastprep.io/problems/amazon-find-maximum-num)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-maximum-num)|Mar 19, 2024|
+|**Wolverine Trading**|[Count Operations](https://www.fastprep.io/problems/wolverine-trading-count-operations)|[![Practice][p]](https://www.fastprep.io/problems/wolverine-trading-count-operations)|Mar 19, 2024|
 <a id="bottom"></a>
