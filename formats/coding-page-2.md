@@ -2,12 +2,20 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,135 questions**
+**2,141 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Goldman Sachs**|[Find Niceness](https://www.fastprep.io/problems/goldman-find-niceness)|[![Practice][p]](https://www.fastprep.io/problems/goldman-find-niceness)|Mar 20, 2024|
+|**IXL Learning**|[Card Packets](https://www.fastprep.io/problems/ixl-card-packets)|[![Practice][p]](https://www.fastprep.io/problems/ixl-card-packets)|Mar 20, 2024|
+|**IXL Learning**|[Count Max](https://www.fastprep.io/problems/ixl-count-max)|[![Practice][p]](https://www.fastprep.io/problems/ixl-count-max)|Mar 20, 2024|
+|**IXL Learning**|[Get Min Difference](https://www.fastprep.io/problems/ixl-get-minimum-difference)|[![Practice][p]](https://www.fastprep.io/problems/ixl-get-minimum-difference)|Mar 20, 2024|
+|**IXL Learning**|[Prison](https://www.fastprep.io/problems/ixl-prison)|[![Practice][p]](https://www.fastprep.io/problems/ixl-prison)|Mar 20, 2024|
+|**Amazon**|[Count Faults (Faulty Binding 101 😁)](https://www.fastprep.io/problems/amazon-count-faults)|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-faults)|Mar 19, 2024|
+|**Amazon**|[Find Max Num](https://www.fastprep.io/problems/amazon-find-maximum-num)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-maximum-num)|Mar 19, 2024|
+|**Wolverine Trading**|[Count Operations](https://www.fastprep.io/problems/wolverine-trading-count-operations)|[![Practice][p]](https://www.fastprep.io/problems/wolverine-trading-count-operations)|Mar 19, 2024|
 |**Wolverine Trading**|[Encode](https://www.fastprep.io/problems/wolverine-trading-decode)|[![Practice][p]](https://www.fastprep.io/problems/wolverine-trading-decode)|Mar 19, 2024|
 |**Wolverine Trading**|[Max Shared](https://www.fastprep.io/problems/wolverine-trading-max-shared)|[![Practice][p]](https://www.fastprep.io/problems/wolverine-trading-max-shared)|Mar 19, 2024|
 |**Amazon**|[Minimize Sum of Absolute Differences](https://www.fastprep.io/problems/amazon-minimize-sum-of-absolute-differences)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimize-sum-of-absolute-differences)|Mar 18, 2024|
