@@ -2,12 +2,19 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,158 questions**
+**2,163 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**TikTok**|[Auth System](https://www.fastprep.io/problems/tiktok-get-unexpired-tokens)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-unexpired-tokens)|Mar 27, 2024|
+|**Salesforce**|[Plan Cut](https://www.fastprep.io/problems/salesforce-plan-cuts)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-plan-cuts)|Mar 26, 2024|
+|**Google**|[Is Balanced String](https://www.fastprep.io/problems/google-is-balanced-string)|[![Practice][p]](https://www.fastprep.io/problems/google-is-balanced-string)|Mar 26, 2024|
+|**Cisco**|[Check Alphabetical Order](https://www.fastprep.io/problems/cisco-check-alphabetical-order)|[![Practice][p]](https://www.fastprep.io/problems/cisco-check-alphabetical-order)|Mar 26, 2024|
+|**Cisco**|[Find Number](https://www.fastprep.io/problems/cisco-find-number)|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-number)|Mar 26, 2024|
+|**Cisco**|[Longest Palindrome](https://www.fastprep.io/problems/cisco-find-longest-palindromic-substring)|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-longest-palindromic-substring)|Mar 26, 2024|
+|**Paypal**|[Min Operations](https://www.fastprep.io/problems/paypal-count-minimum-operations)|[![Practice][p]](https://www.fastprep.io/problems/paypal-count-minimum-operations)|Mar 26, 2024|
 |**Paypal**|[User Logins](https://www.fastprep.io/problems/paypal-count-user-logins)|[![Practice][p]](https://www.fastprep.io/problems/paypal-count-user-logins)|Mar 26, 2024|
 |**Uber**|[Output All Possible Strings](https://www.fastprep.io/problems/uber-output-all-possible-strings)|[![Practice][p]](https://www.fastprep.io/problems/uber-output-all-possible-strings)|Mar 25, 2024|
 |**Uber**|[Generate Arrays](https://www.fastprep.io/problems/uber-generate-array)|[![Practice][p]](https://www.fastprep.io/problems/uber-generate-array)|Mar 25, 2024|
