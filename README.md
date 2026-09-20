@@ -23,7 +23,7 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,145)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (348)](formats/system-design.md) · [Low-level design (92)](formats/low-level-design.md) · [AI coding (42)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,145)](formats/coding.md) · [SQL (37)](formats/sql.md) · [System design (355)](formats/system-design.md) · [Low-level design (92)](formats/low-level-design.md) · [AI coding (42)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -37,6 +37,13 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**GoodScore**|[Count Divisible Power Sums](https://www.fastprep.io/problems/goodscore-count-divisible-power-sums)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goodscore-count-divisible-power-sums)|🔥 Sep 19, 2026|
 |**Stripe**|[Incident Monitor](https://www.fastprep.io/problems/stripe-incident-monitor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-incident-monitor)|🔥 Sep 19, 2026|
 |**Databricks**|[Chat API and Database System](https://www.fastprep.io/system-design/chat-api-and-database-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/chat-api-and-database-system)|🔥 Sep 19, 2026|
+|**Amazon**|[Repair MovieDB Follows and Notifications](https://www.fastprep.io/project-coding/amazon-repair-moviedb-follows-notifications)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-moviedb-follows-notifications)|🔥 Sep 19, 2026|
+|**Microsoft**|[AI Receptionist Voice Chat](https://www.fastprep.io/system-design/ai-receptionist-voice-chat-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ai-receptionist-voice-chat-system)|🔥 Sep 19, 2026|
+|**Airbnb**|[Customer Support Resolution Assistant](https://www.fastprep.io/system-design/customer-support-resolution-rag-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/customer-support-resolution-rag-system)|🔥 Sep 19, 2026|
+|**Walleye Capital**|[Equity Research Decision Intelligence](https://www.fastprep.io/system-design/equity-research-decision-intelligence)|System design|[![Practice][p]](https://www.fastprep.io/system-design/equity-research-decision-intelligence)|🔥 Sep 19, 2026|
+|**Microsoft**|[Global One-to-One Voice Calling](https://www.fastprep.io/system-design/global-one-to-one-voice-calling-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/global-one-to-one-voice-calling-system)|🔥 Sep 19, 2026|
+|**Atlassian**|[Social Post Comments](https://www.fastprep.io/system-design/social-post-comments-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/social-post-comments-system)|🔥 Sep 19, 2026|
+|**Airbnb**|[Vacation Rental Candidate Ranking](https://www.fastprep.io/system-design/vacation-rental-candidate-ranking-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/vacation-rental-candidate-ranking-system)|🔥 Sep 19, 2026|
 |**Tata Consultancy Services**|[Maximum Gap After Sorting](https://www.fastprep.io/problems/tata-consultancy-services-maximum-gap)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tata-consultancy-services-maximum-gap)|🔥 Sep 18, 2026|
 |**Tata Consultancy Services**|[EV Charging Cost Optimization](https://www.fastprep.io/problems/tata-consultancy-services-ev-charging-cost-optimization)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tata-consultancy-services-ev-charging-cost-optimization)|🔥 Sep 18, 2026|
 |**Amazon**|[Inventory Allocation](https://www.fastprep.io/problems/amazon-inventory-allocation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-inventory-allocation)|🔥 Sep 18, 2026|
@@ -83,6 +90,7 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Capital One**|[Reconstruct Landmark Journey](https://www.fastprep.io/problems/capital-one-reconstruct-landmark-journey)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-reconstruct-landmark-journey)|🔥 Sep 18, 2026|
 |**Capital One**|[Linear Warehouse Drone Delivery](https://www.fastprep.io/problems/capital-one-linear-warehouse-drone-delivery)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-linear-warehouse-drone-delivery)|🔥 Sep 18, 2026|
 |**Two Sigma**|[Sewer Drainage Partition](https://www.fastprep.io/problems/twosigma-sewer-drainage-partition)|Coding|[![Practice][p]](https://www.fastprep.io/problems/twosigma-sewer-drainage-partition)|🔥 Sep 18, 2026|
+|**Uber**|[Large Structured Data Filesystem](https://www.fastprep.io/system-design/large-structured-data-filesystem)|System design|[![Practice][p]](https://www.fastprep.io/system-design/large-structured-data-filesystem)|🔥 Sep 18, 2026|
 |**Unattributed**|[Filter and Batch Concurrent Logs](https://www.fastprep.io/project-coding/concurrent-log-filter-batcher)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/concurrent-log-filter-batcher)|🔥 Sep 17, 2026|
 |**Citadel**|[Top Ten Trades by Notional Value](https://www.fastprep.io/problems/citadel-top-ten-trades-by-notional)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-top-ten-trades-by-notional)|🔥 Sep 17, 2026|
 |**Citadel**|[Reconcile Unmatched Trades with Timestamp Tolerance](https://www.fastprep.io/problems/citadel-reconcile-unmatched-trades)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-reconcile-unmatched-trades)|🔥 Sep 17, 2026|
@@ -655,7 +663,6 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Rivian**|[Design Autonomous-Vehicle Sensor Health and Diagnostics](https://www.fastprep.io/system-design/autonomous-vehicle-sensor-health-diagnostics)|System design|[![Practice][p]](https://www.fastprep.io/system-design/autonomous-vehicle-sensor-health-diagnostics)|🆕 Sep 02, 2026|
 |**Abnormal Security**|[Concurrent Worker Processing Platform](https://www.fastprep.io/system-design/concurrent-worker-processing-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/concurrent-worker-processing-platform)|🆕 Sep 02, 2026|
 |**Abnormal Security**|[Evolve a Read-Write Record Service](https://www.fastprep.io/system-design/read-write-service-scaling-review)|System design|[![Practice][p]](https://www.fastprep.io/system-design/read-write-service-scaling-review)|🆕 Sep 02, 2026|
-|**Amazon**|[Repair MovieDB Follows and Notifications](https://www.fastprep.io/project-coding/amazon-repair-moviedb-follows-notifications)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-moviedb-follows-notifications)|🆕 Sep 02, 2026|
 |**DRW**|[Shortest Path Around Rectangular Obstacles](https://www.fastprep.io/problems/drw-shortest-path-rectangular-obstacles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/drw-shortest-path-rectangular-obstacles)|🆕 Sep 02, 2026|
 |**Amazon**|[Minimum Adjacent Swaps to Group Binary Values](https://www.fastprep.io/problems/amazon-minimum-adjacent-swaps-binary-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-adjacent-swaps-binary-groups)|🆕 Sep 02, 2026|
 |**ByteDance**|[Weighted Round-Robin Seller Task Scheduler](https://www.fastprep.io/problems/bytedance-weighted-round-robin-seller-scheduler)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-weighted-round-robin-seller-scheduler)|🆕 Sep 02, 2026|
@@ -1714,11 +1721,4 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Arcesium**|[City Infection Number](https://www.fastprep.io/problems/arcesium-city-infection-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-city-infection-number)|Jul 23, 2025|
 |**Arcesium**|[Minimum Tunnel Crossing Time](https://www.fastprep.io/problems/arcesium-minimum-tunnel-crossing-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-minimum-tunnel-crossing-time)|Jul 23, 2025|
 |**Arcesium**|[Product of Subset Maxima](https://www.fastprep.io/problems/arcesium-product-of-subset-maxima)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-product-of-subset-maxima)|Jul 23, 2025|
-|**Arcesium**|[Reconstruct the Root Stream](https://www.fastprep.io/problems/arcesium-reconstruct-root-stream)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-reconstruct-root-stream)|Jul 23, 2025|
-|**Confluent**|[Design a Podcast Subscription Feed API and Data Model](https://www.fastprep.io/system-design/podcast-subscription-feed-api-data-model)|System design|[![Practice][p]](https://www.fastprep.io/system-design/podcast-subscription-feed-api-data-model)|Jul 20, 2025|
-|**Amazon**|[Maximize Pages Before Suspension](https://www.fastprep.io/problems/amazon-maximize-pages-before-suspension)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-pages-before-suspension)|Jul 08, 2025|
-|**Salesforce**|[Minimum Operations to Zero](https://www.fastprep.io/problems/salesforce-minimum-operations-to-zero)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-minimum-operations-to-zero)|Jul 08, 2025|
-|**Salesforce**|[Integrity Score](https://www.fastprep.io/problems/salesforce-integrity-score)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-integrity-score)|Jul 08, 2025|
-|**Fortinet**|[Compute Checksum Aggregation](https://www.fastprep.io/problems/fortinet-compute-checksum-aggregation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/fortinet-compute-checksum-aggregation)|Jul 08, 2025|
-|**Google**|[Minimum Swaps to Sort a Ternary Array After Updates](https://www.fastprep.io/problems/google-minimum-swaps-to-sort-ternary-array-after-updates)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-swaps-to-sort-ternary-array-after-updates)|Jul 05, 2025|
 <a id="bottom"></a>

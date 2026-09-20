@@ -2,13 +2,19 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**348 questions**
+**355 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
 |**Databricks**|[Chat API and Database System](https://www.fastprep.io/system-design/chat-api-and-database-system)|[![Practice][p]](https://www.fastprep.io/system-design/chat-api-and-database-system)|🔥 Sep 19, 2026|
+|**Microsoft**|[AI Receptionist Voice Chat](https://www.fastprep.io/system-design/ai-receptionist-voice-chat-system)|[![Practice][p]](https://www.fastprep.io/system-design/ai-receptionist-voice-chat-system)|🔥 Sep 19, 2026|
+|**Airbnb**|[Customer Support Resolution Assistant](https://www.fastprep.io/system-design/customer-support-resolution-rag-system)|[![Practice][p]](https://www.fastprep.io/system-design/customer-support-resolution-rag-system)|🔥 Sep 19, 2026|
+|**Walleye Capital**|[Equity Research Decision Intelligence](https://www.fastprep.io/system-design/equity-research-decision-intelligence)|[![Practice][p]](https://www.fastprep.io/system-design/equity-research-decision-intelligence)|🔥 Sep 19, 2026|
+|**Microsoft**|[Global One-to-One Voice Calling](https://www.fastprep.io/system-design/global-one-to-one-voice-calling-system)|[![Practice][p]](https://www.fastprep.io/system-design/global-one-to-one-voice-calling-system)|🔥 Sep 19, 2026|
+|**Atlassian**|[Social Post Comments](https://www.fastprep.io/system-design/social-post-comments-system)|[![Practice][p]](https://www.fastprep.io/system-design/social-post-comments-system)|🔥 Sep 19, 2026|
+|**Airbnb**|[Vacation Rental Candidate Ranking](https://www.fastprep.io/system-design/vacation-rental-candidate-ranking-system)|[![Practice][p]](https://www.fastprep.io/system-design/vacation-rental-candidate-ranking-system)|🔥 Sep 19, 2026|
 |**Waymo**|[Design Fleet Map Data Collection](https://www.fastprep.io/system-design/fleet-map-data-collection)|[![Practice][p]](https://www.fastprep.io/system-design/fleet-map-data-collection)|🔥 Sep 18, 2026|
 |**New Relic**|[Design Long-Running Trace Event Grouping](https://www.fastprep.io/system-design/distributed-trace-event-grouping)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-trace-event-grouping)|🔥 Sep 18, 2026|
 |**DoorDash / Robinhood / Snowflake / Postman / Figma / LinkedIn / Airbnb / Nextdoor / Decagon / Amazon / Cursor**|[Design a Scheduled Job Execution System](https://www.fastprep.io/system-design/scheduled-job-execution-system)|[![Practice][p]](https://www.fastprep.io/system-design/scheduled-job-execution-system)|🔥 Sep 18, 2026|
@@ -18,6 +24,7 @@
 |**Amazon**|[Design Robot-Assisted Restaurant Orchestration](https://www.fastprep.io/system-design/robot-assisted-restaurant-orchestration)|[![Practice][p]](https://www.fastprep.io/system-design/robot-assisted-restaurant-orchestration)|🔥 Sep 18, 2026|
 |**Amazon**|[Design an Employee Directory and Organization Hierarchy](https://www.fastprep.io/system-design/employee-directory-and-org-hierarchy)|[![Practice][p]](https://www.fastprep.io/system-design/employee-directory-and-org-hierarchy)|🔥 Sep 18, 2026|
 |**JioStar**|[Design Streaming Home Personalization](https://www.fastprep.io/system-design/streaming-home-personalization)|[![Practice][p]](https://www.fastprep.io/system-design/streaming-home-personalization)|🔥 Sep 18, 2026|
+|**Uber**|[Large Structured Data Filesystem](https://www.fastprep.io/system-design/large-structured-data-filesystem)|[![Practice][p]](https://www.fastprep.io/system-design/large-structured-data-filesystem)|🔥 Sep 18, 2026|
 |**Microsoft**|[Design Distributed LLM Embedding and Output Sharding](https://www.fastprep.io/system-design/distributed-llm-embedding-and-output-sharding)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-llm-embedding-and-output-sharding)|🔥 Sep 17, 2026|
 |**Postman / Uber Freight / LinkedIn**|[Design a Calendar Event Collaboration System](https://www.fastprep.io/system-design/calendar-event-collaboration-system)|[![Practice][p]](https://www.fastprep.io/system-design/calendar-event-collaboration-system)|🔥 Sep 17, 2026|
 |**Amazon / Lyft / Google / Pinterest / Snowflake**|[Design a Web Crawler](https://www.fastprep.io/system-design/web-crawler)|[![Practice][p]](https://www.fastprep.io/system-design/web-crawler)|🔥 Sep 17, 2026|
