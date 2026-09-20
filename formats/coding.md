@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**2,145 questions**
+**2,158 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -10,6 +10,12 @@
 | :-- | :-- | :-: | :-- |
 |**GoodScore**|[Count Divisible Power Sums](https://www.fastprep.io/problems/goodscore-count-divisible-power-sums)|[![Practice][p]](https://www.fastprep.io/problems/goodscore-count-divisible-power-sums)|🔥 Sep 19, 2026|
 |**Stripe**|[Incident Monitor](https://www.fastprep.io/problems/stripe-incident-monitor)|[![Practice][p]](https://www.fastprep.io/problems/stripe-incident-monitor)|🔥 Sep 19, 2026|
+|**Amazon**|[Get Minimum Amount](https://www.fastprep.io/problems/amazon-get-min-amount)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-amount)|🔥 Sep 19, 2026|
+|**Hudson River Trading**|[Sort Matrix Borders](https://www.fastprep.io/problems/hrt-sort-matrix-borders)|[![Practice][p]](https://www.fastprep.io/problems/hrt-sort-matrix-borders)|🔥 Sep 19, 2026|
+|**Hudson River Trading**|[Sorted Absolute-Difference Sums Across Cyclic Shifts](https://www.fastprep.io/problems/hrt-cyclic-shift-absolute-difference-sums)|[![Practice][p]](https://www.fastprep.io/problems/hrt-cyclic-shift-absolute-difference-sums)|🔥 Sep 19, 2026|
+|**Hudson River Trading**|[Minimize Expression Value with Parentheses](https://www.fastprep.io/problems/hrt-minimize-expression-value-with-parentheses)|[![Practice][p]](https://www.fastprep.io/problems/hrt-minimize-expression-value-with-parentheses)|🔥 Sep 19, 2026|
+|**Hudson River Trading**|[Obstacle Placement Queries](https://www.fastprep.io/problems/hrt-obstacle-placement-queries)|[![Practice][p]](https://www.fastprep.io/problems/hrt-obstacle-placement-queries)|🔥 Sep 19, 2026|
+|**Hudson River Trading**|[Rearrange String by Alternating Ends](https://www.fastprep.io/problems/hrt-rearrange-string-by-alternating-ends)|[![Practice][p]](https://www.fastprep.io/problems/hrt-rearrange-string-by-alternating-ends)|🔥 Sep 19, 2026|
 |**Tata Consultancy Services**|[Maximum Gap After Sorting](https://www.fastprep.io/problems/tata-consultancy-services-maximum-gap)|[![Practice][p]](https://www.fastprep.io/problems/tata-consultancy-services-maximum-gap)|🔥 Sep 18, 2026|
 |**Tata Consultancy Services**|[EV Charging Cost Optimization](https://www.fastprep.io/problems/tata-consultancy-services-ev-charging-cost-optimization)|[![Practice][p]](https://www.fastprep.io/problems/tata-consultancy-services-ev-charging-cost-optimization)|🔥 Sep 18, 2026|
 |**Amazon**|[Inventory Allocation](https://www.fastprep.io/problems/amazon-inventory-allocation)|[![Practice][p]](https://www.fastprep.io/problems/amazon-inventory-allocation)|🔥 Sep 18, 2026|
@@ -219,7 +225,6 @@
 |**Apple**|[Merge Two Strings by Maximum Boundary Overlap](https://www.fastprep.io/problems/apple-factorize-string-extremities)|[![Practice][p]](https://www.fastprep.io/problems/apple-factorize-string-extremities)|🔥 Sep 12, 2026|
 |**SquadStack.ai**|[Minimum-Cost Digit String Decoding](https://www.fastprep.io/problems/squadstack-weighted-decode-ways)|[![Practice][p]](https://www.fastprep.io/problems/squadstack-weighted-decode-ways)|🔥 Sep 12, 2026|
 |**SquadStack.ai**|[Minimum Seats for One-Way Car Pooling](https://www.fastprep.io/problems/squadstack-minimum-seats-car-pooling)|[![Practice][p]](https://www.fastprep.io/problems/squadstack-minimum-seats-car-pooling)|🔥 Sep 12, 2026|
-|**Amazon**|[Get Minimum Amount](https://www.fastprep.io/problems/amazon-get-min-amount)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-amount)|🔥 Sep 12, 2026|
 |**Amazon**|[Word Search II](https://www.fastprep.io/problems/amazon-word-search-ii)|[![Practice][p]](https://www.fastprep.io/problems/amazon-word-search-ii)|🔥 Sep 12, 2026|
 |**Amazon**|[Interleaving String](https://www.fastprep.io/problems/amazon-interleaving-string)|[![Practice][p]](https://www.fastprep.io/problems/amazon-interleaving-string)|🔥 Sep 12, 2026|
 |**Amazon**|[Dynamic Prefix Search Collection](https://www.fastprep.io/problems/amazon-prefix-search-collection)|[![Practice][p]](https://www.fastprep.io/problems/amazon-prefix-search-collection)|🔥 Sep 12, 2026|
@@ -317,7 +322,6 @@
 |**Capital One**|[Sorted Extended Matrix Diagonals](https://www.fastprep.io/problems/capital-one-sorted-extended-matrix-diagonals)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-sorted-extended-matrix-diagonals)|🔥 Sep 09, 2026|
 |**Hudson River Trading**|[Product Minus Sum of Digits](https://www.fastprep.io/problems/hrt-product-minus-sum-of-digits)|[![Practice][p]](https://www.fastprep.io/problems/hrt-product-minus-sum-of-digits)|🔥 Sep 09, 2026|
 |**Hudson River Trading**|[Rightmost Longest Character Run](https://www.fastprep.io/problems/hrt-rightmost-longest-character-run)|[![Practice][p]](https://www.fastprep.io/problems/hrt-rightmost-longest-character-run)|🔥 Sep 09, 2026|
-|**Hudson River Trading**|[Sort Matrix Borders](https://www.fastprep.io/problems/hrt-sort-matrix-borders)|[![Practice][p]](https://www.fastprep.io/problems/hrt-sort-matrix-borders)|🔥 Sep 09, 2026|
 |**Hudson River Trading**|[Dynamic Sum Pair Queries](https://www.fastprep.io/problems/hrt-dynamic-sum-pair-queries)|[![Practice][p]](https://www.fastprep.io/problems/hrt-dynamic-sum-pair-queries)|🔥 Sep 09, 2026|
 |**Amazon**|[Find Minimum Cost](https://www.fastprep.io/problems/amazon-find-minimum-cost)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-cost)|🔥 Sep 09, 2026|
 |**Millennium**|[Calculate the Half Spread](https://www.fastprep.io/problems/millennium-calculate-half-spread)|[![Practice][p]](https://www.fastprep.io/problems/millennium-calculate-half-spread)|🔥 Sep 09, 2026|
@@ -1588,6 +1592,10 @@
 |**MathWorks**|[Has Vowels](https://www.fastprep.io/problems/mathwork-has-vowels)|[![Practice][p]](https://www.fastprep.io/problems/mathwork-has-vowels)|Sep 17, 2024|
 |**MathWorks**|[Get Min Operations](https://www.fastprep.io/problems/mathworks-get-minimum-operations)|[![Practice][p]](https://www.fastprep.io/problems/mathworks-get-minimum-operations)|Sep 17, 2024|
 |**Odoo**|[Compare Character Arrays with Backspaces](https://www.fastprep.io/problems/odoo-compare-character-arrays-with-backspaces)|[![Practice][p]](https://www.fastprep.io/problems/odoo-compare-character-arrays-with-backspaces)|Sep 17, 2024|
+|**Zscaler**|[Asteroid Collision](https://www.fastprep.io/problems/zscaler-asteroid-collision)|[![Practice][p]](https://www.fastprep.io/problems/zscaler-asteroid-collision)|Sep 17, 2024|
+|**Zscaler**|[Check Whether a Byte Is Nonzero](https://www.fastprep.io/problems/zscaler-check-byte-nonzero)|[![Practice][p]](https://www.fastprep.io/problems/zscaler-check-byte-nonzero)|Sep 17, 2024|
+|**Zscaler**|[Count Vowel Permutations](https://www.fastprep.io/problems/zscaler-count-vowel-permutations)|[![Practice][p]](https://www.fastprep.io/problems/zscaler-count-vowel-permutations)|Sep 17, 2024|
+|**Zscaler**|[Merging Palindromes](https://www.fastprep.io/problems/zscaler-merging-palindromes)|[![Practice][p]](https://www.fastprep.io/problems/zscaler-merging-palindromes)|Sep 17, 2024|
 |**Blackrock**|[Calculate Distance](https://www.fastprep.io/problems/blackrock-calculate-distance)|[![Practice][p]](https://www.fastprep.io/problems/blackrock-calculate-distance)|Sep 16, 2024|
 |**Blackrock**|[Efficient Matching](https://www.fastprep.io/problems/blackrock-efficient-matching)|[![Practice][p]](https://www.fastprep.io/problems/blackrock-efficient-matching)|Sep 16, 2024|
 |**Bloomberg**|[Consecutive](https://www.fastprep.io/problems/bloomberg-consecutive)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-consecutive)|Sep 16, 2024|
@@ -1782,6 +1790,11 @@
 |**Flexport**|[Maximum Edges](https://www.fastprep.io/problems/flexport-get-maximum-edges)|[![Practice][p]](https://www.fastprep.io/problems/flexport-get-maximum-edges)|Jun 24, 2024|
 |**WeWork**|[Meeting Room](https://www.fastprep.io/problems/wework-meeting-room)|[![Practice][p]](https://www.fastprep.io/problems/wework-meeting-room)|Jun 24, 2024|
 |**WeWork**|[Shopping and Billing](https://www.fastprep.io/problems/wework-shopping-and-billing)|[![Practice][p]](https://www.fastprep.io/problems/wework-shopping-and-billing)|Jun 24, 2024|
+|**Zscaler**|[Find the Element With Odd Frequency](https://www.fastprep.io/problems/zscaler-find-odd-frequency-element)|[![Practice][p]](https://www.fastprep.io/problems/zscaler-find-odd-frequency-element)|Jun 22, 2024|
+|**Zscaler**|[Longest Common Subsequence Length](https://www.fastprep.io/problems/zscaler-longest-common-subsequence)|[![Practice][p]](https://www.fastprep.io/problems/zscaler-longest-common-subsequence)|Jun 22, 2024|
+|**Zscaler**|[Merge Intervals](https://www.fastprep.io/problems/zscaler-merge-intervals)|[![Practice][p]](https://www.fastprep.io/problems/zscaler-merge-intervals)|Jun 22, 2024|
+|**Zscaler**|[Run-Length Encoding](https://www.fastprep.io/problems/zscaler-run-length-encoding)|[![Practice][p]](https://www.fastprep.io/problems/zscaler-run-length-encoding)|Jun 22, 2024|
+|**Zscaler**|[Sum of Divisors of the Array GCD](https://www.fastprep.io/problems/zscaler-sum-divisors-of-array-gcd)|[![Practice][p]](https://www.fastprep.io/problems/zscaler-sum-divisors-of-array-gcd)|Jun 22, 2024|
 |**Salesforce**|[Count Substrings](https://www.fastprep.io/problems/salesforce-count-substrings)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-count-substrings)|Jun 20, 2024|
 |**Salesforce**|[Count Min Operations to Reduce Dimensions](https://www.fastprep.io/problems/salesforce-count-minimum-operations-to-reduce-dimensions)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-count-minimum-operations-to-reduce-dimensions)|Jun 20, 2024|
 |**IBM**|[Min Chairs](https://www.fastprep.io/problems/ibm-min-chairs)|[![Practice][p]](https://www.fastprep.io/problems/ibm-min-chairs)|Jun 20, 2024|
@@ -1885,17 +1898,4 @@
 |**Cisco**|[Find Number](https://www.fastprep.io/problems/cisco-find-number)|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-number)|Mar 26, 2024|
 |**Cisco**|[Longest Palindrome](https://www.fastprep.io/problems/cisco-find-longest-palindromic-substring)|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-longest-palindromic-substring)|Mar 26, 2024|
 |**Paypal**|[Min Operations](https://www.fastprep.io/problems/paypal-count-minimum-operations)|[![Practice][p]](https://www.fastprep.io/problems/paypal-count-minimum-operations)|Mar 26, 2024|
-|**Paypal**|[User Logins](https://www.fastprep.io/problems/paypal-count-user-logins)|[![Practice][p]](https://www.fastprep.io/problems/paypal-count-user-logins)|Mar 26, 2024|
-|**Uber**|[Output All Possible Strings](https://www.fastprep.io/problems/uber-output-all-possible-strings)|[![Practice][p]](https://www.fastprep.io/problems/uber-output-all-possible-strings)|Mar 25, 2024|
-|**Uber**|[Generate Arrays](https://www.fastprep.io/problems/uber-generate-array)|[![Practice][p]](https://www.fastprep.io/problems/uber-generate-array)|Mar 25, 2024|
-|**Uber**|[Top 2 Teams](https://www.fastprep.io/problems/uber-find-top-two-teams)|[![Practice][p]](https://www.fastprep.io/problems/uber-find-top-two-teams)|Mar 25, 2024|
-|**TikTok**|[Maximize Consecutive Dance Moves](https://www.fastprep.io/problems/tiktok-maximize-consecutive-dance-moves)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-maximize-consecutive-dance-moves)|Mar 25, 2024|
-|**Salesforce**|[Find Longest Subsequence Common To X As Substring In Y](https://www.fastprep.io/problems/salesforce-find-longest-subsequence-common-to-x-as-substring-in-y)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-find-longest-subsequence-common-to-x-as-substring-in-y)|Mar 23, 2024|
-|**Salesforce**|[Find Word sNot In Subsequence](https://www.fastprep.io/problems/salesforce-find-words-in-string-not-in-subsequence)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-find-words-in-string-not-in-subsequence)|Mar 23, 2024|
-|**Salesforce**|[Tool Changer](https://www.fastprep.io/problems/salesforce-split-array-largest-sum)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-split-array-largest-sum)|Mar 22, 2024|
-|**Google**|[Find Max Length of Subsequence](https://www.fastprep.io/problems/google-find-max-length-of-subsequence)|[![Practice][p]](https://www.fastprep.io/problems/google-find-max-length-of-subsequence)|Mar 22, 2024|
-|**Trade Desk**|[Narrative Words](https://www.fastprep.io/problems/tdesk-narrative-words)|[![Practice][p]](https://www.fastprep.io/problems/tdesk-narrative-words)|Mar 21, 2024|
-|**Trade Desk**|[Last to Be Checked](https://www.fastprep.io/problems/tdesk-last-to-be-checked)|[![Practice][p]](https://www.fastprep.io/problems/tdesk-last-to-be-checked)|Mar 21, 2024|
-|**Trade Desk**|[Buddies Greater Than Target](https://www.fastprep.io/problems/tdesk-buddies-greater-than-threshold)|[![Practice][p]](https://www.fastprep.io/problems/tdesk-buddies-greater-than-threshold)|Mar 21, 2024|
-|**Trade Desk**|[Earn The Most](https://www.fastprep.io/problems/tdesk-about-profit)|[![Practice][p]](https://www.fastprep.io/problems/tdesk-about-profit)|Mar 21, 2024|
 <a id="bottom"></a>
