@@ -10,7 +10,6 @@
 | :-- | :-- | :-: | :-- |
 |**GoodScore**|[Count Divisible Power Sums](https://www.fastprep.io/problems/goodscore-count-divisible-power-sums)|[![Practice][p]](https://www.fastprep.io/problems/goodscore-count-divisible-power-sums)|🔥 Sep 19, 2026|
 |**Stripe**|[Incident Monitor](https://www.fastprep.io/problems/stripe-incident-monitor)|[![Practice][p]](https://www.fastprep.io/problems/stripe-incident-monitor)|🔥 Sep 19, 2026|
-|**Amazon**|[Get Minimum Amount](https://www.fastprep.io/problems/amazon-get-min-amount)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-amount)|🔥 Sep 19, 2026|
 |**Hudson River Trading**|[Sort Matrix Borders](https://www.fastprep.io/problems/hrt-sort-matrix-borders)|[![Practice][p]](https://www.fastprep.io/problems/hrt-sort-matrix-borders)|🔥 Sep 19, 2026|
 |**Hudson River Trading**|[Sorted Absolute-Difference Sums Across Cyclic Shifts](https://www.fastprep.io/problems/hrt-cyclic-shift-absolute-difference-sums)|[![Practice][p]](https://www.fastprep.io/problems/hrt-cyclic-shift-absolute-difference-sums)|🔥 Sep 19, 2026|
 |**Hudson River Trading**|[Minimize Expression Value with Parentheses](https://www.fastprep.io/problems/hrt-minimize-expression-value-with-parentheses)|[![Practice][p]](https://www.fastprep.io/problems/hrt-minimize-expression-value-with-parentheses)|🔥 Sep 19, 2026|
@@ -213,6 +212,7 @@
 |**Amazon**|[Calculate Beauty Values](https://www.fastprep.io/problems/amazon-calculate-beauty-values)|[![Practice][p]](https://www.fastprep.io/problems/amazon-calculate-beauty-values)|🔥 Sep 13, 2026|
 |**Citadel**|[Maximize Workday Earnings](https://www.fastprep.io/problems/citadel-maximize-workday-earnings)|[![Practice][p]](https://www.fastprep.io/problems/citadel-maximize-workday-earnings)|🔥 Sep 13, 2026|
 |**Scribd**|[Most Popular Actor by Movie Views](https://www.fastprep.io/problems/scribd-most-popular-actor-by-movie-views)|[![Practice][p]](https://www.fastprep.io/problems/scribd-most-popular-actor-by-movie-views)|🔥 Sep 13, 2026|
+|**Amazon**|[Get Minimum Amount](https://www.fastprep.io/problems/amazon-get-min-amount)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-amount)|🔥 Sep 12, 2026|
 |**Morgan Stanley**|[Maximum Concurrent Processes](https://www.fastprep.io/problems/morgan-stanley-maximum-concurrent-processes)|[![Practice][p]](https://www.fastprep.io/problems/morgan-stanley-maximum-concurrent-processes)|🔥 Sep 12, 2026|
 |**Google**|[Lexicographically Smallest K-Step Return Walk](https://www.fastprep.io/problems/google-lexicographically-smallest-k-step-return-walk)|[![Practice][p]](https://www.fastprep.io/problems/google-lexicographically-smallest-k-step-return-walk)|🔥 Sep 12, 2026|
 |**Tekion**|[Dungeon Game](https://www.fastprep.io/problems/tekion-dungeon-game)|[![Practice][p]](https://www.fastprep.io/problems/tekion-dungeon-game)|🔥 Sep 12, 2026|
