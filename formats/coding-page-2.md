@@ -2,12 +2,15 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,163 questions**
+**2,165 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**SpaceX**|[Monster Registry](https://www.fastprep.io/problems/spacex-monster-registry)|[![Practice][p]](https://www.fastprep.io/problems/spacex-monster-registry)|Mar 28, 2024|
+|**Google**|[Can Fit Word](https://www.fastprep.io/problems/google-can-fit-the-word)|[![Practice][p]](https://www.fastprep.io/problems/google-can-fit-the-word)|Mar 27, 2024|
+|**TikTok**|[Server Investment](https://www.fastprep.io/problems/tiktok-maximize-upgraded-servers)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-maximize-upgraded-servers)|Mar 27, 2024|
 |**TikTok**|[Auth System](https://www.fastprep.io/problems/tiktok-get-unexpired-tokens)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-unexpired-tokens)|Mar 27, 2024|
 |**Salesforce**|[Plan Cut](https://www.fastprep.io/problems/salesforce-plan-cuts)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-plan-cuts)|Mar 26, 2024|
 |**Google**|[Is Balanced String](https://www.fastprep.io/problems/google-is-balanced-string)|[![Practice][p]](https://www.fastprep.io/problems/google-is-balanced-string)|Mar 26, 2024|
