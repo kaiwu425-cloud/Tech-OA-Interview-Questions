@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Tekion**|[Koko Eating Bananas](https://www.fastprep.io/problems/tekion-koko-eating-bananas)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-koko-eating-bananas)|Jul 26, 2025|
+|**Tekion**|[Maximum Sum of a Unique-Element Subarray](https://www.fastprep.io/problems/tekion-maximum-sum-unique-element-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-maximum-sum-unique-element-subarray)|Jul 26, 2025|
 |**Tekion**|[Minimum Size Subarray Sum With Negatives](https://www.fastprep.io/problems/tekion-minimum-size-subarray-sum-with-negatives)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-minimum-size-subarray-sum-with-negatives)|Jul 26, 2025|
 |**Tekion**|[Number of Islands](https://www.fastprep.io/problems/tekion-number-of-islands)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-number-of-islands)|Jul 26, 2025|
 |**Tekion**|[Set Matrix Zeroes](https://www.fastprep.io/problems/tekion-set-matrix-zeroes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-set-matrix-zeroes)|Jul 26, 2025|
