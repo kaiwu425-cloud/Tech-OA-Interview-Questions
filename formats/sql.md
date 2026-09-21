@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**37 questions**
+**38 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Capital One**|[Rank Flights by Airline and Destination Frequency](https://www.fastprep.io/problems/capital-one-rank-flights-by-airline-and-destination)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-rank-flights-by-airline-and-destination)|🔥 Sep 19, 2026|
 |**IBM**|[Social Network Relationship Statistics](https://www.fastprep.io/problems/ibm-social-network-relationship-statistics)|[![Practice][p]](https://www.fastprep.io/problems/ibm-social-network-relationship-statistics)|🔥 Sep 16, 2026|
 |**Two Sigma**|[Daily Temperature By Town](https://www.fastprep.io/problems/two-sigma-daily-temperature-by-town)|[![Practice][p]](https://www.fastprep.io/problems/two-sigma-daily-temperature-by-town)|🔥 Sep 14, 2026|
 |**JPMorgan Chase**|[Employees Above Average Salary](https://www.fastprep.io/problems/jpmorgan-employees-above-average-salary)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-employees-above-average-salary)|🔥 Sep 13, 2026|
@@ -33,9 +34,9 @@
 |**TikTok**|[Analyze Taxi Driver and Ride Metrics](https://www.fastprep.io/problems/tiktok-driver-and-ride-metrics)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-driver-and-ride-metrics)|🔥 Sep 08, 2026|
 |**Wolverine Trading**|[Market Share Ticker with Imbalance](https://www.fastprep.io/problems/wolverine-trading-market-share-and-imbalance)|[![Practice][p]](https://www.fastprep.io/problems/wolverine-trading-market-share-and-imbalance)|🆕 Aug 30, 2026|
 |**Wolverine Trading**|[Hedges Outperforming Their Trades](https://www.fastprep.io/problems/wolverine-trading-hedges-outperforming-trades)|[![Practice][p]](https://www.fastprep.io/problems/wolverine-trading-hedges-outperforming-trades)|🆕 Aug 30, 2026|
-|**Capital One**|[Rank Flights by Airline and Destination Frequency](https://www.fastprep.io/problems/capital-one-rank-flights-by-airline-and-destination)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-rank-flights-by-airline-and-destination)|🆕 Aug 29, 2026|
 |**Capital One**|[Highest Version B Viewing Week](https://www.fastprep.io/problems/capital-one-highest-version-b-viewing-week)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-highest-version-b-viewing-week)|🆕 Aug 17, 2026|
 |**Capital One**|[Highest-Spend Advertisement](https://www.fastprep.io/problems/capital-one-highest-spend-advertisement)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-highest-spend-advertisement)|🆕 Aug 11, 2026|
+|**Wells Fargo**|[Overloaded Game Account Inventories](https://www.fastprep.io/problems/wellsfargo-overloaded-game-account-inventories)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-overloaded-game-account-inventories)|Jul 28, 2026|
 |**Amazon**|[Customer Package Delivery Report](https://www.fastprep.io/problems/amazon-customer-package-delivery-report)|[![Practice][p]](https://www.fastprep.io/problems/amazon-customer-package-delivery-report)|Jul 16, 2026|
 |**Capital One**|[Summarize Taxi Drivers and Rides](https://www.fastprep.io/problems/capital-one-driver-and-ride-summary)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-driver-and-ride-summary)|Jul 09, 2026|
 |**Capital One**|[Build Taxi Driver Performance Features](https://www.fastprep.io/problems/capital-one-build-taxi-driver-features)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-build-taxi-driver-features)|Jul 09, 2026|

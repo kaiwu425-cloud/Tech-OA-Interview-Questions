@@ -9,6 +9,21 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Tekion**|[Minimum Size Subarray Sum With Negatives](https://www.fastprep.io/problems/tekion-minimum-size-subarray-sum-with-negatives)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-minimum-size-subarray-sum-with-negatives)|Jul 26, 2025|
+|**Tekion**|[Number of Islands](https://www.fastprep.io/problems/tekion-number-of-islands)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-number-of-islands)|Jul 26, 2025|
+|**Tekion**|[Set Matrix Zeroes](https://www.fastprep.io/problems/tekion-set-matrix-zeroes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-set-matrix-zeroes)|Jul 26, 2025|
+|**TikTok**|[Can Reach the Exit with Teleports](https://www.fastprep.io/problems/tiktok-teleport-labyrinth)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-teleport-labyrinth)|Jul 26, 2025|
+|**TikTok**|[Check Monotonic Triples](https://www.fastprep.io/problems/tiktok-check-monotonic-triples)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-check-monotonic-triples)|Jul 26, 2025|
+|**TikTok**|[Shift Every K-th Consonant](https://www.fastprep.io/problems/tiktok-shift-every-kth-consonant)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-shift-every-kth-consonant)|Jul 26, 2025|
+|**Together AI**|[Find GPU Capacity and Drain a Node](https://www.fastprep.io/problems/together-ai-gpu-node-rescheduling)|Coding|[![Practice][p]](https://www.fastprep.io/problems/together-ai-gpu-node-rescheduling)|Jul 26, 2025|
+|**Virtu Financial**|[Count Substrings With Identical Characters](https://www.fastprep.io/problems/virtu-count-identical-character-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/virtu-count-identical-character-substrings)|Jul 26, 2025|
+|**Virtu Financial**|[HexSpeak](https://www.fastprep.io/problems/virtu-hexspeak)|Coding|[![Practice][p]](https://www.fastprep.io/problems/virtu-hexspeak)|Jul 26, 2025|
+|**Virtu Financial**|[Maximum Apples That Fit in a Box](https://www.fastprep.io/problems/virtu-maximum-apples-in-box)|Coding|[![Practice][p]](https://www.fastprep.io/problems/virtu-maximum-apples-in-box)|Jul 26, 2025|
+|**Virtu Financial**|[Minimum Steps to a Fibonacci Number](https://www.fastprep.io/problems/virtu-minimum-steps-to-fibonacci)|Coding|[![Practice][p]](https://www.fastprep.io/problems/virtu-minimum-steps-to-fibonacci)|Jul 26, 2025|
+|**Zoox**|[Best Time to Buy and Sell Stock](https://www.fastprep.io/problems/zoox-best-time-to-buy-and-sell-stock)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zoox-best-time-to-buy-and-sell-stock)|Jul 26, 2025|
+|**Arcesium**|[City Infection Number](https://www.fastprep.io/problems/arcesium-city-infection-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-city-infection-number)|Jul 23, 2025|
+|**Arcesium**|[Minimum Tunnel Crossing Time](https://www.fastprep.io/problems/arcesium-minimum-tunnel-crossing-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-minimum-tunnel-crossing-time)|Jul 23, 2025|
+|**Arcesium**|[Product of Subset Maxima](https://www.fastprep.io/problems/arcesium-product-of-subset-maxima)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-product-of-subset-maxima)|Jul 23, 2025|
 |**Arcesium**|[Reconstruct the Root Stream](https://www.fastprep.io/problems/arcesium-reconstruct-root-stream)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-reconstruct-root-stream)|Jul 23, 2025|
 |**Confluent**|[Design a Podcast Subscription Feed API and Data Model](https://www.fastprep.io/system-design/podcast-subscription-feed-api-data-model)|System design|[![Practice][p]](https://www.fastprep.io/system-design/podcast-subscription-feed-api-data-model)|Jul 20, 2025|
 |**Amazon**|[Maximize Pages Before Suspension](https://www.fastprep.io/problems/amazon-maximize-pages-before-suspension)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-pages-before-suspension)|Jul 08, 2025|
@@ -405,6 +420,10 @@
 |**MathWorks**|[Get Min Operations](https://www.fastprep.io/problems/mathworks-get-minimum-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathworks-get-minimum-operations)|Sep 17, 2024|
 |**Odoo**|[Compare Character Arrays with Backspaces](https://www.fastprep.io/problems/odoo-compare-character-arrays-with-backspaces)|Coding|[![Practice][p]](https://www.fastprep.io/problems/odoo-compare-character-arrays-with-backspaces)|Sep 17, 2024|
 |**Odoo**|[Build a Room Booking Single-Page Application](https://www.fastprep.io/project-coding/odoo-room-booking-spa)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/odoo-room-booking-spa)|Sep 17, 2024|
+|**Zscaler**|[Asteroid Collision](https://www.fastprep.io/problems/zscaler-asteroid-collision)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zscaler-asteroid-collision)|Sep 17, 2024|
+|**Zscaler**|[Check Whether a Byte Is Nonzero](https://www.fastprep.io/problems/zscaler-check-byte-nonzero)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zscaler-check-byte-nonzero)|Sep 17, 2024|
+|**Zscaler**|[Count Vowel Permutations](https://www.fastprep.io/problems/zscaler-count-vowel-permutations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zscaler-count-vowel-permutations)|Sep 17, 2024|
+|**Zscaler**|[Merging Palindromes](https://www.fastprep.io/problems/zscaler-merging-palindromes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zscaler-merging-palindromes)|Sep 17, 2024|
 |**Blackrock**|[Calculate Distance](https://www.fastprep.io/problems/blackrock-calculate-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/blackrock-calculate-distance)|Sep 16, 2024|
 |**Blackrock**|[Efficient Matching](https://www.fastprep.io/problems/blackrock-efficient-matching)|Coding|[![Practice][p]](https://www.fastprep.io/problems/blackrock-efficient-matching)|Sep 16, 2024|
 |**Bloomberg**|[Consecutive](https://www.fastprep.io/problems/bloomberg-consecutive)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-consecutive)|Sep 16, 2024|
@@ -603,6 +622,11 @@
 |**Flexport**|[Maximum Edges](https://www.fastprep.io/problems/flexport-get-maximum-edges)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flexport-get-maximum-edges)|Jun 24, 2024|
 |**WeWork**|[Meeting Room](https://www.fastprep.io/problems/wework-meeting-room)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wework-meeting-room)|Jun 24, 2024|
 |**WeWork**|[Shopping and Billing](https://www.fastprep.io/problems/wework-shopping-and-billing)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wework-shopping-and-billing)|Jun 24, 2024|
+|**Zscaler**|[Find the Element With Odd Frequency](https://www.fastprep.io/problems/zscaler-find-odd-frequency-element)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zscaler-find-odd-frequency-element)|Jun 22, 2024|
+|**Zscaler**|[Longest Common Subsequence Length](https://www.fastprep.io/problems/zscaler-longest-common-subsequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zscaler-longest-common-subsequence)|Jun 22, 2024|
+|**Zscaler**|[Merge Intervals](https://www.fastprep.io/problems/zscaler-merge-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zscaler-merge-intervals)|Jun 22, 2024|
+|**Zscaler**|[Run-Length Encoding](https://www.fastprep.io/problems/zscaler-run-length-encoding)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zscaler-run-length-encoding)|Jun 22, 2024|
+|**Zscaler**|[Sum of Divisors of the Array GCD](https://www.fastprep.io/problems/zscaler-sum-divisors-of-array-gcd)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zscaler-sum-divisors-of-array-gcd)|Jun 22, 2024|
 |**Salesforce**|[Count Substrings](https://www.fastprep.io/problems/salesforce-count-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-count-substrings)|Jun 20, 2024|
 |**Salesforce**|[Count Min Operations to Reduce Dimensions](https://www.fastprep.io/problems/salesforce-count-minimum-operations-to-reduce-dimensions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-count-minimum-operations-to-reduce-dimensions)|Jun 20, 2024|
 |**IBM**|[Min Chairs](https://www.fastprep.io/problems/ibm-min-chairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-min-chairs)|Jun 20, 2024|

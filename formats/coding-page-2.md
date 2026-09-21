@@ -2,12 +2,35 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,145 questions**
+**2,165 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**SpaceX**|[Monster Registry](https://www.fastprep.io/problems/spacex-monster-registry)|[![Practice][p]](https://www.fastprep.io/problems/spacex-monster-registry)|Mar 28, 2024|
+|**Google**|[Can Fit Word](https://www.fastprep.io/problems/google-can-fit-the-word)|[![Practice][p]](https://www.fastprep.io/problems/google-can-fit-the-word)|Mar 27, 2024|
+|**TikTok**|[Server Investment](https://www.fastprep.io/problems/tiktok-maximize-upgraded-servers)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-maximize-upgraded-servers)|Mar 27, 2024|
+|**TikTok**|[Auth System](https://www.fastprep.io/problems/tiktok-get-unexpired-tokens)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-unexpired-tokens)|Mar 27, 2024|
+|**Salesforce**|[Plan Cut](https://www.fastprep.io/problems/salesforce-plan-cuts)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-plan-cuts)|Mar 26, 2024|
+|**Google**|[Is Balanced String](https://www.fastprep.io/problems/google-is-balanced-string)|[![Practice][p]](https://www.fastprep.io/problems/google-is-balanced-string)|Mar 26, 2024|
+|**Cisco**|[Check Alphabetical Order](https://www.fastprep.io/problems/cisco-check-alphabetical-order)|[![Practice][p]](https://www.fastprep.io/problems/cisco-check-alphabetical-order)|Mar 26, 2024|
+|**Cisco**|[Find Number](https://www.fastprep.io/problems/cisco-find-number)|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-number)|Mar 26, 2024|
+|**Cisco**|[Longest Palindrome](https://www.fastprep.io/problems/cisco-find-longest-palindromic-substring)|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-longest-palindromic-substring)|Mar 26, 2024|
+|**Paypal**|[Min Operations](https://www.fastprep.io/problems/paypal-count-minimum-operations)|[![Practice][p]](https://www.fastprep.io/problems/paypal-count-minimum-operations)|Mar 26, 2024|
+|**Paypal**|[User Logins](https://www.fastprep.io/problems/paypal-count-user-logins)|[![Practice][p]](https://www.fastprep.io/problems/paypal-count-user-logins)|Mar 26, 2024|
+|**Uber**|[Output All Possible Strings](https://www.fastprep.io/problems/uber-output-all-possible-strings)|[![Practice][p]](https://www.fastprep.io/problems/uber-output-all-possible-strings)|Mar 25, 2024|
+|**Uber**|[Generate Arrays](https://www.fastprep.io/problems/uber-generate-array)|[![Practice][p]](https://www.fastprep.io/problems/uber-generate-array)|Mar 25, 2024|
+|**Uber**|[Top 2 Teams](https://www.fastprep.io/problems/uber-find-top-two-teams)|[![Practice][p]](https://www.fastprep.io/problems/uber-find-top-two-teams)|Mar 25, 2024|
+|**TikTok**|[Maximize Consecutive Dance Moves](https://www.fastprep.io/problems/tiktok-maximize-consecutive-dance-moves)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-maximize-consecutive-dance-moves)|Mar 25, 2024|
+|**Salesforce**|[Find Longest Subsequence Common To X As Substring In Y](https://www.fastprep.io/problems/salesforce-find-longest-subsequence-common-to-x-as-substring-in-y)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-find-longest-subsequence-common-to-x-as-substring-in-y)|Mar 23, 2024|
+|**Salesforce**|[Find Word sNot In Subsequence](https://www.fastprep.io/problems/salesforce-find-words-in-string-not-in-subsequence)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-find-words-in-string-not-in-subsequence)|Mar 23, 2024|
+|**Salesforce**|[Tool Changer](https://www.fastprep.io/problems/salesforce-split-array-largest-sum)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-split-array-largest-sum)|Mar 22, 2024|
+|**Google**|[Find Max Length of Subsequence](https://www.fastprep.io/problems/google-find-max-length-of-subsequence)|[![Practice][p]](https://www.fastprep.io/problems/google-find-max-length-of-subsequence)|Mar 22, 2024|
+|**Trade Desk**|[Narrative Words](https://www.fastprep.io/problems/tdesk-narrative-words)|[![Practice][p]](https://www.fastprep.io/problems/tdesk-narrative-words)|Mar 21, 2024|
+|**Trade Desk**|[Last to Be Checked](https://www.fastprep.io/problems/tdesk-last-to-be-checked)|[![Practice][p]](https://www.fastprep.io/problems/tdesk-last-to-be-checked)|Mar 21, 2024|
+|**Trade Desk**|[Buddies Greater Than Target](https://www.fastprep.io/problems/tdesk-buddies-greater-than-threshold)|[![Practice][p]](https://www.fastprep.io/problems/tdesk-buddies-greater-than-threshold)|Mar 21, 2024|
+|**Trade Desk**|[Earn The Most](https://www.fastprep.io/problems/tdesk-about-profit)|[![Practice][p]](https://www.fastprep.io/problems/tdesk-about-profit)|Mar 21, 2024|
 |**Trade Desk**|[Light Sources](https://www.fastprep.io/problems/tdesk-about-lamps)|[![Practice][p]](https://www.fastprep.io/problems/tdesk-about-lamps)|Mar 21, 2024|
 |**Trade Desk**|[Flights](https://www.fastprep.io/problems/tdesk-flights)|[![Practice][p]](https://www.fastprep.io/problems/tdesk-flights)|Mar 21, 2024|
 |**Trade Desk**|[Friend List](https://www.fastprep.io/problems/tdesk-friend-list)|[![Practice][p]](https://www.fastprep.io/problems/tdesk-friend-list)|Mar 21, 2024|
