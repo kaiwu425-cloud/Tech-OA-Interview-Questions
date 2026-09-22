@@ -2,12 +2,19 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,215 questions**
+**2,221 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Postman**|[Encode and Decode a String Stream](https://www.fastprep.io/problems/postman-transform-string-stream)|[![Practice][p]](https://www.fastprep.io/problems/postman-transform-string-stream)|May 17, 2024|
+|**Amazon**|[Get Experience](https://www.fastprep.io/problems/amazon-get-exp)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-exp)|May 13, 2024|
+|**Uber**|[Maximize XOR for Each Query](https://www.fastprep.io/problems/uber-maximum-xor-for-each-query)|[![Practice][p]](https://www.fastprep.io/problems/uber-maximum-xor-for-each-query)|May 13, 2024|
+|**Microsoft**|[Find Min Num Moves](https://www.fastprep.io/problems/microsoft-find-min-num-moves)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-find-min-num-moves)|May 13, 2024|
+|**Flexport**|[Count Good Subsequence](https://www.fastprep.io/problems/flexport-count-good-subsequences)|[![Practice][p]](https://www.fastprep.io/problems/flexport-count-good-subsequences)|May 13, 2024|
+|**Flexport**|[Throw the Ball](https://www.fastprep.io/problems/flexport-throw-the-ball)|[![Practice][p]](https://www.fastprep.io/problems/flexport-throw-the-ball)|May 13, 2024|
+|**DE Shaw**|[Get Min Cost](https://www.fastprep.io/problems/deshaw-get-minimum-cost)|[![Practice][p]](https://www.fastprep.io/problems/deshaw-get-minimum-cost)|May 10, 2024|
 |**DE Shaw**|[Find Num of Interesting Pairs](https://www.fastprep.io/problems/deshaw-find-number-of-interesting-pairs)|[![Practice][p]](https://www.fastprep.io/problems/deshaw-find-number-of-interesting-pairs)|May 10, 2024|
 |**Meta**|[ All About Cave ](https://www.fastprep.io/problems/mt-cave)|[![Practice][p]](https://www.fastprep.io/problems/mt-cave)|May 06, 2024|
 |**Amazon**|[Ordered Confirguration](https://www.fastprep.io/problems/amazon-orda-layout)|[![Practice][p]](https://www.fastprep.io/problems/amazon-orda-layout)|May 04, 2024|

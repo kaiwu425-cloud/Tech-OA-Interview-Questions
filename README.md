@@ -23,7 +23,7 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,215)](formats/coding.md) · [SQL (38)](formats/sql.md) · [System design (358)](formats/system-design.md) · [Low-level design (94)](formats/low-level-design.md) · [AI coding (43)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,221)](formats/coding.md) · [SQL (38)](formats/sql.md) · [System design (358)](formats/system-design.md) · [Low-level design (94)](formats/low-level-design.md) · [AI coding (43)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -43,6 +43,14 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Abnormal Security / Ninja Van**|[Concurrent Worker Processing Platform](https://www.fastprep.io/system-design/concurrent-worker-processing-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/concurrent-worker-processing-platform)|🔥 Sep 21, 2026|
 |**Pinterest**|[In-Memory Typeahead Trie Service](https://www.fastprep.io/system-design/in-memory-typeahead-trie-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/in-memory-typeahead-trie-service)|🔥 Sep 21, 2026|
 |**Tekion**|[Design and Implement a TTL Cache Library](https://www.fastprep.io/low-level-design/in-memory-ttl-cache-library)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-ttl-cache-library)|🔥 Sep 21, 2026|
+|**Amazon**|[Edit Distance](https://www.fastprep.io/problems/amazon-edit-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-edit-distance)|🔥 Sep 21, 2026|
+|**Amazon**|[Word Ladder](https://www.fastprep.io/problems/amazon-word-ladder)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-word-ladder)|🔥 Sep 21, 2026|
+|**Amazon**|[Trapping Rain Water](https://www.fastprep.io/problems/amazon-trapping-rain-water)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-trapping-rain-water)|🔥 Sep 21, 2026|
+|**Amazon**|[Minimum Time to Spread Through a Grid](https://www.fastprep.io/problems/amazon-rotting-oranges-variation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-rotting-oranges-variation)|🔥 Sep 21, 2026|
+|**Amazon**|[Allocate Minimum Pages](https://www.fastprep.io/problems/amazon-allocate-minimum-pages)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-allocate-minimum-pages)|🔥 Sep 21, 2026|
+|**Amazon**|[Longest Subarray with K Distinct Values](https://www.fastprep.io/problems/amazon-longest-subarray-with-k-distinct)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-longest-subarray-with-k-distinct)|🔥 Sep 21, 2026|
+|**Tekion**|[Largest Rectangle in Histogram](https://www.fastprep.io/problems/tekion-largest-rectangle-in-histogram)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-largest-rectangle-in-histogram)|🔥 Sep 21, 2026|
+|**Tekion**|[Next Greater Element to the Right](https://www.fastprep.io/problems/tekion-next-greater-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-next-greater-elements)|🔥 Sep 21, 2026|
 |**DoorDash**|[Customer Bootstrap API](https://www.fastprep.io/problems/doordash-customer-bootstrap-api)|Coding|[![Practice][p]](https://www.fastprep.io/problems/doordash-customer-bootstrap-api)|🔥 Sep 21, 2026|
 |**Visa**|[Sum of Index-Ordered Pair Differences](https://www.fastprep.io/problems/visa-sum-of-index-pair-differences)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-sum-of-index-pair-differences)|🔥 Sep 21, 2026|
 |**Tesla**|[Flatten a Branched List into a Doubly Linked List](https://www.fastprep.io/problems/tesla-flatten-branched-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tesla-flatten-branched-linked-list)|🔥 Sep 21, 2026|
@@ -349,7 +357,6 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Amazon**|[Count Stepping Numbers In Range](https://www.fastprep.io/problems/amazon-count-stepping-numbers-in-range)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-stepping-numbers-in-range)|🔥 Sep 13, 2026|
 |**Amazon**|[Capacity To Ship Packages Within D Days](https://www.fastprep.io/problems/amazon-capacity-to-ship-packages-within-d-days)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-capacity-to-ship-packages-within-d-days)|🔥 Sep 13, 2026|
 |**Amazon**|[Container With Most Water](https://www.fastprep.io/problems/amazon-container-with-most-water)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-container-with-most-water)|🔥 Sep 13, 2026|
-|**Amazon**|[Trapping Rain Water](https://www.fastprep.io/problems/amazon-trapping-rain-water)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-trapping-rain-water)|🔥 Sep 13, 2026|
 |**Amazon**|[Cheapest Flights Within K Stops](https://www.fastprep.io/problems/amazon-cheapest-flights-within-k-stops)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-cheapest-flights-within-k-stops)|🔥 Sep 13, 2026|
 |**Amazon**|[Find Median from Data Stream](https://www.fastprep.io/problems/amazon-find-median-from-data-stream)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-median-from-data-stream)|🔥 Sep 13, 2026|
 |**Amazon**|[Basic Calculator](https://www.fastprep.io/problems/amazon-basic-calculator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-basic-calculator)|🔥 Sep 13, 2026|
@@ -363,7 +370,6 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Amazon**|[Fare Between Stops on a Train Route](https://www.fastprep.io/problems/amazon-train-route-fare)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-train-route-fare)|🔥 Sep 13, 2026|
 |**Amazon**|[Find the Safest Path in a Grid](https://www.fastprep.io/problems/amazon-find-safest-path-in-grid)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-safest-path-in-grid)|🔥 Sep 13, 2026|
 |**Amazon**|[Stack with Constant-Time Middle Queries](https://www.fastprep.io/problems/amazon-middle-stack-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-middle-stack-operations)|🔥 Sep 13, 2026|
-|**Amazon**|[Minimum Time to Spread Through a Grid](https://www.fastprep.io/problems/amazon-rotting-oranges-variation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-rotting-oranges-variation)|🔥 Sep 13, 2026|
 |**Amazon**|[Currency Conversion Rate](https://www.fastprep.io/problems/amazon-currency-conversion-rate)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-currency-conversion-rate)|🔥 Sep 13, 2026|
 |**Amazon**|[Decode an Encoded String](https://www.fastprep.io/problems/amazon-decode-encoded-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-decode-encoded-string)|🔥 Sep 13, 2026|
 |**Amazon**|[Minimum Moves for Two Knights to Meet](https://www.fastprep.io/problems/amazon-two-knights-minimum-meeting-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-two-knights-minimum-meeting-moves)|🔥 Sep 13, 2026|
@@ -1713,9 +1719,4 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Rippling**|[Median of Parsed Integer Strings](https://www.fastprep.io/problems/rippling-parsed-median)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-parsed-median)|Nov 19, 2025|
 |**HSBC**|[Minimum Markers to Clear Line Segments](https://www.fastprep.io/problems/hsbc-minimum-markers-to-clear-line-segments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-minimum-markers-to-clear-line-segments)|Nov 19, 2025|
 |**MathWorks**|[Balancing Teams](https://www.fastprep.io/problems/mathworks-balancing-teams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathworks-balancing-teams)|Nov 16, 2025|
-|**MathWorks**|[Largest Sub-Grid](https://www.fastprep.io/problems/mathworks-largest-sub-grid)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathworks-largest-sub-grid)|Nov 16, 2025|
-|**Two Sigma**|[Calculate y/x using Patch](https://www.fastprep.io/problems/twosigma-calculate-y-over-x)|Coding|[![Practice][p]](https://www.fastprep.io/problems/twosigma-calculate-y-over-x)|Nov 09, 2025|
-|**Google**|[Lexicographically Smallest Array with K-Limited Right Moves](https://www.fastprep.io/problems/google-lexicographically-smallest-k-limited-right-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-lexicographically-smallest-k-limited-right-moves)|Nov 08, 2025|
-|**Google**|[First Unique Event in a Stream](https://www.fastprep.io/problems/google-first-unique-event-in-stream)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-first-unique-event-in-stream)|Nov 08, 2025|
-|**Google**|[Stable Top K Frequent Words](https://www.fastprep.io/problems/google-stable-top-k-frequent-words)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-stable-top-k-frequent-words)|Nov 08, 2025|
 <a id="bottom"></a>

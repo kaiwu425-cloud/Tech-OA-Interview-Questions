@@ -9,6 +9,11 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**MathWorks**|[Largest Sub-Grid](https://www.fastprep.io/problems/mathworks-largest-sub-grid)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathworks-largest-sub-grid)|Nov 16, 2025|
+|**Two Sigma**|[Calculate y/x using Patch](https://www.fastprep.io/problems/twosigma-calculate-y-over-x)|Coding|[![Practice][p]](https://www.fastprep.io/problems/twosigma-calculate-y-over-x)|Nov 09, 2025|
+|**Google**|[Lexicographically Smallest Array with K-Limited Right Moves](https://www.fastprep.io/problems/google-lexicographically-smallest-k-limited-right-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-lexicographically-smallest-k-limited-right-moves)|Nov 08, 2025|
+|**Google**|[First Unique Event in a Stream](https://www.fastprep.io/problems/google-first-unique-event-in-stream)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-first-unique-event-in-stream)|Nov 08, 2025|
+|**Google**|[Stable Top K Frequent Words](https://www.fastprep.io/problems/google-stable-top-k-frequent-words)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-stable-top-k-frequent-words)|Nov 08, 2025|
 |**IBM**|[Process Execution Time](https://www.fastprep.io/problems/ibm-process-execution-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-process-execution-time)|Nov 03, 2025|
 |**IBM**|[Service Timeout Detection](https://www.fastprep.io/problems/ibm-service-timeout-detection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-service-timeout-detection)|Nov 03, 2025|
 |**Google**|[Swap Two Numbers](https://www.fastprep.io/problems/google-swap-two-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-swap-two-numbers)|Oct 29, 2025|
