@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Salesforce**|[Minimum No-Repeat Segments After One Character Removal](https://www.fastprep.io/problems/salesforce-minimum-no-repeat-segments-after-removal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-minimum-no-repeat-segments-after-removal)|Jul 26, 2025|
+|**SAP Labs**|[Sliding-Window Text Chunking](https://www.fastprep.io/problems/sap-sliding-window-text-chunking)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sap-sliding-window-text-chunking)|Jul 26, 2025|
 |**Serval**|[Find Shared Camera Activity Periods](https://www.fastprep.io/problems/serval-shared-camera-activity-periods)|Coding|[![Practice][p]](https://www.fastprep.io/problems/serval-shared-camera-activity-periods)|Jul 26, 2025|
 |**Snowflake**|[Simulate a Queued Multi-Rule Rate Limiter](https://www.fastprep.io/problems/snowflake-queued-multi-rule-rate-limiter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-queued-multi-rule-rate-limiter)|Jul 26, 2025|
 |**Tekion**|[Koko Eating Bananas](https://www.fastprep.io/problems/tekion-koko-eating-bananas)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-koko-eating-bananas)|Jul 26, 2025|
