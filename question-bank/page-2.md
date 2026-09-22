@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Serval**|[Find Shared Camera Activity Periods](https://www.fastprep.io/problems/serval-shared-camera-activity-periods)|Coding|[![Practice][p]](https://www.fastprep.io/problems/serval-shared-camera-activity-periods)|Jul 26, 2025|
+|**Snowflake**|[Simulate a Queued Multi-Rule Rate Limiter](https://www.fastprep.io/problems/snowflake-queued-multi-rule-rate-limiter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-queued-multi-rule-rate-limiter)|Jul 26, 2025|
 |**Tekion**|[Koko Eating Bananas](https://www.fastprep.io/problems/tekion-koko-eating-bananas)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-koko-eating-bananas)|Jul 26, 2025|
 |**Tekion**|[Maximum Sum of a Unique-Element Subarray](https://www.fastprep.io/problems/tekion-maximum-sum-unique-element-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-maximum-sum-unique-element-subarray)|Jul 26, 2025|
 |**Tekion**|[Minimum Size Subarray Sum With Negatives](https://www.fastprep.io/problems/tekion-minimum-size-subarray-sum-with-negatives)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-minimum-size-subarray-sum-with-negatives)|Jul 26, 2025|
