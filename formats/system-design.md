@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**358 questions**
+**359 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -89,6 +89,7 @@
 |**Amazon**|[Design Device Backup and Restore](https://www.fastprep.io/system-design/device-backup-and-restore)|[![Practice][p]](https://www.fastprep.io/system-design/device-backup-and-restore)|🔥 Sep 13, 2026|
 |**Scribd**|[Design an External-Model Document Enrichment Pipeline](https://www.fastprep.io/system-design/external-model-document-enrichment-pipeline)|[![Practice][p]](https://www.fastprep.io/system-design/external-model-document-enrichment-pipeline)|🔥 Sep 13, 2026|
 |**ByteDance**|[Design a Multimedia Content Moderation Platform](https://www.fastprep.io/system-design/multimedia-content-moderation-platform)|[![Practice][p]](https://www.fastprep.io/system-design/multimedia-content-moderation-platform)|🔥 Sep 13, 2026|
+|**Amazon**|[Design Burst-Tolerant Notification Ingestion](https://www.fastprep.io/system-design/burst-tolerant-notification-ingestion)|[![Practice][p]](https://www.fastprep.io/system-design/burst-tolerant-notification-ingestion)|🔥 Sep 13, 2026|
 |**Netflix / Oracle / Google / Meta / ByteDance / Astrotalk / LinkedIn**|[Design a Personalized Recommendation System](https://www.fastprep.io/system-design/personalized-recommendation-system)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recommendation-system)|🔥 Sep 12, 2026|
 |**ByteDance**|[Design an Advertiser Campaign Configuration Platform](https://www.fastprep.io/system-design/advertiser-campaign-configuration-platform)|[![Practice][p]](https://www.fastprep.io/system-design/advertiser-campaign-configuration-platform)|🔥 Sep 12, 2026|
 |**Bobyard**|[Design an Asynchronous Random Image Generation Service](https://www.fastprep.io/system-design/asynchronous-random-image-generation-service)|[![Practice][p]](https://www.fastprep.io/system-design/asynchronous-random-image-generation-service)|🔥 Sep 12, 2026|

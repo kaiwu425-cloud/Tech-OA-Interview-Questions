@@ -23,7 +23,7 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,221)](formats/coding.md) · [SQL (38)](formats/sql.md) · [System design (358)](formats/system-design.md) · [Low-level design (94)](formats/low-level-design.md) · [AI coding (43)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,221)](formats/coding.md) · [SQL (38)](formats/sql.md) · [System design (359)](formats/system-design.md) · [Low-level design (94)](formats/low-level-design.md) · [AI coding (43)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -421,6 +421,7 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**ByteDance**|[Design a Multimedia Content Moderation Platform](https://www.fastprep.io/system-design/multimedia-content-moderation-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multimedia-content-moderation-platform)|🔥 Sep 13, 2026|
 |**Citadel**|[Maximize Workday Earnings](https://www.fastprep.io/problems/citadel-maximize-workday-earnings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-maximize-workday-earnings)|🔥 Sep 13, 2026|
 |**Scribd**|[Most Popular Actor by Movie Views](https://www.fastprep.io/problems/scribd-most-popular-actor-by-movie-views)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scribd-most-popular-actor-by-movie-views)|🔥 Sep 13, 2026|
+|**Amazon**|[Design Burst-Tolerant Notification Ingestion](https://www.fastprep.io/system-design/burst-tolerant-notification-ingestion)|System design|[![Practice][p]](https://www.fastprep.io/system-design/burst-tolerant-notification-ingestion)|🔥 Sep 13, 2026|
 |**Morgan Stanley**|[Maximum Concurrent Processes](https://www.fastprep.io/problems/morgan-stanley-maximum-concurrent-processes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/morgan-stanley-maximum-concurrent-processes)|🔥 Sep 12, 2026|
 |**Google**|[Lexicographically Smallest K-Step Return Walk](https://www.fastprep.io/problems/google-lexicographically-smallest-k-step-return-walk)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-lexicographically-smallest-k-step-return-walk)|🔥 Sep 12, 2026|
 |**Tekion**|[Dungeon Game](https://www.fastprep.io/problems/tekion-dungeon-game)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-dungeon-game)|🔥 Sep 12, 2026|
@@ -1717,6 +1718,4 @@ Abnormal Security, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airtable, Air
 |**Rippling**|[Song Play Analytics](https://www.fastprep.io/problems/rippling-song-play-analytics)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-song-play-analytics)|Nov 20, 2025|
 |**Rippling**|[Build an In-Memory Community Q&A API](https://www.fastprep.io/project-coding/community-question-answer-api)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/community-question-answer-api)|Nov 20, 2025|
 |**Rippling**|[Median of Parsed Integer Strings](https://www.fastprep.io/problems/rippling-parsed-median)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-parsed-median)|Nov 19, 2025|
-|**HSBC**|[Minimum Markers to Clear Line Segments](https://www.fastprep.io/problems/hsbc-minimum-markers-to-clear-line-segments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-minimum-markers-to-clear-line-segments)|Nov 19, 2025|
-|**MathWorks**|[Balancing Teams](https://www.fastprep.io/problems/mathworks-balancing-teams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathworks-balancing-teams)|Nov 16, 2025|
 <a id="bottom"></a>
