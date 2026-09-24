@@ -9,9 +9,21 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Zopsmart**|[Reverse Base36 Number](https://www.fastprep.io/problems/zopsmart-reverse-base36-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zopsmart-reverse-base36-number)|Dec 16, 2025|
+|**Amazon**|[Minimum S3 Storage Cost](https://www.fastprep.io/problems/amazon-minimum-s3-storage-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-s3-storage-cost)|Dec 11, 2025|
+|**Flipkart**|[Minimized Total Idle Time](https://www.fastprep.io/problems/flipkart-minimized-total-idle-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flipkart-minimized-total-idle-time)|Dec 11, 2025|
+|**Google**|[The Skyline Problem](https://www.fastprep.io/problems/google-the-skyline-problem)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-the-skyline-problem)|Dec 04, 2025|
+|**Google**|[Run-Length Encode a String](https://www.fastprep.io/problems/google-run-length-encode-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-run-length-encode-string)|Dec 04, 2025|
+|**Accenture**|[Array Leader Elements](https://www.fastprep.io/problems/accenture-array-leader-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/accenture-array-leader-elements)|Nov 28, 2025|
+|**Sierra**|[Design a Resumable Streaming AI Chat](https://www.fastprep.io/system-design/resumable-streaming-ai-chat)|System design|[![Practice][p]](https://www.fastprep.io/system-design/resumable-streaming-ai-chat)|Nov 24, 2025|
+|**BitGo**|[Design and Implement an In-Memory Relational Database Engine](https://www.fastprep.io/low-level-design/in-memory-relational-database-engine)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-relational-database-engine)|Nov 23, 2025|
+|**Rippling**|[Song Play Analytics](https://www.fastprep.io/problems/rippling-song-play-analytics)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-song-play-analytics)|Nov 20, 2025|
+|**Rippling**|[Build an In-Memory Community Q&A API](https://www.fastprep.io/project-coding/community-question-answer-api)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/community-question-answer-api)|Nov 20, 2025|
+|**Rippling**|[Median of Parsed Integer Strings](https://www.fastprep.io/problems/rippling-parsed-median)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-parsed-median)|Nov 19, 2025|
 |**HSBC**|[Minimum Markers to Clear Line Segments](https://www.fastprep.io/problems/hsbc-minimum-markers-to-clear-line-segments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-minimum-markers-to-clear-line-segments)|Nov 19, 2025|
 |**MathWorks**|[Balancing Teams](https://www.fastprep.io/problems/mathworks-balancing-teams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathworks-balancing-teams)|Nov 16, 2025|
 |**MathWorks**|[Largest Sub-Grid](https://www.fastprep.io/problems/mathworks-largest-sub-grid)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathworks-largest-sub-grid)|Nov 16, 2025|
+|**Stripe**|[Complete a Two-Label Tabular Model Pipeline](https://www.fastprep.io/project-coding/stripe-tabular-two-label-model-pipeline)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-tabular-two-label-model-pipeline)|Nov 11, 2025|
 |**Two Sigma**|[Calculate y/x using Patch](https://www.fastprep.io/problems/twosigma-calculate-y-over-x)|Coding|[![Practice][p]](https://www.fastprep.io/problems/twosigma-calculate-y-over-x)|Nov 09, 2025|
 |**Google**|[Lexicographically Smallest Array with K-Limited Right Moves](https://www.fastprep.io/problems/google-lexicographically-smallest-k-limited-right-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-lexicographically-smallest-k-limited-right-moves)|Nov 08, 2025|
 |**Google**|[First Unique Event in a Stream](https://www.fastprep.io/problems/google-first-unique-event-in-stream)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-first-unique-event-in-stream)|Nov 08, 2025|
