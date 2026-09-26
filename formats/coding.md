@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**2,468 questions**
+**2,475 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -447,6 +447,8 @@
 |**Wayfair**|[Assign Distinct Letter Values to Minimize XOR](https://www.fastprep.io/problems/wayfair-distinct-letter-values-minimum-xor)|[![Practice][p]](https://www.fastprep.io/problems/wayfair-distinct-letter-values-minimum-xor)|🆕 Sep 11, 2026|
 |**Wayfair**|[Moving Cost by Volume and Category](https://www.fastprep.io/problems/wayfair-moving-cost-calculator)|[![Practice][p]](https://www.fastprep.io/problems/wayfair-moving-cost-calculator)|🆕 Sep 11, 2026|
 |**Waymo**|[Shortest Paths to Multiple Targets](https://www.fastprep.io/problems/waymo-shortest-paths-to-multiple-targets)|[![Practice][p]](https://www.fastprep.io/problems/waymo-shortest-paths-to-multiple-targets)|🆕 Sep 11, 2026|
+|**Ambience Healthcare**|[Autoregressive Token Generation](https://www.fastprep.io/problems/ambience-autoregressive-token-generation)|[![Practice][p]](https://www.fastprep.io/problems/ambience-autoregressive-token-generation)|🆕 Sep 11, 2026|
+|**Ambience Healthcare**|[Dynamic Batch Completion Times](https://www.fastprep.io/problems/ambience-dynamic-batch-completion-times)|[![Practice][p]](https://www.fastprep.io/problems/ambience-dynamic-batch-completion-times)|🆕 Sep 11, 2026|
 |**Amazon**|[Page Referrer Reachability](https://www.fastprep.io/problems/amazon-page-referrer-reachability)|[![Practice][p]](https://www.fastprep.io/problems/amazon-page-referrer-reachability)|🆕 Sep 10, 2026|
 |**IBM**|[Alphabetically Smallest Palindrome](https://www.fastprep.io/problems/ibm-alphabetically-smallest-palindrome)|[![Practice][p]](https://www.fastprep.io/problems/ibm-alphabetically-smallest-palindrome)|🆕 Sep 10, 2026|
 |**Akuna Capital**|[Items Sort](https://www.fastprep.io/problems/akuna-items-sort)|[![Practice][p]](https://www.fastprep.io/problems/akuna-items-sort)|🆕 Sep 10, 2026|
@@ -944,6 +946,7 @@
 |**Arcesium**|[Ordered Payload Release](https://www.fastprep.io/problems/arcesium-ordered-payload-release)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-ordered-payload-release)|Jul 15, 2026|
 |**ByteDance**|[Most Frequent Integer with Smaller Tie-Break](https://www.fastprep.io/problems/bytedance-most-frequent-integer-smaller-tie)|[![Practice][p]](https://www.fastprep.io/problems/bytedance-most-frequent-integer-smaller-tie)|Jul 15, 2026|
 |**Uber**|[Chain of Command](https://www.fastprep.io/problems/uber-chain-of-command)|[![Practice][p]](https://www.fastprep.io/problems/uber-chain-of-command)|Jul 14, 2026|
+|**Sesame**|[Transcript Window Metrics](https://www.fastprep.io/problems/sesame-transcript-window-metrics)|[![Practice][p]](https://www.fastprep.io/problems/sesame-transcript-window-metrics)|Jul 14, 2026|
 |**New Relic**|[Product of Array Except Self](https://www.fastprep.io/problems/new-relic-product-of-array-except-self)|[![Practice][p]](https://www.fastprep.io/problems/new-relic-product-of-array-except-self)|Jul 13, 2026|
 |**OpenAI**|[CIDR IPv4 Range Iterator](https://www.fastprep.io/problems/openai-cidr-ipv4-iterator)|[![Practice][p]](https://www.fastprep.io/problems/openai-cidr-ipv4-iterator)|Jul 12, 2026|
 |**OpenAI**|[IPv4 Forward Iterator](https://www.fastprep.io/problems/openai-ipv4-forward-iterator)|[![Practice][p]](https://www.fastprep.io/problems/openai-ipv4-forward-iterator)|Jul 12, 2026|
@@ -1666,6 +1669,8 @@
 |**Amazon**|[Maximize Similarity](https://www.fastprep.io/problems/amazon-maximize-similarity)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-similarity)|Oct 28, 2024|
 |**Amazon**|[Find Networking Calls](https://www.fastprep.io/problems/amazon-find-network-calls)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-network-calls)|Oct 28, 2024|
 |**Google**|[Conveyor Triplet Packaging](https://www.fastprep.io/problems/google-conveyor-triplet-packaging)|[![Practice][p]](https://www.fastprep.io/problems/google-conveyor-triplet-packaging)|Oct 27, 2024|
+|**Persona**|[Escape the Haunted Castle](https://www.fastprep.io/problems/persona-escape-haunted-castle)|[![Practice][p]](https://www.fastprep.io/problems/persona-escape-haunted-castle)|Oct 24, 2024|
+|**Persona**|[Escape the Haunted Castle with Treasures](https://www.fastprep.io/problems/persona-escape-haunted-castle-treasures)|[![Practice][p]](https://www.fastprep.io/problems/persona-escape-haunted-castle-treasures)|Oct 24, 2024|
 |**Google**|[Minimum-Cost Meeting City](https://www.fastprep.io/problems/google-minimum-cost-meeting-city)|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-cost-meeting-city)|Oct 23, 2024|
 |**Amazon**|[Get Smaller Items](https://www.fastprep.io/problems/amazon-get-smaller-items)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-smaller-items)|Oct 22, 2024|
 |**Amazon**|[About Mortgage](https://www.fastprep.io/problems/amazon-maximum-number-of-days-to-survive)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-number-of-days-to-survive)|Oct 22, 2024|
@@ -1863,10 +1868,4 @@
 |**Uber**|[Build Blocks and Obstacles](https://www.fastprep.io/problems/uber-build-blocks-and-obstacles)|[![Practice][p]](https://www.fastprep.io/problems/uber-build-blocks-and-obstacles)|Aug 30, 2024|
 |**Uber**|[Matrix Transformation](https://www.fastprep.io/problems/uber-matrix-transformation)|[![Practice][p]](https://www.fastprep.io/problems/uber-matrix-transformation)|Aug 30, 2024|
 |**Uber**|[Match Pattern](https://www.fastprep.io/problems/uber-match-subarray-to-pattern)|[![Practice][p]](https://www.fastprep.io/problems/uber-match-subarray-to-pattern)|Aug 30, 2024|
-|**Uber**|[Character Health](https://www.fastprep.io/problems/uber-character-health-in-a-video-game)|[![Practice][p]](https://www.fastprep.io/problems/uber-character-health-in-a-video-game)|Aug 30, 2024|
-|**Hudson River Trading**|[Increasing Paths 2](https://www.fastprep.io/problems/hudsonriver-increasing-paths-2)|[![Practice][p]](https://www.fastprep.io/problems/hudsonriver-increasing-paths-2)|Aug 30, 2024|
-|**Hudson River Trading**|[Increasing Paths 1](https://www.fastprep.io/problems/hudsonriver-increasing-paths-1)|[![Practice][p]](https://www.fastprep.io/problems/hudsonriver-increasing-paths-1)|Aug 30, 2024|
-|**TikTok**|[Secondary Influencer](https://www.fastprep.io/problems/tiktok-get-secondary-influencer-sum)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-secondary-influencer-sum)|Aug 30, 2024|
-|**TikTok**|[Maximize Efficiency Product](https://www.fastprep.io/problems/tiktok-maximize-efficiency-product)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-maximize-efficiency-product)|Aug 30, 2024|
-|**Microsoft**|[Min Num Tiles](https://www.fastprep.io/problems/microsoft-min-num-tiles)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-min-num-tiles)|Aug 30, 2024|
 <a id="bottom"></a>
