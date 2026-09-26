@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**48 questions**
+**51 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -24,8 +24,8 @@
 |**Amazon**|[Repair Django Ticket Creation and Replies](https://www.fastprep.io/project-coding/amazon-django-ticket-replies)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-django-ticket-replies)|🔥 Sep 15, 2026|
 |**Scribd**|[Build a Reliable Event Write Handler](https://www.fastprep.io/project-coding/scribd-reliable-event-write-handler)|[![Practice][p]](https://www.fastprep.io/project-coding/scribd-reliable-event-write-handler)|🔥 Sep 13, 2026|
 |**Amazon / Goldman Sachs**|[Repair recurring payments in the Wallet backend](https://www.fastprep.io/project-coding/repair-recurring-wallet-payments)|[![Practice][p]](https://www.fastprep.io/project-coding/repair-recurring-wallet-payments)|🔥 Sep 12, 2026|
-|**Goldman Sachs**|[Repair Event Pre-Save Validation](https://www.fastprep.io/project-coding/goldman-sachs-event-presave-validation)|[![Practice][p]](https://www.fastprep.io/project-coding/goldman-sachs-event-presave-validation)|🔥 Sep 11, 2026|
-|**Amazon**|[Repair MovieDB Search and Recommendations](https://www.fastprep.io/project-coding/amazon-repair-moviedb-recommendations)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-moviedb-recommendations)|🔥 Sep 11, 2026|
+|**Goldman Sachs**|[Repair Event Pre-Save Validation](https://www.fastprep.io/project-coding/goldman-sachs-event-presave-validation)|[![Practice][p]](https://www.fastprep.io/project-coding/goldman-sachs-event-presave-validation)|🆕 Sep 11, 2026|
+|**Amazon**|[Repair MovieDB Search and Recommendations](https://www.fastprep.io/project-coding/amazon-repair-moviedb-recommendations)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-moviedb-recommendations)|🆕 Sep 11, 2026|
 |**Snap Inc.**|[Build a Persistent Chat Backend](https://www.fastprep.io/project-coding/persistent-chat-backend)|[![Practice][p]](https://www.fastprep.io/project-coding/persistent-chat-backend)|🆕 Sep 10, 2026|
 |**Anthropic**|[Implement Concurrent Image Transformations](https://www.fastprep.io/project-coding/anthropic-concurrent-image-transformations)|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-concurrent-image-transformations)|🆕 Sep 10, 2026|
 |**Verkada**|[Build SQLite-Backed GET and POST Endpoints](https://www.fastprep.io/project-coding/verkada-sqlite-backed-get-post-api)|[![Practice][p]](https://www.fastprep.io/project-coding/verkada-sqlite-backed-get-post-api)|🆕 Sep 09, 2026|
@@ -49,9 +49,12 @@
 |**Coinbase / Airbnb**|[In-Memory Database](https://www.fastprep.io/project-coding/in-memory-database)|[![Practice][p]](https://www.fastprep.io/project-coding/in-memory-database)|Jul 27, 2026|
 |**Amazon**|[Repair Workflow Team Editing and Deletion](https://www.fastprep.io/project-coding/amazon-repair-workflow-teams)|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-workflow-teams)|Jun 25, 2026|
 |**ByteDance**|[Test Task Management User Assignments](https://www.fastprep.io/project-coding/bytedance-test-task-management-user-assignments)|[![Practice][p]](https://www.fastprep.io/project-coding/bytedance-test-task-management-user-assignments)|Jun 25, 2026|
+|**Stripe**|[Repair Template Lookup Edge Cases](https://www.fastprep.io/project-coding/stripe-template-lookup-debugging)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-template-lookup-debugging)|Feb 20, 2026|
 |**Stripe**|[Complete a Bikemap Route and JSON Integration](https://www.fastprep.io/project-coding/stripe-bikemap-json-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-bikemap-json-integration)|Jan 20, 2026|
+|**Stripe**|[Repair Dynamic-ID Request Replay](https://www.fastprep.io/project-coding/stripe-request-replay-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-request-replay-integration)|Jan 15, 2026|
 |**Tesla**|[Coordinate Parallel Runs Across Two Exclusive Targets](https://www.fastprep.io/project-coding/tesla-dual-target-parallel-runner)|[![Practice][p]](https://www.fastprep.io/project-coding/tesla-dual-target-parallel-runner)|Jan 14, 2026|
 |**Rippling**|[Build an In-Memory Community Q&A API](https://www.fastprep.io/project-coding/community-question-answer-api)|[![Practice][p]](https://www.fastprep.io/project-coding/community-question-answer-api)|Nov 20, 2025|
+|**Stripe**|[Repair Redirected Request Body Replay](https://www.fastprep.io/project-coding/stripe-redirect-stream-replay)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-redirect-stream-replay)|Nov 12, 2025|
 |**Stripe**|[Complete a Two-Label Tabular Model Pipeline](https://www.fastprep.io/project-coding/stripe-tabular-two-label-model-pipeline)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-tabular-two-label-model-pipeline)|Nov 11, 2025|
 |**Elastic**|[Build a Search Index Web Service](https://www.fastprep.io/project-coding/elastic-search-index-web-service)|[![Practice][p]](https://www.fastprep.io/project-coding/elastic-search-index-web-service)|Sep 28, 2024|
 |**Odoo**|[Build a Room Booking Single-Page Application](https://www.fastprep.io/project-coding/odoo-room-booking-spa)|[![Practice][p]](https://www.fastprep.io/project-coding/odoo-room-booking-spa)|Sep 17, 2024|
