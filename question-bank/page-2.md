@@ -537,6 +537,7 @@
 |**Stripe**|[Brazilian Receivables Part 3 — Partial Contracts](https://www.fastprep.io/problems/stripe-brazil-receivables-part3-partial-contracts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-brazil-receivables-part3-partial-contracts)|Nov 08, 2024|
 |**Google**|[Maximize Points](https://www.fastprep.io/problems/google-maximize-points)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximize-points)|Nov 05, 2024|
 |**Google**|[Find Contiguous Subarray With Largest Min Plux Max](https://www.fastprep.io/problems/google-find-contiguous-subarray-with-largest-min-plus-max)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-contiguous-subarray-with-largest-min-plus-max)|Nov 05, 2024|
+|**Google**|[Design Road-Segment Travel-Time Prediction](https://www.fastprep.io/system-design/road-segment-travel-time-prediction)|System design|[![Practice][p]](https://www.fastprep.io/system-design/road-segment-travel-time-prediction)|Nov 05, 2024|
 |**Amazon**|[Find Min Variance](https://www.fastprep.io/problems/amazon-find-minimum-possible-variance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-possible-variance)|Oct 30, 2024|
 |**Amazon**|[Find Min Time Required](https://www.fastprep.io/problems/amazon-find-minimum-time-required)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-time-required)|Oct 30, 2024|
 |**Amazon**|[Cleanup Dataset](https://www.fastprep.io/problems/amazon-cleanup-dataset)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-cleanup-dataset)|Oct 30, 2024|
@@ -1369,6 +1370,7 @@
 |**SambaNova Systems**|[Set Matrix Zeroes](https://www.fastprep.io/problems/sambanova-set-matrix-zeroes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-set-matrix-zeroes)|Nov 23, 2020|
 |**IMC**|[Hidden Artifacts](https://www.fastprep.io/problems/imc-hidden-artifacts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-hidden-artifacts)|Oct 20, 2020|
 |**SambaNova Systems**|[Peak Index in a Mountain Array](https://www.fastprep.io/problems/sambanova-peak-index-mountain-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-peak-index-mountain-array)|Oct 19, 2020|
+|**Microsoft**|[Design and Implement a Thread-Safe LRU Cache](https://www.fastprep.io/low-level-design/thread-safe-lru-cache-library)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-lru-cache-library)|Sep 30, 2020|
 |**Postman**|[Configuration System](https://www.fastprep.io/problems/postman-configuration-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/postman-configuration-system)|Sep 23, 2020|
 |**Postman**|[Large Responses](https://www.fastprep.io/problems/postman-large-responses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/postman-large-responses)|Sep 23, 2020|
 |**IMC**|[Account Balance Over Threshold](https://www.fastprep.io/problems/imc-account-balance-over-threshold)|SQL|[![Practice][p]](https://www.fastprep.io/problems/imc-account-balance-over-threshold)|Sep 12, 2020|

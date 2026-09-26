@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**406 questions**
+**407 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -393,6 +393,7 @@
 |**Rippling**|[Design a Top-N Ad Analytics System](https://www.fastprep.io/system-design/top-n-ad-analytics-system)|[![Practice][p]](https://www.fastprep.io/system-design/top-n-ad-analytics-system)|Dec 18, 2024|
 |**Postman**|[Design a Multi-Provider Weather Forecast Service](https://www.fastprep.io/system-design/multi-provider-weather-forecast-service)|[![Practice][p]](https://www.fastprep.io/system-design/multi-provider-weather-forecast-service)|Nov 29, 2024|
 |**Confluent**|[Design a Leader-Based Distributed Key-Value Store](https://www.fastprep.io/system-design/leader-based-distributed-key-value-store)|[![Practice][p]](https://www.fastprep.io/system-design/leader-based-distributed-key-value-store)|Nov 21, 2024|
+|**Google**|[Design Road-Segment Travel-Time Prediction](https://www.fastprep.io/system-design/road-segment-travel-time-prediction)|[![Practice][p]](https://www.fastprep.io/system-design/road-segment-travel-time-prediction)|Nov 05, 2024|
 |**Confluent**|[Diagnose and Scale a Multi-Region Cloud Service](https://www.fastprep.io/system-design/evidence-led-multi-region-service-evolution)|[![Practice][p]](https://www.fastprep.io/system-design/evidence-led-multi-region-service-evolution)|Aug 14, 2024|
 |**Samsara**|[Design a Fleet Fuel Payment Monitoring Platform](https://www.fastprep.io/system-design/fleet-fuel-payment-monitoring)|[![Practice][p]](https://www.fastprep.io/system-design/fleet-fuel-payment-monitoring)|Jul 22, 2024|
 |**Anduril**|[Design a Radar Sensor Observation Pipeline](https://www.fastprep.io/system-design/radar-sensor-observation-pipeline)|[![Practice][p]](https://www.fastprep.io/system-design/radar-sensor-observation-pipeline)|Jun 11, 2024|
