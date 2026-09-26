@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**2,467 questions**
+**2,468 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -447,6 +447,7 @@
 |**Wayfair**|[Assign Distinct Letter Values to Minimize XOR](https://www.fastprep.io/problems/wayfair-distinct-letter-values-minimum-xor)|[![Practice][p]](https://www.fastprep.io/problems/wayfair-distinct-letter-values-minimum-xor)|🆕 Sep 11, 2026|
 |**Wayfair**|[Moving Cost by Volume and Category](https://www.fastprep.io/problems/wayfair-moving-cost-calculator)|[![Practice][p]](https://www.fastprep.io/problems/wayfair-moving-cost-calculator)|🆕 Sep 11, 2026|
 |**Waymo**|[Shortest Paths to Multiple Targets](https://www.fastprep.io/problems/waymo-shortest-paths-to-multiple-targets)|[![Practice][p]](https://www.fastprep.io/problems/waymo-shortest-paths-to-multiple-targets)|🆕 Sep 11, 2026|
+|**Amazon**|[Page Referrer Reachability](https://www.fastprep.io/problems/amazon-page-referrer-reachability)|[![Practice][p]](https://www.fastprep.io/problems/amazon-page-referrer-reachability)|🆕 Sep 10, 2026|
 |**IBM**|[Alphabetically Smallest Palindrome](https://www.fastprep.io/problems/ibm-alphabetically-smallest-palindrome)|[![Practice][p]](https://www.fastprep.io/problems/ibm-alphabetically-smallest-palindrome)|🆕 Sep 10, 2026|
 |**Akuna Capital**|[Items Sort](https://www.fastprep.io/problems/akuna-items-sort)|[![Practice][p]](https://www.fastprep.io/problems/akuna-items-sort)|🆕 Sep 10, 2026|
 |**Akuna Capital**|[Two Sum](https://www.fastprep.io/problems/akuna-two-sum)|[![Practice][p]](https://www.fastprep.io/problems/akuna-two-sum)|🆕 Sep 10, 2026|
@@ -1868,5 +1869,4 @@
 |**TikTok**|[Secondary Influencer](https://www.fastprep.io/problems/tiktok-get-secondary-influencer-sum)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-secondary-influencer-sum)|Aug 30, 2024|
 |**TikTok**|[Maximize Efficiency Product](https://www.fastprep.io/problems/tiktok-maximize-efficiency-product)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-maximize-efficiency-product)|Aug 30, 2024|
 |**Microsoft**|[Min Num Tiles](https://www.fastprep.io/problems/microsoft-min-num-tiles)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-min-num-tiles)|Aug 30, 2024|
-|**Microsoft**|[Shortest Possible Length](https://www.fastprep.io/problems/microsoft-shortest-possible-length)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-shortest-possible-length)|Aug 30, 2024|
 <a id="bottom"></a>

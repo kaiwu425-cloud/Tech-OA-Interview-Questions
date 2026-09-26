@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,467 questions**
+**2,468 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Microsoft**|[Shortest Possible Length](https://www.fastprep.io/problems/microsoft-shortest-possible-length)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-shortest-possible-length)|Aug 30, 2024|
 |**Cisco**|[Find Mean and Mode](https://www.fastprep.io/problems/cisco-find-mean-and-mode)|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-mean-and-mode)|Aug 30, 2024|
 |**Cisco**|[Count Number with Sum of Digits](https://www.fastprep.io/problems/cisco-count-numbers-with-sum-of-digits)|[![Practice][p]](https://www.fastprep.io/problems/cisco-count-numbers-with-sum-of-digits)|Aug 30, 2024|
 |**Cisco**|[Calculate Mean and Mode](https://www.fastprep.io/problems/cisco-calculate-mean-and-mode)|[![Practice][p]](https://www.fastprep.io/problems/cisco-calculate-mean-and-mode)|Aug 30, 2024|

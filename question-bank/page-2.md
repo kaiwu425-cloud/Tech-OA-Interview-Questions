@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**TikTok**|[Maximum Candies with At Most Two Types in a Line](https://www.fastprep.io/problems/tiktok-maximum-candies-two-types-line)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-maximum-candies-two-types-line)|May 11, 2026|
 |**TikTok**|[LRU Cache with TTL Expiration](https://www.fastprep.io/problems/tiktok-lru-cache-with-ttl-expiration)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-lru-cache-with-ttl-expiration)|May 11, 2026|
 |**Upstart**|[Bounding Box from Coordinates](https://www.fastprep.io/problems/upstart-bounding-box-from-coordinates)|Coding|[![Practice][p]](https://www.fastprep.io/problems/upstart-bounding-box-from-coordinates)|May 11, 2026|
 |**Upstart**|[Filter by Threshold and Return Name with Max Score](https://www.fastprep.io/problems/upstart-filter-threshold-max-score)|Coding|[![Practice][p]](https://www.fastprep.io/problems/upstart-filter-threshold-max-score)|May 11, 2026|

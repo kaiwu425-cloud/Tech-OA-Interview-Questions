@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,467)](formats/coding.md) · [SQL (41)](formats/sql.md) · [System design (406)](formats/system-design.md) · [Low-level design (99)](formats/low-level-design.md) · [AI coding (51)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,468)](formats/coding.md) · [SQL (41)](formats/sql.md) · [System design (406)](formats/system-design.md) · [Low-level design (99)](formats/low-level-design.md) · [AI coding (51)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -668,6 +668,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Wayfair**|[Moving Cost by Volume and Category](https://www.fastprep.io/problems/wayfair-moving-cost-calculator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wayfair-moving-cost-calculator)|🆕 Sep 11, 2026|
 |**Waymo**|[Shortest Paths to Multiple Targets](https://www.fastprep.io/problems/waymo-shortest-paths-to-multiple-targets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/waymo-shortest-paths-to-multiple-targets)|🆕 Sep 11, 2026|
 |**Amazon**|[Repair MovieDB Search and Recommendations](https://www.fastprep.io/project-coding/amazon-repair-moviedb-recommendations)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-moviedb-recommendations)|🆕 Sep 11, 2026|
+|**Amazon**|[Page Referrer Reachability](https://www.fastprep.io/problems/amazon-page-referrer-reachability)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-page-referrer-reachability)|🆕 Sep 10, 2026|
 |**IBM**|[Alphabetically Smallest Palindrome](https://www.fastprep.io/problems/ibm-alphabetically-smallest-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-alphabetically-smallest-palindrome)|🆕 Sep 10, 2026|
 |**Akuna Capital**|[Items Sort](https://www.fastprep.io/problems/akuna-items-sort)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-items-sort)|🆕 Sep 10, 2026|
 |**Akuna Capital**|[Two Sum](https://www.fastprep.io/problems/akuna-two-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-two-sum)|🆕 Sep 10, 2026|
@@ -1711,5 +1712,4 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Ericsson**|[Pascal's Triangle](https://www.fastprep.io/problems/ericsson-pascals-triangle)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ericsson-pascals-triangle)|May 11, 2026|
 |**Ericsson**|[Top K Frequent Elements](https://www.fastprep.io/problems/ericsson-top-k-frequent-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ericsson-top-k-frequent-elements)|May 11, 2026|
 |**Geico**|[Implement an LRU Cache](https://www.fastprep.io/problems/geico-implement-lru-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/geico-implement-lru-cache)|May 11, 2026|
-|**TikTok**|[Maximum Candies with At Most Two Types in a Line](https://www.fastprep.io/problems/tiktok-maximum-candies-two-types-line)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-maximum-candies-two-types-line)|May 11, 2026|
 <a id="bottom"></a>
