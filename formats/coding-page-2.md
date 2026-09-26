@@ -2,12 +2,21 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,372 questions**
+**2,378 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Google**|[Happy Neighbor](https://www.fastprep.io/problems/google-happy-neighbor)|[![Practice][p]](https://www.fastprep.io/problems/google-happy-neighbor)|Aug 11, 2024|
+|**Amazon**|[Get Maximum Sum](https://www.fastprep.io/problems/amazon-get-maximum-sum)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-maximum-sum)|Aug 10, 2024|
+|**TikTok**|[Exchange Cups](https://www.fastprep.io/problems/tiktok-exchange-cups)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-exchange-cups)|Aug 10, 2024|
+|**TikTok**|[Eating Candies](https://www.fastprep.io/problems/tiktok-eating-candies)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-eating-candies)|Aug 10, 2024|
+|**TikTok**|[Find Good Subarray](https://www.fastprep.io/problems/tiktok-find-good-subarray)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-find-good-subarray)|Aug 10, 2024|
+|**TikTok**|[Card Packets](https://www.fastprep.io/problems/tiktok-card-packets)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-card-packets)|Aug 10, 2024|
+|**Databricks**|[Count Pairs](https://www.fastprep.io/problems/dd-count-pairs)|[![Practice][p]](https://www.fastprep.io/problems/dd-count-pairs)|Aug 10, 2024|
+|**Google**|[Movie Bits to Right](https://www.fastprep.io/problems/google-move-bits-to-right)|[![Practice][p]](https://www.fastprep.io/problems/google-move-bits-to-right)|Aug 08, 2024|
+|**Eat Club**|[Sequence Beauty](https://www.fastprep.io/problems/eat-club-calculate-sequence-beauty)|[![Practice][p]](https://www.fastprep.io/problems/eat-club-calculate-sequence-beauty)|Aug 08, 2024|
 |**Eat Club**|[Grandmaster Choice](https://www.fastprep.io/problems/eat-club-grandmasters-choice)|[![Practice][p]](https://www.fastprep.io/problems/eat-club-grandmasters-choice)|Aug 08, 2024|
 |**JP Morgan**|[Count Teams](https://www.fastprep.io/problems/jpmorgan-count-teams)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-count-teams)|Aug 07, 2024|
 |**Uber**|[Good Ways to Reach a Sum](https://www.fastprep.io/problems/uber-count-ways-to-reach-a-sum)|[![Practice][p]](https://www.fastprep.io/problems/uber-count-ways-to-reach-a-sum)|Aug 07, 2024|
