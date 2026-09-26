@@ -2,12 +2,23 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,348 questions**
+**2,364 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Eat Club**|[Grandmaster Choice](https://www.fastprep.io/problems/eat-club-grandmasters-choice)|[![Practice][p]](https://www.fastprep.io/problems/eat-club-grandmasters-choice)|Aug 08, 2024|
+|**JP Morgan**|[Count Teams](https://www.fastprep.io/problems/jpmorgan-count-teams)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-count-teams)|Aug 07, 2024|
+|**Uber**|[Good Ways to Reach a Sum](https://www.fastprep.io/problems/uber-count-ways-to-reach-a-sum)|[![Practice][p]](https://www.fastprep.io/problems/uber-count-ways-to-reach-a-sum)|Aug 07, 2024|
+|**Uber**|[Count Good Array](https://www.fastprep.io/problems/uber-count-the-number-of-good-subarrays)|[![Practice][p]](https://www.fastprep.io/problems/uber-count-the-number-of-good-subarrays)|Aug 07, 2024|
+|**Uber**|[Min Right Shifts to Sort An Array](https://www.fastprep.io/problems/uber-minimum-right-shifts-to-sort-the-array)|[![Practice][p]](https://www.fastprep.io/problems/uber-minimum-right-shifts-to-sort-the-array)|Aug 07, 2024|
+|**Uber**|[Min Obstacle to Remove](https://www.fastprep.io/problems/uber-minimum-obstacle-removal)|[![Practice][p]](https://www.fastprep.io/problems/uber-minimum-obstacle-removal)|Aug 07, 2024|
+|**Akuna**|[Movie Marathon](https://www.fastprep.io/problems/akuna-longest-marathon)|[![Practice][p]](https://www.fastprep.io/problems/akuna-longest-marathon)|Aug 07, 2024|
+|**Akuna**|[Min Operations](https://www.fastprep.io/problems/akuna-minimal-operations)|[![Practice][p]](https://www.fastprep.io/problems/akuna-minimal-operations)|Aug 07, 2024|
+|**Optiver**|[Customer Checkout Duration](https://www.fastprep.io/problems/optiver-customer-checkout-duration)|[![Practice][p]](https://www.fastprep.io/problems/optiver-customer-checkout-duration)|Aug 07, 2024|
+|**Akuna**|[Maximize Segregation Cost](https://www.fastprep.io/problems/akuna-maximize-segregation-cost)|[![Practice][p]](https://www.fastprep.io/problems/akuna-maximize-segregation-cost)|Aug 06, 2024|
+|**BNY Mellon**|[Count Subsequences](https://www.fastprep.io/problems/bnymellon-count-subsequences)|[![Practice][p]](https://www.fastprep.io/problems/bnymellon-count-subsequences)|Aug 06, 2024|
 |**BNY Mellon**|[Dig Sum](https://www.fastprep.io/problems/bnymellon-ways-to-choose-sum)|[![Practice][p]](https://www.fastprep.io/problems/bnymellon-ways-to-choose-sum)|Aug 06, 2024|
 |**Amazon**|[Process Queries On Cart](https://www.fastprep.io/problems/amazon-process-queries-on-cart)|[![Practice][p]](https://www.fastprep.io/problems/amazon-process-queries-on-cart)|Aug 05, 2024|
 |**Amazon**|[Assign Tasks](https://www.fastprep.io/problems/amazon-assign-tasks)|[![Practice][p]](https://www.fastprep.io/problems/amazon-assign-tasks)|Aug 05, 2024|
@@ -447,7 +458,12 @@
 |**Odoo**|[Maximum Profit from an Increasing Price Triplet](https://www.fastprep.io/problems/odoo-maximum-profit-increasing-triplet)|[![Practice][p]](https://www.fastprep.io/problems/odoo-maximum-profit-increasing-triplet)|Jan 24, 2023|
 |**Old Mission**|[Implement an Unordered Map](https://www.fastprep.io/problems/old-mission-implement-unordered-map)|[![Practice][p]](https://www.fastprep.io/problems/old-mission-implement-unordered-map)|Dec 13, 2022|
 |**Tesla**|[Find the Intersection Node of Two Linked Lists](https://www.fastprep.io/problems/tesla-linked-list-intersection-node)|[![Practice][p]](https://www.fastprep.io/problems/tesla-linked-list-intersection-node)|Oct 17, 2022|
+|**Duolingo**|[Most-Read Page Across Every Valid Storyline](https://www.fastprep.io/problems/duolingo-most-read-story-page)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-most-read-story-page)|Oct 03, 2022|
+|**Duolingo**|[Directional Tiles: Find a Valid Reconfiguration Path](https://www.fastprep.io/problems/duolingo-directional-tile-reconfiguration-path)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-directional-tile-reconfiguration-path)|Oct 03, 2022|
+|**Duolingo**|[Visit Desired Attractions Without Reusing a Trail](https://www.fastprep.io/problems/duolingo-visit-attractions-without-reusing-trails)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-visit-attractions-without-reusing-trails)|Oct 03, 2022|
+|**Duolingo**|[Shortest Route Through a Traced Maze](https://www.fastprep.io/problems/duolingo-shortest-traced-maze-route)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-shortest-traced-maze-route)|Sep 24, 2022|
 |**Airbnb**|[Count Palindromic Substrings](https://www.fastprep.io/problems/airbnb-count-palindromic-substrings)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-count-palindromic-substrings)|Sep 23, 2022|
+|**Duolingo**|[Rank Common Translation Mistakes](https://www.fastprep.io/problems/duolingo-counting-mistakes)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-counting-mistakes)|Sep 19, 2022|
 |**IMC**|[Reaching Points with Perfect-Square Obstacles](https://www.fastprep.io/problems/imc-perfect-square-forbidden-reaching-points)|[![Practice][p]](https://www.fastprep.io/problems/imc-perfect-square-forbidden-reaching-points)|Sep 07, 2022|
 |**Alpaca**|[Aggregate a Large Dataset With GROUP BY](https://www.fastprep.io/problems/alpaca-large-dataset-group-by)|[![Practice][p]](https://www.fastprep.io/problems/alpaca-large-dataset-group-by)|Sep 04, 2022|
 |**Airbnb**|[Cheapest Flight with Its Path](https://www.fastprep.io/problems/airbnb-cheapest-flight-with-path)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-cheapest-flight-with-path)|Apr 18, 2022|
@@ -463,6 +479,8 @@
 |**Stripe**|[Calculate Server Shutdown Penalty](https://www.fastprep.io/problems/stripe-server-shutdown-penalty)|[![Practice][p]](https://www.fastprep.io/problems/stripe-server-shutdown-penalty)|Sep 27, 2021|
 |**IMC**|[Adding Stack 2.0](https://www.fastprep.io/problems/imc-adding-stack-2-0)|[![Practice][p]](https://www.fastprep.io/problems/imc-adding-stack-2-0)|Sep 24, 2021|
 |**IMC**|[Knight Minimum Moves with a Fixed Bishop](https://www.fastprep.io/problems/imc-knight-minimum-moves-fixed-bishop)|[![Practice][p]](https://www.fastprep.io/problems/imc-knight-minimum-moves-fixed-bishop)|Sep 24, 2021|
+|**Duolingo**|[Count Distinct Word Meanings](https://www.fastprep.io/problems/duolingo-count-distinct-word-meanings)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-count-distinct-word-meanings)|Sep 02, 2021|
+|**Duolingo**|[Count Legal Outfit Combinations](https://www.fastprep.io/problems/duolingo-count-legal-outfit-combinations)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-count-legal-outfit-combinations)|Sep 02, 2021|
 |**Airbnb**|[Simplified XML Validator](https://www.fastprep.io/problems/airbnb-simplified-xml-validator)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-simplified-xml-validator)|Jun 21, 2021|
 |**Tesla**|[Priority, Expiration, and LRU Eviction](https://www.fastprep.io/problems/tesla-priority-expiration-lru-eviction)|[![Practice][p]](https://www.fastprep.io/problems/tesla-priority-expiration-lru-eviction)|Mar 18, 2021|
 |**Airbnb**|[Construct a Possible Bipartition](https://www.fastprep.io/problems/airbnb-bipartition-groups)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-bipartition-groups)|Mar 09, 2021|
