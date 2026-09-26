@@ -2,12 +2,18 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,468 questions**
+**2,475 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Uber**|[Character Health](https://www.fastprep.io/problems/uber-character-health-in-a-video-game)|[![Practice][p]](https://www.fastprep.io/problems/uber-character-health-in-a-video-game)|Aug 30, 2024|
+|**Hudson River Trading**|[Increasing Paths 2](https://www.fastprep.io/problems/hudsonriver-increasing-paths-2)|[![Practice][p]](https://www.fastprep.io/problems/hudsonriver-increasing-paths-2)|Aug 30, 2024|
+|**Hudson River Trading**|[Increasing Paths 1](https://www.fastprep.io/problems/hudsonriver-increasing-paths-1)|[![Practice][p]](https://www.fastprep.io/problems/hudsonriver-increasing-paths-1)|Aug 30, 2024|
+|**TikTok**|[Secondary Influencer](https://www.fastprep.io/problems/tiktok-get-secondary-influencer-sum)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-secondary-influencer-sum)|Aug 30, 2024|
+|**TikTok**|[Maximize Efficiency Product](https://www.fastprep.io/problems/tiktok-maximize-efficiency-product)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-maximize-efficiency-product)|Aug 30, 2024|
+|**Microsoft**|[Min Num Tiles](https://www.fastprep.io/problems/microsoft-min-num-tiles)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-min-num-tiles)|Aug 30, 2024|
 |**Microsoft**|[Shortest Possible Length](https://www.fastprep.io/problems/microsoft-shortest-possible-length)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-shortest-possible-length)|Aug 30, 2024|
 |**Cisco**|[Find Mean and Mode](https://www.fastprep.io/problems/cisco-find-mean-and-mode)|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-mean-and-mode)|Aug 30, 2024|
 |**Cisco**|[Count Number with Sum of Digits](https://www.fastprep.io/problems/cisco-count-numbers-with-sum-of-digits)|[![Practice][p]](https://www.fastprep.io/problems/cisco-count-numbers-with-sum-of-digits)|Aug 30, 2024|
@@ -522,6 +528,7 @@
 |**Amazon**|[Get Average Standing](https://www.fastprep.io/problems/get-average-standing)|[![Practice][p]](https://www.fastprep.io/problems/get-average-standing)|Sep 24, 2023|
 |**Amazon**|[Minimum Time Spent](https://www.fastprep.io/problems/minimum-time-spent)|[![Practice][p]](https://www.fastprep.io/problems/minimum-time-spent)|Sep 24, 2023|
 |**Amazon**|[Count Max Num Teams](https://www.fastprep.io/problems/count-max-num-teams)|[![Practice][p]](https://www.fastprep.io/problems/count-max-num-teams)|Sep 24, 2023|
+|**Persona**|[File Download Coverage Percentage](https://www.fastprep.io/problems/persona-download-coverage-percent)|[![Practice][p]](https://www.fastprep.io/problems/persona-download-coverage-percent)|Sep 20, 2023|
 |**Odoo**|[HTML Elements Single-Tag Correction](https://www.fastprep.io/problems/odoo-html-elements-single-tag-correction)|[![Practice][p]](https://www.fastprep.io/problems/odoo-html-elements-single-tag-correction)|Sep 18, 2023|
 |**Amazon**|[Cet Mean Rank Count](https://www.fastprep.io/problems/get-mean-rank-count)|[![Practice][p]](https://www.fastprep.io/problems/get-mean-rank-count)|Aug 31, 2023|
 |**Amazon**|[Count Spikes](https://www.fastprep.io/problems/count-spikes)|[![Practice][p]](https://www.fastprep.io/problems/count-spikes)|Aug 31, 2023|
@@ -563,6 +570,7 @@
 |**SambaNova Systems**|[Merge Three Sorted Arrays](https://www.fastprep.io/problems/sambanova-merge-three-sorted-arrays)|[![Practice][p]](https://www.fastprep.io/problems/sambanova-merge-three-sorted-arrays)|Jun 03, 2022|
 |**SambaNova Systems**|[Task Scheduler with Cooldown](https://www.fastprep.io/problems/sambanova-task-scheduler)|[![Practice][p]](https://www.fastprep.io/problems/sambanova-task-scheduler)|Jun 03, 2022|
 |**SambaNova Systems**|[Point Inside a Triangle](https://www.fastprep.io/problems/sambanova-point-in-triangle)|[![Practice][p]](https://www.fastprep.io/problems/sambanova-point-in-triangle)|Jun 01, 2022|
+|**Persona**|[Treasure Hunter](https://www.fastprep.io/problems/persona-treasure-hunter)|[![Practice][p]](https://www.fastprep.io/problems/persona-treasure-hunter)|May 21, 2022|
 |**Airbnb**|[Cheapest Flight with Its Path](https://www.fastprep.io/problems/airbnb-cheapest-flight-with-path)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-cheapest-flight-with-path)|Apr 18, 2022|
 |**SambaNova Systems**|[Parse Variable, Expression, and Application Trees](https://www.fastprep.io/problems/sambanova-expression-tree-parser)|[![Practice][p]](https://www.fastprep.io/problems/sambanova-expression-tree-parser)|Mar 28, 2022|
 |**SambaNova Systems**|[Decode String](https://www.fastprep.io/problems/sambanova-decode-string)|[![Practice][p]](https://www.fastprep.io/problems/sambanova-decode-string)|Mar 07, 2022|
