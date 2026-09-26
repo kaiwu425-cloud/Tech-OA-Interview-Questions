@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**2,294 questions**
+**2,295 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -18,6 +18,7 @@
 |**Etched**|[Periodic Event Loop](https://www.fastprep.io/problems/etched-periodic-event-loop)|[![Practice][p]](https://www.fastprep.io/problems/etched-periodic-event-loop)|🔥 Sep 26, 2026|
 |**Etched**|[DMA Stream Distribution](https://www.fastprep.io/problems/etched-dma-stream-distribution)|[![Practice][p]](https://www.fastprep.io/problems/etched-dma-stream-distribution)|🔥 Sep 26, 2026|
 |**Modal**|[Single-Flight Chunk Cache](https://www.fastprep.io/problems/modal-single-flight-chunk-cache)|[![Practice][p]](https://www.fastprep.io/problems/modal-single-flight-chunk-cache)|🔥 Sep 26, 2026|
+|**Ramp**|[Convert Snake Case Variables to Camel Case](https://www.fastprep.io/problems/ramp-convert-snake-case-variables-to-camel-case)|[![Practice][p]](https://www.fastprep.io/problems/ramp-convert-snake-case-variables-to-camel-case)|🔥 Sep 25, 2026|
 |**Character.AI**|[Spreadsheet With Dependent Cells](https://www.fastprep.io/problems/character-ai-dependent-spreadsheet)|[![Practice][p]](https://www.fastprep.io/problems/character-ai-dependent-spreadsheet)|🔥 Sep 25, 2026|
 |**Clay**|[Hierarchical In-Memory File System](https://www.fastprep.io/problems/clay-hierarchical-file-system)|[![Practice][p]](https://www.fastprep.io/problems/clay-hierarchical-file-system)|🔥 Sep 25, 2026|
 |**Clay**|[Workspace File System With Folders and Tables](https://www.fastprep.io/problems/clay-workspace-folders-and-tables)|[![Practice][p]](https://www.fastprep.io/problems/clay-workspace-folders-and-tables)|🔥 Sep 25, 2026|
@@ -1882,6 +1883,4 @@
 |**MathWorks**|[Cars Left](https://www.fastprep.io/problems/mathwork-cars-left)|[![Practice][p]](https://www.fastprep.io/problems/mathwork-cars-left)|Aug 05, 2024|
 |**Epam**|[Rob House](https://www.fastprep.io/problems/epam-rob-house)|[![Practice][p]](https://www.fastprep.io/problems/epam-rob-house)|Aug 05, 2024|
 |**Hyper Verge**|[Get String to Remove](https://www.fastprep.io/problems/hyperverge-reach-a-given-number)|[![Practice][p]](https://www.fastprep.io/problems/hyperverge-reach-a-given-number)|Aug 05, 2024|
-|**Onix**|[Get String to Remove](https://www.fastprep.io/problems/onix-get-string-to-remove)|[![Practice][p]](https://www.fastprep.io/problems/onix-get-string-to-remove)|Aug 05, 2024|
-|**SIG**|[Count Triples](https://www.fastprep.io/problems/counting-triples)|[![Practice][p]](https://www.fastprep.io/problems/counting-triples)|Aug 05, 2024|
 <a id="bottom"></a>
