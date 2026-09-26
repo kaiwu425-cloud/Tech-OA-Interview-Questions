@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,310)](formats/coding.md) · [SQL (40)](formats/sql.md) · [System design (406)](formats/system-design.md) · [Low-level design (99)](formats/low-level-design.md) · [AI coding (51)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,313)](formats/coding.md) · [SQL (40)](formats/sql.md) · [System design (406)](formats/system-design.md) · [Low-level design (99)](formats/low-level-design.md) · [AI coding (51)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -62,6 +62,9 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Clay**|[Workspace File System With Folders and Tables](https://www.fastprep.io/problems/clay-workspace-folders-and-tables)|Coding|[![Practice][p]](https://www.fastprep.io/problems/clay-workspace-folders-and-tables)|🔥 Sep 25, 2026|
 |**LiveKit**|[AI Support Agent with Guarded Refunds](https://www.fastprep.io/system-design/ai-support-agent-with-guarded-refunds)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ai-support-agent-with-guarded-refunds)|🔥 Sep 25, 2026|
 |**Alpaca**|[Large-Scale Messaging Application](https://www.fastprep.io/system-design/large-scale-messaging-application)|System design|[![Practice][p]](https://www.fastprep.io/system-design/large-scale-messaging-application)|🔥 Sep 25, 2026|
+|**Microsoft**|[Shopkeeper Final Price Summary](https://www.fastprep.io/problems/microsoft-shopkeeper-final-price-summary)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-shopkeeper-final-price-summary)|🔥 Sep 24, 2026|
+|**JP Morgan Chase**|[Same Substring Within Budget](https://www.fastprep.io/problems/jpmorgan-same-substring-within-budget)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-same-substring-within-budget)|🔥 Sep 24, 2026|
+|**JP Morgan Chase**|[Minimum Digit Changes Between String Halves](https://www.fastprep.io/problems/jpmorgan-minimum-digit-anagram-changes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-minimum-digit-anagram-changes)|🔥 Sep 24, 2026|
 |**Intuit**|[Amend a Git Commit from Bash](https://www.fastprep.io/project-coding/intuit-amend-git-commit-history)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/intuit-amend-git-commit-history)|🔥 Sep 24, 2026|
 |**Infosys / Waymo / Goldman Sachs / Onehouse / Amazon / Meta / Flipkart / Luma AI**|[Design Ride-Hailing Dispatch and Trip Lifecycle](https://www.fastprep.io/system-design/regional-ride-hailing-dispatch-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/regional-ride-hailing-dispatch-system)|🔥 Sep 24, 2026|
 |**Amazon / The Trade Desk / Tekion**|[Design an In-Memory Publish-Subscribe Library](https://www.fastprep.io/low-level-design/in-memory-publish-subscribe-library)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-publish-subscribe-library)|🔥 Sep 24, 2026|
@@ -78,6 +81,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Reddit**|[Design a Comment-Likelihood Prediction Platform](https://www.fastprep.io/system-design/comment-likelihood-prediction-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/comment-likelihood-prediction-platform)|🔥 Sep 24, 2026|
 |**Harvey**|[Design a Long-Horizon Agent Training Environment Platform](https://www.fastprep.io/system-design/long-horizon-agent-training-environment-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/long-horizon-agent-training-environment-platform)|🔥 Sep 24, 2026|
 |**Tekion / Amazon / Oracle**|[Design a Configurable Logging Framework](https://www.fastprep.io/low-level-design/logging-framework)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/logging-framework)|🔥 Sep 24, 2026|
+|**Amazon**|[Minimum Merge Conflicts](https://www.fastprep.io/problems/amazon-minimum-merge-conflicts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-merge-conflicts)|🔥 Sep 24, 2026|
 |**Amazon / Postman**|[Social News Feed With Live Engagement](https://www.fastprep.io/system-design/social-news-feed-with-live-engagement)|System design|[![Practice][p]](https://www.fastprep.io/system-design/social-news-feed-with-live-engagement)|🔥 Sep 23, 2026|
 |**Amazon / Groww**|[Design and Implement a Shopping Cart Price Calculator](https://www.fastprep.io/low-level-design/shopping-cart-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/shopping-cart-domain)|🔥 Sep 23, 2026|
 |**Amazon / Omnissa**|[Design an Extensible Multi-Channel Alerting Platform](https://www.fastprep.io/low-level-design/extensible-multi-channel-alerting-platform)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-multi-channel-alerting-platform)|🔥 Sep 23, 2026|
@@ -749,7 +753,6 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Freshworks**|[Product Of Array Except Self](https://www.fastprep.io/problems/freshworks-product-of-array-except-self)|Coding|[![Practice][p]](https://www.fastprep.io/problems/freshworks-product-of-array-except-self)|🆕 Sep 08, 2026|
 |**Microsoft**|[Count Numbers with the Same Set-Bit Count](https://www.fastprep.io/problems/microsoft-count-same-bit-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-count-same-bit-numbers)|🆕 Sep 08, 2026|
 |**Microsoft**|[Equalize Arrays with Prefix and Suffix Increments](https://www.fastprep.io/problems/microsoft-equalize-arrays-with-prefix-suffix-increments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-equalize-arrays-with-prefix-suffix-increments)|🆕 Sep 08, 2026|
-|**Amazon**|[Minimum Merge Conflicts](https://www.fastprep.io/problems/amazon-minimum-merge-conflicts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-merge-conflicts)|🆕 Sep 08, 2026|
 |**Amazon**|[Maximum System Memory Capacity](https://www.fastprep.io/problems/amazon-maximum-capacity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-capacity)|🆕 Sep 08, 2026|
 |**Stripe**|[Asynchronous Payment Event Processing](https://www.fastprep.io/problems/stripe-asynchronous-payment-event-processing)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-asynchronous-payment-event-processing)|🆕 Sep 08, 2026|
 |**Capital One**|[Count Good Tuples](https://www.fastprep.io/problems/capital-one-count-good-tuples)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-count-good-tuples)|🆕 Sep 08, 2026|
@@ -1711,7 +1714,4 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Amazon**|[Longest Zero Sum Subarray](https://www.fastprep.io/problems/amazon-longest-zero-sum-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-longest-zero-sum-subarray)|Apr 09, 2026|
 |**Amazon**|[Maximize Minimum Machine Power](https://www.fastprep.io/problems/amazon-maximize-minimum-machine-power)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-minimum-machine-power)|Apr 09, 2026|
 |**Uber**|[Balanced Permutation Subarrays](https://www.fastprep.io/problems/uber-balanced-permutation-subarrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-balanced-permutation-subarrays)|Apr 09, 2026|
-|**Uber**|[Maximum Comfortable Riders](https://www.fastprep.io/problems/uber-maximum-comfortable-riders)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-maximum-comfortable-riders)|Apr 09, 2026|
-|**Uber**|[Palindrome Path Queries in a Tree](https://www.fastprep.io/problems/uber-palindrome-path-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-palindrome-path-queries)|Apr 09, 2026|
-|**Amazon**|[Maximize Protected City Population](https://www.fastprep.io/problems/amazon-maximize-protected-city-population)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-protected-city-population)|Apr 06, 2026|
 <a id="bottom"></a>

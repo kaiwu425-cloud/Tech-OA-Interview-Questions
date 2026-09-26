@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**2,310 questions**
+**2,313 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -22,6 +22,10 @@
 |**Character.AI**|[Spreadsheet With Dependent Cells](https://www.fastprep.io/problems/character-ai-dependent-spreadsheet)|[![Practice][p]](https://www.fastprep.io/problems/character-ai-dependent-spreadsheet)|🔥 Sep 25, 2026|
 |**Clay**|[Hierarchical In-Memory File System](https://www.fastprep.io/problems/clay-hierarchical-file-system)|[![Practice][p]](https://www.fastprep.io/problems/clay-hierarchical-file-system)|🔥 Sep 25, 2026|
 |**Clay**|[Workspace File System With Folders and Tables](https://www.fastprep.io/problems/clay-workspace-folders-and-tables)|[![Practice][p]](https://www.fastprep.io/problems/clay-workspace-folders-and-tables)|🔥 Sep 25, 2026|
+|**Microsoft**|[Shopkeeper Final Price Summary](https://www.fastprep.io/problems/microsoft-shopkeeper-final-price-summary)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-shopkeeper-final-price-summary)|🔥 Sep 24, 2026|
+|**JP Morgan Chase**|[Same Substring Within Budget](https://www.fastprep.io/problems/jpmorgan-same-substring-within-budget)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-same-substring-within-budget)|🔥 Sep 24, 2026|
+|**JP Morgan Chase**|[Minimum Digit Changes Between String Halves](https://www.fastprep.io/problems/jpmorgan-minimum-digit-anagram-changes)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-minimum-digit-anagram-changes)|🔥 Sep 24, 2026|
+|**Amazon**|[Minimum Merge Conflicts](https://www.fastprep.io/problems/amazon-minimum-merge-conflicts)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-merge-conflicts)|🔥 Sep 24, 2026|
 |**Visa**|[Total Server Downtime](https://www.fastprep.io/problems/visa-total-server-downtime)|[![Practice][p]](https://www.fastprep.io/problems/visa-total-server-downtime)|🔥 Sep 23, 2026|
 |**Hudson River Trading**|[Sort Matrix Borders](https://www.fastprep.io/problems/hrt-sort-matrix-borders)|[![Practice][p]](https://www.fastprep.io/problems/hrt-sort-matrix-borders)|🔥 Sep 23, 2026|
 |**Hudson River Trading**|[Rearrange String by Alternating Ends](https://www.fastprep.io/problems/hrt-rearrange-string-by-alternating-ends)|[![Practice][p]](https://www.fastprep.io/problems/hrt-rearrange-string-by-alternating-ends)|🔥 Sep 23, 2026|
@@ -490,7 +494,6 @@
 |**Freshworks**|[Product Of Array Except Self](https://www.fastprep.io/problems/freshworks-product-of-array-except-self)|[![Practice][p]](https://www.fastprep.io/problems/freshworks-product-of-array-except-self)|🆕 Sep 08, 2026|
 |**Microsoft**|[Count Numbers with the Same Set-Bit Count](https://www.fastprep.io/problems/microsoft-count-same-bit-numbers)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-count-same-bit-numbers)|🆕 Sep 08, 2026|
 |**Microsoft**|[Equalize Arrays with Prefix and Suffix Increments](https://www.fastprep.io/problems/microsoft-equalize-arrays-with-prefix-suffix-increments)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-equalize-arrays-with-prefix-suffix-increments)|🆕 Sep 08, 2026|
-|**Amazon**|[Minimum Merge Conflicts](https://www.fastprep.io/problems/amazon-minimum-merge-conflicts)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-merge-conflicts)|🆕 Sep 08, 2026|
 |**Amazon**|[Maximum System Memory Capacity](https://www.fastprep.io/problems/amazon-maximum-capacity)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-capacity)|🆕 Sep 08, 2026|
 |**Stripe**|[Asynchronous Payment Event Processing](https://www.fastprep.io/problems/stripe-asynchronous-payment-event-processing)|[![Practice][p]](https://www.fastprep.io/problems/stripe-asynchronous-payment-event-processing)|🆕 Sep 08, 2026|
 |**Capital One**|[Count Good Tuples](https://www.fastprep.io/problems/capital-one-count-good-tuples)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-count-good-tuples)|🆕 Sep 08, 2026|
@@ -1878,8 +1881,4 @@
 |**Google**|[Binary Palindromic](https://www.fastprep.io/problems/google-minimum-operations-to-make-binary-palindromic)|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-operations-to-make-binary-palindromic)|Aug 05, 2024|
 |**Google**|[Max Num of Moves with Same Result Sum](https://www.fastprep.io/problems/google-maximum-number-of-moves-with-same-result-sum)|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-number-of-moves-with-same-result-sum)|Aug 05, 2024|
 |**Google**|[Divide Tree Nodes](https://www.fastprep.io/problems/divide-tree-nodes-google)|[![Practice][p]](https://www.fastprep.io/problems/divide-tree-nodes-google)|Aug 05, 2024|
-|**Google**|[Find Consistent Logs](https://www.fastprep.io/problems/google-find-consistent-logs)|[![Practice][p]](https://www.fastprep.io/problems/google-find-consistent-logs)|Aug 05, 2024|
-|**Google**|[Social Meida Friend Recommendation](https://www.fastprep.io/problems/google-social-media-friend-recommendation)|[![Practice][p]](https://www.fastprep.io/problems/google-social-media-friend-recommendation)|Aug 05, 2024|
-|**Uber**|[Calculate Visited Countries](https://www.fastprep.io/problems/uber-calculate-visited-countries)|[![Practice][p]](https://www.fastprep.io/problems/uber-calculate-visited-countries)|Aug 05, 2024|
-|**Akuna**|[Maximum Amount of Profit](https://www.fastprep.io/problems/akuna-maximum-amount-of-profit)|[![Practice][p]](https://www.fastprep.io/problems/akuna-maximum-amount-of-profit)|Aug 05, 2024|
 <a id="bottom"></a>

@@ -2,12 +2,16 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,310 questions**
+**2,313 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Google**|[Find Consistent Logs](https://www.fastprep.io/problems/google-find-consistent-logs)|[![Practice][p]](https://www.fastprep.io/problems/google-find-consistent-logs)|Aug 05, 2024|
+|**Google**|[Social Meida Friend Recommendation](https://www.fastprep.io/problems/google-social-media-friend-recommendation)|[![Practice][p]](https://www.fastprep.io/problems/google-social-media-friend-recommendation)|Aug 05, 2024|
+|**Uber**|[Calculate Visited Countries](https://www.fastprep.io/problems/uber-calculate-visited-countries)|[![Practice][p]](https://www.fastprep.io/problems/uber-calculate-visited-countries)|Aug 05, 2024|
+|**Akuna**|[Maximum Amount of Profit](https://www.fastprep.io/problems/akuna-maximum-amount-of-profit)|[![Practice][p]](https://www.fastprep.io/problems/akuna-maximum-amount-of-profit)|Aug 05, 2024|
 |**Akuna**|[Max Meetings](https://www.fastprep.io/problems/akuna-max-meetings)|[![Practice][p]](https://www.fastprep.io/problems/akuna-max-meetings)|Aug 05, 2024|
 |**Blackrock**|[Is Happy Number](https://www.fastprep.io/problems/blackrock-is-happy-number)|[![Practice][p]](https://www.fastprep.io/problems/blackrock-is-happy-number)|Aug 05, 2024|
 |**Microsoft**|[Longest Path](https://www.fastprep.io/problems/microsoft-longest-path-with-different-adjacent-characters)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-longest-path-with-different-adjacent-characters)|Aug 05, 2024|
