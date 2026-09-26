@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**2,345 questions**
+**2,348 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -22,6 +22,9 @@
 |**Character.AI**|[Spreadsheet With Dependent Cells](https://www.fastprep.io/problems/character-ai-dependent-spreadsheet)|[![Practice][p]](https://www.fastprep.io/problems/character-ai-dependent-spreadsheet)|🔥 Sep 25, 2026|
 |**Clay**|[Hierarchical In-Memory File System](https://www.fastprep.io/problems/clay-hierarchical-file-system)|[![Practice][p]](https://www.fastprep.io/problems/clay-hierarchical-file-system)|🔥 Sep 25, 2026|
 |**Clay**|[Workspace File System With Folders and Tables](https://www.fastprep.io/problems/clay-workspace-folders-and-tables)|[![Practice][p]](https://www.fastprep.io/problems/clay-workspace-folders-and-tables)|🔥 Sep 25, 2026|
+|**Visa**|[Top Mutual-Friend Recommendations](https://www.fastprep.io/problems/visa-mutual-friend-recommendations)|[![Practice][p]](https://www.fastprep.io/problems/visa-mutual-friend-recommendations)|🔥 Sep 24, 2026|
+|**Visa**|[Minimum Power-of-Two Removal Operations](https://www.fastprep.io/problems/visa-minimum-power-of-two-removal-operations)|[![Practice][p]](https://www.fastprep.io/problems/visa-minimum-power-of-two-removal-operations)|🔥 Sep 24, 2026|
+|**Visa**|[Optimal Transfer](https://www.fastprep.io/problems/visa-optimal-transfer)|[![Practice][p]](https://www.fastprep.io/problems/visa-optimal-transfer)|🔥 Sep 24, 2026|
 |**Microsoft**|[Shopkeeper Final Price Summary](https://www.fastprep.io/problems/microsoft-shopkeeper-final-price-summary)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-shopkeeper-final-price-summary)|🔥 Sep 24, 2026|
 |**JP Morgan Chase**|[Same Substring Within Budget](https://www.fastprep.io/problems/jpmorgan-same-substring-within-budget)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-same-substring-within-budget)|🔥 Sep 24, 2026|
 |**JP Morgan Chase**|[Minimum Digit Changes Between String Halves](https://www.fastprep.io/problems/jpmorgan-minimum-digit-anagram-changes)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-minimum-digit-anagram-changes)|🔥 Sep 24, 2026|
@@ -1878,7 +1881,4 @@
 |**Optiver**|[Customer Checkout Duration](https://www.fastprep.io/problems/optiver-customer-checkout-duration)|[![Practice][p]](https://www.fastprep.io/problems/optiver-customer-checkout-duration)|Aug 07, 2024|
 |**Akuna**|[Maximize Segregation Cost](https://www.fastprep.io/problems/akuna-maximize-segregation-cost)|[![Practice][p]](https://www.fastprep.io/problems/akuna-maximize-segregation-cost)|Aug 06, 2024|
 |**BNY Mellon**|[Count Subsequences](https://www.fastprep.io/problems/bnymellon-count-subsequences)|[![Practice][p]](https://www.fastprep.io/problems/bnymellon-count-subsequences)|Aug 06, 2024|
-|**BNY Mellon**|[Dig Sum](https://www.fastprep.io/problems/bnymellon-ways-to-choose-sum)|[![Practice][p]](https://www.fastprep.io/problems/bnymellon-ways-to-choose-sum)|Aug 06, 2024|
-|**Amazon**|[Process Queries On Cart](https://www.fastprep.io/problems/amazon-process-queries-on-cart)|[![Practice][p]](https://www.fastprep.io/problems/amazon-process-queries-on-cart)|Aug 05, 2024|
-|**Amazon**|[Assign Tasks](https://www.fastprep.io/problems/amazon-assign-tasks)|[![Practice][p]](https://www.fastprep.io/problems/amazon-assign-tasks)|Aug 05, 2024|
 <a id="bottom"></a>

@@ -2,12 +2,15 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,345 questions**
+**2,348 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**BNY Mellon**|[Dig Sum](https://www.fastprep.io/problems/bnymellon-ways-to-choose-sum)|[![Practice][p]](https://www.fastprep.io/problems/bnymellon-ways-to-choose-sum)|Aug 06, 2024|
+|**Amazon**|[Process Queries On Cart](https://www.fastprep.io/problems/amazon-process-queries-on-cart)|[![Practice][p]](https://www.fastprep.io/problems/amazon-process-queries-on-cart)|Aug 05, 2024|
+|**Amazon**|[Assign Tasks](https://www.fastprep.io/problems/amazon-assign-tasks)|[![Practice][p]](https://www.fastprep.io/problems/amazon-assign-tasks)|Aug 05, 2024|
 |**Amazon**|[Get Active Requests Count](https://www.fastprep.io/problems/amazon-get-active-requests-count)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-active-requests-count)|Aug 05, 2024|
 |**Amazon**|[Get Operations](https://www.fastprep.io/problems/amazon-get-operations)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-operations)|Aug 05, 2024|
 |**Salesforce**|[Count Numbers with Unique Digits](https://www.fastprep.io/problems/salesforce-count-numbers-with-unique-digits)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-count-numbers-with-unique-digits)|Aug 05, 2024|

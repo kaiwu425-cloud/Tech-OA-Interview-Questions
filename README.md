@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,345)](formats/coding.md) · [SQL (41)](formats/sql.md) · [System design (406)](formats/system-design.md) · [Low-level design (99)](formats/low-level-design.md) · [AI coding (51)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,348)](formats/coding.md) · [SQL (41)](formats/sql.md) · [System design (406)](formats/system-design.md) · [Low-level design (99)](formats/low-level-design.md) · [AI coding (51)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -62,6 +62,9 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Clay**|[Workspace File System With Folders and Tables](https://www.fastprep.io/problems/clay-workspace-folders-and-tables)|Coding|[![Practice][p]](https://www.fastprep.io/problems/clay-workspace-folders-and-tables)|🔥 Sep 25, 2026|
 |**LiveKit**|[AI Support Agent with Guarded Refunds](https://www.fastprep.io/system-design/ai-support-agent-with-guarded-refunds)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ai-support-agent-with-guarded-refunds)|🔥 Sep 25, 2026|
 |**Alpaca**|[Large-Scale Messaging Application](https://www.fastprep.io/system-design/large-scale-messaging-application)|System design|[![Practice][p]](https://www.fastprep.io/system-design/large-scale-messaging-application)|🔥 Sep 25, 2026|
+|**Visa**|[Top Mutual-Friend Recommendations](https://www.fastprep.io/problems/visa-mutual-friend-recommendations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-mutual-friend-recommendations)|🔥 Sep 24, 2026|
+|**Visa**|[Minimum Power-of-Two Removal Operations](https://www.fastprep.io/problems/visa-minimum-power-of-two-removal-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-minimum-power-of-two-removal-operations)|🔥 Sep 24, 2026|
+|**Visa**|[Optimal Transfer](https://www.fastprep.io/problems/visa-optimal-transfer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-optimal-transfer)|🔥 Sep 24, 2026|
 |**Microsoft**|[Shopkeeper Final Price Summary](https://www.fastprep.io/problems/microsoft-shopkeeper-final-price-summary)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-shopkeeper-final-price-summary)|🔥 Sep 24, 2026|
 |**JP Morgan Chase**|[Same Substring Within Budget](https://www.fastprep.io/problems/jpmorgan-same-substring-within-budget)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-same-substring-within-budget)|🔥 Sep 24, 2026|
 |**JP Morgan Chase**|[Minimum Digit Changes Between String Halves](https://www.fastprep.io/problems/jpmorgan-minimum-digit-anagram-changes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-minimum-digit-anagram-changes)|🔥 Sep 24, 2026|
@@ -1710,7 +1713,4 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Mistral AI**|[PDF-to-Markdown Inference API](https://www.fastprep.io/system-design/pdf-to-markdown-inference-api)|System design|[![Practice][p]](https://www.fastprep.io/system-design/pdf-to-markdown-inference-api)|Apr 16, 2026|
 |**Google / Datadog**|[Design a Real-Time Anomaly Detection Service](https://www.fastprep.io/system-design/real-time-anomaly-detection-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/real-time-anomaly-detection-service)|Apr 15, 2026|
 |**Datadog**|[Design Memory-Bounded Ordinary Least Squares](https://www.fastprep.io/system-design/memory-bounded-ordinary-least-squares)|System design|[![Practice][p]](https://www.fastprep.io/system-design/memory-bounded-ordinary-least-squares)|Apr 15, 2026|
-|**Datadog**|[Design Server Latency Detection and On-Call Paging](https://www.fastprep.io/system-design/server-latency-detection-and-paging)|System design|[![Practice][p]](https://www.fastprep.io/system-design/server-latency-detection-and-paging)|Apr 15, 2026|
-|**Amazon**|[Maximum Score With Non-Adjacent Values](https://www.fastprep.io/problems/amazon-maximum-score-with-non-adjacent-values)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-score-with-non-adjacent-values)|Apr 14, 2026|
-|**Amazon**|[Make Value Groups Contiguous](https://www.fastprep.io/problems/amazon-make-value-groups-contiguous)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-make-value-groups-contiguous)|Apr 13, 2026|
 <a id="bottom"></a>
