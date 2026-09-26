@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**DoorDash**|[Maximize Total Profit by Assigning Chefs to Dishes](https://www.fastprep.io/problems/doordash-maximize-total-profit-chef-dish-assignment)|Coding|[![Practice][p]](https://www.fastprep.io/problems/doordash-maximize-total-profit-chef-dish-assignment)|May 11, 2026|
+|**Ericsson**|[Pascal's Triangle](https://www.fastprep.io/problems/ericsson-pascals-triangle)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ericsson-pascals-triangle)|May 11, 2026|
+|**Ericsson**|[Top K Frequent Elements](https://www.fastprep.io/problems/ericsson-top-k-frequent-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ericsson-top-k-frequent-elements)|May 11, 2026|
+|**Geico**|[Implement an LRU Cache](https://www.fastprep.io/problems/geico-implement-lru-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/geico-implement-lru-cache)|May 11, 2026|
 |**TikTok**|[Maximum Candies with At Most Two Types in a Line](https://www.fastprep.io/problems/tiktok-maximum-candies-two-types-line)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-maximum-candies-two-types-line)|May 11, 2026|
 |**TikTok**|[LRU Cache with TTL Expiration](https://www.fastprep.io/problems/tiktok-lru-cache-with-ttl-expiration)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-lru-cache-with-ttl-expiration)|May 11, 2026|
 |**Upstart**|[Bounding Box from Coordinates](https://www.fastprep.io/problems/upstart-bounding-box-from-coordinates)|Coding|[![Practice][p]](https://www.fastprep.io/problems/upstart-bounding-box-from-coordinates)|May 11, 2026|
