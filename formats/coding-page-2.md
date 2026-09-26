@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,342 questions**
+**2,345 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Amazon**|[Get Active Requests Count](https://www.fastprep.io/problems/amazon-get-active-requests-count)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-active-requests-count)|Aug 05, 2024|
 |**Amazon**|[Get Operations](https://www.fastprep.io/problems/amazon-get-operations)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-operations)|Aug 05, 2024|
 |**Salesforce**|[Count Numbers with Unique Digits](https://www.fastprep.io/problems/salesforce-count-numbers-with-unique-digits)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-count-numbers-with-unique-digits)|Aug 05, 2024|
 |**Google**|[Find Max Heart Rate Difference](https://www.fastprep.io/problems/google-find-max-heart-rate-difference)|[![Practice][p]](https://www.fastprep.io/problems/google-find-max-heart-rate-difference)|Aug 05, 2024|
@@ -220,6 +221,7 @@
 |**General Motors**|[Smallest But Greater](https://www.fastprep.io/problems/gms-find-the-tinest-greater-than-a-specifc-num)|[![Practice][p]](https://www.fastprep.io/problems/gms-find-the-tinest-greater-than-a-specifc-num)|Mar 17, 2024|
 |**Microsoft**|[Cleaning Bot (Microsoft India)](https://www.fastprep.io/problems/microsoft-cleaning-bot)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-cleaning-bot)|Mar 16, 2024|
 |**Morgan Stanley**|[Get Subsequence Count](https://www.fastprep.io/problems/stanley-get-subsequence-count)|[![Practice][p]](https://www.fastprep.io/problems/stanley-get-subsequence-count)|Mar 16, 2024|
+|**Old Mission**|[Merging Palindromes](https://www.fastprep.io/problems/old-mission-merging-palindromes)|[![Practice][p]](https://www.fastprep.io/problems/old-mission-merging-palindromes)|Mar 14, 2024|
 |**Amazon**|[Match Strings](https://www.fastprep.io/problems/amazon-match-strings)|[![Practice][p]](https://www.fastprep.io/problems/amazon-match-strings)|Mar 14, 2024|
 |**DoorDash**|[Sizes of Friend Groups](https://www.fastprep.io/problems/doordash-get-sizes-of-friends-groups)|[![Practice][p]](https://www.fastprep.io/problems/doordash-get-sizes-of-friends-groups)|Mar 14, 2024|
 |**TikTok**|[Minimum Buckets](https://www.fastprep.io/problems/tiktok-minimum-buckets)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-minimum-buckets)|Mar 13, 2024|
@@ -440,6 +442,7 @@
 |**Airbnb**|[Minimum Cost to Remove Stones](https://www.fastprep.io/problems/airbnb-minimum-cost-to-remove-stones)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-minimum-cost-to-remove-stones)|Apr 09, 2023|
 |**IMC**|[Busy Intersection](https://www.fastprep.io/problems/imc-busy-intersection)|[![Practice][p]](https://www.fastprep.io/problems/imc-busy-intersection)|Mar 27, 2023|
 |**Odoo**|[Maximum Profit from an Increasing Price Triplet](https://www.fastprep.io/problems/odoo-maximum-profit-increasing-triplet)|[![Practice][p]](https://www.fastprep.io/problems/odoo-maximum-profit-increasing-triplet)|Jan 24, 2023|
+|**Old Mission**|[Implement an Unordered Map](https://www.fastprep.io/problems/old-mission-implement-unordered-map)|[![Practice][p]](https://www.fastprep.io/problems/old-mission-implement-unordered-map)|Dec 13, 2022|
 |**Tesla**|[Find the Intersection Node of Two Linked Lists](https://www.fastprep.io/problems/tesla-linked-list-intersection-node)|[![Practice][p]](https://www.fastprep.io/problems/tesla-linked-list-intersection-node)|Oct 17, 2022|
 |**Airbnb**|[Count Palindromic Substrings](https://www.fastprep.io/problems/airbnb-count-palindromic-substrings)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-count-palindromic-substrings)|Sep 23, 2022|
 |**IMC**|[Reaching Points with Perfect-Square Obstacles](https://www.fastprep.io/problems/imc-perfect-square-forbidden-reaching-points)|[![Practice][p]](https://www.fastprep.io/problems/imc-perfect-square-forbidden-reaching-points)|Sep 07, 2022|

@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**2,342 questions**
+**2,345 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -1405,6 +1405,7 @@
 |**Epify**|[Request Redirection](https://www.fastprep.io/problems/epifi-get-min-latency)|[![Practice][p]](https://www.fastprep.io/problems/epifi-get-min-latency)|May 25, 2025|
 |**Juspay**|[Converging Maze: Largest Sum Cycle](https://www.fastprep.io/problems/juspay-converging-maze-largest-sum-cycle)|[![Practice][p]](https://www.fastprep.io/problems/juspay-converging-maze-largest-sum-cycle)|May 25, 2025|
 |**Juspay**|[Converging Maze: Nearest meeting cell](https://www.fastprep.io/problems/juspay-nearest-meeting-cell)|[![Practice][p]](https://www.fastprep.io/problems/juspay-nearest-meeting-cell)|May 25, 2025|
+|**Old Mission**|[Restricted JSON Parser](https://www.fastprep.io/problems/old-mission-restricted-json-parser)|[![Practice][p]](https://www.fastprep.io/problems/old-mission-restricted-json-parser)|May 12, 2025|
 |**ElevenLabs**|[Dubbing Review Status Propagation](https://www.fastprep.io/problems/elevenlabs-dubbing-review-status)|[![Practice][p]](https://www.fastprep.io/problems/elevenlabs-dubbing-review-status)|May 01, 2025|
 |**Clay**|[Minesweeper Board Update](https://www.fastprep.io/problems/clay-minesweeper-board-update)|[![Practice][p]](https://www.fastprep.io/problems/clay-minesweeper-board-update)|Apr 30, 2025|
 |**Hebbia**|[Most Relevant Text Span](https://www.fastprep.io/problems/hebbia-most-relevant-text-span)|[![Practice][p]](https://www.fastprep.io/problems/hebbia-most-relevant-text-span)|Apr 28, 2025|
@@ -1880,5 +1881,4 @@
 |**BNY Mellon**|[Dig Sum](https://www.fastprep.io/problems/bnymellon-ways-to-choose-sum)|[![Practice][p]](https://www.fastprep.io/problems/bnymellon-ways-to-choose-sum)|Aug 06, 2024|
 |**Amazon**|[Process Queries On Cart](https://www.fastprep.io/problems/amazon-process-queries-on-cart)|[![Practice][p]](https://www.fastprep.io/problems/amazon-process-queries-on-cart)|Aug 05, 2024|
 |**Amazon**|[Assign Tasks](https://www.fastprep.io/problems/amazon-assign-tasks)|[![Practice][p]](https://www.fastprep.io/problems/amazon-assign-tasks)|Aug 05, 2024|
-|**Amazon**|[Get Active Requests Count](https://www.fastprep.io/problems/amazon-get-active-requests-count)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-active-requests-count)|Aug 05, 2024|
 <a id="bottom"></a>

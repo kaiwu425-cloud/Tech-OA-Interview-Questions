@@ -279,6 +279,7 @@
 |**Google**|[Design Personalized Private Email Search](https://www.fastprep.io/system-design/personalized-private-email-search)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-private-email-search)|May 23, 2025|
 |**Postman**|[Design a Dating Application](https://www.fastprep.io/low-level-design/dating-application-object-model)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/dating-application-object-model)|May 15, 2025|
 |**Postman**|[Design a Location-Aware Dating Application](https://www.fastprep.io/low-level-design/location-aware-dating-application)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/location-aware-dating-application)|May 15, 2025|
+|**Old Mission**|[Restricted JSON Parser](https://www.fastprep.io/problems/old-mission-restricted-json-parser)|Coding|[![Practice][p]](https://www.fastprep.io/problems/old-mission-restricted-json-parser)|May 12, 2025|
 |**ElevenLabs**|[Dubbing Review Status Propagation](https://www.fastprep.io/problems/elevenlabs-dubbing-review-status)|Coding|[![Practice][p]](https://www.fastprep.io/problems/elevenlabs-dubbing-review-status)|May 01, 2025|
 |**ElevenLabs**|[Collaborative Dubbing Review Platform](https://www.fastprep.io/system-design/collaborative-dubbing-review-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/collaborative-dubbing-review-platform)|May 01, 2025|
 |**Clay**|[Minesweeper Board Update](https://www.fastprep.io/problems/clay-minesweeper-board-update)|Coding|[![Practice][p]](https://www.fastprep.io/problems/clay-minesweeper-board-update)|Apr 30, 2025|
@@ -987,6 +988,7 @@
 |**General Motors**|[Smallest But Greater](https://www.fastprep.io/problems/gms-find-the-tinest-greater-than-a-specifc-num)|Coding|[![Practice][p]](https://www.fastprep.io/problems/gms-find-the-tinest-greater-than-a-specifc-num)|Mar 17, 2024|
 |**Microsoft**|[Cleaning Bot (Microsoft India)](https://www.fastprep.io/problems/microsoft-cleaning-bot)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-cleaning-bot)|Mar 16, 2024|
 |**Morgan Stanley**|[Get Subsequence Count](https://www.fastprep.io/problems/stanley-get-subsequence-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stanley-get-subsequence-count)|Mar 16, 2024|
+|**Old Mission**|[Merging Palindromes](https://www.fastprep.io/problems/old-mission-merging-palindromes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/old-mission-merging-palindromes)|Mar 14, 2024|
 |**Amazon**|[Match Strings](https://www.fastprep.io/problems/amazon-match-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-match-strings)|Mar 14, 2024|
 |**DoorDash**|[Sizes of Friend Groups](https://www.fastprep.io/problems/doordash-get-sizes-of-friends-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/doordash-get-sizes-of-friends-groups)|Mar 14, 2024|
 |**TikTok**|[Minimum Buckets](https://www.fastprep.io/problems/tiktok-minimum-buckets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-minimum-buckets)|Mar 13, 2024|
@@ -1211,6 +1213,7 @@
 |**Runway**|[Video Content Analysis Platform](https://www.fastprep.io/system-design/video-content-analysis-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/video-content-analysis-platform)|Apr 04, 2023|
 |**IMC**|[Busy Intersection](https://www.fastprep.io/problems/imc-busy-intersection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-busy-intersection)|Mar 27, 2023|
 |**Odoo**|[Maximum Profit from an Increasing Price Triplet](https://www.fastprep.io/problems/odoo-maximum-profit-increasing-triplet)|Coding|[![Practice][p]](https://www.fastprep.io/problems/odoo-maximum-profit-increasing-triplet)|Jan 24, 2023|
+|**Old Mission**|[Implement an Unordered Map](https://www.fastprep.io/problems/old-mission-implement-unordered-map)|Coding|[![Practice][p]](https://www.fastprep.io/problems/old-mission-implement-unordered-map)|Dec 13, 2022|
 |**Confluent**|[Design a Resilient Infinite-Scroll Social Feed](https://www.fastprep.io/system-design/resilient-infinite-scroll-social-feed)|System design|[![Practice][p]](https://www.fastprep.io/system-design/resilient-infinite-scroll-social-feed)|Oct 18, 2022|
 |**Tesla**|[Find the Intersection Node of Two Linked Lists](https://www.fastprep.io/problems/tesla-linked-list-intersection-node)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tesla-linked-list-intersection-node)|Oct 17, 2022|
 |**Airbnb**|[Count Palindromic Substrings](https://www.fastprep.io/problems/airbnb-count-palindromic-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-count-palindromic-substrings)|Sep 23, 2022|
