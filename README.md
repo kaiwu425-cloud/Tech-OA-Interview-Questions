@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,486)](formats/coding.md) · [SQL (42)](formats/sql.md) · [System design (439)](formats/system-design.md) · [Low-level design (111)](formats/low-level-design.md) · [AI coding (52)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,676)](formats/coding.md) · [SQL (42)](formats/sql.md) · [System design (439)](formats/system-design.md) · [Low-level design (111)](formats/low-level-design.md) · [AI coding (52)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -1184,7 +1184,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Amazon / Oracle**|[Design a Netflix-Style Streaming Platform](https://www.fastprep.io/system-design/netflix-streaming-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/netflix-streaming-platform)|Aug 10, 2026|
 |**Uber**|[Design a Driver Review Leaderboard](https://www.fastprep.io/system-design/driver-review-leaderboard)|System design|[![Practice][p]](https://www.fastprep.io/system-design/driver-review-leaderboard)|Aug 10, 2026|
 |**Oracle**|[Design a Remote Browser Isolation Service](https://www.fastprep.io/system-design/remote-browser-isolation-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/remote-browser-isolation-service)|Aug 10, 2026|
-|**Pinterest**|[Design a Blackjack Table Game](https://www.fastprep.io/low-level-design/blackjack-table-game)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/blackjack-table-game)|Aug 10, 2026|
+|**Pinterest / Bloomberg LP**|[Design a Blackjack Table Game](https://www.fastprep.io/low-level-design/blackjack-table-game)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/blackjack-table-game)|Aug 10, 2026|
 |**Spotify**|[Design a Weekly User Activity Prediction System](https://www.fastprep.io/system-design/weekly-user-activity-prediction)|System design|[![Practice][p]](https://www.fastprep.io/system-design/weekly-user-activity-prediction)|Aug 10, 2026|
 |**Anthropic**|[Design Production ML Serving Observability](https://www.fastprep.io/system-design/production-ml-serving-observability)|System design|[![Practice][p]](https://www.fastprep.io/system-design/production-ml-serving-observability)|Aug 10, 2026|
 |**Amazon**|[Design Group Purchase Contributions and Settlement](https://www.fastprep.io/system-design/group-purchase-contribution-settlement)|System design|[![Practice][p]](https://www.fastprep.io/system-design/group-purchase-contribution-settlement)|Aug 10, 2026|
@@ -1201,6 +1201,8 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Adobe**|[Trapped Characters in a Grid](https://www.fastprep.io/problems/adobe-trapped-characters-in-grid)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adobe-trapped-characters-in-grid)|Aug 09, 2026|
 |**Zoox**|[Design a Real-Time Fleet Location Display](https://www.fastprep.io/system-design/real-time-fleet-location-display)|System design|[![Practice][p]](https://www.fastprep.io/system-design/real-time-fleet-location-display)|Aug 07, 2026|
 |**Figma**|[Design Trending Design Files](https://www.fastprep.io/system-design/trending-design-files)|System design|[![Practice][p]](https://www.fastprep.io/system-design/trending-design-files)|Aug 07, 2026|
+|**Bloomberg LP**|[Merge Intervals](https://www.fastprep.io/problems/bloomberg-merge-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-merge-intervals)|Aug 07, 2026|
+|**Bloomberg LP**|[Valid Palindrome II](https://www.fastprep.io/problems/bloomberg-valid-palindrome-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-valid-palindrome-ii)|Aug 07, 2026|
 |**Anthropic**|[Repair an Agent and Reduce Its Turn Count](https://www.fastprep.io/project-coding/anthropic-agent-turn-reduction)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/anthropic-agent-turn-reduction)|Aug 06, 2026|
 |**Rippling**|[Design a Frontend News Feed with Offline Virtualization](https://www.fastprep.io/system-design/frontend-news-feed-offline-virtualization)|System design|[![Practice][p]](https://www.fastprep.io/system-design/frontend-news-feed-offline-virtualization)|Aug 06, 2026|
 |**Amazon**|[Design an ML Training and Deployment Platform](https://www.fastprep.io/system-design/ml-training-and-inference-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ml-training-and-inference-platform)|Aug 06, 2026|
@@ -1403,7 +1405,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Visa**|[Signal Pings](https://www.fastprep.io/problems/visa-signal-pings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-signal-pings)|Jul 23, 2026|
 |**OnePay**|[Design a Community Chat Platform](https://www.fastprep.io/system-design/community-chat-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/community-chat-platform)|Jul 23, 2026|
 |**Roblox**|[Design a Like/Unlike Service](https://www.fastprep.io/system-design/like-unlike-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/like-unlike-service)|Jul 23, 2026|
-|**Bloomberg**|[Word Break II](https://www.fastprep.io/problems/bloomberg-word-break-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-word-break-ii)|Jul 22, 2026|
+|**Bloomberg LP**|[Word Break II](https://www.fastprep.io/problems/bloomberg-word-break-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-word-break-ii)|Jul 22, 2026|
 |**Microsoft**|[Binary String Swap Time](https://www.fastprep.io/problems/microsoft-binary-string-swap-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-binary-string-swap-time)|Jul 22, 2026|
 |**Microsoft**|[Minimum Effort Task Schedule](https://www.fastprep.io/problems/microsoft-minimum-effort-task-schedule)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-effort-task-schedule)|Jul 22, 2026|
 |**Tekion**|[Longest Balanced Substring After One Swap](https://www.fastprep.io/problems/tekion-longest-balanced-substring-after-one-swap)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-longest-balanced-substring-after-one-swap)|Jul 22, 2026|
@@ -1708,6 +1710,4 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Infosys**|[Minimum Path Sum With Grid Switches](https://www.fastprep.io/problems/infosys-minimum-path-sum-with-grid-switches)|Coding|[![Practice][p]](https://www.fastprep.io/problems/infosys-minimum-path-sum-with-grid-switches)|May 19, 2026|
 |**Snowflake**|[Effective Role Privileges](https://www.fastprep.io/problems/snowflake-effective-role-privileges)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-effective-role-privileges)|May 19, 2026|
 |**Ramp**|[Cloud Storage System, Part 1: File Operations](https://www.fastprep.io/problems/ramp-cloud-storage-level-1)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-cloud-storage-level-1)|May 18, 2026|
-|**Ramp**|[Cloud Storage System, Part 2: Largest Files](https://www.fastprep.io/problems/ramp-cloud-storage-level-2)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-cloud-storage-level-2)|May 18, 2026|
-|**Ramp**|[Cloud Storage System, Part 3: Users and Capacity](https://www.fastprep.io/problems/ramp-cloud-storage-level-3)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-cloud-storage-level-3)|May 18, 2026|
 <a id="bottom"></a>
