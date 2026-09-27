@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Pinterest**|[Assign Pins to the Shortest Column](https://www.fastprep.io/problems/pinterest-assign-pins-to-shortest-column)|Coding|[![Practice][p]](https://www.fastprep.io/problems/pinterest-assign-pins-to-shortest-column)|May 18, 2026|
 |**OpenAI**|[Grid Infection Spread Until Stable](https://www.fastprep.io/problems/openai-grid-infection-spread-until-stable)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-grid-infection-spread-until-stable)|May 16, 2026|
 |**OpenAI**|[Grid Infection with Immune Cells Until Stable](https://www.fastprep.io/problems/openai-grid-infection-with-immune-cells)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-grid-infection-with-immune-cells)|May 16, 2026|
 |**OpenAI**|[Chat Event Counts](https://www.fastprep.io/problems/openai-chat-event-counts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-chat-event-counts)|May 13, 2026|
@@ -218,6 +219,7 @@
 |**Accenture**|[Array Leader Elements](https://www.fastprep.io/problems/accenture-array-leader-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/accenture-array-leader-elements)|Nov 28, 2025|
 |**Sierra**|[Design a Resumable Streaming AI Chat](https://www.fastprep.io/system-design/resumable-streaming-ai-chat)|System design|[![Practice][p]](https://www.fastprep.io/system-design/resumable-streaming-ai-chat)|Nov 24, 2025|
 |**BitGo**|[Design and Implement an In-Memory Relational Database Engine](https://www.fastprep.io/low-level-design/in-memory-relational-database-engine)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-relational-database-engine)|Nov 23, 2025|
+|**Bloomberg LP**|[Design and Implement a Fair Event Registration Queue](https://www.fastprep.io/low-level-design/fair-event-registration-queue)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/fair-event-registration-queue)|Nov 21, 2025|
 |**Rippling**|[Song Play Analytics](https://www.fastprep.io/problems/rippling-song-play-analytics)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-song-play-analytics)|Nov 20, 2025|
 |**Rippling**|[Build an In-Memory Community Q&A API](https://www.fastprep.io/project-coding/community-question-answer-api)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/community-question-answer-api)|Nov 20, 2025|
 |**Rippling**|[Median of Parsed Integer Strings](https://www.fastprep.io/problems/rippling-parsed-median)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-parsed-median)|Nov 19, 2025|
@@ -1340,7 +1342,7 @@
 |**Bloomberg LP**|[Design a Real-Time Stock Alert System](https://www.fastprep.io/system-design/configurable-real-time-stock-alerts)|System design|[![Practice][p]](https://www.fastprep.io/system-design/configurable-real-time-stock-alerts)|Feb 22, 2023|
 |**Odoo**|[Maximum Profit from an Increasing Price Triplet](https://www.fastprep.io/problems/odoo-maximum-profit-increasing-triplet)|Coding|[![Practice][p]](https://www.fastprep.io/problems/odoo-maximum-profit-increasing-triplet)|Jan 24, 2023|
 |**Old Mission**|[Implement an Unordered Map](https://www.fastprep.io/problems/old-mission-implement-unordered-map)|Coding|[![Practice][p]](https://www.fastprep.io/problems/old-mission-implement-unordered-map)|Dec 13, 2022|
-|**Bloomberg LP**|[Design a Deck, Hand, and Dealer](https://www.fastprep.io/low-level-design/card-game-deck-hand-dealer)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/card-game-deck-hand-dealer)|Nov 03, 2022|
+|**Bloomberg LP**|[Design a Deck, Hand, and Dealer](https://www.fastprep.io/low-level-design/card-game-deck-hand-dealer)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/card-game-deck-hand-dealer)|Nov 02, 2022|
 |**Confluent**|[Design a Resilient Infinite-Scroll Social Feed](https://www.fastprep.io/system-design/resilient-infinite-scroll-social-feed)|System design|[![Practice][p]](https://www.fastprep.io/system-design/resilient-infinite-scroll-social-feed)|Oct 18, 2022|
 |**Tesla**|[Find the Intersection Node of Two Linked Lists](https://www.fastprep.io/problems/tesla-linked-list-intersection-node)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tesla-linked-list-intersection-node)|Oct 17, 2022|
 |**Duolingo**|[Most-Read Page Across Every Valid Storyline](https://www.fastprep.io/problems/duolingo-most-read-story-page)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-most-read-story-page)|Oct 03, 2022|
@@ -1351,7 +1353,7 @@
 |**Duolingo**|[Rank Common Translation Mistakes](https://www.fastprep.io/problems/duolingo-counting-mistakes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-counting-mistakes)|Sep 19, 2022|
 |**IMC**|[Reaching Points with Perfect-Square Obstacles](https://www.fastprep.io/problems/imc-perfect-square-forbidden-reaching-points)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-perfect-square-forbidden-reaching-points)|Sep 07, 2022|
 |**Alpaca**|[Aggregate a Large Dataset With GROUP BY](https://www.fastprep.io/problems/alpaca-large-dataset-group-by)|Coding|[![Practice][p]](https://www.fastprep.io/problems/alpaca-large-dataset-group-by)|Sep 04, 2022|
-|**Bloomberg LP**|[Design Internal Latency Measurement and Alerting](https://www.fastprep.io/system-design/internal-latency-measurement-alerting)|System design|[![Practice][p]](https://www.fastprep.io/system-design/internal-latency-measurement-alerting)|Aug 13, 2022|
+|**Bloomberg LP**|[Design Internal Latency Measurement and Alerting](https://www.fastprep.io/system-design/internal-latency-measurement-alerting)|System design|[![Practice][p]](https://www.fastprep.io/system-design/internal-latency-measurement-alerting)|Aug 12, 2022|
 |**Careem**|[Design a Highly Available Distributed Key-Value Store](https://www.fastprep.io/system-design/highly-available-distributed-key-value-store)|System design|[![Practice][p]](https://www.fastprep.io/system-design/highly-available-distributed-key-value-store)|Aug 08, 2022|
 |**Bloomberg LP**|[Design Top-K News Articles in a Time Window](https://www.fastprep.io/system-design/top-k-news-arbitrary-window)|System design|[![Practice][p]](https://www.fastprep.io/system-design/top-k-news-arbitrary-window)|Jul 29, 2022|
 |**SambaNova Systems**|[Bomb Enemy Best Coordinates](https://www.fastprep.io/problems/sambanova-bomb-enemy-best-cells)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-bomb-enemy-best-cells)|Jun 30, 2022|
@@ -1416,8 +1418,8 @@
 |**SambaNova Systems**|[Diagonal Traverse](https://www.fastprep.io/problems/sambanova-diagonal-traverse)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-diagonal-traverse)|Nov 23, 2020|
 |**SambaNova Systems**|[Rotate Image](https://www.fastprep.io/problems/sambanova-rotate-image)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-rotate-image)|Nov 23, 2020|
 |**SambaNova Systems**|[Set Matrix Zeroes](https://www.fastprep.io/problems/sambanova-set-matrix-zeroes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-set-matrix-zeroes)|Nov 23, 2020|
-|**Bloomberg LP**|[Design an ML Word-Segmentation Service](https://www.fastprep.io/system-design/ml-word-segmentation-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ml-word-segmentation-service)|Oct 25, 2020|
-|**Bloomberg LP**|[Design ML Customer-Service Routing](https://www.fastprep.io/system-design/ml-customer-service-routing)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ml-customer-service-routing)|Oct 25, 2020|
+|**Bloomberg LP**|[Design an ML Word-Segmentation Service](https://www.fastprep.io/system-design/ml-word-segmentation-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ml-word-segmentation-service)|Oct 23, 2020|
+|**Bloomberg LP**|[Design ML Customer-Service Routing](https://www.fastprep.io/system-design/ml-customer-service-routing)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ml-customer-service-routing)|Oct 23, 2020|
 |**IMC**|[Hidden Artifacts](https://www.fastprep.io/problems/imc-hidden-artifacts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-hidden-artifacts)|Oct 20, 2020|
 |**Bloomberg LP**|[Design an Airport Operations Coordination System](https://www.fastprep.io/system-design/airport-operations-coordination)|System design|[![Practice][p]](https://www.fastprep.io/system-design/airport-operations-coordination)|Oct 20, 2020|
 |**SambaNova Systems**|[Peak Index in a Mountain Array](https://www.fastprep.io/problems/sambanova-peak-index-mountain-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-peak-index-mountain-array)|Oct 19, 2020|
