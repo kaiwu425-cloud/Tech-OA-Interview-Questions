@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,483 questions**
+**2,486 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Cisco**|[Find Min Cost To Shift Machines](https://www.fastprep.io/problems/cisco-find-minimum-cost-to-shift-machines)|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-minimum-cost-to-shift-machines)|Sep 03, 2024|
+|**Cisco**|[Get Min Servers](https://www.fastprep.io/problems/cisco-get-min-servers)|[![Practice][p]](https://www.fastprep.io/problems/cisco-get-min-servers)|Sep 03, 2024|
 |**Deutsche Bank**|[Give Min Sum](https://www.fastprep.io/problems/deutsche-bank-give-minimum-sum)|[![Practice][p]](https://www.fastprep.io/problems/deutsche-bank-give-minimum-sum)|Sep 03, 2024|
 |**Google**|[Sum of Distances in Tree](https://www.fastprep.io/problems/google-sum-of-distances-in-tree)|[![Practice][p]](https://www.fastprep.io/problems/google-sum-of-distances-in-tree)|Sep 03, 2024|
 |**Amazon**|[Get Min Size](https://www.fastprep.io/problems/amazon-get-min-size)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-size)|Aug 30, 2024|
@@ -530,6 +532,7 @@
 |**Stripe**|[URL Segment Compression Part 3 — Global Token Budget](https://www.fastprep.io/problems/stripe-url-segment-compression-part3)|[![Practice][p]](https://www.fastprep.io/problems/stripe-url-segment-compression-part3)|Nov 17, 2023|
 |**Onehouse**|[Least Recently Used Cache](https://www.fastprep.io/problems/onehouse-lru-cache)|[![Practice][p]](https://www.fastprep.io/problems/onehouse-lru-cache)|Nov 07, 2023|
 |**Onehouse**|[Least Frequently Used Cache](https://www.fastprep.io/problems/onehouse-lfu-cache)|[![Practice][p]](https://www.fastprep.io/problems/onehouse-lfu-cache)|Nov 07, 2023|
+|**Modular**|[Dense Matrix Multiplication](https://www.fastprep.io/problems/modular-dense-matrix-multiplication)|[![Practice][p]](https://www.fastprep.io/problems/modular-dense-matrix-multiplication)|Nov 03, 2023|
 |**SpaceX**|[Simplified Time-Based Key-Value Store](https://www.fastprep.io/problems/spacex-simplified-time-map)|[![Practice][p]](https://www.fastprep.io/problems/spacex-simplified-time-map)|Nov 02, 2023|
 |**Deloitte**|[Install Carbon Filters](https://www.fastprep.io/problems/deloitte-install-carbon-filters)|[![Practice][p]](https://www.fastprep.io/problems/deloitte-install-carbon-filters)|Oct 21, 2023|
 |**Deloitte**|[Longest Substring with Even Occurrences](https://www.fastprep.io/problems/deloitte-lonest-substring-with-even-occurrences)|[![Practice][p]](https://www.fastprep.io/problems/deloitte-lonest-substring-with-even-occurrences)|Oct 21, 2023|
