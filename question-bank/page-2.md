@@ -1023,6 +1023,7 @@
 |**MathWorks**|[Investable Periods](https://www.fastprep.io/problems/mathwork-count-investable-periods)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathwork-count-investable-periods)|Apr 05, 2024|
 |**Alarm.com**|[Arrange Coins](https://www.fastprep.io/problems/alarm-arrange-coins)|Coding|[![Practice][p]](https://www.fastprep.io/problems/alarm-arrange-coins)|Apr 05, 2024|
 |**Alarm.com**|[Days Since Last Login](https://www.fastprep.io/problems/alarm-days-since-last-login)|Coding|[![Practice][p]](https://www.fastprep.io/problems/alarm-days-since-last-login)|Apr 05, 2024|
+|**Microsoft**|[Design Budgeted AutoML Model Selection](https://www.fastprep.io/system-design/budgeted-automl-model-selection)|System design|[![Practice][p]](https://www.fastprep.io/system-design/budgeted-automl-model-selection)|Apr 05, 2024|
 |**Amazon**|[Max Aggregate Temp Change](https://www.fastprep.io/problems/amazon-get-max-aggregate-temperature-change)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-aggregate-temperature-change)|Mar 31, 2024|
 |**Google**|[Min Flips](https://www.fastprep.io/problems/google-min-flips-make-grid-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-min-flips-make-grid-palindrome)|Mar 31, 2024|
 |**Google**|[Mnimize Total Time](https://www.fastprep.io/problems/google-minimize-total-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimize-total-time)|Mar 31, 2024|
