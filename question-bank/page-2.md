@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**OpenAI**|[Chat Event Counts](https://www.fastprep.io/problems/openai-chat-event-counts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-chat-event-counts)|May 13, 2026|
 |**Amazon**|[Unique Pairs With Target Sum](https://www.fastprep.io/problems/amazon-unique-pairs-with-target-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-unique-pairs-with-target-sum)|May 13, 2026|
 |**Uber**|[Convex Function Minimization](https://www.fastprep.io/problems/uber-convex-function-minimization)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-convex-function-minimization)|May 13, 2026|
 |**Hudson River Trading**|[Integer to String Without Built-ins](https://www.fastprep.io/problems/hudson-river-trading-integer-to-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hudson-river-trading-integer-to-string)|May 13, 2026|

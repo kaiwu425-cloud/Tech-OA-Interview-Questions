@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**411 questions**
+**412 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Aurora Innovation**|[Safe LLM Driving Intent Platform](https://www.fastprep.io/system-design/llm-assisted-driving-intent-safety-platform)|[![Practice][p]](https://www.fastprep.io/system-design/llm-assisted-driving-intent-safety-platform)|🔥 Sep 27, 2026|
 |**Waabi**|[Autonomous Driving Auto-Labeling Pipeline](https://www.fastprep.io/system-design/autonomous-driving-auto-labeling-pipeline)|[![Practice][p]](https://www.fastprep.io/system-design/autonomous-driving-auto-labeling-pipeline)|🔥 Sep 26, 2026|
 |**Wayve / Waabi**|[Autonomous Driving Simulation Platform](https://www.fastprep.io/system-design/autonomous-driving-simulation-platform)|[![Practice][p]](https://www.fastprep.io/system-design/autonomous-driving-simulation-platform)|🔥 Sep 26, 2026|
 |**Modal**|[Burst-Aware Serverless Task Scheduler](https://www.fastprep.io/system-design/burst-task-scheduler)|[![Practice][p]](https://www.fastprep.io/system-design/burst-task-scheduler)|🔥 Sep 26, 2026|
