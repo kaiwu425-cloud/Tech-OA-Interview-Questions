@@ -2,12 +2,15 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**2,481 questions**
+**2,483 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Microsoft**|[Maximum Valid Substring Frequency](https://www.fastprep.io/problems/microsoft-maximum-valid-substring-frequency)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximum-valid-substring-frequency)|🔥 Sep 27, 2026|
+|**Microsoft**|[Minimum Non-Adjacent Selection Capability](https://www.fastprep.io/problems/microsoft-minimum-nonadjacent-capability)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-nonadjacent-capability)|🔥 Sep 27, 2026|
+|**Stripe**|[Deployment Window Scheduler](https://www.fastprep.io/problems/stripe-deployment-window-scheduler)|[![Practice][p]](https://www.fastprep.io/problems/stripe-deployment-window-scheduler)|🔥 Sep 27, 2026|
 |**IBM**|[Maximum Points by Deleting Elements](https://www.fastprep.io/problems/ibm-maximum-points-by-deleting-elements)|[![Practice][p]](https://www.fastprep.io/problems/ibm-maximum-points-by-deleting-elements)|🔥 Sep 26, 2026|
 |**Suno**|[Longest Path in a Directed Acyclic Graph](https://www.fastprep.io/problems/suno-longest-dag-path)|[![Practice][p]](https://www.fastprep.io/problems/suno-longest-dag-path)|🔥 Sep 26, 2026|
 |**Suno**|[Referral Credits After a First Song](https://www.fastprep.io/problems/suno-referral-song-credits)|[![Practice][p]](https://www.fastprep.io/problems/suno-referral-song-credits)|🔥 Sep 26, 2026|
@@ -520,7 +523,6 @@
 |**Millennium**|[Debug the Impact Model](https://www.fastprep.io/problems/millennium-debug-impact-model)|[![Practice][p]](https://www.fastprep.io/problems/millennium-debug-impact-model)|🆕 Sep 09, 2026|
 |**Millennium**|[Risk Limits and Inventory Skew](https://www.fastprep.io/problems/millennium-risk-limits-and-skew)|[![Practice][p]](https://www.fastprep.io/problems/millennium-risk-limits-and-skew)|🆕 Sep 09, 2026|
 |**Millennium**|[Debug the Risk-Limit Quoter](https://www.fastprep.io/problems/millennium-debug-risk-limit-quoter)|[![Practice][p]](https://www.fastprep.io/problems/millennium-debug-risk-limit-quoter)|🆕 Sep 09, 2026|
-|**Stripe**|[Deployment Window Scheduler](https://www.fastprep.io/problems/stripe-deployment-window-scheduler)|[![Practice][p]](https://www.fastprep.io/problems/stripe-deployment-window-scheduler)|🆕 Sep 09, 2026|
 |**Walmart**|[Distinct Bitwise-OR Scores of Increasing Subsequences](https://www.fastprep.io/problems/walmart-distinct-bitwise-or-scores)|[![Practice][p]](https://www.fastprep.io/problems/walmart-distinct-bitwise-or-scores)|🆕 Sep 09, 2026|
 |**Google**|[Maximum Coins With Moving Tokens](https://www.fastprep.io/problems/google-maximum-coins-with-moving-tokens)|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-coins-with-moving-tokens)|🆕 Sep 09, 2026|
 |**Google**|[Maximum Elements With a Common Digit](https://www.fastprep.io/problems/google-maximum-elements-with-a-common-digit)|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-elements-with-a-common-digit)|🆕 Sep 09, 2026|
@@ -1864,7 +1866,4 @@
 |**Microsoft**|[Maximum Number of Moves with Same Result](https://www.fastprep.io/problems/microsoft-max-num-of-moves)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-max-num-of-moves)|Sep 03, 2024|
 |**Cisco**|[Find Min Cost To Shift Machines](https://www.fastprep.io/problems/cisco-find-minimum-cost-to-shift-machines)|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-minimum-cost-to-shift-machines)|Sep 03, 2024|
 |**Cisco**|[Get Min Servers](https://www.fastprep.io/problems/cisco-get-min-servers)|[![Practice][p]](https://www.fastprep.io/problems/cisco-get-min-servers)|Sep 03, 2024|
-|**Deutsche Bank**|[Give Min Sum](https://www.fastprep.io/problems/deutsche-bank-give-minimum-sum)|[![Practice][p]](https://www.fastprep.io/problems/deutsche-bank-give-minimum-sum)|Sep 03, 2024|
-|**Google**|[Sum of Distances in Tree](https://www.fastprep.io/problems/google-sum-of-distances-in-tree)|[![Practice][p]](https://www.fastprep.io/problems/google-sum-of-distances-in-tree)|Sep 03, 2024|
-|**Amazon**|[Get Min Size](https://www.fastprep.io/problems/amazon-get-min-size)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-size)|Aug 30, 2024|
 <a id="bottom"></a>
