@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,481)](formats/coding.md) · [SQL (42)](formats/sql.md) · [System design (433)](formats/system-design.md) · [Low-level design (109)](formats/low-level-design.md) · [AI coding (51)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,483)](formats/coding.md) · [SQL (42)](formats/sql.md) · [System design (433)](formats/system-design.md) · [Low-level design (109)](formats/low-level-design.md) · [AI coding (51)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -34,6 +34,9 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
 |**Aurora Innovation**|[Safe LLM Driving Intent Platform](https://www.fastprep.io/system-design/llm-assisted-driving-intent-safety-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/llm-assisted-driving-intent-safety-platform)|🔥 Sep 27, 2026|
+|**Microsoft**|[Maximum Valid Substring Frequency](https://www.fastprep.io/problems/microsoft-maximum-valid-substring-frequency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximum-valid-substring-frequency)|🔥 Sep 27, 2026|
+|**Microsoft**|[Minimum Non-Adjacent Selection Capability](https://www.fastprep.io/problems/microsoft-minimum-nonadjacent-capability)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-nonadjacent-capability)|🔥 Sep 27, 2026|
+|**Stripe**|[Deployment Window Scheduler](https://www.fastprep.io/problems/stripe-deployment-window-scheduler)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-deployment-window-scheduler)|🔥 Sep 27, 2026|
 |**IBM**|[Maximum Points by Deleting Elements](https://www.fastprep.io/problems/ibm-maximum-points-by-deleting-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-maximum-points-by-deleting-elements)|🔥 Sep 26, 2026|
 |**Suno**|[Longest Path in a Directed Acyclic Graph](https://www.fastprep.io/problems/suno-longest-dag-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/suno-longest-dag-path)|🔥 Sep 26, 2026|
 |**Suno**|[Referral Credits After a First Song](https://www.fastprep.io/problems/suno-referral-song-credits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/suno-referral-song-credits)|🔥 Sep 26, 2026|
@@ -768,7 +771,6 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Millennium**|[Risk Limits and Inventory Skew](https://www.fastprep.io/problems/millennium-risk-limits-and-skew)|Coding|[![Practice][p]](https://www.fastprep.io/problems/millennium-risk-limits-and-skew)|🆕 Sep 09, 2026|
 |**Millennium**|[Debug the Risk-Limit Quoter](https://www.fastprep.io/problems/millennium-debug-risk-limit-quoter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/millennium-debug-risk-limit-quoter)|🆕 Sep 09, 2026|
 |**Millennium**|[Hedge Inventory with Return Covariance](https://www.fastprep.io/problems/millennium-hedge-inventory)|SQL|[![Practice][p]](https://www.fastprep.io/problems/millennium-hedge-inventory)|🆕 Sep 09, 2026|
-|**Stripe**|[Deployment Window Scheduler](https://www.fastprep.io/problems/stripe-deployment-window-scheduler)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-deployment-window-scheduler)|🆕 Sep 09, 2026|
 |**Walmart**|[Distinct Bitwise-OR Scores of Increasing Subsequences](https://www.fastprep.io/problems/walmart-distinct-bitwise-or-scores)|Coding|[![Practice][p]](https://www.fastprep.io/problems/walmart-distinct-bitwise-or-scores)|🆕 Sep 09, 2026|
 |**Google**|[Maximum Coins With Moving Tokens](https://www.fastprep.io/problems/google-maximum-coins-with-moving-tokens)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-coins-with-moving-tokens)|🆕 Sep 09, 2026|
 |**Google**|[Maximum Elements With a Common Digit](https://www.fastprep.io/problems/google-maximum-elements-with-a-common-digit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-elements-with-a-common-digit)|🆕 Sep 09, 2026|
@@ -1709,6 +1711,4 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Ramp**|[Cloud Storage System, Part 3: Users and Capacity](https://www.fastprep.io/problems/ramp-cloud-storage-level-3)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-cloud-storage-level-3)|May 18, 2026|
 |**Ramp**|[Cloud Storage System, Part 4: Backup and Restore](https://www.fastprep.io/problems/ramp-cloud-storage-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-cloud-storage-system)|May 18, 2026|
 |**Pinterest**|[Assign Pins to the Shortest Column](https://www.fastprep.io/problems/pinterest-assign-pins-to-shortest-column)|Coding|[![Practice][p]](https://www.fastprep.io/problems/pinterest-assign-pins-to-shortest-column)|May 18, 2026|
-|**OpenAI**|[Grid Infection Spread Until Stable](https://www.fastprep.io/problems/openai-grid-infection-spread-until-stable)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-grid-infection-spread-until-stable)|May 16, 2026|
-|**OpenAI**|[Grid Infection with Immune Cells Until Stable](https://www.fastprep.io/problems/openai-grid-infection-with-immune-cells)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-grid-infection-with-immune-cells)|May 16, 2026|
 <a id="bottom"></a>
