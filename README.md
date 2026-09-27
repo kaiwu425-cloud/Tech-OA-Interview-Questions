@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,676)](formats/coding.md) · [SQL (42)](formats/sql.md) · [System design (439)](formats/system-design.md) · [Low-level design (111)](formats/low-level-design.md) · [AI coding (52)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,715)](formats/coding.md) · [SQL (42)](formats/sql.md) · [System design (439)](formats/system-design.md) · [Low-level design (111)](formats/low-level-design.md) · [AI coding (52)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -1607,6 +1607,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**NatWest**|[Sum Elements at Even Indices](https://www.fastprep.io/problems/natwest-even-index-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/natwest-even-index-sum)|Jul 08, 2026|
 |**Safe Security**|[Maximum Subarray Sum](https://www.fastprep.io/problems/safe-security-maximum-subarray-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/safe-security-maximum-subarray-sum)|Jul 08, 2026|
 |**Blinkit**|[Unique Supersequence Merge](https://www.fastprep.io/problems/blinkit-unique-supersequence-merge)|Coding|[![Practice][p]](https://www.fastprep.io/problems/blinkit-unique-supersequence-merge)|Jul 08, 2026|
+|**Shield AI**|[Count Minimum-Difference Pairs](https://www.fastprep.io/problems/shield-ai-count-minimum-difference-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/shield-ai-count-minimum-difference-pairs)|Jul 08, 2026|
 |**Amazon**|[Merge Sorted Array](https://www.fastprep.io/problems/amazon-merge-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-merge-sorted-array)|Jul 07, 2026|
 |**PhonePe**|[Count Bowl Subarrays](https://www.fastprep.io/problems/phonepe-count-bowl-subarrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/phonepe-count-bowl-subarrays)|Jul 07, 2026|
 |**PhonePe**|[Reconstruct Itinerary](https://www.fastprep.io/problems/phonepe-reconstruct-itinerary)|Coding|[![Practice][p]](https://www.fastprep.io/problems/phonepe-reconstruct-itinerary)|Jul 07, 2026|
@@ -1709,5 +1710,4 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Salesforce**|[Time Needed to Rearrange a Binary String](https://www.fastprep.io/problems/salesforce-time-to-rearrange-binary-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-time-to-rearrange-binary-string)|May 19, 2026|
 |**Infosys**|[Minimum Path Sum With Grid Switches](https://www.fastprep.io/problems/infosys-minimum-path-sum-with-grid-switches)|Coding|[![Practice][p]](https://www.fastprep.io/problems/infosys-minimum-path-sum-with-grid-switches)|May 19, 2026|
 |**Snowflake**|[Effective Role Privileges](https://www.fastprep.io/problems/snowflake-effective-role-privileges)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-effective-role-privileges)|May 19, 2026|
-|**Ramp**|[Cloud Storage System, Part 1: File Operations](https://www.fastprep.io/problems/ramp-cloud-storage-level-1)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-cloud-storage-level-1)|May 18, 2026|
 <a id="bottom"></a>
