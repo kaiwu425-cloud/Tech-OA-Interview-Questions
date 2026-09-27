@@ -2,12 +2,19 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,475 questions**
+**2,481 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Salesforce**|[Get Perfect Pairs Count](https://www.fastprep.io/problems/salesforce-get-perfect-pairs-count)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-get-perfect-pairs-count)|Aug 30, 2024|
+|**Salesforce**|[Minimal Operations](https://www.fastprep.io/problems/salesforce-minimal-operations)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-minimal-operations)|Aug 30, 2024|
+|**JP Morgan**|[Get Largest Number](https://www.fastprep.io/problems/jpmorgan-get-largest-number)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-largest-number)|Aug 30, 2024|
+|**Uber**|[Count Elements](https://www.fastprep.io/problems/uber-count-elements)|[![Practice][p]](https://www.fastprep.io/problems/uber-count-elements)|Aug 30, 2024|
+|**Uber**|[Build Blocks and Obstacles](https://www.fastprep.io/problems/uber-build-blocks-and-obstacles)|[![Practice][p]](https://www.fastprep.io/problems/uber-build-blocks-and-obstacles)|Aug 30, 2024|
+|**Uber**|[Matrix Transformation](https://www.fastprep.io/problems/uber-matrix-transformation)|[![Practice][p]](https://www.fastprep.io/problems/uber-matrix-transformation)|Aug 30, 2024|
+|**Uber**|[Match Pattern](https://www.fastprep.io/problems/uber-match-subarray-to-pattern)|[![Practice][p]](https://www.fastprep.io/problems/uber-match-subarray-to-pattern)|Aug 30, 2024|
 |**Uber**|[Character Health](https://www.fastprep.io/problems/uber-character-health-in-a-video-game)|[![Practice][p]](https://www.fastprep.io/problems/uber-character-health-in-a-video-game)|Aug 30, 2024|
 |**Hudson River Trading**|[Increasing Paths 2](https://www.fastprep.io/problems/hudsonriver-increasing-paths-2)|[![Practice][p]](https://www.fastprep.io/problems/hudsonriver-increasing-paths-2)|Aug 30, 2024|
 |**Hudson River Trading**|[Increasing Paths 1](https://www.fastprep.io/problems/hudsonriver-increasing-paths-1)|[![Practice][p]](https://www.fastprep.io/problems/hudsonriver-increasing-paths-1)|Aug 30, 2024|
