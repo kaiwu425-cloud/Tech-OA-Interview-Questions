@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**431 questions**
+**433 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -400,6 +400,8 @@
 |**Confluent**|[Design a Leader-Based Distributed Key-Value Store](https://www.fastprep.io/system-design/leader-based-distributed-key-value-store)|[![Practice][p]](https://www.fastprep.io/system-design/leader-based-distributed-key-value-store)|Nov 21, 2024|
 |**Google**|[Design Road-Segment Travel-Time Prediction](https://www.fastprep.io/system-design/road-segment-travel-time-prediction)|[![Practice][p]](https://www.fastprep.io/system-design/road-segment-travel-time-prediction)|Nov 05, 2024|
 |**NVIDIA**|[Design Few-Shot Vision-Language Model Adaptation](https://www.fastprep.io/system-design/few-shot-vision-language-model-adaptation)|[![Practice][p]](https://www.fastprep.io/system-design/few-shot-vision-language-model-adaptation)|Sep 13, 2024|
+|**NVIDIA**|[Design a Visual Conversation and Speech Assistant](https://www.fastprep.io/system-design/visual-conversation-and-speech-assistant)|[![Practice][p]](https://www.fastprep.io/system-design/visual-conversation-and-speech-assistant)|Sep 13, 2024|
+|**NVIDIA**|[Design Continued Multimodal Model Pretraining](https://www.fastprep.io/system-design/continued-multimodal-model-pretraining)|[![Practice][p]](https://www.fastprep.io/system-design/continued-multimodal-model-pretraining)|Sep 13, 2024|
 |**Confluent**|[Diagnose and Scale a Multi-Region Cloud Service](https://www.fastprep.io/system-design/evidence-led-multi-region-service-evolution)|[![Practice][p]](https://www.fastprep.io/system-design/evidence-led-multi-region-service-evolution)|Aug 14, 2024|
 |**Samsara**|[Design a Fleet Fuel Payment Monitoring Platform](https://www.fastprep.io/system-design/fleet-fuel-payment-monitoring)|[![Practice][p]](https://www.fastprep.io/system-design/fleet-fuel-payment-monitoring)|Jul 22, 2024|
 |**Anduril**|[Design a Radar Sensor Observation Pipeline](https://www.fastprep.io/system-design/radar-sensor-observation-pipeline)|[![Practice][p]](https://www.fastprep.io/system-design/radar-sensor-observation-pipeline)|Jun 11, 2024|
