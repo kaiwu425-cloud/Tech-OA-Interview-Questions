@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Lowest Common Ancestor Implemented with Stack](https://www.fastprep.io/problems/amazon-lowest-common-ancestor-implemented-with-stack)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-lowest-common-ancestor-implemented-with-stack)|May 30, 2026|
+|**Akuna**|[Maximum Difference](https://www.fastprep.io/problems/akuna-maximum-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-maximum-difference)|May 25, 2026|
 |**Amazon**|[Product Category Group Sizes](https://www.fastprep.io/problems/amazon-product-category-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-product-category-groups)|May 23, 2026|
 |**Uber**|[Tournament Rounds by Rank](https://www.fastprep.io/problems/uber-tournament-rounds)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-tournament-rounds)|May 23, 2026|
 |**Uber**|[Earliest Time All Users Are Connected](https://www.fastprep.io/problems/uber-earliest-full-connection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-earliest-full-connection)|May 23, 2026|
