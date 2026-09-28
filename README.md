@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,715)](formats/coding.md) · [SQL (42)](formats/sql.md) · [System design (445)](formats/system-design.md) · [Low-level design (111)](formats/low-level-design.md) · [AI coding (53)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,735)](formats/coding.md) · [SQL (43)](formats/sql.md) · [System design (445)](formats/system-design.md) · [Low-level design (111)](formats/low-level-design.md) · [AI coding (53)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -37,6 +37,8 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Microsoft**|[Maximum Valid Substring Frequency](https://www.fastprep.io/problems/microsoft-maximum-valid-substring-frequency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximum-valid-substring-frequency)|🔥 Sep 27, 2026|
 |**Microsoft**|[Minimum Non-Adjacent Selection Capability](https://www.fastprep.io/problems/microsoft-minimum-nonadjacent-capability)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-nonadjacent-capability)|🔥 Sep 27, 2026|
 |**Stripe**|[Deployment Window Scheduler](https://www.fastprep.io/problems/stripe-deployment-window-scheduler)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-deployment-window-scheduler)|🔥 Sep 27, 2026|
+|**Snowflake / Dropbox / Temporal / Attentive**|[Design a Fault-Tolerant Cloud Queue Service](https://www.fastprep.io/system-design/fault-tolerant-cloud-queue-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/fault-tolerant-cloud-queue-service)|🔥 Sep 27, 2026|
+|**Attentive**|[Design Retailer Product Catalog Serving](https://www.fastprep.io/system-design/retailer-product-catalog-serving)|System design|[![Practice][p]](https://www.fastprep.io/system-design/retailer-product-catalog-serving)|🔥 Sep 27, 2026|
 |**IBM**|[Maximum Points by Deleting Elements](https://www.fastprep.io/problems/ibm-maximum-points-by-deleting-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-maximum-points-by-deleting-elements)|🔥 Sep 26, 2026|
 |**Suno**|[Longest Path in a Directed Acyclic Graph](https://www.fastprep.io/problems/suno-longest-dag-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/suno-longest-dag-path)|🔥 Sep 26, 2026|
 |**Suno**|[Referral Credits After a First Song](https://www.fastprep.io/problems/suno-referral-song-credits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/suno-referral-song-credits)|🔥 Sep 26, 2026|
@@ -342,7 +344,6 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Waymo**|[Dictionary Matches from Repeated Letters](https://www.fastprep.io/problems/waymo-repeated-letter-dictionary-matches)|Coding|[![Practice][p]](https://www.fastprep.io/problems/waymo-repeated-letter-dictionary-matches)|🔥 Sep 18, 2026|
 |**DoorDash / Robinhood / Snowflake / Postman / Figma / LinkedIn / Airbnb / Nextdoor / Decagon / Amazon / Cursor / Temporal**|[Design a Scheduled Job Execution System](https://www.fastprep.io/system-design/scheduled-job-execution-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/scheduled-job-execution-system)|🔥 Sep 18, 2026|
 |**Amazon**|[Design File-System Search with Symlink Safety](https://www.fastprep.io/low-level-design/filesystem-search-with-symlink-safety)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/filesystem-search-with-symlink-safety)|🔥 Sep 18, 2026|
-|**Snowflake / Dropbox / Temporal**|[Design a Fault-Tolerant Cloud Queue Service](https://www.fastprep.io/system-design/fault-tolerant-cloud-queue-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/fault-tolerant-cloud-queue-service)|🔥 Sep 18, 2026|
 |**Amazon**|[Design a Large-Scale File Change Watcher](https://www.fastprep.io/system-design/large-scale-file-change-watcher)|System design|[![Practice][p]](https://www.fastprep.io/system-design/large-scale-file-change-watcher)|🔥 Sep 18, 2026|
 |**Amazon**|[Design Robot-Assisted Restaurant Orchestration](https://www.fastprep.io/system-design/robot-assisted-restaurant-orchestration)|System design|[![Practice][p]](https://www.fastprep.io/system-design/robot-assisted-restaurant-orchestration)|🔥 Sep 18, 2026|
 |**Amazon**|[LRU Cache for Query Results](https://www.fastprep.io/problems/amazon-lru-query-result-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-lru-query-result-cache)|🔥 Sep 18, 2026|
@@ -888,7 +889,6 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Amazon**|[Get Distinct Pairs](https://www.fastprep.io/problems/amazon-get-distinct-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-distinct-pairs)|🆕 Sep 05, 2026|
 |**Oracle**|[Design a Rolling Top Error-Services Monitor](https://www.fastprep.io/system-design/rolling-top-error-services)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rolling-top-error-services)|🆕 Sep 05, 2026|
 |**Oracle**|[Design a Rolling Top-Users Event Leaderboard](https://www.fastprep.io/system-design/rolling-top-users-event-window)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rolling-top-users-event-window)|🆕 Sep 05, 2026|
-|**Attentive**|[Design Retailer Product Catalog Serving](https://www.fastprep.io/system-design/retailer-product-catalog-serving)|System design|[![Practice][p]](https://www.fastprep.io/system-design/retailer-product-catalog-serving)|🆕 Sep 05, 2026|
 |**Rippling**|[Design a Publisher News Feed](https://www.fastprep.io/system-design/publisher-news-feed)|System design|[![Practice][p]](https://www.fastprep.io/system-design/publisher-news-feed)|🆕 Sep 05, 2026|
 |**Paytm**|[Design a Live Market Tick Brokerage Platform](https://www.fastprep.io/system-design/live-market-tick-brokerage-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/live-market-tick-brokerage-platform)|🆕 Sep 05, 2026|
 |**Attentive**|[Design a Third-Party Data Pull Platform](https://www.fastprep.io/system-design/third-party-data-pull-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/third-party-data-pull-platform)|🆕 Sep 05, 2026|
