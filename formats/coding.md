@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**2,746 questions**
+**2,748 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -25,6 +25,8 @@
 |**Google**|[Alternating Direction Jump Game](https://www.fastprep.io/problems/google-alternating-direction-jump-game)|[![Practice][p]](https://www.fastprep.io/problems/google-alternating-direction-jump-game)|🔥 Sep 27, 2026|
 |**OpenAI**|[Prefix Matrix Products and Autograd](https://www.fastprep.io/problems/openai-prefix-matrix-products-autograd)|[![Practice][p]](https://www.fastprep.io/problems/openai-prefix-matrix-products-autograd)|🔥 Sep 27, 2026|
 |**Bloomberg LP**|[Minimum Replacements to Make Two Strings Anagrams](https://www.fastprep.io/problems/bloomberg-minimum-anagram-replacements)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-minimum-anagram-replacements)|🔥 Sep 27, 2026|
+|**OpenAI**|[Modal Lock and Fair Modal Lock](https://www.fastprep.io/problems/openai-modal-and-fair-modal-locks)|[![Practice][p]](https://www.fastprep.io/problems/openai-modal-and-fair-modal-locks)|🔥 Sep 27, 2026|
+|**Google**|[Build a Combined People Schedule](https://www.fastprep.io/problems/google-people-schedule-segments)|[![Practice][p]](https://www.fastprep.io/problems/google-people-schedule-segments)|🔥 Sep 27, 2026|
 |**Airwallex**|[4Sum Index Quadruples](https://www.fastprep.io/problems/airwallex-four-sum-index-quadruples)|[![Practice][p]](https://www.fastprep.io/problems/airwallex-four-sum-index-quadruples)|🔥 Sep 26, 2026|
 |**IBM**|[Maximum Points by Deleting Elements](https://www.fastprep.io/problems/ibm-maximum-points-by-deleting-elements)|[![Practice][p]](https://www.fastprep.io/problems/ibm-maximum-points-by-deleting-elements)|🔥 Sep 26, 2026|
 |**Suno**|[Longest Path in a Directed Acyclic Graph](https://www.fastprep.io/problems/suno-longest-dag-path)|[![Practice][p]](https://www.fastprep.io/problems/suno-longest-dag-path)|🔥 Sep 26, 2026|
@@ -1855,6 +1857,4 @@
 |**Salesforce**|[Min Difference](https://www.fastprep.io/problems/salesforce-minimum-difference)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-minimum-difference)|Sep 20, 2024|
 |**Salesforce**|[Get Node to Remove](https://www.fastprep.io/problems/salesforce-get-node-to-remove)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-get-node-to-remove)|Sep 20, 2024|
 |**Salesforce**|[Min Dev Time](https://www.fastprep.io/problems/salesforce-get-minimum-development-time)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-get-minimum-development-time)|Sep 20, 2024|
-|**Google**|[Transformation Steps](https://www.fastprep.io/problems/google-array-transformation-steps)|[![Practice][p]](https://www.fastprep.io/problems/google-array-transformation-steps)|Sep 20, 2024|
-|**Google**|[Find Largest Number](https://www.fastprep.io/problems/google-find-largest-number)|[![Practice][p]](https://www.fastprep.io/problems/google-find-largest-number)|Sep 20, 2024|
 <a id="bottom"></a>

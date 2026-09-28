@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,746 questions**
+**2,748 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Google**|[Transformation Steps](https://www.fastprep.io/problems/google-array-transformation-steps)|[![Practice][p]](https://www.fastprep.io/problems/google-array-transformation-steps)|Sep 20, 2024|
+|**Google**|[Find Largest Number](https://www.fastprep.io/problems/google-find-largest-number)|[![Practice][p]](https://www.fastprep.io/problems/google-find-largest-number)|Sep 20, 2024|
 |**Hudson River Trading**|[Count Fancy Numbers](https://www.fastprep.io/problems/hudsonriver-count-fancy-numbers)|[![Practice][p]](https://www.fastprep.io/problems/hudsonriver-count-fancy-numbers)|Sep 20, 2024|
 |**TikTok**|[Get Min Total Cost](https://www.fastprep.io/problems/tiktok-get-minimum-total-cost)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-minimum-total-cost)|Sep 20, 2024|
 |**IBM**|[Rover Move](https://www.fastprep.io/problems/ibm-rover-move)|[![Practice][p]](https://www.fastprep.io/problems/ibm-rover-move)|Sep 20, 2024|

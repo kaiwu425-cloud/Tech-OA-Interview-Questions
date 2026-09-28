@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,746)](formats/coding.md) · [SQL (43)](formats/sql.md) · [System design (446)](formats/system-design.md) · [Low-level design (111)](formats/low-level-design.md) · [AI coding (53)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,748)](formats/coding.md) · [SQL (43)](formats/sql.md) · [System design (446)](formats/system-design.md) · [Low-level design (111)](formats/low-level-design.md) · [AI coding (53)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -53,6 +53,8 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Google**|[Alternating Direction Jump Game](https://www.fastprep.io/problems/google-alternating-direction-jump-game)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-alternating-direction-jump-game)|🔥 Sep 27, 2026|
 |**OpenAI**|[Prefix Matrix Products and Autograd](https://www.fastprep.io/problems/openai-prefix-matrix-products-autograd)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-prefix-matrix-products-autograd)|🔥 Sep 27, 2026|
 |**Bloomberg LP**|[Minimum Replacements to Make Two Strings Anagrams](https://www.fastprep.io/problems/bloomberg-minimum-anagram-replacements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-minimum-anagram-replacements)|🔥 Sep 27, 2026|
+|**OpenAI**|[Modal Lock and Fair Modal Lock](https://www.fastprep.io/problems/openai-modal-and-fair-modal-locks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-modal-and-fair-modal-locks)|🔥 Sep 27, 2026|
+|**Google**|[Build a Combined People Schedule](https://www.fastprep.io/problems/google-people-schedule-segments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-people-schedule-segments)|🔥 Sep 27, 2026|
 |**Airwallex**|[4Sum Index Quadruples](https://www.fastprep.io/problems/airwallex-four-sum-index-quadruples)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airwallex-four-sum-index-quadruples)|🔥 Sep 26, 2026|
 |**IBM**|[Maximum Points by Deleting Elements](https://www.fastprep.io/problems/ibm-maximum-points-by-deleting-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-maximum-points-by-deleting-elements)|🔥 Sep 26, 2026|
 |**Suno**|[Longest Path in a Directed Acyclic Graph](https://www.fastprep.io/problems/suno-longest-dag-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/suno-longest-dag-path)|🔥 Sep 26, 2026|
@@ -1707,6 +1709,4 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**Capital One**|[Count House Segments After Destruction](https://www.fastprep.io/problems/capitalone-count-house-segments-after-destruction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capitalone-count-house-segments-after-destruction)|May 31, 2026|
 |**Capital One**|[Laser Robot Safe Path](https://www.fastprep.io/problems/capitalone-laser-robot-safe-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capitalone-laser-robot-safe-path)|May 31, 2026|
 |**Hebbia**|[Ultimate Tic-Tac-Toe Move Simulator](https://www.fastprep.io/problems/hebbia-ultimate-tic-tac-toe)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hebbia-ultimate-tic-tac-toe)|May 30, 2026|
-|**Amazon**|[Lowest Common Ancestor Implemented with Stack](https://www.fastprep.io/problems/amazon-lowest-common-ancestor-implemented-with-stack)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-lowest-common-ancestor-implemented-with-stack)|May 30, 2026|
-|**Akuna**|[Maximum Difference](https://www.fastprep.io/problems/akuna-maximum-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-maximum-difference)|May 25, 2026|
 <a id="bottom"></a>
