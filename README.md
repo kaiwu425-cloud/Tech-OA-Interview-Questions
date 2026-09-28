@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,745)](formats/coding.md) · [SQL (43)](formats/sql.md) · [System design (445)](formats/system-design.md) · [Low-level design (111)](formats/low-level-design.md) · [AI coding (53)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,746)](formats/coding.md) · [SQL (43)](formats/sql.md) · [System design (445)](formats/system-design.md) · [Low-level design (111)](formats/low-level-design.md) · [AI coding (53)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -797,7 +797,7 @@ Abnormal Security, Abridge, Accenture, Adobe, Adyen, Affirm, Agoda, Airbnb, Airb
 |**OpenAI**|[Design a Device Demand-Response Control System](https://www.fastprep.io/system-design/device-demand-response-control-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/device-demand-response-control-system)|🆕 Sep 09, 2026|
 |**LinkedIn**|[Design a High-Throughput Single-Node Key-Value Store](https://www.fastprep.io/system-design/high-throughput-single-node-key-value-store)|System design|[![Practice][p]](https://www.fastprep.io/system-design/high-throughput-single-node-key-value-store)|🆕 Sep 09, 2026|
 |**Tesla**|[Design a Content Delivery Network](https://www.fastprep.io/system-design/content-delivery-network)|System design|[![Practice][p]](https://www.fastprep.io/system-design/content-delivery-network)|🆕 Sep 09, 2026|
-|**Nuro**|[Design a Vehicle Sensor and Obstacle Data Platform](https://www.fastprep.io/system-design/vehicle-sensor-geospatial-data-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/vehicle-sensor-geospatial-data-platform)|🆕 Sep 09, 2026|
+|**Nuro / Motive**|[Design a Vehicle Sensor and Obstacle Data Platform](https://www.fastprep.io/system-design/vehicle-sensor-geospatial-data-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/vehicle-sensor-geospatial-data-platform)|🆕 Sep 09, 2026|
 |**Nuro**|[Design Petabyte-Scale Range Search for Large Rows](https://www.fastprep.io/system-design/large-row-range-query-search)|System design|[![Practice][p]](https://www.fastprep.io/system-design/large-row-range-query-search)|🆕 Sep 09, 2026|
 |**Verkada**|[Build SQLite-Backed GET and POST Endpoints](https://www.fastprep.io/project-coding/verkada-sqlite-backed-get-post-api)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/verkada-sqlite-backed-get-post-api)|🆕 Sep 09, 2026|
 |**Tekion**|[Open Lockers After Toggle Passes](https://www.fastprep.io/problems/tekion-100-lockers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-100-lockers)|🆕 Sep 09, 2026|
