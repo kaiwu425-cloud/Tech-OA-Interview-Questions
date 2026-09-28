@@ -2,12 +2,24 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,735 questions**
+**2,745 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Hudson River Trading**|[Count Fancy Numbers](https://www.fastprep.io/problems/hudsonriver-count-fancy-numbers)|[![Practice][p]](https://www.fastprep.io/problems/hudsonriver-count-fancy-numbers)|Sep 20, 2024|
+|**TikTok**|[Get Min Total Cost](https://www.fastprep.io/problems/tiktok-get-minimum-total-cost)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-minimum-total-cost)|Sep 20, 2024|
+|**IBM**|[Rover Move](https://www.fastprep.io/problems/ibm-rover-move)|[![Practice][p]](https://www.fastprep.io/problems/ibm-rover-move)|Sep 20, 2024|
+|**Goldman Sachs**|[Get Min Moves](https://www.fastprep.io/problems/goldman-get-minimum-moves)|[![Practice][p]](https://www.fastprep.io/problems/goldman-get-minimum-moves)|Sep 20, 2024|
+|**Cisco**|[Find Out Prime or Composite](https://www.fastprep.io/problems/cisco-find-out-prime-or-composite)|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-out-prime-or-composite)|Sep 20, 2024|
+|**Cisco**|[Compact List](https://www.fastprep.io/problems/cisco-compact-the-list)|[![Practice][p]](https://www.fastprep.io/problems/cisco-compact-the-list)|Sep 20, 2024|
+|**Cisco**|[Convert Password](https://www.fastprep.io/problems/cisco-convert-password)|[![Practice][p]](https://www.fastprep.io/problems/cisco-convert-password)|Sep 20, 2024|
+|**Codeium**|[Eric's Sequence](https://www.fastprep.io/problems/codeium-erics-sequence)|[![Practice][p]](https://www.fastprep.io/problems/codeium-erics-sequence)|Sep 20, 2024|
+|**Amazon**|[Maximum Possible Racers](https://www.fastprep.io/problems/amazon-maximum-possible-racers)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-possible-racers)|Sep 19, 2024|
+|**Amazon**|[Calculate Total Distrance Travelled](https://www.fastprep.io/problems/amazon-calculate-total-distance-travelled)|[![Practice][p]](https://www.fastprep.io/problems/amazon-calculate-total-distance-travelled)|Sep 19, 2024|
+|**Salesforce**|[Find All Pairs of Integers](https://www.fastprep.io/problems/salesforce-find-all-pairs-of-integers)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-find-all-pairs-of-integers)|Sep 19, 2024|
+|**Salesforce**|[Longest Substring](https://www.fastprep.io/problems/salesforce-minimize-length-of-longest-substring)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-minimize-length-of-longest-substring)|Sep 19, 2024|
 |**Salesforce**|[Get Min Time](https://www.fastprep.io/problems/salesforce-get-minimum-time)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-get-minimum-time)|Sep 19, 2024|
 |**Salesforce**|[Schedule Batch Difference](https://www.fastprep.io/problems/salesforce-schedule-batch-difference)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-schedule-batch-difference)|Sep 19, 2024|
 |**Akuna**|[Get Probability](https://www.fastprep.io/problems/akuna-get-probability)|[![Practice][p]](https://www.fastprep.io/problems/akuna-get-probability)|Sep 19, 2024|

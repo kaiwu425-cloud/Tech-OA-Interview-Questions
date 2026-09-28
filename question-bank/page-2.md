@@ -9,6 +9,18 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Product Category Group Sizes](https://www.fastprep.io/problems/amazon-product-category-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-product-category-groups)|May 23, 2026|
+|**Uber**|[Tournament Rounds by Rank](https://www.fastprep.io/problems/uber-tournament-rounds)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-tournament-rounds)|May 23, 2026|
+|**Uber**|[Earliest Time All Users Are Connected](https://www.fastprep.io/problems/uber-earliest-full-connection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-earliest-full-connection)|May 23, 2026|
+|**Meta**|[Merge Three Sorted Arrays](https://www.fastprep.io/problems/meta-merge-three-sorted-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-merge-three-sorted-arrays)|May 23, 2026|
+|**Amazon**|[Count Connected Components](https://www.fastprep.io/problems/amazon-count-connected-components)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-connected-components)|May 21, 2026|
+|**Postman**|[Design a Social Feed and Post Detail Experience](https://www.fastprep.io/system-design/social-feed-and-post-detail-experience)|System design|[![Practice][p]](https://www.fastprep.io/system-design/social-feed-and-post-detail-experience)|May 21, 2026|
+|**Google**|[Detonate Bombs with Chain Reactions](https://www.fastprep.io/problems/google-detonate-bombs-chain-reaction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-detonate-bombs-chain-reaction)|May 20, 2026|
+|**Google**|[Evaluate a Nested Math Expression](https://www.fastprep.io/problems/google-evaluate-nested-math-expression)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-evaluate-nested-math-expression)|May 20, 2026|
+|**Guidewire**|[Minimum Boys Next to Girls](https://www.fastprep.io/problems/guidewire-minimum-boys-next-to-girls)|Coding|[![Practice][p]](https://www.fastprep.io/problems/guidewire-minimum-boys-next-to-girls)|May 20, 2026|
+|**Salesforce**|[Time Needed to Rearrange a Binary String](https://www.fastprep.io/problems/salesforce-time-to-rearrange-binary-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-time-to-rearrange-binary-string)|May 19, 2026|
+|**Infosys**|[Minimum Path Sum With Grid Switches](https://www.fastprep.io/problems/infosys-minimum-path-sum-with-grid-switches)|Coding|[![Practice][p]](https://www.fastprep.io/problems/infosys-minimum-path-sum-with-grid-switches)|May 19, 2026|
+|**Snowflake**|[Effective Role Privileges](https://www.fastprep.io/problems/snowflake-effective-role-privileges)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-effective-role-privileges)|May 19, 2026|
 |**Ramp**|[Cloud Storage System, Part 1: File Operations](https://www.fastprep.io/problems/ramp-cloud-storage-level-1)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-cloud-storage-level-1)|May 18, 2026|
 |**Ramp**|[Cloud Storage System, Part 2: Largest Files](https://www.fastprep.io/problems/ramp-cloud-storage-level-2)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-cloud-storage-level-2)|May 18, 2026|
 |**Ramp**|[Cloud Storage System, Part 3: Users and Capacity](https://www.fastprep.io/problems/ramp-cloud-storage-level-3)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-cloud-storage-level-3)|May 18, 2026|
@@ -279,7 +291,6 @@
 |**Duolingo**|[Validate a Mahjong Hand Partition](https://www.fastprep.io/problems/duolingo-valid-mahjong-hand-partition)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-valid-mahjong-hand-partition)|Nov 05, 2025|
 |**Bloomberg LP**|[LRU Cache Operations](https://www.fastprep.io/problems/bloomberg-lru-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-lru-cache)|Nov 05, 2025|
 |**Bloomberg LP**|[Currency Conversion Rate](https://www.fastprep.io/problems/bloomberg-currency-conversion-rate)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-currency-conversion-rate)|Nov 05, 2025|
-|**Bloomberg LP**|[Minimum Replacements to Make Two Strings Anagrams](https://www.fastprep.io/problems/bloomberg-minimum-anagram-replacements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-minimum-anagram-replacements)|Nov 05, 2025|
 |**Bloomberg LP**|[Shortest Currency Conversion Chain](https://www.fastprep.io/problems/bloomberg-shortest-currency-conversion-chain)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-shortest-currency-conversion-chain)|Nov 05, 2025|
 |**Bloomberg LP**|[Validate Binary Search Tree](https://www.fastprep.io/problems/bloomberg-validate-binary-search-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-validate-binary-search-tree)|Nov 04, 2025|
 |**IBM**|[Process Execution Time](https://www.fastprep.io/problems/ibm-process-execution-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-process-execution-time)|Nov 03, 2025|
