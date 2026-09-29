@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,823)](formats/coding.md) · [SQL (43)](formats/sql.md) · [System design (454)](formats/system-design.md) · [Low-level design (115)](formats/low-level-design.md) · [AI coding (56)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,826)](formats/coding.md) · [SQL (43)](formats/sql.md) · [System design (454)](formats/system-design.md) · [Low-level design (115)](formats/low-level-design.md) · [AI coding (56)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -63,6 +63,10 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Uber**|[Grid Robot Route with Charging Priorities](https://www.fastprep.io/problems/uber-grid-robot-charging-priorities)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-grid-robot-charging-priorities)|🔥 Sep 28, 2026|
 |**Wex**|[String Permutations in Custom Character Order](https://www.fastprep.io/problems/wex-custom-ordered-string-permutations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wex-custom-ordered-string-permutations)|🔥 Sep 28, 2026|
 |**Wex**|[Stack Command Output](https://www.fastprep.io/problems/wex-stack-command-output)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wex-stack-command-output)|🔥 Sep 28, 2026|
+|**Capital One**|[Check Array Arithmetic Expressions](https://www.fastprep.io/problems/capital-one-check-array-arithmetic-expressions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-check-array-arithmetic-expressions)|🔥 Sep 28, 2026|
+|**Capital One**|[Match Songs with Repeatable Animations](https://www.fastprep.io/problems/capital-one-match-songs-with-repeatable-animations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-match-songs-with-repeatable-animations)|🔥 Sep 28, 2026|
+|**Capital One**|[Maximum Rhombic Area Sum](https://www.fastprep.io/problems/capital-one-maximum-rhombic-area-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-maximum-rhombic-area-sum)|🔥 Sep 28, 2026|
+|**Capital One**|[Count Subarrays with K Disjoint Equal Pairs](https://www.fastprep.io/problems/capital-one-count-subarrays-with-k-disjoint-equal-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-count-subarrays-with-k-disjoint-equal-pairs)|🔥 Sep 28, 2026|
 |**Netflix / Oracle / Google / Meta / ByteDance / Astrotalk / LinkedIn**|[Design a Personalized Recommendation System](https://www.fastprep.io/system-design/personalized-recommendation-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recommendation-system)|🔥 Sep 27, 2026|
 |**Affirm**|[Count Distinct Underwriting PII Values](https://www.fastprep.io/problems/affirm-count-distinct-underwriting-pii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/affirm-count-distinct-underwriting-pii)|🔥 Sep 27, 2026|
 |**Affirm**|[Cross-Day User Trust Scores](https://www.fastprep.io/problems/affirm-cross-day-user-trust-scores)|Coding|[![Practice][p]](https://www.fastprep.io/problems/affirm-cross-day-user-trust-scores)|🔥 Sep 27, 2026|
@@ -215,7 +219,6 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Zomato / Eternal**|[Friend Circles and Redundant Connections](https://www.fastprep.io/problems/zomato-friend-circles-and-redundant-edges)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zomato-friend-circles-and-redundant-edges)|🔥 Sep 25, 2026|
 |**Walmart**|[House Robber](https://www.fastprep.io/problems/walmart-house-robber)|Coding|[![Practice][p]](https://www.fastprep.io/problems/walmart-house-robber)|🔥 Sep 24, 2026|
 |**FalconX**|[Longest Low-Slippage Execution Window](https://www.fastprep.io/problems/falconx-longest-low-slippage-window)|Coding|[![Practice][p]](https://www.fastprep.io/problems/falconx-longest-low-slippage-window)|🔥 Sep 24, 2026|
-|**Capital One**|[Count Subarrays with K Disjoint Equal Pairs](https://www.fastprep.io/problems/capital-one-count-subarrays-with-k-disjoint-equal-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-count-subarrays-with-k-disjoint-equal-pairs)|🔥 Sep 24, 2026|
 |**Capital One**|[Distinct Values on Maximum-Sum Frames](https://www.fastprep.io/problems/capital-one-maximum-border-frame-values)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-maximum-border-frame-values)|🔥 Sep 24, 2026|
 |**Capital One**|[Wait Until the Next Bus](https://www.fastprep.io/problems/capital-one-next-bus-wait)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-next-bus-wait)|🔥 Sep 24, 2026|
 |**OpenAI**|[GPU Credit Ledger with a Negative-Balance Failure State](https://www.fastprep.io/problems/openai-gpu-credit-negative-balance-ledger)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-gpu-credit-negative-balance-ledger)|🔥 Sep 24, 2026|
@@ -1702,8 +1705,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Safe Security**|[Maximum Subarray Sum](https://www.fastprep.io/problems/safe-security-maximum-subarray-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/safe-security-maximum-subarray-sum)|Jul 08, 2026|
 |**Blinkit**|[Unique Supersequence Merge](https://www.fastprep.io/problems/blinkit-unique-supersequence-merge)|Coding|[![Practice][p]](https://www.fastprep.io/problems/blinkit-unique-supersequence-merge)|Jul 08, 2026|
 |**Shield AI**|[Count Minimum-Difference Pairs](https://www.fastprep.io/problems/shield-ai-count-minimum-difference-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/shield-ai-count-minimum-difference-pairs)|Jul 08, 2026|
-|**Amazon**|[Merge Sorted Array](https://www.fastprep.io/problems/amazon-merge-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-merge-sorted-array)|Jul 07, 2026|
-|**PhonePe**|[Count Bowl Subarrays](https://www.fastprep.io/problems/phonepe-count-bowl-subarrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/phonepe-count-bowl-subarrays)|Jul 07, 2026|
-|**PhonePe**|[Reconstruct Itinerary](https://www.fastprep.io/problems/phonepe-reconstruct-itinerary)|Coding|[![Practice][p]](https://www.fastprep.io/problems/phonepe-reconstruct-itinerary)|Jul 07, 2026|
-|**Datadog**|[Delete a Filesystem Tree](https://www.fastprep.io/problems/datadog-delete-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-delete-tree)|Jul 07, 2026|
 <a id="bottom"></a>

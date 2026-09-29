@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Merge Sorted Array](https://www.fastprep.io/problems/amazon-merge-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-merge-sorted-array)|Jul 07, 2026|
+|**PhonePe**|[Count Bowl Subarrays](https://www.fastprep.io/problems/phonepe-count-bowl-subarrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/phonepe-count-bowl-subarrays)|Jul 07, 2026|
+|**PhonePe**|[Reconstruct Itinerary](https://www.fastprep.io/problems/phonepe-reconstruct-itinerary)|Coding|[![Practice][p]](https://www.fastprep.io/problems/phonepe-reconstruct-itinerary)|Jul 07, 2026|
+|**Datadog**|[Delete a Filesystem Tree](https://www.fastprep.io/problems/datadog-delete-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/datadog-delete-tree)|Jul 07, 2026|
 |**Clickhouse**|[Design an Aircraft Speed Telemetry Analytics Platform](https://www.fastprep.io/system-design/aircraft-speed-telemetry-analytics-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/aircraft-speed-telemetry-analytics-platform)|Jul 07, 2026|
 |**Clickhouse**|[Top Three Sales per County and Year](https://www.fastprep.io/problems/clickhouse-top-three-sales-per-county-and-year)|SQL|[![Practice][p]](https://www.fastprep.io/problems/clickhouse-top-three-sales-per-county-and-year)|Jul 07, 2026|
 |**Amazon**|[Design an Online Code Compiler](https://www.fastprep.io/system-design/online-code-compiler)|System design|[![Practice][p]](https://www.fastprep.io/system-design/online-code-compiler)|Jul 05, 2026|
