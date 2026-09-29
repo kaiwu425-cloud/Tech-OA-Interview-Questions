@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Google**|[Consolidate On-Call Rotations](https://www.fastprep.io/problems/google-consolidate-on-call-rotations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-consolidate-on-call-rotations)|Jun 02, 2026|
+|**Character.AI**|[Minimum Window Substring](https://www.fastprep.io/problems/character-ai-minimum-window-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/character-ai-minimum-window-substring)|Jun 02, 2026|
+|**Uber**|[Jump Game with Prime-3 Steps](https://www.fastprep.io/problems/uber-jump-game-prime-3-steps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-jump-game-prime-3-steps)|Jun 01, 2026|
 |**Uber**|[Total Palindrome Substring Cost](https://www.fastprep.io/problems/uber-total-palindrome-substring-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-total-palindrome-substring-cost)|Jun 01, 2026|
 |**Capital One**|[Count Numbers with Even Number of Digits](https://www.fastprep.io/problems/capital-one-count-even-digit-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-count-even-digit-numbers)|May 31, 2026|
 |**Capital One**|[Longest Same-Character Substring](https://www.fastprep.io/problems/capitalone-longest-same-character-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capitalone-longest-same-character-substring)|May 31, 2026|

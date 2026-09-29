@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**450 questions**
+**453 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -45,6 +45,10 @@
 |**Postman / Anduril / DigitalOcean / Oracle / Adobe / Uber Freight / Grab / Goldman Sachs / Salesforce / Vercel / Sentry / Motive / Deloitte**|[Design a URL Shortening Service](https://www.fastprep.io/system-design/url-shortening-service)|[![Practice][p]](https://www.fastprep.io/system-design/url-shortening-service)|🔥 Sep 25, 2026|
 |**OpenAI**|[Design In-Store Merchant Payment Reconciliation](https://www.fastprep.io/system-design/offline-merchant-payment-reconciliation)|[![Practice][p]](https://www.fastprep.io/system-design/offline-merchant-payment-reconciliation)|🔥 Sep 25, 2026|
 |**Zscaler / Amazon / Walmart / Stripe / ByteDance / Bloomberg LP**|[Design a Global Service Metrics Monitoring and Alerting Platform](https://www.fastprep.io/system-design/global-service-metrics-monitoring-and-alerting)|[![Practice][p]](https://www.fastprep.io/system-design/global-service-metrics-monitoring-and-alerting)|🔥 Sep 25, 2026|
+|**Zomato / Eternal / Amazon / Tekion / Motive / Capgemini**|[Design an Online Ordering Platform](https://www.fastprep.io/system-design/online-ordering-platform)|[![Practice][p]](https://www.fastprep.io/system-design/online-ordering-platform)|🔥 Sep 25, 2026|
+|**Capgemini**|[Design a Job Application Portal](https://www.fastprep.io/system-design/job-application-portal)|[![Practice][p]](https://www.fastprep.io/system-design/job-application-portal)|🔥 Sep 25, 2026|
+|**Capgemini**|[Design a Learning Management Platform](https://www.fastprep.io/system-design/learning-management-platform)|[![Practice][p]](https://www.fastprep.io/system-design/learning-management-platform)|🔥 Sep 25, 2026|
+|**Moveworks**|[Design Cloud Usage Billing Infrastructure](https://www.fastprep.io/system-design/cloud-usage-billing-infrastructure)|[![Practice][p]](https://www.fastprep.io/system-design/cloud-usage-billing-infrastructure)|🔥 Sep 25, 2026|
 |**Citadel / ByteDance / Microsoft / Walmart**|[Design an Authenticated Shopping Platform](https://www.fastprep.io/system-design/authenticated-shopping-platform)|[![Practice][p]](https://www.fastprep.io/system-design/authenticated-shopping-platform)|🔥 Sep 24, 2026|
 |**OpenAI**|[Design a Cloud Coding Workspace](https://www.fastprep.io/system-design/cloud-coding-workspace)|[![Practice][p]](https://www.fastprep.io/system-design/cloud-coding-workspace)|🔥 Sep 24, 2026|
 |**DoorDash**|[Food Review System](https://www.fastprep.io/system-design/food-review-system)|[![Practice][p]](https://www.fastprep.io/system-design/food-review-system)|🔥 Sep 24, 2026|
@@ -77,7 +81,6 @@
 |**Pinterest / Slack / Motive**|[Design a Typeahead Suggestion Service](https://www.fastprep.io/system-design/typeahead-suggestion-service)|[![Practice][p]](https://www.fastprep.io/system-design/typeahead-suggestion-service)|🔥 Sep 21, 2026|
 |**JP Morgan Chase / Google / Decagon**|[Internal AI Assistant for Employees](https://www.fastprep.io/system-design/internal-ai-assistant-for-employees)|[![Practice][p]](https://www.fastprep.io/system-design/internal-ai-assistant-for-employees)|🔥 Sep 21, 2026|
 |**Tesla**|[Monorepo Build and Vehicle Software Rollout](https://www.fastprep.io/system-design/monorepo-build-and-vehicle-rollout)|[![Practice][p]](https://www.fastprep.io/system-design/monorepo-build-and-vehicle-rollout)|🔥 Sep 21, 2026|
-|**Zomato / Eternal / Amazon / Tekion / Motive**|[Design an Online Ordering Platform](https://www.fastprep.io/system-design/online-ordering-platform)|[![Practice][p]](https://www.fastprep.io/system-design/online-ordering-platform)|🔥 Sep 21, 2026|
 |**Abnormal Security / Ninja Van**|[Concurrent Worker Processing Platform](https://www.fastprep.io/system-design/concurrent-worker-processing-platform)|[![Practice][p]](https://www.fastprep.io/system-design/concurrent-worker-processing-platform)|🔥 Sep 21, 2026|
 |**Pinterest**|[In-Memory Typeahead Trie Service](https://www.fastprep.io/system-design/in-memory-typeahead-trie-service)|[![Practice][p]](https://www.fastprep.io/system-design/in-memory-typeahead-trie-service)|🔥 Sep 21, 2026|
 |**Amazon / Meta / ByteDance / Harvey**|[Design a Cloud File Storage System](https://www.fastprep.io/system-design/cloud-file-storage)|[![Practice][p]](https://www.fastprep.io/system-design/cloud-file-storage)|🔥 Sep 20, 2026|
