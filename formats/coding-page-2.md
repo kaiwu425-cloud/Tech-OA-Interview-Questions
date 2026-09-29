@@ -2,12 +2,66 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,752 questions**
+**2,800 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Deutsche Bank**|[Generate Lexicographically Smallest String](https://www.fastprep.io/problems/deutsche-bank-generate-lexicographically-smallest-string)|[![Practice][p]](https://www.fastprep.io/problems/deutsche-bank-generate-lexicographically-smallest-string)|Sep 29, 2024|
+|**Squarepoint**|[Empty Shelf](https://www.fastprep.io/problems/squarepoint-empty-shelf)|[![Practice][p]](https://www.fastprep.io/problems/squarepoint-empty-shelf)|Sep 29, 2024|
+|**Squarepoint**|[Suggested Products](https://www.fastprep.io/problems/squarepoint-suggested-products)|[![Practice][p]](https://www.fastprep.io/problems/squarepoint-suggested-products)|Sep 29, 2024|
+|**OpenAI**|[Maixmize the Hits](https://www.fastprep.io/problems/openai-maximize-the-hits)|[![Practice][p]](https://www.fastprep.io/problems/openai-maximize-the-hits)|Sep 28, 2024|
+|**Amazon**|[Find Days S2 Subsequence of S1](https://www.fastprep.io/problems/amazon-find-days-s2-subsequence-of-s1)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-days-s2-subsequence-of-s1)|Sep 28, 2024|
+|**Meta**|[ Min Obstacles to Allow Figure Fall ](https://www.fastprep.io/problems/mt-minimum-obstacles-to-remove-to-allow-figure-fall)|[![Practice][p]](https://www.fastprep.io/problems/mt-minimum-obstacles-to-remove-to-allow-figure-fall)|Sep 28, 2024|
+|**Meta**|[ Find How Many Subarrays Match the Pattern ](https://www.fastprep.io/problems/mt-find-how-many-subarrays-match-the-pattern)|[![Practice][p]](https://www.fastprep.io/problems/mt-find-how-many-subarrays-match-the-pattern)|Sep 28, 2024|
+|**Meta**|[ Count Three Sisters ](https://www.fastprep.io/problems/mt-count-three-sisters)|[![Practice][p]](https://www.fastprep.io/problems/mt-count-three-sisters)|Sep 28, 2024|
+|**Hudson River Trading**|[Future Stock Price](https://www.fastprep.io/problems/hudsonriver-maximum-amount-profit)|[![Practice][p]](https://www.fastprep.io/problems/hudsonriver-maximum-amount-profit)|Sep 28, 2024|
+|**IBM**|[Count Similar Pairs](https://www.fastprep.io/problems/ibm-count-similar-pairs)|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-similar-pairs)|Sep 28, 2024|
+|**IBM**|[Max Subject Number](https://www.fastprep.io/problems/ibm-max-subjects-number)|[![Practice][p]](https://www.fastprep.io/problems/ibm-max-subjects-number)|Sep 28, 2024|
+|**IBM**|[Maximum Efficiency](https://www.fastprep.io/problems/ibm-maximum-efficiency)|[![Practice][p]](https://www.fastprep.io/problems/ibm-maximum-efficiency)|Sep 28, 2024|
+|**Cisco**|[Pilot Drops Food Packet](https://www.fastprep.io/problems/cisco-find-maximum-number-of-drop-points-covered)|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-maximum-number-of-drop-points-covered)|Sep 28, 2024|
+|**Wayfair**|[Num of Divisible Substrings](https://www.fastprep.io/problems/wayfair-number-of-divisible-substrings)|[![Practice][p]](https://www.fastprep.io/problems/wayfair-number-of-divisible-substrings)|Sep 28, 2024|
+|**Wayfair**|[DFS Substring of A String](https://www.fastprep.io/problems/wayfair-dfs-subsequences-of-a-string)|[![Practice][p]](https://www.fastprep.io/problems/wayfair-dfs-subsequences-of-a-string)|Sep 28, 2024|
+|**Amazon**|[Find Subarray with Minimum Distinct Integers](https://www.fastprep.io/problems/amazon-find-subarray-with-minimum-distinct-integers)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-subarray-with-minimum-distinct-integers)|Sep 27, 2024|
+|**IBM**|[Min Operations to Make All Elements Equal](https://www.fastprep.io/problems/ibm-minimum-operations-to-make-all-elements-equal)|[![Practice][p]](https://www.fastprep.io/problems/ibm-minimum-operations-to-make-all-elements-equal)|Sep 27, 2024|
+|**IBM**|[Get Minimum Operation Count](https://www.fastprep.io/problems/ibm-get-minimum-operation-count)|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-minimum-operation-count)|Sep 27, 2024|
+|**Toshiba**|[Minimize Multiples of Three](https://www.fastprep.io/problems/toshiba-minimize-multiples-of-three)|[![Practice][p]](https://www.fastprep.io/problems/toshiba-minimize-multiples-of-three)|Sep 27, 2024|
+|**Amazon**|[Maximum Quality Sum](https://www.fastprep.io/problems/amazon-maximum-quality-sum)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-quality-sum)|Sep 26, 2024|
+|**Amazon**|[Minimize Warehouse Transfer Cost](https://www.fastprep.io/problems/amazon-minimize-warehouse-transfer-cost)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimize-warehouse-transfer-cost)|Sep 26, 2024|
+|**Amazon**|[Find Sum of Beauties](https://www.fastprep.io/problems/amazon-find-sum-of-beauties)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-sum-of-beauties)|Sep 26, 2024|
+|**Amazon**|[Longest Perfect Anagrams](https://www.fastprep.io/problems/amazon-longest-perfect-anagrams)|[![Practice][p]](https://www.fastprep.io/problems/amazon-longest-perfect-anagrams)|Sep 26, 2024|
+|**Amazon**|[Find Maximum Calories](https://www.fastprep.io/problems/amazon-find-maximum-calories)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-maximum-calories)|Sep 26, 2024|
+|**Salesforce**|[Find Minimum Idleness](https://www.fastprep.io/problems/salesforce-find-minimum-idleness)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-find-minimum-idleness)|Sep 26, 2024|
+|**Salesforce**|[Get Maximum Sum of Strengths](https://www.fastprep.io/problems/salesforce-get-maximum-sum-of-strengths)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-get-maximum-sum-of-strengths)|Sep 26, 2024|
+|**Agoda**|[Maximize Sum of Processed Times](https://www.fastprep.io/problems/agoda-maximize-sum-of-processed-times)|[![Practice][p]](https://www.fastprep.io/problems/agoda-maximize-sum-of-processed-times)|Sep 26, 2024|
+|**BNP**|[Piles of Boxes](https://www.fastprep.io/problems/bnp-piles-of-boxes)|[![Practice][p]](https://www.fastprep.io/problems/bnp-piles-of-boxes)|Sep 26, 2024|
+|**BNP**|[Romanizer](https://www.fastprep.io/problems/bnp-romanizer)|[![Practice][p]](https://www.fastprep.io/problems/bnp-romanizer)|Sep 26, 2024|
+|**Palantir**|[Minimize Path Value](https://www.fastprep.io/problems/palantir-minimize-path-value)|[![Practice][p]](https://www.fastprep.io/problems/palantir-minimize-path-value)|Sep 26, 2024|
+|**Palantir**|[Minimal Operations](https://www.fastprep.io/problems/palantir-minimal-operations)|[![Practice][p]](https://www.fastprep.io/problems/palantir-minimal-operations)|Sep 26, 2024|
+|**JP Morgan**|[Slowest Keys](https://www.fastprep.io/problems/jpmorgan-slowest-key)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-slowest-key)|Sep 25, 2024|
+|**JP Morgan**|[Get Merged Intervals](https://www.fastprep.io/problems/jpmorgan-get-merged-intervals)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-merged-intervals)|Sep 25, 2024|
+|**Akuna**|[Update Release Scheduler](https://www.fastprep.io/problems/akuna-update-release-scheduler)|[![Practice][p]](https://www.fastprep.io/problems/akuna-update-release-scheduler)|Sep 25, 2024|
+|**Akuna**|[Array Challenge](https://www.fastprep.io/problems/akuna-array-challenge)|[![Practice][p]](https://www.fastprep.io/problems/akuna-array-challenge)|Sep 25, 2024|
+|**Roblox**|[Valid Pairs](https://www.fastprep.io/problems/roblox-valid-pairs)|[![Practice][p]](https://www.fastprep.io/problems/roblox-valid-pairs)|Sep 25, 2024|
+|**Roblox**|[Schedule Meeting](https://www.fastprep.io/problems/roblox-schedule-meeting)|[![Practice][p]](https://www.fastprep.io/problems/roblox-schedule-meeting)|Sep 25, 2024|
+|**Databricks**|[Write L Matrix](https://www.fastprep.io/problems/databricks-write-l-matrix)|[![Practice][p]](https://www.fastprep.io/problems/databricks-write-l-matrix)|Sep 25, 2024|
+|**Databricks**|[Longest Common Prefix of Number Pairs](https://www.fastprep.io/problems/databricks-longest-common-prefix-of-number-pairs)|[![Practice][p]](https://www.fastprep.io/problems/databricks-longest-common-prefix-of-number-pairs)|Sep 25, 2024|
+|**Databricks**|[Diff Between Sums of Positions](https://www.fastprep.io/problems/databricks-diff-between-sums-of-positions)|[![Practice][p]](https://www.fastprep.io/problems/databricks-diff-between-sums-of-positions)|Sep 25, 2024|
+|**Databricks**|[Subarray Counting](https://www.fastprep.io/problems/databricks-subarray-counting)|[![Practice][p]](https://www.fastprep.io/problems/databricks-subarray-counting)|Sep 25, 2024|
+|**IBM**|[Equalize Team Size](https://www.fastprep.io/problems/ibm-equalize-team-size)|[![Practice][p]](https://www.fastprep.io/problems/ibm-equalize-team-size)|Sep 25, 2024|
+|**IBM**|[Max Index](https://www.fastprep.io/problems/ibm-max-index)|[![Practice][p]](https://www.fastprep.io/problems/ibm-max-index)|Sep 25, 2024|
+|**Arista Networks**|[Generate Matrix B](https://www.fastprep.io/problems/aristanetworks-generate-matrix-b)|[![Practice][p]](https://www.fastprep.io/problems/aristanetworks-generate-matrix-b)|Sep 24, 2024|
+|**Salesforce**|[Closest Subsequence Sum](https://www.fastprep.io/problems/salesforce-closest-subsequence-sum)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-closest-subsequence-sum)|Sep 23, 2024|
+|**Google**|[Min Moves](https://www.fastprep.io/problems/google-focus-on-efficiency)|[![Practice][p]](https://www.fastprep.io/problems/google-focus-on-efficiency)|Sep 23, 2024|
+|**Google**|[Largest Number Possible](https://www.fastprep.io/problems/google-largest-number-possible)|[![Practice][p]](https://www.fastprep.io/problems/google-largest-number-possible)|Sep 23, 2024|
+|**IBM**|[Min Operations Required](https://www.fastprep.io/problems/ibm-minimum-operations-required)|[![Practice][p]](https://www.fastprep.io/problems/ibm-minimum-operations-required)|Sep 23, 2024|
+|**Microsoft**|[XOR Coloring](https://www.fastprep.io/problems/microsoft-xor-coloring)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-xor-coloring)|Sep 23, 2024|
+|**Microsoft**|[Count Good Arrays](https://www.fastprep.io/problems/microsoft-great-subsequences)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-great-subsequences)|Sep 23, 2024|
+|**Microsoft**|[Great Subsequences](https://www.fastprep.io/problems/microsoft-to-good-arrays)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-to-good-arrays)|Sep 23, 2024|
+|**DE Shaw**|[Count Incremovable Subarrays](https://www.fastprep.io/problems/deshaw-count-the-number-of-incremovable-subarrays-ii)|[![Practice][p]](https://www.fastprep.io/problems/deshaw-count-the-number-of-incremovable-subarrays-ii)|Sep 23, 2024|
+|**TikTok**|[TikTok Server Optimization](https://www.fastprep.io/problems/tiktok-optimize-tiktok-routes)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-optimize-tiktok-routes)|Sep 21, 2024|
+|**TikTok**|[Tiktok Viral Challenge](https://www.fastprep.io/problems/tiktok-count-viral-combinations)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-viral-combinations)|Sep 21, 2024|
 |**TikTok**|[Optimize TikTok Reels Viewing](https://www.fastprep.io/problems/tiktok-optimize-tiktok-watch-time)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-optimize-tiktok-watch-time)|Sep 21, 2024|
 |**Salesforce**|[Min Difference](https://www.fastprep.io/problems/salesforce-minimum-difference)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-minimum-difference)|Sep 20, 2024|
 |**Salesforce**|[Get Node to Remove](https://www.fastprep.io/problems/salesforce-get-node-to-remove)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-get-node-to-remove)|Sep 20, 2024|
