@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Uber**|[Total Palindrome Substring Cost](https://www.fastprep.io/problems/uber-total-palindrome-substring-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-total-palindrome-substring-cost)|Jun 01, 2026|
+|**Capital One**|[Count Numbers with Even Number of Digits](https://www.fastprep.io/problems/capital-one-count-even-digit-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-count-even-digit-numbers)|May 31, 2026|
 |**Capital One**|[Longest Same-Character Substring](https://www.fastprep.io/problems/capitalone-longest-same-character-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capitalone-longest-same-character-substring)|May 31, 2026|
 |**Capital One**|[Count House Segments After Destruction](https://www.fastprep.io/problems/capitalone-count-house-segments-after-destruction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capitalone-count-house-segments-after-destruction)|May 31, 2026|
 |**Capital One**|[Laser Robot Safe Path](https://www.fastprep.io/problems/capitalone-laser-robot-safe-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capitalone-laser-robot-safe-path)|May 31, 2026|
@@ -105,6 +107,7 @@
 |**Amazon**|[Design a Standard Deck with Shuffle and Sort](https://www.fastprep.io/low-level-design/standard-deck-shuffle-and-sort)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/standard-deck-shuffle-and-sort)|Apr 25, 2026|
 |**Meta**|[Design Feed Dislike Prediction](https://www.fastprep.io/system-design/feed-dislike-prediction-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/feed-dislike-prediction-service)|Apr 24, 2026|
 |**Meta**|[Design Regional Image Copy and Rights Detection](https://www.fastprep.io/system-design/regional-image-copy-and-rights-detection)|System design|[![Practice][p]](https://www.fastprep.io/system-design/regional-image-copy-and-rights-detection)|Apr 24, 2026|
+|**Meta**|[Design an Account Risk Detection and Learning Pipeline](https://www.fastprep.io/system-design/account-risk-detection-and-learning-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/account-risk-detection-and-learning-pipeline)|Apr 24, 2026|
 |**Duolingo**|[Rank Word-Translation Hints from Sentence Translations](https://www.fastprep.io/problems/duolingo-rank-translation-hints)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-rank-translation-hints)|Apr 21, 2026|
 |**Point72**|[Initial Public Offering](https://www.fastprep.io/problems/point72-initial-public-offering)|Coding|[![Practice][p]](https://www.fastprep.io/problems/point72-initial-public-offering)|Apr 19, 2026|
 |**Duolingo**|[Encrypt and Decrypt Strings](https://www.fastprep.io/problems/duolingo-encrypt-and-decrypt-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-encrypt-and-decrypt-strings)|Apr 17, 2026|
@@ -255,7 +258,6 @@
 |**Google**|[Reach the End in Time](https://www.fastprep.io/problems/google-reach-the-end-in-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-reach-the-end-in-time)|Dec 20, 2025|
 |**Google**|[Maximum Tea Deliveries with Minimum Distance](https://www.fastprep.io/problems/google-maximum-tea-deliveries-minimum-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-tea-deliveries-minimum-distance)|Dec 20, 2025|
 |**Motive**|[Validate IP Address](https://www.fastprep.io/problems/motive-validate-ip-address)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-validate-ip-address)|Dec 19, 2025|
-|**PayPay**|[Design a Payment Transaction State Machine](https://www.fastprep.io/low-level-design/payment-transaction-state-machine)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/payment-transaction-state-machine)|Dec 19, 2025|
 |**Motive**|[Build a Vehicle Catalog Analysis API](https://www.fastprep.io/project-coding/vehicle-catalog-analysis)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/vehicle-catalog-analysis)|Dec 19, 2025|
 |**Workday**|[Design a Payments and Cards Domain](https://www.fastprep.io/low-level-design/payments-and-cards-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/payments-and-cards-domain)|Dec 18, 2025|
 |**Motive**|[Minimum Swaps to Group Circular Ones](https://www.fastprep.io/problems/motive-minimum-swaps-group-ones-circular)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-minimum-swaps-group-ones-circular)|Dec 18, 2025|
