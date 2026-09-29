@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**2,823 questions**
+**2,826 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -34,6 +34,10 @@
 |**Uber**|[Grid Robot Route with Charging Priorities](https://www.fastprep.io/problems/uber-grid-robot-charging-priorities)|[![Practice][p]](https://www.fastprep.io/problems/uber-grid-robot-charging-priorities)|🔥 Sep 28, 2026|
 |**Wex**|[String Permutations in Custom Character Order](https://www.fastprep.io/problems/wex-custom-ordered-string-permutations)|[![Practice][p]](https://www.fastprep.io/problems/wex-custom-ordered-string-permutations)|🔥 Sep 28, 2026|
 |**Wex**|[Stack Command Output](https://www.fastprep.io/problems/wex-stack-command-output)|[![Practice][p]](https://www.fastprep.io/problems/wex-stack-command-output)|🔥 Sep 28, 2026|
+|**Capital One**|[Check Array Arithmetic Expressions](https://www.fastprep.io/problems/capital-one-check-array-arithmetic-expressions)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-check-array-arithmetic-expressions)|🔥 Sep 28, 2026|
+|**Capital One**|[Match Songs with Repeatable Animations](https://www.fastprep.io/problems/capital-one-match-songs-with-repeatable-animations)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-match-songs-with-repeatable-animations)|🔥 Sep 28, 2026|
+|**Capital One**|[Maximum Rhombic Area Sum](https://www.fastprep.io/problems/capital-one-maximum-rhombic-area-sum)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-maximum-rhombic-area-sum)|🔥 Sep 28, 2026|
+|**Capital One**|[Count Subarrays with K Disjoint Equal Pairs](https://www.fastprep.io/problems/capital-one-count-subarrays-with-k-disjoint-equal-pairs)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-count-subarrays-with-k-disjoint-equal-pairs)|🔥 Sep 28, 2026|
 |**Affirm**|[Count Distinct Underwriting PII Values](https://www.fastprep.io/problems/affirm-count-distinct-underwriting-pii)|[![Practice][p]](https://www.fastprep.io/problems/affirm-count-distinct-underwriting-pii)|🔥 Sep 27, 2026|
 |**Affirm**|[Cross-Day User Trust Scores](https://www.fastprep.io/problems/affirm-cross-day-user-trust-scores)|[![Practice][p]](https://www.fastprep.io/problems/affirm-cross-day-user-trust-scores)|🔥 Sep 27, 2026|
 |**Affirm**|[Propagating Fraud Detector](https://www.fastprep.io/problems/affirm-propagating-fraud-detector)|[![Practice][p]](https://www.fastprep.io/problems/affirm-propagating-fraud-detector)|🔥 Sep 27, 2026|
@@ -144,7 +148,6 @@
 |**Zomato / Eternal**|[Friend Circles and Redundant Connections](https://www.fastprep.io/problems/zomato-friend-circles-and-redundant-edges)|[![Practice][p]](https://www.fastprep.io/problems/zomato-friend-circles-and-redundant-edges)|🔥 Sep 25, 2026|
 |**Walmart**|[House Robber](https://www.fastprep.io/problems/walmart-house-robber)|[![Practice][p]](https://www.fastprep.io/problems/walmart-house-robber)|🔥 Sep 24, 2026|
 |**FalconX**|[Longest Low-Slippage Execution Window](https://www.fastprep.io/problems/falconx-longest-low-slippage-window)|[![Practice][p]](https://www.fastprep.io/problems/falconx-longest-low-slippage-window)|🔥 Sep 24, 2026|
-|**Capital One**|[Count Subarrays with K Disjoint Equal Pairs](https://www.fastprep.io/problems/capital-one-count-subarrays-with-k-disjoint-equal-pairs)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-count-subarrays-with-k-disjoint-equal-pairs)|🔥 Sep 24, 2026|
 |**Capital One**|[Distinct Values on Maximum-Sum Frames](https://www.fastprep.io/problems/capital-one-maximum-border-frame-values)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-maximum-border-frame-values)|🔥 Sep 24, 2026|
 |**Capital One**|[Wait Until the Next Bus](https://www.fastprep.io/problems/capital-one-next-bus-wait)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-next-bus-wait)|🔥 Sep 24, 2026|
 |**OpenAI**|[GPU Credit Ledger with a Negative-Balance Failure State](https://www.fastprep.io/problems/openai-gpu-credit-negative-balance-ledger)|[![Practice][p]](https://www.fastprep.io/problems/openai-gpu-credit-negative-balance-ledger)|🔥 Sep 24, 2026|
@@ -1845,8 +1848,4 @@
 |**Amazon**|[Planning the Campaign](https://www.fastprep.io/problems/amazon-minimum-weekly-input)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-weekly-input)|Oct 20, 2024|
 |**TikTok**|[Server Network Optimizations](https://www.fastprep.io/problems/tiktok-server-network-optimization)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-server-network-optimization)|Oct 20, 2024|
 |**Amazon**|[Get Max Programs](https://www.fastprep.io/problems/amazon-get-max-programs)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-programs)|Oct 19, 2024|
-|**Amazon**|[Find Minimum Time](https://www.fastprep.io/problems/amazon-find-minimum-time)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-time)|Oct 19, 2024|
-|**Google**|[Count Distinct Values in a Sorted Array](https://www.fastprep.io/problems/google-count-distinct-sorted-values)|[![Practice][p]](https://www.fastprep.io/problems/google-count-distinct-sorted-values)|Oct 14, 2024|
-|**Google**|[Distances to the Nearest Infected Node](https://www.fastprep.io/problems/google-nearest-infected-node-distances)|[![Practice][p]](https://www.fastprep.io/problems/google-nearest-infected-node-distances)|Oct 14, 2024|
-|**Amazon**|[Get Max Charge](https://www.fastprep.io/problems/amazon-get-max-charge)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-charge)|Oct 11, 2024|
 <a id="bottom"></a>
