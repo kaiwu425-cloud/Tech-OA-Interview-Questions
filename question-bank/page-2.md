@@ -1586,6 +1586,7 @@
 |**Airbnb**|[Simplified XML Validator](https://www.fastprep.io/problems/airbnb-simplified-xml-validator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-simplified-xml-validator)|Jun 21, 2021|
 |**Bloomberg LP**|[Design Video Download, Progress, and Recommendations](https://www.fastprep.io/system-design/offline-video-progress-recommendation-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/offline-video-progress-recommendation-platform)|Jun 08, 2021|
 |**Bloomberg LP**|[Consecutive Characters](https://www.fastprep.io/problems/bloomberg-consecutive-characters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-consecutive-characters)|Jun 08, 2021|
+|**NVIDIA**|[Design a GPU-Limited Three-Model Pipeline](https://www.fastprep.io/system-design/gpu-limited-three-model-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/gpu-limited-three-model-pipeline)|Jun 07, 2021|
 |**Bloomberg LP**|[Flatten Binary Tree to Linked List](https://www.fastprep.io/problems/bloomberg-flatten-binary-tree-to-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-flatten-binary-tree-to-linked-list)|Jun 04, 2021|
 |**Bloomberg LP**|[Pow(x, n)](https://www.fastprep.io/problems/bloomberg-pow-x-n)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-pow-x-n)|Apr 15, 2021|
 |**SambaNova Systems**|[Ugly Number](https://www.fastprep.io/problems/sambanova-ugly-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-ugly-number)|Apr 02, 2021|

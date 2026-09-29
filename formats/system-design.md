@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**448 questions**
+**449 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -119,9 +119,9 @@
 |**DigitalOcean**|[Ad Serving and Performance Statistics](https://www.fastprep.io/system-design/ad-serving-performance-statistics)|[![Practice][p]](https://www.fastprep.io/system-design/ad-serving-performance-statistics)|🔥 Sep 15, 2026|
 |**Meta**|[Design a Social Game Score Leaderboard](https://www.fastprep.io/system-design/social-game-score-leaderboard)|[![Practice][p]](https://www.fastprep.io/system-design/social-game-score-leaderboard)|🔥 Sep 15, 2026|
 |**Concentric AI**|[Design an Institute Attendance Management Platform](https://www.fastprep.io/system-design/institute-attendance-management-platform)|[![Practice][p]](https://www.fastprep.io/system-design/institute-attendance-management-platform)|🔥 Sep 15, 2026|
-|**Goldman Sachs**|[Design a Pastebin Text Sharing Service](https://www.fastprep.io/system-design/pastebin-text-sharing)|[![Practice][p]](https://www.fastprep.io/system-design/pastebin-text-sharing)|🔥 Sep 14, 2026|
-|**OpenAI**|[Payment Hold, Charge, and Settlement](https://www.fastprep.io/system-design/payment-hold-charge-settlement)|[![Practice][p]](https://www.fastprep.io/system-design/payment-hold-charge-settlement)|🔥 Sep 14, 2026|
-|**Airwallex**|[Design an Authoritative Grid Chase Game](https://www.fastprep.io/system-design/authoritative-grid-chase-game)|[![Practice][p]](https://www.fastprep.io/system-design/authoritative-grid-chase-game)|🔥 Sep 14, 2026|
+|**Goldman Sachs**|[Design a Pastebin Text Sharing Service](https://www.fastprep.io/system-design/pastebin-text-sharing)|[![Practice][p]](https://www.fastprep.io/system-design/pastebin-text-sharing)|🆕 Sep 14, 2026|
+|**OpenAI**|[Payment Hold, Charge, and Settlement](https://www.fastprep.io/system-design/payment-hold-charge-settlement)|[![Practice][p]](https://www.fastprep.io/system-design/payment-hold-charge-settlement)|🆕 Sep 14, 2026|
+|**Airwallex**|[Design an Authoritative Grid Chase Game](https://www.fastprep.io/system-design/authoritative-grid-chase-game)|[![Practice][p]](https://www.fastprep.io/system-design/authoritative-grid-chase-game)|🆕 Sep 14, 2026|
 |**Rippling**|[Design a Personalized News Aggregation Platform](https://www.fastprep.io/system-design/personalized-news-aggregation-platform)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-news-aggregation-platform)|🆕 Sep 13, 2026|
 |**JP Morgan Chase**|[Spark Cluster Sizing for a 100 GB Workload](https://www.fastprep.io/system-design/spark-cluster-sizing-100-gb-workload)|[![Practice][p]](https://www.fastprep.io/system-design/spark-cluster-sizing-100-gb-workload)|🆕 Sep 13, 2026|
 |**Tekion / JP Morgan Chase**|[Design a Resilient Multi-Table ETL Pipeline](https://www.fastprep.io/system-design/resilient-multitable-etl-reconciliation)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-multitable-etl-reconciliation)|🆕 Sep 13, 2026|
@@ -260,10 +260,10 @@
 |**Adobe**|[Design an Extensible Tree Traversal Toolkit](https://www.fastprep.io/system-design/extensible-tree-traversal-toolkit)|[![Practice][p]](https://www.fastprep.io/system-design/extensible-tree-traversal-toolkit)|🆕 Aug 16, 2026|
 |**Apple**|[Design Cross-Device Wallpaper Synchronization](https://www.fastprep.io/system-design/cross-device-wallpaper-sync)|[![Practice][p]](https://www.fastprep.io/system-design/cross-device-wallpaper-sync)|🆕 Aug 16, 2026|
 |**Snowflake**|[Design Calendar Client State and Recurrence](https://www.fastprep.io/system-design/calendar-client-state-and-recurrence)|[![Practice][p]](https://www.fastprep.io/system-design/calendar-client-state-and-recurrence)|🆕 Aug 15, 2026|
-|**Giga**|[Design a Browser-Automated Customer Support Agent](https://www.fastprep.io/system-design/browser-automated-customer-support-agent)|[![Practice][p]](https://www.fastprep.io/system-design/browser-automated-customer-support-agent)|🆕 Aug 14, 2026|
-|**Rippling / Amazon**|[Design an Event Ingestion Platform](https://www.fastprep.io/system-design/durable-event-ingestion-platform)|[![Practice][p]](https://www.fastprep.io/system-design/durable-event-ingestion-platform)|🆕 Aug 14, 2026|
-|**Spotify**|[Design a Personalized Session Playlist Ranking System](https://www.fastprep.io/system-design/personalized-session-playlist-ranking)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-session-playlist-ranking)|🆕 Aug 14, 2026|
-|**Wells Fargo**|[Cursor-Paginated Records Service](https://www.fastprep.io/system-design/cursor-paginated-records-service)|[![Practice][p]](https://www.fastprep.io/system-design/cursor-paginated-records-service)|🆕 Aug 14, 2026|
+|**Giga**|[Design a Browser-Automated Customer Support Agent](https://www.fastprep.io/system-design/browser-automated-customer-support-agent)|[![Practice][p]](https://www.fastprep.io/system-design/browser-automated-customer-support-agent)|Aug 14, 2026|
+|**Rippling / Amazon**|[Design an Event Ingestion Platform](https://www.fastprep.io/system-design/durable-event-ingestion-platform)|[![Practice][p]](https://www.fastprep.io/system-design/durable-event-ingestion-platform)|Aug 14, 2026|
+|**Spotify**|[Design a Personalized Session Playlist Ranking System](https://www.fastprep.io/system-design/personalized-session-playlist-ranking)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-session-playlist-ranking)|Aug 14, 2026|
+|**Wells Fargo**|[Cursor-Paginated Records Service](https://www.fastprep.io/system-design/cursor-paginated-records-service)|[![Practice][p]](https://www.fastprep.io/system-design/cursor-paginated-records-service)|Aug 14, 2026|
 |**Anthropic**|[Design Peer-to-Peer Model Distribution](https://www.fastprep.io/system-design/peer-to-peer-model-distribution)|[![Practice][p]](https://www.fastprep.io/system-design/peer-to-peer-model-distribution)|Aug 13, 2026|
 |**OpenAI**|[Design a Distributed Crossword Solver](https://www.fastprep.io/system-design/distributed-crossword-solver-orchestration)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-crossword-solver-orchestration)|Aug 13, 2026|
 |**Meta**|[Design a Multimodal Public-Content Safety Platform](https://www.fastprep.io/system-design/multimodal-public-content-safety-platform)|[![Practice][p]](https://www.fastprep.io/system-design/multimodal-public-content-safety-platform)|Aug 13, 2026|
@@ -442,6 +442,7 @@
 |**Bloomberg LP**|[Design a Logging and Data Ingestion System](https://www.fastprep.io/system-design/durable-logging-ingestion-system)|[![Practice][p]](https://www.fastprep.io/system-design/durable-logging-ingestion-system)|Nov 03, 2021|
 |**Carta**|[Design a Mobile and Server Shopping Cart](https://www.fastprep.io/system-design/mobile-and-server-shopping-cart-platform)|[![Practice][p]](https://www.fastprep.io/system-design/mobile-and-server-shopping-cart-platform)|Oct 11, 2021|
 |**Bloomberg LP**|[Design Video Download, Progress, and Recommendations](https://www.fastprep.io/system-design/offline-video-progress-recommendation-platform)|[![Practice][p]](https://www.fastprep.io/system-design/offline-video-progress-recommendation-platform)|Jun 08, 2021|
+|**NVIDIA**|[Design a GPU-Limited Three-Model Pipeline](https://www.fastprep.io/system-design/gpu-limited-three-model-pipeline)|[![Practice][p]](https://www.fastprep.io/system-design/gpu-limited-three-model-pipeline)|Jun 07, 2021|
 |**Bloomberg LP**|[Design Daily Database Query and Email Delivery](https://www.fastprep.io/system-design/daily-database-query-email-delivery)|[![Practice][p]](https://www.fastprep.io/system-design/daily-database-query-email-delivery)|Feb 18, 2021|
 |**Twitch**|[Design a Video Watch and Like Experience](https://www.fastprep.io/system-design/video-watch-and-like-experience)|[![Practice][p]](https://www.fastprep.io/system-design/video-watch-and-like-experience)|Dec 12, 2020|
 |**Bloomberg LP**|[Design an ML Word-Segmentation Service](https://www.fastprep.io/system-design/ml-word-segmentation-service)|[![Practice][p]](https://www.fastprep.io/system-design/ml-word-segmentation-service)|Oct 23, 2020|
