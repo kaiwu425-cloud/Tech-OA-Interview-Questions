@@ -9,6 +9,29 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Clickhouse**|[Design an Aircraft Speed Telemetry Analytics Platform](https://www.fastprep.io/system-design/aircraft-speed-telemetry-analytics-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/aircraft-speed-telemetry-analytics-platform)|Jul 07, 2026|
+|**Clickhouse**|[Top Three Sales per County and Year](https://www.fastprep.io/problems/clickhouse-top-three-sales-per-county-and-year)|SQL|[![Practice][p]](https://www.fastprep.io/problems/clickhouse-top-three-sales-per-county-and-year)|Jul 07, 2026|
+|**Amazon**|[Design an Online Code Compiler](https://www.fastprep.io/system-design/online-code-compiler)|System design|[![Practice][p]](https://www.fastprep.io/system-design/online-code-compiler)|Jul 05, 2026|
+|**Amazon**|[Permutation Sorter](https://www.fastprep.io/problems/amazon-permutation-sorter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-permutation-sorter)|Jul 03, 2026|
+|**Amazon**|[Get Max Servers](https://www.fastprep.io/problems/amazon-find-maximum-number-of-servers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-maximum-number-of-servers)|Jul 03, 2026|
+|**McKinsey**|[Predicting the S&P 500 Index](https://www.fastprep.io/problems/mckinsey-predicting-the-sp-500-index)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mckinsey-predicting-the-sp-500-index)|Jul 03, 2026|
+|**QRT**|[Array Nullification](https://www.fastprep.io/problems/qrt-array-nullification)|Coding|[![Practice][p]](https://www.fastprep.io/problems/qrt-array-nullification)|Jul 03, 2026|
+|**QRT**|[Keep Them Apart](https://www.fastprep.io/problems/qrt-keep-them-apart)|Coding|[![Practice][p]](https://www.fastprep.io/problems/qrt-keep-them-apart)|Jul 03, 2026|
+|**Snowflake**|[Minimum Height](https://www.fastprep.io/problems/snowflake-minimum-height)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-minimum-height)|Jul 03, 2026|
+|**IBM**|[Query Type Frequency Window](https://www.fastprep.io/problems/ibm-query-type-frequency-window)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-query-type-frequency-window)|Jul 03, 2026|
+|**IBM**|[Maximum Requests in a Time Window](https://www.fastprep.io/problems/ibm-maximum-requests-window)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-maximum-requests-window)|Jul 03, 2026|
+|**IBM**|[Minimum Number of Non-Empty Disjoint Segments](https://www.fastprep.io/problems/ibm-minimum-disjoint-segments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-minimum-disjoint-segments)|Jul 03, 2026|
+|**NVIDIA**|[Governed SQL Generation Chatbot](https://www.fastprep.io/system-design/governed-sql-generation-chatbot)|System design|[![Practice][p]](https://www.fastprep.io/system-design/governed-sql-generation-chatbot)|Jul 02, 2026|
+|**NVIDIA**|[GPU Telemetry Collection and Analytics Platform](https://www.fastprep.io/system-design/gpu-telemetry-collection-and-analytics-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/gpu-telemetry-collection-and-analytics-platform)|Jul 02, 2026|
+|**Baseten**|[Ingest and Structure Historical Pod Alerts](https://www.fastprep.io/system-design/ingest-and-structure-historical-pod-alerts)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ingest-and-structure-historical-pod-alerts)|Jul 02, 2026|
+|**Point72**|[Get Triplet Count](https://www.fastprep.io/problems/point72-get-triplet-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/point72-get-triplet-count)|Jul 02, 2026|
+|**Point72**|[Internet Service Provider Monthly Report](https://www.fastprep.io/problems/point72-internet-service-provider-monthly-report)|SQL|[![Practice][p]](https://www.fastprep.io/problems/point72-internet-service-provider-monthly-report)|Jul 02, 2026|
+|**Point72**|[Server Selection](https://www.fastprep.io/problems/point72-server-selection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/point72-server-selection)|Jul 02, 2026|
+|**Amazon**|[Feasible Indices After Prefix/Suffix Reduction](https://www.fastprep.io/problems/amazon-feasible-indices-after-prefix-suffix-reduction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-feasible-indices-after-prefix-suffix-reduction)|Jun 30, 2026|
+|**Snowflake**|[Simple Array Rotation Game](https://www.fastprep.io/problems/snowflake-simple-array-rotation-game)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-simple-array-rotation-game)|Jun 30, 2026|
+|**Microsoft**|[XOR Multiplication](https://www.fastprep.io/problems/microsoft-xor-multiplication)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-xor-multiplication)|Jun 30, 2026|
+|**Microsoft**|[Neural Network Subnetwork Strength](https://www.fastprep.io/problems/microsoft-neural-network-subnetwork-strength)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-neural-network-subnetwork-strength)|Jun 30, 2026|
+|**Amazon**|[Frequently Bought Together](https://www.fastprep.io/problems/amazon-frequently-bought-together)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-frequently-bought-together)|Jun 29, 2026|
 |**Amazon**|[Souvenir Shop Purchases](https://www.fastprep.io/problems/amazon-souvenir-shop-purchases)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-souvenir-shop-purchases)|Jun 29, 2026|
 |**McKinsey**|[Count Repeated Request IDs](https://www.fastprep.io/problems/mckinsey-count-repeated-request-ids)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mckinsey-count-repeated-request-ids)|Jun 29, 2026|
 |**Salesforce**|[Final Pod Counts After Logs](https://www.fastprep.io/problems/salesforce-final-pod-counts-after-logs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-final-pod-counts-after-logs)|Jun 29, 2026|
