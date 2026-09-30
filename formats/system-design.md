@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**459 questions**
+**460 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -273,6 +273,7 @@
 |**Adobe**|[Design an Extensible Tree Traversal Toolkit](https://www.fastprep.io/system-design/extensible-tree-traversal-toolkit)|[![Practice][p]](https://www.fastprep.io/system-design/extensible-tree-traversal-toolkit)|🆕 Aug 16, 2026|
 |**Apple**|[Design Cross-Device Wallpaper Synchronization](https://www.fastprep.io/system-design/cross-device-wallpaper-sync)|[![Practice][p]](https://www.fastprep.io/system-design/cross-device-wallpaper-sync)|🆕 Aug 16, 2026|
 |**Snowflake**|[Design Calendar Client State and Recurrence](https://www.fastprep.io/system-design/calendar-client-state-and-recurrence)|[![Practice][p]](https://www.fastprep.io/system-design/calendar-client-state-and-recurrence)|Aug 15, 2026|
+|**Microsoft**|[Design Grounded Local Sports Recommendations](https://www.fastprep.io/system-design/local-sports-rag-recommendations)|[![Practice][p]](https://www.fastprep.io/system-design/local-sports-rag-recommendations)|Aug 15, 2026|
 |**Giga**|[Design a Browser-Automated Customer Support Agent](https://www.fastprep.io/system-design/browser-automated-customer-support-agent)|[![Practice][p]](https://www.fastprep.io/system-design/browser-automated-customer-support-agent)|Aug 14, 2026|
 |**Rippling / Amazon**|[Design an Event Ingestion Platform](https://www.fastprep.io/system-design/durable-event-ingestion-platform)|[![Practice][p]](https://www.fastprep.io/system-design/durable-event-ingestion-platform)|Aug 14, 2026|
 |**Spotify**|[Design a Personalized Session Playlist Ranking System](https://www.fastprep.io/system-design/personalized-session-playlist-ranking)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-session-playlist-ranking)|Aug 14, 2026|
