@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**463 questions**
+**465 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -24,6 +24,7 @@
 |**Mercor**|[Design a Dataset Copy API](https://www.fastprep.io/system-design/dataset-copy-api)|[![Practice][p]](https://www.fastprep.io/system-design/dataset-copy-api)|🔥 Sep 29, 2026|
 |**Microsoft**|[Design a Lab Machine Fleet Monitor](https://www.fastprep.io/system-design/lab-machine-fleet-monitoring)|[![Practice][p]](https://www.fastprep.io/system-design/lab-machine-fleet-monitoring)|🔥 Sep 29, 2026|
 |**Amperity**|[Design an Online SQL Service Over a Data Lake](https://www.fastprep.io/system-design/online-sql-service-over-data-lake)|[![Practice][p]](https://www.fastprep.io/system-design/online-sql-service-over-data-lake)|🔥 Sep 29, 2026|
+|**OpenAI / Sprinter Health**|[Digital Game Distribution Platform](https://www.fastprep.io/system-design/digital-game-distribution-platform)|[![Practice][p]](https://www.fastprep.io/system-design/digital-game-distribution-platform)|🔥 Sep 29, 2026|
 |**Attentive**|[Design Retailer Product Catalog Serving](https://www.fastprep.io/system-design/retailer-product-catalog-serving)|[![Practice][p]](https://www.fastprep.io/system-design/retailer-product-catalog-serving)|🔥 Sep 28, 2026|
 |**DigitalOcean / Attentive**|[Ad Serving and Performance Statistics](https://www.fastprep.io/system-design/ad-serving-performance-statistics)|[![Practice][p]](https://www.fastprep.io/system-design/ad-serving-performance-statistics)|🔥 Sep 28, 2026|
 |**Amazon / Tesla / Datadog / Oracle**|[Design a Video Storage and Streaming Platform](https://www.fastprep.io/system-design/video-storage-streaming-platform)|[![Practice][p]](https://www.fastprep.io/system-design/video-storage-streaming-platform)|🔥 Sep 28, 2026|
@@ -184,7 +185,6 @@
 |**OpenAI**|[Design an Offline-Capable IoT Log Platform](https://www.fastprep.io/system-design/offline-capable-iot-log-platform)|[![Practice][p]](https://www.fastprep.io/system-design/offline-capable-iot-log-platform)|🆕 Sep 08, 2026|
 |**ByteDance**|[Design Observability for AI Agent Tool Calls](https://www.fastprep.io/system-design/ai-agent-tool-call-observability)|[![Practice][p]](https://www.fastprep.io/system-design/ai-agent-tool-call-observability)|🆕 Sep 08, 2026|
 |**Nubank**|[Design Chargeback Ingestion and Eligible-Record Export](https://www.fastprep.io/system-design/chargeback-ingestion-and-eligible-record-export)|[![Practice][p]](https://www.fastprep.io/system-design/chargeback-ingestion-and-eligible-record-export)|🆕 Sep 07, 2026|
-|**OpenAI / Sprinter Health**|[Digital Game Distribution Platform](https://www.fastprep.io/system-design/digital-game-distribution-platform)|[![Practice][p]](https://www.fastprep.io/system-design/digital-game-distribution-platform)|🆕 Sep 06, 2026|
 |**Medallion**|[Design an Automated Achievement Certificate System](https://www.fastprep.io/system-design/automated-achievement-certificate-system)|[![Practice][p]](https://www.fastprep.io/system-design/automated-achievement-certificate-system)|🆕 Sep 06, 2026|
 |**Anthropic**|[Design Telemetry Name Reconciliation](https://www.fastprep.io/system-design/telemetry-name-reconciliation)|[![Practice][p]](https://www.fastprep.io/system-design/telemetry-name-reconciliation)|🆕 Sep 06, 2026|
 |**Oracle**|[Design a Rolling Top Error-Services Monitor](https://www.fastprep.io/system-design/rolling-top-error-services)|[![Practice][p]](https://www.fastprep.io/system-design/rolling-top-error-services)|🆕 Sep 05, 2026|
@@ -395,6 +395,7 @@
 |**Retool**|[Design a Dog Walking and Sitting Booking Platform](https://www.fastprep.io/system-design/dog-care-booking-platform)|[![Practice][p]](https://www.fastprep.io/system-design/dog-care-booking-platform)|Mar 24, 2026|
 |**Microsoft**|[Design an Initial Video-Language Model](https://www.fastprep.io/system-design/video-language-model-training-and-evaluation)|[![Practice][p]](https://www.fastprep.io/system-design/video-language-model-training-and-evaluation)|Feb 01, 2026|
 |**Datadog**|[Design a Real-Time Collaborative Pixel Canvas](https://www.fastprep.io/system-design/real-time-collaborative-pixel-canvas)|[![Practice][p]](https://www.fastprep.io/system-design/real-time-collaborative-pixel-canvas)|Jan 06, 2026|
+|**Microsoft**|[Design Intent Understanding While a User Types](https://www.fastprep.io/system-design/partial-input-intent-understanding)|[![Practice][p]](https://www.fastprep.io/system-design/partial-input-intent-understanding)|Dec 29, 2025|
 |**Google**|[Design Short-Video Near-Duplicate Detection](https://www.fastprep.io/system-design/short-video-near-duplicate-detection)|[![Practice][p]](https://www.fastprep.io/system-design/short-video-near-duplicate-detection)|Dec 28, 2025|
 |**Motive**|[Design a Freight Trip Capacity Matching Platform](https://www.fastprep.io/system-design/freight-trip-capacity-matching-platform)|[![Practice][p]](https://www.fastprep.io/system-design/freight-trip-capacity-matching-platform)|Dec 23, 2025|
 |**Motive**|[Design a Short-Video Sharing Platform](https://www.fastprep.io/system-design/short-video-sharing-platform)|[![Practice][p]](https://www.fastprep.io/system-design/short-video-sharing-platform)|Dec 18, 2025|
@@ -403,6 +404,7 @@
 |**Bloomberg LP**|[Design a Distributed Commit Log](https://www.fastprep.io/system-design/distributed-commit-log)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-commit-log)|Nov 08, 2025|
 |**Bloomberg LP**|[Design a Top-N News Article System](https://www.fastprep.io/system-design/top-n-news-article-system)|[![Practice][p]](https://www.fastprep.io/system-design/top-n-news-article-system)|Oct 31, 2025|
 |**Temporal**|[Design Zero-Downtime Database Migration](https://www.fastprep.io/system-design/zero-downtime-database-migration-platform)|[![Practice][p]](https://www.fastprep.io/system-design/zero-downtime-database-migration-platform)|Oct 19, 2025|
+|**Microsoft**|[Design RAG-Assisted Kusto Query Generation](https://www.fastprep.io/system-design/rag-assisted-kusto-query-generation)|[![Practice][p]](https://www.fastprep.io/system-design/rag-assisted-kusto-query-generation)|Oct 08, 2025|
 |**Cerebras**|[Multi-Channel Message Routing Queue](https://www.fastprep.io/system-design/multi-channel-message-routing-queue)|[![Practice][p]](https://www.fastprep.io/system-design/multi-channel-message-routing-queue)|Sep 06, 2025|
 |**Lambda**|[Cloud AI Inference Platform](https://www.fastprep.io/system-design/cloud-ai-inference-platform)|[![Practice][p]](https://www.fastprep.io/system-design/cloud-ai-inference-platform)|Sep 06, 2025|
 |**Splunk**|[Activity Playlist Streaming Service](https://www.fastprep.io/system-design/activity-playlist-streaming-service)|[![Practice][p]](https://www.fastprep.io/system-design/activity-playlist-streaming-service)|Aug 13, 2025|

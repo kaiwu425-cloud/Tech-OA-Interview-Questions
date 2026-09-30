@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,835)](formats/coding.md) · [SQL (43)](formats/sql.md) · [System design (463)](formats/system-design.md) · [Low-level design (120)](formats/low-level-design.md) · [AI coding (58)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,837)](formats/coding.md) · [SQL (43)](formats/sql.md) · [System design (465)](formats/system-design.md) · [Low-level design (120)](formats/low-level-design.md) · [AI coding (58)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -56,6 +56,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Mercor**|[Design a Dataset Copy API](https://www.fastprep.io/system-design/dataset-copy-api)|System design|[![Practice][p]](https://www.fastprep.io/system-design/dataset-copy-api)|🔥 Sep 29, 2026|
 |**Microsoft**|[Design a Lab Machine Fleet Monitor](https://www.fastprep.io/system-design/lab-machine-fleet-monitoring)|System design|[![Practice][p]](https://www.fastprep.io/system-design/lab-machine-fleet-monitoring)|🔥 Sep 29, 2026|
 |**Amperity**|[Design an Online SQL Service Over a Data Lake](https://www.fastprep.io/system-design/online-sql-service-over-data-lake)|System design|[![Practice][p]](https://www.fastprep.io/system-design/online-sql-service-over-data-lake)|🔥 Sep 29, 2026|
+|**OpenAI / Sprinter Health**|[Digital Game Distribution Platform](https://www.fastprep.io/system-design/digital-game-distribution-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/digital-game-distribution-platform)|🔥 Sep 29, 2026|
 |**Microsoft**|[Shopkeeper Final Price Summary](https://www.fastprep.io/problems/microsoft-shopkeeper-final-price-summary)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-shopkeeper-final-price-summary)|🔥 Sep 28, 2026|
 |**Microsoft**|[Maximum Reward Points](https://www.fastprep.io/problems/microsoft-get-maximum-reward-points)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-get-maximum-reward-points)|🔥 Sep 28, 2026|
 |**OpenAI**|[Network Endpoint or Cycle Boundary](https://www.fastprep.io/problems/openai-network-endpoint-or-cycle)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-network-endpoint-or-cycle)|🔥 Sep 28, 2026|
@@ -1005,7 +1006,6 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Stripe**|[Subscription and Usage-Based Billing Calculator](https://www.fastprep.io/problems/stripe-subscription-and-usage-billing-calculator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-subscription-and-usage-billing-calculator)|🆕 Sep 06, 2026|
 |**Stripe**|[Evolving Merchant Clusters and Persistent Pins](https://www.fastprep.io/problems/stripe-evolving-merchant-clusters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-evolving-merchant-clusters)|🆕 Sep 06, 2026|
 |**Rippling**|[Delivery Cost Tracker with Effective-Dated Rates](https://www.fastprep.io/problems/rippling-delivery-cost-tracker-with-rate-history)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-delivery-cost-tracker-with-rate-history)|🆕 Sep 06, 2026|
-|**OpenAI / Sprinter Health**|[Digital Game Distribution Platform](https://www.fastprep.io/system-design/digital-game-distribution-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/digital-game-distribution-platform)|🆕 Sep 06, 2026|
 |**Medallion**|[Design an Automated Achievement Certificate System](https://www.fastprep.io/system-design/automated-achievement-certificate-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/automated-achievement-certificate-system)|🆕 Sep 06, 2026|
 |**Anthropic**|[Design Telemetry Name Reconciliation](https://www.fastprep.io/system-design/telemetry-name-reconciliation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/telemetry-name-reconciliation)|🆕 Sep 06, 2026|
 |**Oracle**|[Top-K URLs Overall and in the Last 24 Hours](https://www.fastprep.io/problems/oracle-top-k-urls-overall-and-recent)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-top-k-urls-overall-and-recent)|🆕 Sep 05, 2026|

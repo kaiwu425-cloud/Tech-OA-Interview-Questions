@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**2,835 questions**
+**2,837 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -1608,6 +1608,8 @@
 |**PayPay**|[Palindromic Array Transformation](https://www.fastprep.io/problems/paypay-palindromic-array-transformation)|[![Practice][p]](https://www.fastprep.io/problems/paypay-palindromic-array-transformation)|Jun 18, 2025|
 |**PayPay**|[Calculate Change](https://www.fastprep.io/problems/paypay-calculate-change)|[![Practice][p]](https://www.fastprep.io/problems/paypay-calculate-change)|Jun 18, 2025|
 |**PayPay**|[Find Maximum Two-Digit Fragment](https://www.fastprep.io/problems/paypay-find-maximum-two-digit-fragment)|[![Practice][p]](https://www.fastprep.io/problems/paypay-find-maximum-two-digit-fragment)|Jun 18, 2025|
+|**Agoda**|[Highest-Ranked University by Country](https://www.fastprep.io/problems/agoda-highest-ranked-university-by-country)|[![Practice][p]](https://www.fastprep.io/problems/agoda-highest-ranked-university-by-country)|Jun 17, 2025|
+|**Agoda**|[Jump Game with Prime-3 Steps](https://www.fastprep.io/problems/agoda-jump-game-prime-3-steps)|[![Practice][p]](https://www.fastprep.io/problems/agoda-jump-game-prime-3-steps)|Jun 17, 2025|
 |**Kalshi**|[Maximum Frequency Stack](https://www.fastprep.io/problems/kalshi-maximum-frequency-stack)|[![Practice][p]](https://www.fastprep.io/problems/kalshi-maximum-frequency-stack)|Jun 14, 2025|
 |**Amazon**|[Find Hash](https://www.fastprep.io/problems/amazon-find-hash)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-hash)|Jun 12, 2025|
 |**Fivetran**|[Aladdin and the Magic Carpet](https://www.fastprep.io/problems/fivetran-aladdin-and-the-magic-carpet)|[![Practice][p]](https://www.fastprep.io/problems/fivetran-aladdin-and-the-magic-carpet)|Jun 12, 2025|
@@ -1846,6 +1848,4 @@
 |**Amazon**|[Schedule Tasks](https://www.fastprep.io/problems/amazon-schedule-tasks)|[![Practice][p]](https://www.fastprep.io/problems/amazon-schedule-tasks)|Oct 22, 2024|
 |**Walmart**|[Candy Bars](https://www.fastprep.io/problems/walmart-minimum-moves-to-equal-candy-bars)|[![Practice][p]](https://www.fastprep.io/problems/walmart-minimum-moves-to-equal-candy-bars)|Oct 22, 2024|
 |**Cisco**|[Water Jug](https://www.fastprep.io/problems/cisco-water-jug-problem)|[![Practice][p]](https://www.fastprep.io/problems/cisco-water-jug-problem)|Oct 22, 2024|
-|**Paypal**|[Find Min Price to Spend](https://www.fastprep.io/problems/paypal-find-minimum-price-to-spend)|[![Practice][p]](https://www.fastprep.io/problems/paypal-find-minimum-price-to-spend)|Oct 22, 2024|
-|**TikTok**|[Count Balanced Clilps](https://www.fastprep.io/problems/tiktok-count-balanced-clips)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-balanced-clips)|Oct 21, 2024|
 <a id="bottom"></a>
