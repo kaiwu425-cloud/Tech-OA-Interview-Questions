@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**478 questions**
+**479 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -153,7 +153,7 @@
 |**Amazon**|[Design a Scalable Artifact Repository](https://www.fastprep.io/system-design/scalable-artifact-repository)|[![Practice][p]](https://www.fastprep.io/system-design/scalable-artifact-repository)|🆕 Sep 13, 2026|
 |**Amazon**|[Design Device Backup and Restore](https://www.fastprep.io/system-design/device-backup-and-restore)|[![Practice][p]](https://www.fastprep.io/system-design/device-backup-and-restore)|🆕 Sep 13, 2026|
 |**Scribd**|[Design an External-Model Document Enrichment Pipeline](https://www.fastprep.io/system-design/external-model-document-enrichment-pipeline)|[![Practice][p]](https://www.fastprep.io/system-design/external-model-document-enrichment-pipeline)|🆕 Sep 13, 2026|
-|**ByteDance**|[Design a Multimedia Content Moderation Platform](https://www.fastprep.io/system-design/multimedia-content-moderation-platform)|[![Practice][p]](https://www.fastprep.io/system-design/multimedia-content-moderation-platform)|🆕 Sep 13, 2026|
+|**ByteDance / Google**|[Design a Multimedia Content Moderation Platform](https://www.fastprep.io/system-design/multimedia-content-moderation-platform)|[![Practice][p]](https://www.fastprep.io/system-design/multimedia-content-moderation-platform)|🆕 Sep 13, 2026|
 |**Amazon**|[Design Burst-Tolerant Notification Ingestion](https://www.fastprep.io/system-design/burst-tolerant-notification-ingestion)|[![Practice][p]](https://www.fastprep.io/system-design/burst-tolerant-notification-ingestion)|🆕 Sep 13, 2026|
 |**ByteDance**|[Design an Advertiser Campaign Configuration Platform](https://www.fastprep.io/system-design/advertiser-campaign-configuration-platform)|[![Practice][p]](https://www.fastprep.io/system-design/advertiser-campaign-configuration-platform)|🆕 Sep 12, 2026|
 |**Bobyard**|[Design an Asynchronous Random Image Generation Service](https://www.fastprep.io/system-design/asynchronous-random-image-generation-service)|[![Practice][p]](https://www.fastprep.io/system-design/asynchronous-random-image-generation-service)|🆕 Sep 12, 2026|
@@ -481,6 +481,7 @@
 |**Bloomberg LP**|[Design a Punctuation-Prediction Experiment](https://www.fastprep.io/system-design/punctuation-prediction-experiment-platform)|[![Practice][p]](https://www.fastprep.io/system-design/punctuation-prediction-experiment-platform)|Jul 05, 2020|
 |**Bloomberg LP**|[Design Client Application Incident Response](https://www.fastprep.io/system-design/terminal-incident-response-system)|[![Practice][p]](https://www.fastprep.io/system-design/terminal-incident-response-system)|Jun 26, 2020|
 |**Google**|[Design ML Landing-Page Optimization](https://www.fastprep.io/system-design/landing-page-optimization)|[![Practice][p]](https://www.fastprep.io/system-design/landing-page-optimization)|Jun 02, 2020|
+|**NVIDIA**|[Design a Versioned Flask Model Inference Service](https://www.fastprep.io/system-design/versioned-flask-model-inference-service)|[![Practice][p]](https://www.fastprep.io/system-design/versioned-flask-model-inference-service)|Apr 04, 2020|
 |**Postman**|[Design an Authenticated Page Presence Counter](https://www.fastprep.io/system-design/authenticated-page-presence-counter)|[![Practice][p]](https://www.fastprep.io/system-design/authenticated-page-presence-counter)|Mar 31, 2020|
 |**SpaceX**|[Design a Satellite Fleet Management and Ground-Station Communications Platform](https://www.fastprep.io/system-design/satellite-fleet-management-ground-station-communications)|[![Practice][p]](https://www.fastprep.io/system-design/satellite-fleet-management-ground-station-communications)|Feb 26, 2020|
 |**Google**|[Design an Incremental Spelling and Grammar Assistant](https://www.fastprep.io/system-design/incremental-spelling-and-grammar-assistant)|[![Practice][p]](https://www.fastprep.io/system-design/incremental-spelling-and-grammar-assistant)|Dec 05, 2019|

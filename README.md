@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,976)](formats/coding.md) · [SQL (51)](formats/sql.md) · [System design (478)](formats/system-design.md) · [Low-level design (121)](formats/low-level-design.md) · [AI coding (58)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,976)](formats/coding.md) · [SQL (51)](formats/sql.md) · [System design (479)](formats/system-design.md) · [Low-level design (121)](formats/low-level-design.md) · [AI coding (58)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -752,7 +752,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Amazon**|[Calculate Beauty Values](https://www.fastprep.io/problems/amazon-calculate-beauty-values)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-calculate-beauty-values)|🆕 Sep 13, 2026|
 |**Scribd**|[Build a Reliable Event Write Handler](https://www.fastprep.io/project-coding/scribd-reliable-event-write-handler)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scribd-reliable-event-write-handler)|🆕 Sep 13, 2026|
 |**Scribd**|[Design an External-Model Document Enrichment Pipeline](https://www.fastprep.io/system-design/external-model-document-enrichment-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/external-model-document-enrichment-pipeline)|🆕 Sep 13, 2026|
-|**ByteDance**|[Design a Multimedia Content Moderation Platform](https://www.fastprep.io/system-design/multimedia-content-moderation-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multimedia-content-moderation-platform)|🆕 Sep 13, 2026|
+|**ByteDance / Google**|[Design a Multimedia Content Moderation Platform](https://www.fastprep.io/system-design/multimedia-content-moderation-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multimedia-content-moderation-platform)|🆕 Sep 13, 2026|
 |**Citadel**|[Maximize Workday Earnings](https://www.fastprep.io/problems/citadel-maximize-workday-earnings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-maximize-workday-earnings)|🆕 Sep 13, 2026|
 |**Scribd**|[Most Popular Actor by Movie Views](https://www.fastprep.io/problems/scribd-most-popular-actor-by-movie-views)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scribd-most-popular-actor-by-movie-views)|🆕 Sep 13, 2026|
 |**Amazon**|[Design Burst-Tolerant Notification Ingestion](https://www.fastprep.io/system-design/burst-tolerant-notification-ingestion)|System design|[![Practice][p]](https://www.fastprep.io/system-design/burst-tolerant-notification-ingestion)|🆕 Sep 13, 2026|
