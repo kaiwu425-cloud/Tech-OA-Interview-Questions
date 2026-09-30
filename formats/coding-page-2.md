@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,829 questions**
+**2,832 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -918,6 +918,9 @@
 |**Postman**|[Large Responses](https://www.fastprep.io/problems/postman-large-responses)|[![Practice][p]](https://www.fastprep.io/problems/postman-large-responses)|Sep 23, 2020|
 |**Bloomberg LP**|[Palindrome Number](https://www.fastprep.io/problems/bloomberg-palindrome-number)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-palindrome-number)|Sep 18, 2020|
 |**Bloomberg LP**|[Traverse an Up-Down-Right Pointer Structure](https://www.fastprep.io/problems/bloomberg-up-down-right-pointer-traversal)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-up-down-right-pointer-traversal)|Sep 18, 2020|
+|**Wells Fargo**|[Longest Balanced Bitonic Subsequence](https://www.fastprep.io/problems/wellsfargo-longest-balanced-bitonic-subsequence)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-longest-balanced-bitonic-subsequence)|Sep 15, 2020|
+|**Wells Fargo**|[Most Negative Number in Each Window](https://www.fastprep.io/problems/wellsfargo-most-negative-number-in-each-window)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-most-negative-number-in-each-window)|Sep 08, 2020|
+|**Wells Fargo**|[Single-Nested Valid Bracket Substrings](https://www.fastprep.io/problems/wellsfargo-single-nested-valid-bracket-segments)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-single-nested-valid-bracket-segments)|Sep 08, 2020|
 |**Postman**|[Minimum Swaps to Sort an Array](https://www.fastprep.io/problems/postman-minimum-swaps-to-sort)|[![Practice][p]](https://www.fastprep.io/problems/postman-minimum-swaps-to-sort)|Aug 27, 2020|
 |**Postman**|[Validate IP Address](https://www.fastprep.io/problems/postman-validate-ip-address)|[![Practice][p]](https://www.fastprep.io/problems/postman-validate-ip-address)|Aug 27, 2020|
 |**Bloomberg LP**|[Largest Same-Letter Grid Component](https://www.fastprep.io/problems/bloomberg-largest-letter-grid-component)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-largest-letter-grid-component)|Aug 20, 2020|
