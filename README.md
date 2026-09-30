@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,829)](formats/coding.md) · [SQL (43)](formats/sql.md) · [System design (458)](formats/system-design.md) · [Low-level design (120)](formats/low-level-design.md) · [AI coding (57)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,829)](formats/coding.md) · [SQL (43)](formats/sql.md) · [System design (458)](formats/system-design.md) · [Low-level design (120)](formats/low-level-design.md) · [AI coding (58)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -49,8 +49,10 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Amazon / Lyft / Google / Pinterest / Snowflake**|[Design a Web Crawler](https://www.fastprep.io/system-design/web-crawler)|System design|[![Practice][p]](https://www.fastprep.io/system-design/web-crawler)|🔥 Sep 29, 2026|
 |**Netflix / FluidStack / DigitalOcean / Nuro / Together AI**|[Design a Machine-Learning Job Scheduler](https://www.fastprep.io/system-design/machine-learning-job-scheduler)|System design|[![Practice][p]](https://www.fastprep.io/system-design/machine-learning-job-scheduler)|🔥 Sep 29, 2026|
 |**Capital One**|[Design a Credit Card Account and Authorization Platform](https://www.fastprep.io/system-design/credit-card-account-authorization-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/credit-card-account-authorization-platform)|🔥 Sep 29, 2026|
-|**Pinterest**|[Design an Ad Event Measurement Platform](https://www.fastprep.io/system-design/ad-event-measurement-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ad-event-measurement-platform)|🔥 Sep 29, 2026|
+|**Pinterest / DoorDash / Patreon**|[Design an Ad Event Measurement Platform](https://www.fastprep.io/system-design/ad-event-measurement-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ad-event-measurement-platform)|🔥 Sep 29, 2026|
 |**Amperity**|[Design a Read-Once Secret Sharing Service](https://www.fastprep.io/system-design/read-once-secret-sharing)|System design|[![Practice][p]](https://www.fastprep.io/system-design/read-once-secret-sharing)|🔥 Sep 29, 2026|
+|**The D.E. Shaw Group / Uber**|[Design and Implement a Parking Lot](https://www.fastprep.io/low-level-design/uber-parking-lot-design-and-code)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/uber-parking-lot-design-and-code)|🔥 Sep 29, 2026|
+|**Uber Freight**|[Design an In-Memory File System](https://www.fastprep.io/low-level-design/in-memory-file-system)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-file-system)|🔥 Sep 29, 2026|
 |**Microsoft**|[Shopkeeper Final Price Summary](https://www.fastprep.io/problems/microsoft-shopkeeper-final-price-summary)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-shopkeeper-final-price-summary)|🔥 Sep 28, 2026|
 |**Microsoft**|[Maximum Reward Points](https://www.fastprep.io/problems/microsoft-get-maximum-reward-points)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-get-maximum-reward-points)|🔥 Sep 28, 2026|
 |**OpenAI**|[Network Endpoint or Cycle Boundary](https://www.fastprep.io/problems/openai-network-endpoint-or-cycle)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-network-endpoint-or-cycle)|🔥 Sep 28, 2026|
@@ -241,6 +243,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Salesforce**|[Design Movie Subscription Pricing](https://www.fastprep.io/low-level-design/movie-subscription-pricing-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/movie-subscription-pricing-domain)|🔥 Sep 25, 2026|
 |**Eightfold**|[Design Recurring Meeting-Room Booking](https://www.fastprep.io/low-level-design/recurring-meeting-room-booking-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/recurring-meeting-room-booking-domain)|🔥 Sep 25, 2026|
 |**Odoo**|[Build FIFO Inventory Costing](https://www.fastprep.io/project-coding/fifo-inventory-costing-service)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/fifo-inventory-costing-service)|🔥 Sep 25, 2026|
+|**Groww**|[Build an Extensible Brokerage Charge Calculator](https://www.fastprep.io/project-coding/brokerage-charge-calculator)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/brokerage-charge-calculator)|🔥 Sep 25, 2026|
 |**Walmart**|[House Robber](https://www.fastprep.io/problems/walmart-house-robber)|Coding|[![Practice][p]](https://www.fastprep.io/problems/walmart-house-robber)|🔥 Sep 24, 2026|
 |**FalconX**|[Longest Low-Slippage Execution Window](https://www.fastprep.io/problems/falconx-longest-low-slippage-window)|Coding|[![Practice][p]](https://www.fastprep.io/problems/falconx-longest-low-slippage-window)|🔥 Sep 24, 2026|
 |**Capital One**|[Distinct Values on Maximum-Sum Frames](https://www.fastprep.io/problems/capital-one-maximum-border-frame-values)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-maximum-border-frame-values)|🔥 Sep 24, 2026|
@@ -763,7 +766,6 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Google**|[Read-Optimized Duplicate Windows](https://www.fastprep.io/problems/google-read-optimized-window-duplicates)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-read-optimized-window-duplicates)|🆕 Sep 12, 2026|
 |**LinkedIn**|[Max Stack](https://www.fastprep.io/problems/linkedin-max-stack)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-max-stack)|🆕 Sep 12, 2026|
 |**Agoda**|[Design a Flight Search and Booking Aggregator](https://www.fastprep.io/system-design/flight-search-booking-aggregation-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/flight-search-booking-aggregation-platform)|🆕 Sep 11, 2026|
-|**The D.E. Shaw Group / Uber**|[Design and Implement a Parking Lot](https://www.fastprep.io/low-level-design/uber-parking-lot-design-and-code)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/uber-parking-lot-design-and-code)|🆕 Sep 11, 2026|
 |**Blinkit**|[Design a Food Delivery Order Tracking System](https://www.fastprep.io/system-design/food-delivery-order-tracking-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/food-delivery-order-tracking-system)|🆕 Sep 11, 2026|
 |**The D.E. Shaw Group**|[Design a Ride-Hailing Class Model](https://www.fastprep.io/low-level-design/ride-hailing-class-design)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/ride-hailing-class-design)|🆕 Sep 11, 2026|
 |**FlexTrade**|[Extract Error Log Context](https://www.fastprep.io/problems/flextrade-extract-error-log-context)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flextrade-extract-error-log-context)|🆕 Sep 11, 2026|
@@ -1076,7 +1078,6 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**LinkedIn**|[Largest Number](https://www.fastprep.io/problems/linkedin-largest-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-largest-number)|🆕 Sep 01, 2026|
 |**Snap Inc.**|[Most Stones Removed with Same Row or Column](https://www.fastprep.io/problems/snap-inc-most-stones-removed)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snap-inc-most-stones-removed)|🆕 Sep 01, 2026|
 |**LinkedIn**|[Repeated Shortest Word Distance Queries](https://www.fastprep.io/problems/linkedin-shortest-word-distance-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-shortest-word-distance-queries)|🆕 Sep 01, 2026|
-|**Uber Freight**|[Design an In-Memory File System](https://www.fastprep.io/low-level-design/in-memory-file-system)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-file-system)|🆕 Aug 31, 2026|
 |**Snowflake**|[Design an Interactive SQL Notebook](https://www.fastprep.io/system-design/interactive-sql-notebook)|System design|[![Practice][p]](https://www.fastprep.io/system-design/interactive-sql-notebook)|🆕 Aug 31, 2026|
 |**Nubank**|[Design an Online Coding Competition Platform](https://www.fastprep.io/system-design/online-coding-competition-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/online-coding-competition-platform)|🆕 Aug 31, 2026|
 |**Mercor**|[Design a Project-to-Contractor Matching Platform](https://www.fastprep.io/system-design/project-contractor-matching-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/project-contractor-matching-platform)|🆕 Aug 31, 2026|
@@ -1701,5 +1702,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Agoda**|[Minimum Daily Printing Limit](https://www.fastprep.io/problems/agoda-minimum-daily-printing-limit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-minimum-daily-printing-limit)|Jul 08, 2026|
 |**Google**|[String Pattern Replacement](https://www.fastprep.io/problems/google-string-pattern-replacement)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-string-pattern-replacement)|Jul 08, 2026|
 |**Google**|[Template Variable Expansion](https://www.fastprep.io/problems/google-template-variable-expansion)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-template-variable-expansion)|Jul 08, 2026|
-|**Meta**|[Highest Rating Price Ratio](https://www.fastprep.io/problems/meta-highest-rating-price-ratio)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-highest-rating-price-ratio)|Jul 08, 2026|
 <a id="bottom"></a>

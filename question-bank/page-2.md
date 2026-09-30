@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Meta**|[Highest Rating Price Ratio](https://www.fastprep.io/problems/meta-highest-rating-price-ratio)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-highest-rating-price-ratio)|Jul 08, 2026|
 |**Snowflake**|[Closest Target Character](https://www.fastprep.io/problems/snowflake-closest-target-character)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-closest-target-character)|Jul 08, 2026|
 |**Point72**|[Test the Hypothesis](https://www.fastprep.io/problems/point72-test-the-hypothesis)|Coding|[![Practice][p]](https://www.fastprep.io/problems/point72-test-the-hypothesis)|Jul 08, 2026|
 |**DE Shaw**|[Minimum Frames for Equal Chunks](https://www.fastprep.io/problems/deshaw-minimum-frames-for-equal-chunks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/deshaw-minimum-frames-for-equal-chunks)|Jul 08, 2026|
