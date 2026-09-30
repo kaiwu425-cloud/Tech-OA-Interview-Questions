@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**2,837 questions**
+**2,838 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Walmart**|[Candy Bars](https://www.fastprep.io/problems/walmart-minimum-moves-to-equal-candy-bars)|[![Practice][p]](https://www.fastprep.io/problems/walmart-minimum-moves-to-equal-candy-bars)|Oct 22, 2024|
+|**Cisco**|[Water Jug](https://www.fastprep.io/problems/cisco-water-jug-problem)|[![Practice][p]](https://www.fastprep.io/problems/cisco-water-jug-problem)|Oct 22, 2024|
 |**Paypal**|[Find Min Price to Spend](https://www.fastprep.io/problems/paypal-find-minimum-price-to-spend)|[![Practice][p]](https://www.fastprep.io/problems/paypal-find-minimum-price-to-spend)|Oct 22, 2024|
 |**TikTok**|[Count Balanced Clilps](https://www.fastprep.io/problems/tiktok-count-balanced-clips)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-balanced-clips)|Oct 21, 2024|
 |**Patreon**|[Sum of Subarray Regions](https://www.fastprep.io/problems/patreon-sum-of-subarray-regions)|[![Practice][p]](https://www.fastprep.io/problems/patreon-sum-of-subarray-regions)|Oct 21, 2024|

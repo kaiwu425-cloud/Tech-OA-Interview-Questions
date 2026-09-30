@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**465 questions**
+**466 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -404,6 +404,7 @@
 |**Bloomberg LP**|[Design a Distributed Commit Log](https://www.fastprep.io/system-design/distributed-commit-log)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-commit-log)|Nov 08, 2025|
 |**Bloomberg LP**|[Design a Top-N News Article System](https://www.fastprep.io/system-design/top-n-news-article-system)|[![Practice][p]](https://www.fastprep.io/system-design/top-n-news-article-system)|Oct 31, 2025|
 |**Temporal**|[Design Zero-Downtime Database Migration](https://www.fastprep.io/system-design/zero-downtime-database-migration-platform)|[![Practice][p]](https://www.fastprep.io/system-design/zero-downtime-database-migration-platform)|Oct 19, 2025|
+|**Google**|[Design a Visual Similarity Search System](https://www.fastprep.io/system-design/visual-similarity-search-system)|[![Practice][p]](https://www.fastprep.io/system-design/visual-similarity-search-system)|Oct 16, 2025|
 |**Microsoft**|[Design RAG-Assisted Kusto Query Generation](https://www.fastprep.io/system-design/rag-assisted-kusto-query-generation)|[![Practice][p]](https://www.fastprep.io/system-design/rag-assisted-kusto-query-generation)|Oct 08, 2025|
 |**Cerebras**|[Multi-Channel Message Routing Queue](https://www.fastprep.io/system-design/multi-channel-message-routing-queue)|[![Practice][p]](https://www.fastprep.io/system-design/multi-channel-message-routing-queue)|Sep 06, 2025|
 |**Lambda**|[Cloud AI Inference Platform](https://www.fastprep.io/system-design/cloud-ai-inference-platform)|[![Practice][p]](https://www.fastprep.io/system-design/cloud-ai-inference-platform)|Sep 06, 2025|

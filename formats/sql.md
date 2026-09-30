@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**43 questions**
+**47 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -46,8 +46,12 @@
 |**Capital One**|[Predict Taxi Driver Classes](https://www.fastprep.io/problems/capital-one-predict-driver-classes)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-predict-driver-classes)|Jul 09, 2026|
 |**Clickhouse**|[Top Three Sales per County and Year](https://www.fastprep.io/problems/clickhouse-top-three-sales-per-county-and-year)|[![Practice][p]](https://www.fastprep.io/problems/clickhouse-top-three-sales-per-county-and-year)|Jul 07, 2026|
 |**Point72**|[Internet Service Provider Monthly Report](https://www.fastprep.io/problems/point72-internet-service-provider-monthly-report)|[![Practice][p]](https://www.fastprep.io/problems/point72-internet-service-provider-monthly-report)|Jul 02, 2026|
+|**Agoda**|[TV Series in a Production Window](https://www.fastprep.io/problems/agoda-tv-series-production-window)|[![Practice][p]](https://www.fastprep.io/problems/agoda-tv-series-production-window)|Nov 29, 2025|
 |**Chainalysis**|[Block Transaction Count Trends](https://www.fastprep.io/problems/chainalysis-block-transaction-count-trends)|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-block-transaction-count-trends)|Mar 06, 2025|
 |**Odoo**|[Employees Joined per Month](https://www.fastprep.io/problems/odoo-employees-joined-per-month)|[![Practice][p]](https://www.fastprep.io/problems/odoo-employees-joined-per-month)|Sep 17, 2024|
+|**Agoda**|[Process Airline Seat Requests](https://www.fastprep.io/problems/agoda-airline-seat-requests)|[![Practice][p]](https://www.fastprep.io/problems/agoda-airline-seat-requests)|Oct 27, 2023|
+|**Agoda**|[Convert a Purchase at Its Historical Exchange Rate](https://www.fastprep.io/problems/agoda-historical-purchase-exchange-rate)|[![Practice][p]](https://www.fastprep.io/problems/agoda-historical-purchase-exchange-rate)|Oct 27, 2023|
+|**Agoda**|[Summarize Customer Records](https://www.fastprep.io/problems/agoda-customer-csv-summary)|[![Practice][p]](https://www.fastprep.io/problems/agoda-customer-csv-summary)|Oct 27, 2023|
 |**Airbnb**|[Most Booked Origin-Destination Route](https://www.fastprep.io/problems/airbnb-most-booked-origin-destination)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-most-booked-origin-destination)|Feb 12, 2022|
 |**IMC**|[Account Balance Over Threshold](https://www.fastprep.io/problems/imc-account-balance-over-threshold)|[![Practice][p]](https://www.fastprep.io/problems/imc-account-balance-over-threshold)|Sep 12, 2020|
 |**IMC**|[Transaction Balance Over Threshold](https://www.fastprep.io/problems/imc-transaction-balance-over-threshold)|[![Practice][p]](https://www.fastprep.io/problems/imc-transaction-balance-over-threshold)|Sep 12, 2020|
