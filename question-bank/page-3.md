@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Bloomberg LP**|[Interleaving String](https://www.fastprep.io/problems/bloomberg-interleaving-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-interleaving-string)|Oct 24, 2019|
 |**Bloomberg LP**|[Maximum Blocks in a Constrained Cave](https://www.fastprep.io/problems/bloomberg-maximum-blocks-in-cave)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-maximum-blocks-in-cave)|Oct 24, 2019|
 |**Bloomberg LP**|[Ordered Acknowledgement API](https://www.fastprep.io/problems/bloomberg-ordered-acknowledgement-api)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-ordered-acknowledgement-api)|Oct 24, 2019|
 |**Bloomberg LP**|[Symmetric Tree](https://www.fastprep.io/problems/bloomberg-symmetric-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-symmetric-tree)|Oct 24, 2019|

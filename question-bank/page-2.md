@@ -360,6 +360,7 @@
 |**Stable Money**|[Design a Feature Configuration Personalization Service](https://www.fastprep.io/low-level-design/feature-configuration-personalization)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/feature-configuration-personalization)|Jan 15, 2026|
 |**Ziina**|[Design Contact Sync and Prospective User Discovery](https://www.fastprep.io/low-level-design/contact-sync-and-prospective-users)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/contact-sync-and-prospective-users)|Jan 15, 2026|
 |**Tesla**|[Coordinate Parallel Runs Across Two Exclusive Targets](https://www.fastprep.io/project-coding/tesla-dual-target-parallel-runner)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/tesla-dual-target-parallel-runner)|Jan 14, 2026|
+|**Google**|[Design Fraud-Risk Scoring for Protected Actions](https://www.fastprep.io/system-design/fraud-risk-scoring-for-protected-actions)|System design|[![Practice][p]](https://www.fastprep.io/system-design/fraud-risk-scoring-for-protected-actions)|Jan 13, 2026|
 |**Walmart**|[Sort Real Number Strings](https://www.fastprep.io/problems/walmart-sort-real-number-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/walmart-sort-real-number-strings)|Jan 12, 2026|
 |**SavantLabs**|[Minutes to Infect Tree](https://www.fastprep.io/problems/savantlabs-minutes-to-infect-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/savantlabs-minutes-to-infect-tree)|Jan 12, 2026|
 |**Toast**|[Maximum Stock Profit With Time Gap](https://www.fastprep.io/problems/toast-maximum-stock-profit-with-time-gap)|Coding|[![Practice][p]](https://www.fastprep.io/problems/toast-maximum-stock-profit-with-time-gap)|Jan 12, 2026|
@@ -1860,5 +1861,4 @@
 |**Bloomberg LP**|[Order Employees by a Reports-To Hierarchy](https://www.fastprep.io/problems/bloomberg-order-employees-by-reporting-depth)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-order-employees-by-reporting-depth)|Oct 26, 2019|
 |**Carta**|[Aggregate Investment Ownership from CSV](https://www.fastprep.io/problems/carta-investment-ownership-aggregation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/carta-investment-ownership-aggregation)|Oct 25, 2019|
 |**Bloomberg LP**|[Linked List of Binary Tree Nodes at a Given Level](https://www.fastprep.io/problems/bloomberg-binary-tree-level-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-binary-tree-level-linked-list)|Oct 24, 2019|
-|**Bloomberg LP**|[Interleaving String](https://www.fastprep.io/problems/bloomberg-interleaving-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-interleaving-string)|Oct 24, 2019|
 <a id="bottom"></a>
