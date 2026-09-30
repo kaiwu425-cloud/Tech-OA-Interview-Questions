@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Salesforce**|[Update Pod Counts From Logs](https://www.fastprep.io/problems/salesforce-update-pod-counts-from-logs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-update-pod-counts-from-logs)|Jul 08, 2026|
+|**Agoda**|[Feasibility of Printing Within Given Days](https://www.fastprep.io/problems/agoda-printing-within-days)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-printing-within-days)|Jul 08, 2026|
+|**Agoda**|[Minimum Daily Printing Limit](https://www.fastprep.io/problems/agoda-minimum-daily-printing-limit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-minimum-daily-printing-limit)|Jul 08, 2026|
+|**Google**|[String Pattern Replacement](https://www.fastprep.io/problems/google-string-pattern-replacement)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-string-pattern-replacement)|Jul 08, 2026|
 |**Google**|[Template Variable Expansion](https://www.fastprep.io/problems/google-template-variable-expansion)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-template-variable-expansion)|Jul 08, 2026|
 |**Meta**|[Highest Rating Price Ratio](https://www.fastprep.io/problems/meta-highest-rating-price-ratio)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-highest-rating-price-ratio)|Jul 08, 2026|
 |**Snowflake**|[Closest Target Character](https://www.fastprep.io/problems/snowflake-closest-target-character)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-closest-target-character)|Jul 08, 2026|
