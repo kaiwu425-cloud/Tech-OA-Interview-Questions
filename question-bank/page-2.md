@@ -9,6 +9,17 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Snowflake**|[Closest Target Character](https://www.fastprep.io/problems/snowflake-closest-target-character)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-closest-target-character)|Jul 08, 2026|
+|**Point72**|[Test the Hypothesis](https://www.fastprep.io/problems/point72-test-the-hypothesis)|Coding|[![Practice][p]](https://www.fastprep.io/problems/point72-test-the-hypothesis)|Jul 08, 2026|
+|**DE Shaw**|[Minimum Frames for Equal Chunks](https://www.fastprep.io/problems/deshaw-minimum-frames-for-equal-chunks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/deshaw-minimum-frames-for-equal-chunks)|Jul 08, 2026|
+|**DE Shaw**|[Non-Alternating Binary Partitions](https://www.fastprep.io/problems/deshaw-non-alternating-binary-partitions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/deshaw-non-alternating-binary-partitions)|Jul 08, 2026|
+|**Sofi**|[Reachable Nodes in a Directed Graph](https://www.fastprep.io/problems/sofi-reachable-nodes-in-a-directed-graph)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sofi-reachable-nodes-in-a-directed-graph)|Jul 08, 2026|
+|**Mercor**|[Top K With a Deterministically Noisy Comparator (MLE)](https://www.fastprep.io/problems/mercor-top-k-with-deterministically-noisy-comparator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mercor-top-k-with-deterministically-noisy-comparator)|Jul 08, 2026|
+|**Reddit**|[Reconstruct Billing Status](https://www.fastprep.io/problems/reddit-reconstruct-billing-status)|Coding|[![Practice][p]](https://www.fastprep.io/problems/reddit-reconstruct-billing-status)|Jul 08, 2026|
+|**Apple**|[Product Except Self With Zeros](https://www.fastprep.io/problems/apple-product-except-self-with-zeros)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-product-except-self-with-zeros)|Jul 08, 2026|
+|**Apple**|[Subset Sum Possible](https://www.fastprep.io/problems/apple-subset-sum-possible)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-subset-sum-possible)|Jul 08, 2026|
+|**Apple**|[Validate Completed Sudoku](https://www.fastprep.io/problems/apple-validate-completed-sudoku)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-validate-completed-sudoku)|Jul 08, 2026|
+|**Figma**|[Rich Text Parser Part 3 (Depth Tokens)](https://www.fastprep.io/problems/figma-rich-text-parser)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-rich-text-parser)|Jul 08, 2026|
 |**Zomato / Eternal**|[Flipping Matrix](https://www.fastprep.io/problems/zomato-flipping-matrix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zomato-flipping-matrix)|Jul 08, 2026|
 |**Zomato / Eternal**|[Special Keyboard](https://www.fastprep.io/problems/zomato-special-keyboard)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zomato-special-keyboard)|Jul 08, 2026|
 |**NatWest**|[Remove Duplicate Characters](https://www.fastprep.io/problems/natwest-remove-duplicate-characters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/natwest-remove-duplicate-characters)|Jul 08, 2026|
