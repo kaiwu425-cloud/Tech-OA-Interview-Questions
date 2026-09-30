@@ -216,6 +216,7 @@
 |**Meta**|[Design an Account Risk Detection and Learning Pipeline](https://www.fastprep.io/system-design/account-risk-detection-and-learning-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/account-risk-detection-and-learning-pipeline)|Apr 24, 2026|
 |**Meta**|[Design a Six-Month Like Signal for Feed Scoring](https://www.fastprep.io/system-design/six-month-post-like-signal)|System design|[![Practice][p]](https://www.fastprep.io/system-design/six-month-post-like-signal)|Apr 24, 2026|
 |**Meta**|[Design Place Recommendations for a Moving User](https://www.fastprep.io/system-design/moving-user-local-place-discovery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/moving-user-local-place-discovery)|Apr 24, 2026|
+|**Meta**|[Design an Event Attendance Prediction Service](https://www.fastprep.io/system-design/event-attendance-prediction-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/event-attendance-prediction-service)|Apr 24, 2026|
 |**Duolingo**|[Rank Word-Translation Hints from Sentence Translations](https://www.fastprep.io/problems/duolingo-rank-translation-hints)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-rank-translation-hints)|Apr 21, 2026|
 |**Point72**|[Initial Public Offering](https://www.fastprep.io/problems/point72-initial-public-offering)|Coding|[![Practice][p]](https://www.fastprep.io/problems/point72-initial-public-offering)|Apr 19, 2026|
 |**Duolingo**|[Encrypt and Decrypt Strings](https://www.fastprep.io/problems/duolingo-encrypt-and-decrypt-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-encrypt-and-decrypt-strings)|Apr 17, 2026|
@@ -1581,6 +1582,7 @@
 |**Motive**|[Valid Anagram](https://www.fastprep.io/problems/motive-valid-anagram)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-valid-anagram)|Jun 01, 2023|
 |**Motive**|[Valid Palindrome](https://www.fastprep.io/problems/motive-valid-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-valid-palindrome)|Jun 01, 2023|
 |**Airbnb**|[Validate BST Node Descriptions](https://www.fastprep.io/problems/airbnb-validate-bst-node-descriptions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-validate-bst-node-descriptions)|May 17, 2023|
+|**ZipRecruiter**|[Design and Implement a Playlist Management Domain](https://www.fastprep.io/low-level-design/playlist-management-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/playlist-management-domain)|May 14, 2023|
 |**Airbnb**|[Minimum Cost to Remove Stones](https://www.fastprep.io/problems/airbnb-minimum-cost-to-remove-stones)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-minimum-cost-to-remove-stones)|Apr 09, 2023|
 |**Runway**|[Video Content Analysis Platform](https://www.fastprep.io/system-design/video-content-analysis-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/video-content-analysis-platform)|Apr 04, 2023|
 |**Airbyte**|[Minesweeper Board Update](https://www.fastprep.io/problems/airbyte-minesweeper-board-update)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbyte-minesweeper-board-update)|Mar 29, 2023|
@@ -1859,6 +1861,4 @@
 |**Airbnb**|[Resolve Battles](https://www.fastprep.io/problems/airbnb-resolve-battles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-resolve-battles)|Oct 16, 2019|
 |**Postman**|[Without Whitespaces](https://www.fastprep.io/problems/postman-without-whitespaces)|Coding|[![Practice][p]](https://www.fastprep.io/problems/postman-without-whitespaces)|Sep 26, 2019|
 |**Postman**|[Maximum Laptop Rating in a Price Range](https://www.fastprep.io/problems/postman-maximum-laptop-rating)|Coding|[![Practice][p]](https://www.fastprep.io/problems/postman-maximum-laptop-rating)|Aug 30, 2019|
-|**Motive**|[Parse a Valid Roman Numeral](https://www.fastprep.io/problems/motive-valid-roman-numeral)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-valid-roman-numeral)|Aug 17, 2019|
-|**Motive**|[Smallest Common Integer in Sorted Lists](https://www.fastprep.io/problems/motive-smallest-common-integer-in-sorted-lists)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-smallest-common-integer-in-sorted-lists)|Jul 17, 2019|
 <a id="bottom"></a>

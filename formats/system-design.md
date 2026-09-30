@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**473 questions**
+**475 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -14,7 +14,7 @@
 |**Autodesk / Nykaa**|[Design a Rapid Grocery Ordering Platform](https://www.fastprep.io/system-design/rapid-grocery-ordering-platform)|[![Practice][p]](https://www.fastprep.io/system-design/rapid-grocery-ordering-platform)|🔥 Sep 29, 2026|
 |**Waymo**|[Design Fleet Map Data Collection](https://www.fastprep.io/system-design/fleet-map-data-collection)|[![Practice][p]](https://www.fastprep.io/system-design/fleet-map-data-collection)|🔥 Sep 29, 2026|
 |**OpenAI / The D.E. Shaw Group / Zoox / Salesforce / Kotak Mahindra Bank / Mercor**|[Design an Online Payment Processing System](https://www.fastprep.io/system-design/online-payment-processing-system)|[![Practice][p]](https://www.fastprep.io/system-design/online-payment-processing-system)|🔥 Sep 29, 2026|
-|**Postman / Anduril / DigitalOcean / Oracle / Adobe / Uber Freight / Grab / Goldman Sachs / Salesforce / Vercel / Sentry / Motive / Deloitte**|[Design a URL Shortening Service](https://www.fastprep.io/system-design/url-shortening-service)|[![Practice][p]](https://www.fastprep.io/system-design/url-shortening-service)|🔥 Sep 29, 2026|
+|**Postman / Anduril / DigitalOcean / Oracle / Adobe / Uber Freight / Grab / Goldman Sachs / Salesforce / Vercel / Sentry / Motive / Deloitte / ZipRecruiter**|[Design a URL Shortening Service](https://www.fastprep.io/system-design/url-shortening-service)|[![Practice][p]](https://www.fastprep.io/system-design/url-shortening-service)|🔥 Sep 29, 2026|
 |**DoorDash**|[Food Review System](https://www.fastprep.io/system-design/food-review-system)|[![Practice][p]](https://www.fastprep.io/system-design/food-review-system)|🔥 Sep 29, 2026|
 |**Amazon / Lyft / Google / Pinterest / Snowflake**|[Design a Web Crawler](https://www.fastprep.io/system-design/web-crawler)|[![Practice][p]](https://www.fastprep.io/system-design/web-crawler)|🔥 Sep 29, 2026|
 |**Netflix / FluidStack / DigitalOcean / Nuro / Together AI**|[Design a Machine-Learning Job Scheduler](https://www.fastprep.io/system-design/machine-learning-job-scheduler)|[![Practice][p]](https://www.fastprep.io/system-design/machine-learning-job-scheduler)|🔥 Sep 29, 2026|
@@ -67,7 +67,7 @@
 |**Groww**|[Design a Good-Till-Trade Order Service](https://www.fastprep.io/system-design/good-till-trade-order-service)|[![Practice][p]](https://www.fastprep.io/system-design/good-till-trade-order-service)|🔥 Sep 25, 2026|
 |**Fox Corporation**|[Design Payment-Gateway Outage Alerting](https://www.fastprep.io/system-design/payment-gateway-outage-alerting-platform)|[![Practice][p]](https://www.fastprep.io/system-design/payment-gateway-outage-alerting-platform)|🔥 Sep 25, 2026|
 |**Moveworks**|[Design Read-Only Review Keyword Search](https://www.fastprep.io/system-design/read-only-review-keyword-search-platform)|[![Practice][p]](https://www.fastprep.io/system-design/read-only-review-keyword-search-platform)|🔥 Sep 25, 2026|
-|**Citadel / ByteDance / Microsoft / Walmart**|[Design an Authenticated Shopping Platform](https://www.fastprep.io/system-design/authenticated-shopping-platform)|[![Practice][p]](https://www.fastprep.io/system-design/authenticated-shopping-platform)|🔥 Sep 24, 2026|
+|**Citadel / ByteDance / Microsoft / Walmart / ZipRecruiter**|[Design an Authenticated Shopping Platform](https://www.fastprep.io/system-design/authenticated-shopping-platform)|[![Practice][p]](https://www.fastprep.io/system-design/authenticated-shopping-platform)|🔥 Sep 24, 2026|
 |**OpenAI**|[Design a Cloud Coding Workspace](https://www.fastprep.io/system-design/cloud-coding-workspace)|[![Practice][p]](https://www.fastprep.io/system-design/cloud-coding-workspace)|🔥 Sep 24, 2026|
 |**New Relic**|[Design Long-Running Trace Event Grouping](https://www.fastprep.io/system-design/distributed-trace-event-grouping)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-trace-event-grouping)|🔥 Sep 24, 2026|
 |**OpenAI**|[Design a Distributed Video Generation Platform](https://www.fastprep.io/system-design/distributed-video-generation-platform)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-video-generation-platform)|🔥 Sep 24, 2026|
@@ -390,6 +390,7 @@
 |**Meta**|[Design an Account Risk Detection and Learning Pipeline](https://www.fastprep.io/system-design/account-risk-detection-and-learning-pipeline)|[![Practice][p]](https://www.fastprep.io/system-design/account-risk-detection-and-learning-pipeline)|Apr 24, 2026|
 |**Meta**|[Design a Six-Month Like Signal for Feed Scoring](https://www.fastprep.io/system-design/six-month-post-like-signal)|[![Practice][p]](https://www.fastprep.io/system-design/six-month-post-like-signal)|Apr 24, 2026|
 |**Meta**|[Design Place Recommendations for a Moving User](https://www.fastprep.io/system-design/moving-user-local-place-discovery)|[![Practice][p]](https://www.fastprep.io/system-design/moving-user-local-place-discovery)|Apr 24, 2026|
+|**Meta**|[Design an Event Attendance Prediction Service](https://www.fastprep.io/system-design/event-attendance-prediction-service)|[![Practice][p]](https://www.fastprep.io/system-design/event-attendance-prediction-service)|Apr 24, 2026|
 |**Mistral AI**|[PDF-to-Markdown Inference API](https://www.fastprep.io/system-design/pdf-to-markdown-inference-api)|[![Practice][p]](https://www.fastprep.io/system-design/pdf-to-markdown-inference-api)|Apr 16, 2026|
 |**Google / Datadog**|[Design a Real-Time Anomaly Detection Service](https://www.fastprep.io/system-design/real-time-anomaly-detection-service)|[![Practice][p]](https://www.fastprep.io/system-design/real-time-anomaly-detection-service)|Apr 15, 2026|
 |**Datadog**|[Design Memory-Bounded Ordinary Least Squares](https://www.fastprep.io/system-design/memory-bounded-ordinary-least-squares)|[![Practice][p]](https://www.fastprep.io/system-design/memory-bounded-ordinary-least-squares)|Apr 15, 2026|
@@ -481,4 +482,5 @@
 |**SpaceX**|[Design a Satellite Fleet Management and Ground-Station Communications Platform](https://www.fastprep.io/system-design/satellite-fleet-management-ground-station-communications)|[![Practice][p]](https://www.fastprep.io/system-design/satellite-fleet-management-ground-station-communications)|Feb 26, 2020|
 |**Google**|[Design an Incremental Spelling and Grammar Assistant](https://www.fastprep.io/system-design/incremental-spelling-and-grammar-assistant)|[![Practice][p]](https://www.fastprep.io/system-design/incremental-spelling-and-grammar-assistant)|Dec 05, 2019|
 |**Google**|[Design Learned Web Search Ranking](https://www.fastprep.io/system-design/learned-web-search-ranking)|[![Practice][p]](https://www.fastprep.io/system-design/learned-web-search-ranking)|Dec 05, 2019|
+|**ZipRecruiter**|[Design a Community URL Shortening Service](https://www.fastprep.io/system-design/community-url-shortening-service)|[![Practice][p]](https://www.fastprep.io/system-design/community-url-shortening-service)|Feb 03, 2017|
 <a id="bottom"></a>
