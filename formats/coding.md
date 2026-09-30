@@ -2,12 +2,18 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**2,838 questions**
+**2,843 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**TikTok**|[Leftmost Memory Block Allocator (for mle also :)](https://www.fastprep.io/problems/tiktok-leftmost-memory-block-allocator)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-leftmost-memory-block-allocator)|🔥 Sep 30, 2026|
+|**Rippling**|[Token Validation](https://www.fastprep.io/problems/rippling-token-validation)|[![Practice][p]](https://www.fastprep.io/problems/rippling-token-validation)|🔥 Sep 30, 2026|
+|**Rippling**|[REST API: Highest International Students](https://www.fastprep.io/problems/rippling-highest-international-students)|[![Practice][p]](https://www.fastprep.io/problems/rippling-highest-international-students)|🔥 Sep 30, 2026|
+|**Rippling**|[Server Investment](https://www.fastprep.io/problems/rippling-server-investment)|[![Practice][p]](https://www.fastprep.io/problems/rippling-server-investment)|🔥 Sep 30, 2026|
+|**TikTok**|[Cyclic Shift to a Reverse-Sorted Array](https://www.fastprep.io/problems/tiktok-cyclic-shift-to-reverse-sorted)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-cyclic-shift-to-reverse-sorted)|🔥 Sep 30, 2026|
+|**TikTok**|[Count Coordinates Illuminated by Exactly One Lamp](https://www.fastprep.io/problems/tiktok-count-coordinates-illuminated-by-exactly-one-lamp)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-coordinates-illuminated-by-exactly-one-lamp)|🔥 Sep 30, 2026|
 |**OpenAI**|[Leaves Remaining After Wind Gusts](https://www.fastprep.io/problems/openai-wind-shifted-leaf-sum)|[![Practice][p]](https://www.fastprep.io/problems/openai-wind-shifted-leaf-sum)|🔥 Sep 29, 2026|
 |**OpenAI**|[Count Routes Through Four Shop Types](https://www.fastprep.io/problems/openai-count-four-shop-routes)|[![Practice][p]](https://www.fastprep.io/problems/openai-count-four-shop-routes)|🔥 Sep 29, 2026|
 |**OpenAI**|[Invert or Blur an Image](https://www.fastprep.io/problems/openai-invert-or-blur-image)|[![Practice][p]](https://www.fastprep.io/problems/openai-invert-or-blur-image)|🔥 Sep 29, 2026|
@@ -678,7 +684,6 @@
 |**IBM**|[Get Maximum Amount](https://www.fastprep.io/problems/ibm-get-maximum-amount)|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-maximum-amount)|🆕 Sep 08, 2026|
 |**DRW**|[Largest Number With Even Digit Frequencies](https://www.fastprep.io/problems/drw-largest-number-even-digit-frequencies)|[![Practice][p]](https://www.fastprep.io/problems/drw-largest-number-even-digit-frequencies)|🆕 Sep 08, 2026|
 |**DRW**|[Count Balanced Nodes in a Rooted Tree](https://www.fastprep.io/problems/drw-count-balanced-tree-nodes)|[![Practice][p]](https://www.fastprep.io/problems/drw-count-balanced-tree-nodes)|🆕 Sep 08, 2026|
-|**TikTok**|[Leftmost Memory Block Allocator (for mle also :)](https://www.fastprep.io/problems/tiktok-leftmost-memory-block-allocator)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-leftmost-memory-block-allocator)|🆕 Sep 08, 2026|
 |**TikTok**|[Reverse Letters in Pairs](https://www.fastprep.io/problems/tiktok-reverse-letters-in-pairs)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-reverse-letters-in-pairs)|🆕 Sep 08, 2026|
 |**TikTok**|[Count Alternating Tile Groups](https://www.fastprep.io/problems/tiktok-count-alternating-tile-groups)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-alternating-tile-groups)|🆕 Sep 08, 2026|
 |**TikTok**|[Build Blocks from a Starting Position](https://www.fastprep.io/problems/tiktok-build-blocks-from-starting-position)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-build-blocks-from-starting-position)|🆕 Sep 08, 2026|
@@ -1842,9 +1847,4 @@
 |**Google**|[Conveyor Triplet Packaging](https://www.fastprep.io/problems/google-conveyor-triplet-packaging)|[![Practice][p]](https://www.fastprep.io/problems/google-conveyor-triplet-packaging)|Oct 27, 2024|
 |**Persona**|[Escape the Haunted Castle](https://www.fastprep.io/problems/persona-escape-haunted-castle)|[![Practice][p]](https://www.fastprep.io/problems/persona-escape-haunted-castle)|Oct 24, 2024|
 |**Persona**|[Escape the Haunted Castle with Treasures](https://www.fastprep.io/problems/persona-escape-haunted-castle-treasures)|[![Practice][p]](https://www.fastprep.io/problems/persona-escape-haunted-castle-treasures)|Oct 24, 2024|
-|**Google**|[Minimum-Cost Meeting City](https://www.fastprep.io/problems/google-minimum-cost-meeting-city)|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-cost-meeting-city)|Oct 23, 2024|
-|**Amazon**|[Get Smaller Items](https://www.fastprep.io/problems/amazon-get-smaller-items)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-smaller-items)|Oct 22, 2024|
-|**Amazon**|[About Mortgage](https://www.fastprep.io/problems/amazon-maximum-number-of-days-to-survive)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-number-of-days-to-survive)|Oct 22, 2024|
-|**Amazon**|[Get Min Cost of Purchasing Books](https://www.fastprep.io/problems/amazon-get-min-cost-book)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-cost-book)|Oct 22, 2024|
-|**Amazon**|[Schedule Tasks](https://www.fastprep.io/problems/amazon-schedule-tasks)|[![Practice][p]](https://www.fastprep.io/problems/amazon-schedule-tasks)|Oct 22, 2024|
 <a id="bottom"></a>
