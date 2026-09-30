@@ -69,6 +69,7 @@
 |**Snowflake**|[Simple Array Rotation Game](https://www.fastprep.io/problems/snowflake-simple-array-rotation-game)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-simple-array-rotation-game)|Jun 30, 2026|
 |**Microsoft**|[XOR Multiplication](https://www.fastprep.io/problems/microsoft-xor-multiplication)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-xor-multiplication)|Jun 30, 2026|
 |**Microsoft**|[Neural Network Subnetwork Strength](https://www.fastprep.io/problems/microsoft-neural-network-subnetwork-strength)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-neural-network-subnetwork-strength)|Jun 30, 2026|
+|**Meta**|[Design a Code-Generation Language Model](https://www.fastprep.io/system-design/code-generation-language-model)|System design|[![Practice][p]](https://www.fastprep.io/system-design/code-generation-language-model)|Jun 30, 2026|
 |**Amazon**|[Frequently Bought Together](https://www.fastprep.io/problems/amazon-frequently-bought-together)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-frequently-bought-together)|Jun 29, 2026|
 |**Amazon**|[Souvenir Shop Purchases](https://www.fastprep.io/problems/amazon-souvenir-shop-purchases)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-souvenir-shop-purchases)|Jun 29, 2026|
 |**McKinsey**|[Count Repeated Request IDs](https://www.fastprep.io/problems/mckinsey-count-repeated-request-ids)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mckinsey-count-repeated-request-ids)|Jun 29, 2026|
@@ -1860,5 +1861,4 @@
 |**Bloomberg LP**|[Find the Intersection Node of Two Linked Lists](https://www.fastprep.io/problems/bloomberg-intersection-of-two-linked-lists)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-intersection-of-two-linked-lists)|Nov 03, 2019|
 |**Bloomberg LP**|[Order Employees by a Reports-To Hierarchy](https://www.fastprep.io/problems/bloomberg-order-employees-by-reporting-depth)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-order-employees-by-reporting-depth)|Oct 26, 2019|
 |**Carta**|[Aggregate Investment Ownership from CSV](https://www.fastprep.io/problems/carta-investment-ownership-aggregation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/carta-investment-ownership-aggregation)|Oct 25, 2019|
-|**Bloomberg LP**|[Linked List of Binary Tree Nodes at a Given Level](https://www.fastprep.io/problems/bloomberg-binary-tree-level-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-binary-tree-level-linked-list)|Oct 24, 2019|
 <a id="bottom"></a>

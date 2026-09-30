@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**476 questions**
+**477 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -371,6 +371,7 @@
 |**NVIDIA**|[Governed SQL Generation Chatbot](https://www.fastprep.io/system-design/governed-sql-generation-chatbot)|[![Practice][p]](https://www.fastprep.io/system-design/governed-sql-generation-chatbot)|Jul 02, 2026|
 |**NVIDIA**|[GPU Telemetry Collection and Analytics Platform](https://www.fastprep.io/system-design/gpu-telemetry-collection-and-analytics-platform)|[![Practice][p]](https://www.fastprep.io/system-design/gpu-telemetry-collection-and-analytics-platform)|Jul 02, 2026|
 |**Baseten**|[Ingest and Structure Historical Pod Alerts](https://www.fastprep.io/system-design/ingest-and-structure-historical-pod-alerts)|[![Practice][p]](https://www.fastprep.io/system-design/ingest-and-structure-historical-pod-alerts)|Jul 02, 2026|
+|**Meta**|[Design a Code-Generation Language Model](https://www.fastprep.io/system-design/code-generation-language-model)|[![Practice][p]](https://www.fastprep.io/system-design/code-generation-language-model)|Jun 30, 2026|
 |**Datadog**|[Design a Ticket-to-Pull-Request Coding Agent](https://www.fastprep.io/system-design/ticket-to-pull-request-coding-agent)|[![Practice][p]](https://www.fastprep.io/system-design/ticket-to-pull-request-coding-agent)|Jun 22, 2026|
 |**Hebbia**|[Multi-Agent Financial Research Assistant](https://www.fastprep.io/system-design/multi-agent-financial-research-assistant)|[![Practice][p]](https://www.fastprep.io/system-design/multi-agent-financial-research-assistant)|Jun 18, 2026|
 |**Amazon**|[Design a Vending Machine Fleet](https://www.fastprep.io/system-design/vending-machine-fleet)|[![Practice][p]](https://www.fastprep.io/system-design/vending-machine-fleet)|Jun 15, 2026|
