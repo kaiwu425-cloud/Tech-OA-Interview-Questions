@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (2,838)](formats/coding.md) · [SQL (47)](formats/sql.md) · [System design (475)](formats/system-design.md) · [Low-level design (121)](formats/low-level-design.md) · [AI coding (58)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (2,843)](formats/coding.md) · [SQL (51)](formats/sql.md) · [System design (475)](formats/system-design.md) · [Low-level design (121)](formats/low-level-design.md) · [AI coding (58)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -33,6 +33,16 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <!-- question-pages:end -->
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**TikTok**|[Leftmost Memory Block Allocator (for mle also :)](https://www.fastprep.io/problems/tiktok-leftmost-memory-block-allocator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-leftmost-memory-block-allocator)|🔥 Sep 30, 2026|
+|**Rippling**|[Token Validation](https://www.fastprep.io/problems/rippling-token-validation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-token-validation)|🔥 Sep 30, 2026|
+|**Rippling**|[REST API: Highest International Students](https://www.fastprep.io/problems/rippling-highest-international-students)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-highest-international-students)|🔥 Sep 30, 2026|
+|**Rippling**|[Server Investment](https://www.fastprep.io/problems/rippling-server-investment)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-server-investment)|🔥 Sep 30, 2026|
+|**TikTok**|[Cyclic Shift to a Reverse-Sorted Array](https://www.fastprep.io/problems/tiktok-cyclic-shift-to-reverse-sorted)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-cyclic-shift-to-reverse-sorted)|🔥 Sep 30, 2026|
+|**TikTok**|[Count Coordinates Illuminated by Exactly One Lamp](https://www.fastprep.io/problems/tiktok-count-coordinates-illuminated-by-exactly-one-lamp)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-coordinates-illuminated-by-exactly-one-lamp)|🔥 Sep 30, 2026|
+|**Capital One**|[Analyze House and Viewing Metrics](https://www.fastprep.io/problems/capital-one-house-and-viewing-insights)|SQL|[![Practice][p]](https://www.fastprep.io/problems/capital-one-house-and-viewing-insights)|🔥 Sep 30, 2026|
+|**Capital One**|[Build House Viewing Features](https://www.fastprep.io/problems/capital-one-build-house-viewing-features)|SQL|[![Practice][p]](https://www.fastprep.io/problems/capital-one-build-house-viewing-features)|🔥 Sep 30, 2026|
+|**Capital One**|[Prepare House Price Regression Data](https://www.fastprep.io/problems/capital-one-prepare-house-price-data)|SQL|[![Practice][p]](https://www.fastprep.io/problems/capital-one-prepare-house-price-data)|🔥 Sep 30, 2026|
+|**Capital One**|[Predict House Prices](https://www.fastprep.io/problems/capital-one-predict-house-prices)|SQL|[![Practice][p]](https://www.fastprep.io/problems/capital-one-predict-house-prices)|🔥 Sep 30, 2026|
 |**Oracle / Retell AI / Apple / Google / Walmart / Flipkart / Globalization Partners / Amazon / Reddit / Atlassian**|[Design a Distributed Rate Limiter](https://www.fastprep.io/system-design/distributed-rate-limiter)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-rate-limiter)|🔥 Sep 29, 2026|
 |**Moveworks / Atlassian**|[Design Cloud Usage Billing Infrastructure](https://www.fastprep.io/system-design/cloud-usage-billing-infrastructure)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cloud-usage-billing-infrastructure)|🔥 Sep 29, 2026|
 |**Amazon / Instacart / Zip / Nykaa**|[Design a Last-Unit Inventory Reservation Service](https://www.fastprep.io/system-design/last-unit-inventory-reservation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/last-unit-inventory-reservation)|🔥 Sep 29, 2026|
@@ -971,7 +981,6 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**TikTok**|[Analyze Taxi Driver and Ride Metrics](https://www.fastprep.io/problems/tiktok-driver-and-ride-metrics)|SQL|[![Practice][p]](https://www.fastprep.io/problems/tiktok-driver-and-ride-metrics)|🆕 Sep 08, 2026|
 |**DRW**|[Largest Number With Even Digit Frequencies](https://www.fastprep.io/problems/drw-largest-number-even-digit-frequencies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/drw-largest-number-even-digit-frequencies)|🆕 Sep 08, 2026|
 |**DRW**|[Count Balanced Nodes in a Rooted Tree](https://www.fastprep.io/problems/drw-count-balanced-tree-nodes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/drw-count-balanced-tree-nodes)|🆕 Sep 08, 2026|
-|**TikTok**|[Leftmost Memory Block Allocator (for mle also :)](https://www.fastprep.io/problems/tiktok-leftmost-memory-block-allocator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-leftmost-memory-block-allocator)|🆕 Sep 08, 2026|
 |**TikTok**|[Reverse Letters in Pairs](https://www.fastprep.io/problems/tiktok-reverse-letters-in-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-reverse-letters-in-pairs)|🆕 Sep 08, 2026|
 |**TikTok**|[Count Alternating Tile Groups](https://www.fastprep.io/problems/tiktok-count-alternating-tile-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-alternating-tile-groups)|🆕 Sep 08, 2026|
 |**TikTok**|[Build Blocks from a Starting Position](https://www.fastprep.io/problems/tiktok-build-blocks-from-starting-position)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-build-blocks-from-starting-position)|🆕 Sep 08, 2026|
@@ -1691,14 +1700,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Capital One**|[Summarize Taxi Drivers and Rides](https://www.fastprep.io/problems/capital-one-driver-and-ride-summary)|SQL|[![Practice][p]](https://www.fastprep.io/problems/capital-one-driver-and-ride-summary)|Jul 09, 2026|
 |**Capital One**|[Build Taxi Driver Performance Features](https://www.fastprep.io/problems/capital-one-build-taxi-driver-features)|SQL|[![Practice][p]](https://www.fastprep.io/problems/capital-one-build-taxi-driver-features)|Jul 09, 2026|
 |**Capital One**|[Prepare Taxi Driver Classification Data](https://www.fastprep.io/problems/capital-one-prepare-driver-classification-data)|SQL|[![Practice][p]](https://www.fastprep.io/problems/capital-one-prepare-driver-classification-data)|Jul 09, 2026|
-|**Capital One**|[Predict Taxi Driver Classes](https://www.fastprep.io/problems/capital-one-predict-driver-classes)|SQL|[![Practice][p]](https://www.fastprep.io/problems/capital-one-predict-driver-classes)|Jul 09, 2026|
-|**Rupeek**|[Trapping Rain Water](https://www.fastprep.io/problems/rupeek-trapping-rain-water)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rupeek-trapping-rain-water)|Jul 08, 2026|
-|**OpenAI**|[DSA Round: Maximum Score Grid Path](https://www.fastprep.io/problems/openai-dsa-round-maximum-score-grid-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-dsa-round-maximum-score-grid-path)|Jul 08, 2026|
-|**Amazon**|[Closest Version Date](https://www.fastprep.io/problems/amazon-closest-version-date)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-closest-version-date)|Jul 08, 2026|
-|**Amazon**|[Maximum Concurrent Processes (Bar Raiser Round)](https://www.fastprep.io/problems/amazon-max-concurrent-processes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-max-concurrent-processes)|Jul 08, 2026|
-|**Amazon**|[Package Dependency Order](https://www.fastprep.io/problems/amazon-package-dependency-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-package-dependency-order)|Jul 08, 2026|
-|**Scale AI**|[Task Scheduler with Dependencies](https://www.fastprep.io/problems/scale-ai-task-scheduler-with-dependencies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-task-scheduler-with-dependencies)|Jul 08, 2026|
-|**Salesforce**|[ATM Queue Exit Order](https://www.fastprep.io/problems/salesforce-atm-queue)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-atm-queue)|Jul 08, 2026|
-|**Salesforce**|[Good Ways to Split an Array](https://www.fastprep.io/problems/salesforce-good-ways-to-split-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-good-ways-to-split-array)|Jul 08, 2026|
-|**Salesforce**|[Generate Seen Binary Strings](https://www.fastprep.io/problems/salesforce-generate-seen-binary-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-generate-seen-binary-strings)|Jul 08, 2026|
 <a id="bottom"></a>
