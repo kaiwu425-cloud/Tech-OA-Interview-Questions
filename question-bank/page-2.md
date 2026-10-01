@@ -9,6 +9,25 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Upstart**|[Scale Ingredient Quantities](https://www.fastprep.io/problems/upstart-scale-ingredient-quantities)|Coding|[![Practice][p]](https://www.fastprep.io/problems/upstart-scale-ingredient-quantities)|Jul 12, 2026|
+|**IDFC**|[Find All People With Secret](https://www.fastprep.io/problems/idfc-find-all-people-with-secret)|Coding|[![Practice][p]](https://www.fastprep.io/problems/idfc-find-all-people-with-secret)|Jul 12, 2026|
+|**DRW**|[Doctor Appointment Slot Assignment](https://www.fastprep.io/problems/drw-doctor-appointment-slot-assignment)|Coding|[![Practice][p]](https://www.fastprep.io/problems/drw-doctor-appointment-slot-assignment)|Jul 12, 2026|
+|**DRW**|[Maximum Even-Sum Neighboring Pairs](https://www.fastprep.io/problems/drw-maximum-even-sum-neighboring-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/drw-maximum-even-sum-neighboring-pairs)|Jul 12, 2026|
+|**DRW**|[Minimize Maximum Group Difference](https://www.fastprep.io/problems/drw-minimize-maximum-group-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/drw-minimize-maximum-group-difference)|Jul 12, 2026|
+|**Goldman Sachs**|[Cheapest Flights Within K Stops](https://www.fastprep.io/problems/goldman-sachs-cheapest-flights-within-k-stops)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-cheapest-flights-within-k-stops)|Jul 12, 2026|
+|**Goldman Sachs**|[Word Ladder](https://www.fastprep.io/problems/goldman-sachs-word-ladder)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-word-ladder)|Jul 12, 2026|
+|**Rippling**|[Camel Cards](https://www.fastprep.io/problems/rippling-camel-cards)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-camel-cards)|Jul 12, 2026|
+|**Rippling**|[Article Vote Tracker](https://www.fastprep.io/problems/rippling-article-vote-tracker)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-article-vote-tracker)|Jul 12, 2026|
+|**Rippling**|[Employee Resource Access Management](https://www.fastprep.io/problems/rippling-employee-access-management)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-employee-access-management)|Jul 12, 2026|
+|**Rippling**|[Limit an Organization Tree's Height](https://www.fastprep.io/problems/rippling-org-tree-height-control)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-org-tree-height-control)|Jul 12, 2026|
+|**Rippling**|[Distributed System Recovery](https://www.fastprep.io/problems/rippling-distributed-system-recovery)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-distributed-system-recovery)|Jul 12, 2026|
+|**Rippling**|[Server Upgrade Planning](https://www.fastprep.io/problems/rippling-server-upgrade-planning)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-server-upgrade-planning)|Jul 12, 2026|
+|**Rippling**|[Shortest Substring](https://www.fastprep.io/problems/rippling-shortest-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-shortest-substring)|Jul 12, 2026|
+|**Rippling**|[Lexicographically Minimum Stack Encryption](https://www.fastprep.io/problems/rippling-lexicographically-minimum-encryption)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-lexicographically-minimum-encryption)|Jul 12, 2026|
+|**Rippling**|[Minimum Account Settlements](https://www.fastprep.io/problems/rippling-minimum-account-settlements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-minimum-account-settlements)|Jul 12, 2026|
+|**Rippling**|[Matrix Region Sum](https://www.fastprep.io/problems/rippling-matrix-block-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-matrix-block-sum)|Jul 12, 2026|
+|**Rippling**|[Maximum XOR Elimination Score](https://www.fastprep.io/problems/rippling-maximum-xor-elimination-score)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-maximum-xor-elimination-score)|Jul 12, 2026|
+|**Rippling**|[Prime Tree City Labelings](https://www.fastprep.io/problems/rippling-prime-tree-labelings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-prime-tree-labelings)|Jul 12, 2026|
 |**Zomato / Eternal**|[Jump Game IV](https://www.fastprep.io/problems/zomato-jump-game-iv)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zomato-jump-game-iv)|Jul 12, 2026|
 |**IndiaMART**|[Reverse a String](https://www.fastprep.io/problems/indiamart-reverse-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/indiamart-reverse-string)|Jul 12, 2026|
 |**Moody's**|[Longest Subarray with At Most Two Distinct Values](https://www.fastprep.io/problems/moodys-longest-subarray-at-most-two-distinct)|Coding|[![Practice][p]](https://www.fastprep.io/problems/moodys-longest-subarray-at-most-two-distinct)|Jul 12, 2026|
@@ -605,7 +624,6 @@
 |**Box**|[Retention Policy Collision](https://www.fastprep.io/problems/box-find-remaining-policies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/box-find-remaining-policies)|Jun 24, 2025|
 |**Box**|[Counterfeit Currency](https://www.fastprep.io/problems/box-count-counterfeit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/box-count-counterfeit)|Jun 24, 2025|
 |**Box**|[Box Fro~yo](https://www.fastprep.io/problems/box-flavor-changer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/box-flavor-changer)|Jun 24, 2025|
-|**Ramp**|[Accept or Decline Queries](https://www.fastprep.io/problems/ramp-accept-or-decline-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-accept-or-decline-queries)|Jun 24, 2025|
 |**Amazon**|[Predict Answer](https://www.fastprep.io/problems/amazon-predict-answer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-predict-answer)|Jun 23, 2025|
 |**Motive**|[Restore IP Addresses](https://www.fastprep.io/problems/motive-restore-ip-addresses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-restore-ip-addresses)|Jun 21, 2025|
 |**Amazon**|[Get Min Subsegments](https://www.fastprep.io/problems/amazon-get-min-subsegments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-subsegments)|Jun 18, 2025|
@@ -1841,21 +1859,4 @@
 |**SambaNova Systems**|[Sum Nodes with an Even-Valued Grandparent](https://www.fastprep.io/problems/sambanova-sum-even-valued-grandparent)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-sum-even-valued-grandparent)|Jun 30, 2022|
 |**SambaNova Systems**|[Validate Binary Search Tree](https://www.fastprep.io/problems/sambanova-validate-binary-search-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-validate-binary-search-tree)|Jun 30, 2022|
 |**Bloomberg LP**|[Insert Delete GetRandom O(1) - Duplicates Allowed](https://www.fastprep.io/problems/bloomberg-insert-delete-getrandom-o1-duplicates-allowed)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-insert-delete-getrandom-o1-duplicates-allowed)|Jun 30, 2022|
-|**SambaNova Systems**|[Deterministic Zigzag Sort](https://www.fastprep.io/problems/sambanova-zigzag-sort)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-zigzag-sort)|Jun 22, 2022|
-|**Revolut**|[Make Account Transfers Safe Under Concurrency](https://www.fastprep.io/project-coding/revolut-concurrency-safe-account-transfer)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/revolut-concurrency-safe-account-transfer)|Jun 20, 2022|
-|**Skyscanner**|[Design Flight Price Threshold Alerts](https://www.fastprep.io/system-design/flight-price-threshold-alerts)|System design|[![Practice][p]](https://www.fastprep.io/system-design/flight-price-threshold-alerts)|Jun 10, 2022|
-|**SambaNova Systems**|[Minimum Window Substring](https://www.fastprep.io/problems/sambanova-minimum-window-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-minimum-window-substring)|Jun 09, 2022|
-|**SambaNova Systems**|[Number of Provinces](https://www.fastprep.io/problems/sambanova-number-of-provinces)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-number-of-provinces)|Jun 09, 2022|
-|**Bloomberg LP**|[Two Sum](https://www.fastprep.io/problems/bloomberg-two-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-two-sum)|Jun 09, 2022|
-|**SambaNova Systems**|[Maximum Area of Island](https://www.fastprep.io/problems/sambanova-maximum-area-of-island)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-maximum-area-of-island)|Jun 03, 2022|
-|**SambaNova Systems**|[Merge Three Sorted Arrays](https://www.fastprep.io/problems/sambanova-merge-three-sorted-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-merge-three-sorted-arrays)|Jun 03, 2022|
-|**SambaNova Systems**|[Task Scheduler with Cooldown](https://www.fastprep.io/problems/sambanova-task-scheduler)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-task-scheduler)|Jun 03, 2022|
-|**SambaNova Systems**|[Point Inside a Triangle](https://www.fastprep.io/problems/sambanova-point-in-triangle)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-point-in-triangle)|Jun 01, 2022|
-|**Bloomberg LP**|[Enumerate Right-and-Down Matrix Paths](https://www.fastprep.io/problems/bloomberg-enumerate-right-down-grid-paths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-enumerate-right-down-grid-paths)|May 28, 2022|
-|**Persona**|[Treasure Hunter](https://www.fastprep.io/problems/persona-treasure-hunter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/persona-treasure-hunter)|May 21, 2022|
-|**Alchemy**|[Equal-Sum Digit Partitions](https://www.fastprep.io/problems/alchemy-equal-sum-digit-partitions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/alchemy-equal-sum-digit-partitions)|May 18, 2022|
-|**Bloomberg LP**|[Maximum Sum BST in a Binary Tree](https://www.fastprep.io/problems/bloomberg-maximum-sum-bst-in-a-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-maximum-sum-bst-in-a-binary-tree)|May 13, 2022|
-|**Confluent**|[Design a Kubernetes-Managed Kafka Service](https://www.fastprep.io/system-design/kubernetes-managed-kafka-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/kubernetes-managed-kafka-service)|May 05, 2022|
-|**ZipRecruiter**|[Count Words Formable from Letters](https://www.fastprep.io/problems/ziprecruiter-count-formable-words)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-formable-words)|Apr 27, 2022|
-|**ZipRecruiter**|[Interleave Two Strings](https://www.fastprep.io/problems/ziprecruiter-interleave-two-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-interleave-two-strings)|Apr 27, 2022|
 <a id="bottom"></a>
