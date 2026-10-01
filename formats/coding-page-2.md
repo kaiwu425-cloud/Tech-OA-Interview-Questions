@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,036 questions**
+**3,037 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Amazon**|[Optimize Identifiers](https://www.fastprep.io/problems/amazon-optimize-identifiers)|[![Practice][p]](https://www.fastprep.io/problems/amazon-optimize-identifiers)|Nov 25, 2024|
 |**Stripe**|[Card Range Obfuscation Part 4](https://www.fastprep.io/problems/stripe-card-range-obfuscation-part4)|[![Practice][p]](https://www.fastprep.io/problems/stripe-card-range-obfuscation-part4)|Nov 25, 2024|
 |**Stripe**|[Card Range Obfuscation Part 3](https://www.fastprep.io/problems/stripe-card-range-obfuscation-part3)|[![Practice][p]](https://www.fastprep.io/problems/stripe-card-range-obfuscation-part3)|Nov 25, 2024|
 |**Stripe**|[Card Range Obfuscation Part 2](https://www.fastprep.io/problems/stripe-card-range-obfuscation-part2)|[![Practice][p]](https://www.fastprep.io/problems/stripe-card-range-obfuscation-part2)|Nov 25, 2024|

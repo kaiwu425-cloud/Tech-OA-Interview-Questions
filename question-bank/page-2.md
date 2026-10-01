@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Target**|[First-Available Seat Booking](https://www.fastprep.io/problems/target-first-available-seat-booking)|Coding|[![Practice][p]](https://www.fastprep.io/problems/target-first-available-seat-booking)|Jul 11, 2026|
+|**OpenAI**|[Memory Allocator](https://www.fastprep.io/problems/openai-memory-allocator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-memory-allocator)|Jul 10, 2026|
 |**OpenAI**|[Message Event Aggregation](https://www.fastprep.io/problems/openai-message-event-aggregation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-message-event-aggregation)|Jul 10, 2026|
 |**OpenAI**|[Streaming Entropy, Part 1: Batch Entropy](https://www.fastprep.io/problems/openai-streaming-entropy-part-1)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-streaming-entropy-part-1)|Jul 10, 2026|
 |**OpenAI**|[Streaming Entropy, Part 2: Numerically Stable Entropy](https://www.fastprep.io/problems/openai-streaming-entropy-part-2)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-streaming-entropy-part-2)|Jul 10, 2026|
@@ -116,7 +118,6 @@
 |**Uber**|[Minimum Operations To Reduce To Zero](https://www.fastprep.io/problems/uber-minimum-operations-to-reduce-to-zero)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-minimum-operations-to-reduce-to-zero)|Jun 29, 2026|
 |**Uber**|[Shopkeeper Final Price](https://www.fastprep.io/problems/uber-shopkeeper-final-price)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-shopkeeper-final-price)|Jun 29, 2026|
 |**TikTok**|[Check Even-Position Monotonicity](https://www.fastprep.io/problems/tiktok-check-even-position-monotonicity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-check-even-position-monotonicity)|Jun 29, 2026|
-|**TikTok**|[Construct WDL String](https://www.fastprep.io/problems/tiktok-construct-wdl-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-construct-wdl-string)|Jun 29, 2026|
 |**IBM**|[Request Retry Count](https://www.fastprep.io/problems/ibm-request-retry-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-request-retry-count)|Jun 29, 2026|
 |**Microsoft**|[Minimum Cost K-Capable Models](https://www.fastprep.io/problems/microsoft-minimum-cost-k-capable-models)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-cost-k-capable-models)|Jun 29, 2026|
 |**Microsoft**|[Unique Difference Pattern](https://www.fastprep.io/problems/microsoft-unique-difference-pattern)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-unique-difference-pattern)|Jun 29, 2026|
@@ -1857,5 +1858,4 @@
 |**Airbnb**|[Cheapest Flight with Its Path](https://www.fastprep.io/problems/airbnb-cheapest-flight-with-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-cheapest-flight-with-path)|Apr 18, 2022|
 |**ZipRecruiter**|[Starting Value with the Longest Collatz Chain](https://www.fastprep.io/problems/ziprecruiter-longest-collatz-start)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-longest-collatz-start)|Apr 18, 2022|
 |**ZipRecruiter**|[Rotate a Square Matrix 90 Degrees Clockwise](https://www.fastprep.io/problems/ziprecruiter-rotate-image)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-rotate-image)|Apr 08, 2022|
-|**ZipRecruiter**|[Sort an Integer Array in Ascending Order](https://www.fastprep.io/problems/ziprecruiter-sort-integers-ascending)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-sort-integers-ascending)|Apr 08, 2022|
 <a id="bottom"></a>
