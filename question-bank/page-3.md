@@ -9,6 +9,23 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**SambaNova Systems**|[Deterministic Zigzag Sort](https://www.fastprep.io/problems/sambanova-zigzag-sort)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-zigzag-sort)|Jun 22, 2022|
+|**Revolut**|[Make Account Transfers Safe Under Concurrency](https://www.fastprep.io/project-coding/revolut-concurrency-safe-account-transfer)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/revolut-concurrency-safe-account-transfer)|Jun 20, 2022|
+|**Skyscanner**|[Design Flight Price Threshold Alerts](https://www.fastprep.io/system-design/flight-price-threshold-alerts)|System design|[![Practice][p]](https://www.fastprep.io/system-design/flight-price-threshold-alerts)|Jun 10, 2022|
+|**SambaNova Systems**|[Minimum Window Substring](https://www.fastprep.io/problems/sambanova-minimum-window-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-minimum-window-substring)|Jun 09, 2022|
+|**SambaNova Systems**|[Number of Provinces](https://www.fastprep.io/problems/sambanova-number-of-provinces)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-number-of-provinces)|Jun 09, 2022|
+|**Bloomberg LP**|[Two Sum](https://www.fastprep.io/problems/bloomberg-two-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-two-sum)|Jun 09, 2022|
+|**SambaNova Systems**|[Maximum Area of Island](https://www.fastprep.io/problems/sambanova-maximum-area-of-island)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-maximum-area-of-island)|Jun 03, 2022|
+|**SambaNova Systems**|[Merge Three Sorted Arrays](https://www.fastprep.io/problems/sambanova-merge-three-sorted-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-merge-three-sorted-arrays)|Jun 03, 2022|
+|**SambaNova Systems**|[Task Scheduler with Cooldown](https://www.fastprep.io/problems/sambanova-task-scheduler)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-task-scheduler)|Jun 03, 2022|
+|**SambaNova Systems**|[Point Inside a Triangle](https://www.fastprep.io/problems/sambanova-point-in-triangle)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-point-in-triangle)|Jun 01, 2022|
+|**Bloomberg LP**|[Enumerate Right-and-Down Matrix Paths](https://www.fastprep.io/problems/bloomberg-enumerate-right-down-grid-paths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-enumerate-right-down-grid-paths)|May 28, 2022|
+|**Persona**|[Treasure Hunter](https://www.fastprep.io/problems/persona-treasure-hunter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/persona-treasure-hunter)|May 21, 2022|
+|**Alchemy**|[Equal-Sum Digit Partitions](https://www.fastprep.io/problems/alchemy-equal-sum-digit-partitions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/alchemy-equal-sum-digit-partitions)|May 18, 2022|
+|**Bloomberg LP**|[Maximum Sum BST in a Binary Tree](https://www.fastprep.io/problems/bloomberg-maximum-sum-bst-in-a-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-maximum-sum-bst-in-a-binary-tree)|May 13, 2022|
+|**Confluent**|[Design a Kubernetes-Managed Kafka Service](https://www.fastprep.io/system-design/kubernetes-managed-kafka-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/kubernetes-managed-kafka-service)|May 05, 2022|
+|**ZipRecruiter**|[Count Words Formable from Letters](https://www.fastprep.io/problems/ziprecruiter-count-formable-words)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-formable-words)|Apr 27, 2022|
+|**ZipRecruiter**|[Interleave Two Strings](https://www.fastprep.io/problems/ziprecruiter-interleave-two-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-interleave-two-strings)|Apr 27, 2022|
 |**ZipRecruiter**|[Prefix Longest Consecutive-Value Runs](https://www.fastprep.io/problems/ziprecruiter-prefix-consecutive-run-lengths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-prefix-consecutive-run-lengths)|Apr 27, 2022|
 |**Bloomberg LP**|[Sort by Variable-Length Alphabet Tokens](https://www.fastprep.io/problems/bloomberg-variable-token-alphabet-sort)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-variable-token-alphabet-sort)|Apr 24, 2022|
 |**Bloomberg LP**|[Word Ladder](https://www.fastprep.io/problems/bloomberg-word-ladder)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-word-ladder)|Apr 24, 2022|

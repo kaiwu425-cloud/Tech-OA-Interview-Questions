@@ -2,12 +2,32 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,039 questions**
+**3,056 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Microsoft**|[Max Sum With Same First And Last Digit](https://www.fastprep.io/problems/microsoft-find-max-sum-with-same-first-and-last-digit)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-find-max-sum-with-same-first-and-last-digit)|Dec 16, 2024|
+|**GitHub**|[Bridge Car Weight](https://www.fastprep.io/problems/github-brdige-car-weight)|[![Practice][p]](https://www.fastprep.io/problems/github-brdige-car-weight)|Dec 16, 2024|
+|**Amazon**|[Get Min Value](https://www.fastprep.io/problems/amazon-get-minimum-value)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-minimum-value)|Dec 11, 2024|
+|**Amazon**|[Get Max Skill Sum](https://www.fastprep.io/problems/amazon-get-max-skill-sum)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-skill-sum)|Dec 11, 2024|
+|**Amazon**|[Find Number](https://www.fastprep.io/problems/amazon-find-number)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-number)|Dec 10, 2024|
+|**Amazon**|[Get Min Removal](https://www.fastprep.io/problems/amazon-get-min-removal)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-removal)|Dec 10, 2024|
+|**JP Morgan**|[Find Total Cost](https://www.fastprep.io/problems/jpmorgan-find-total-cost)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-find-total-cost)|Dec 10, 2024|
+|**Microsoft**|[Max Num Of Prduced Car](https://www.fastprep.io/problems/microsoft-max-num-of-produced-cars)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-max-num-of-produced-cars)|Dec 10, 2024|
+|**Bloomberg LP**|[Remove Letter to Equalize Frequency](https://www.fastprep.io/problems/bloomberg-remove-letter-to-equalize-frequency)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-remove-letter-to-equalize-frequency)|Dec 10, 2024|
+|**Amazon**|[Find Lexicographically Smallest String](https://www.fastprep.io/problems/amazon-find-lexicographically-smallest-string)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-lexicographically-smallest-string)|Dec 08, 2024|
+|**Amazon**|[Find Password Strength](https://www.fastprep.io/problems/amazon-find-password-strength)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-password-strength)|Dec 08, 2024|
+|**Amazon**|[Perform Queries](https://www.fastprep.io/problems/amazon-perform-queries)|[![Practice][p]](https://www.fastprep.io/problems/amazon-perform-queries)|Dec 08, 2024|
+|**Quora**|[Count Powers Of K](https://www.fastprep.io/problems/quora-count-powers-of-k)|[![Practice][p]](https://www.fastprep.io/problems/quora-count-powers-of-k)|Dec 06, 2024|
+|**Quora**|[Determine the Elimination Order](https://www.fastprep.io/problems/quora-determine-the-elimination-order)|[![Practice][p]](https://www.fastprep.io/problems/quora-determine-the-elimination-order)|Dec 06, 2024|
+|**Wells Fargo**|[Get Min Length](https://www.fastprep.io/problems/wellsfargo-get-min-length)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-get-min-length)|Dec 06, 2024|
+|**Duolingo**|[Bouncing Square Reaches a Screen Corner](https://www.fastprep.io/problems/duolingo-bouncing-square-screen-corner)|[![Practice][p]](https://www.fastprep.io/problems/duolingo-bouncing-square-screen-corner)|Dec 05, 2024|
+|**Amazon**|[Data Dependence Sum](https://www.fastprep.io/problems/amazon-get-data-dependence-sum)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-data-dependence-sum)|Dec 03, 2024|
+|**Amazon**|[Min Operations](https://www.fastprep.io/problems/amazon-get-min-operations2)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-operations2)|Dec 03, 2024|
+|**TikTok**|[Interesting Watch Sequence](https://www.fastprep.io/problems/tiktok-interesting-watch-sequence)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-interesting-watch-sequence)|Dec 03, 2024|
+|**IBM**|[Get Final String](https://www.fastprep.io/problems/ibm-get-final-string)|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-final-string)|Dec 03, 2024|
 |**Amazon**|[Sum of All Days Numbers on Which the Data of the Xth Will Be Dependent](https://www.fastprep.io/problems/amazon-sum-of-all-days-numbers-on-which-the-data-of-the-xth-will-be-dependent)|[![Practice][p]](https://www.fastprep.io/problems/amazon-sum-of-all-days-numbers-on-which-the-data-of-the-xth-will-be-dependent)|Nov 27, 2024|
 |**Amazon**|[Optimize Identifiers](https://www.fastprep.io/problems/amazon-optimize-identifiers)|[![Practice][p]](https://www.fastprep.io/problems/amazon-optimize-identifiers)|Nov 25, 2024|
 |**Stripe**|[Card Range Obfuscation Part 4](https://www.fastprep.io/problems/stripe-card-range-obfuscation-part4)|[![Practice][p]](https://www.fastprep.io/problems/stripe-card-range-obfuscation-part4)|Nov 25, 2024|
