@@ -251,6 +251,7 @@
 |**Morgan Stanley**|[Generate Strings of Length at Least Three](https://www.fastprep.io/problems/morgan-stanley-generate-strings-length-at-least-three)|[![Practice][p]](https://www.fastprep.io/problems/morgan-stanley-generate-strings-length-at-least-three)|🔥 Sep 24, 2026|
 |**Morgan Stanley**|[Three-Resource 0/1 Knapsack](https://www.fastprep.io/problems/morgan-stanley-three-resource-knapsack)|[![Practice][p]](https://www.fastprep.io/problems/morgan-stanley-three-resource-knapsack)|🔥 Sep 24, 2026|
 |**PhonePe**|[Identify Two Failing Tests From an Oracle Transcript](https://www.fastprep.io/problems/phonepe-identify-two-failing-tests-from-transcript)|[![Practice][p]](https://www.fastprep.io/problems/phonepe-identify-two-failing-tests-from-transcript)|🔥 Sep 24, 2026|
+|**Amazon**|[Get Minimum Amount](https://www.fastprep.io/problems/amazon-get-min-amount)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-amount)|🔥 Sep 24, 2026|
 |**Salesforce**|[Minimum Unique-Character Segments After Deletion](https://www.fastprep.io/problems/salesforce-minimum-unique-segments-after-deletion)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-minimum-unique-segments-after-deletion)|🔥 Sep 23, 2026|
 |**Microsoft**|[Copy File Bytes with Partial Writes](https://www.fastprep.io/problems/microsoft-copy-file-bytes)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-copy-file-bytes)|🔥 Sep 23, 2026|
 |**Microsoft**|[Longest Repeating Character Replacement](https://www.fastprep.io/problems/microsoft-longest-repeating-character-replacement)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-longest-repeating-character-replacement)|🔥 Sep 23, 2026|
@@ -573,7 +574,6 @@
 |**Apple**|[Merge Two Strings by Maximum Boundary Overlap](https://www.fastprep.io/problems/apple-factorize-string-extremities)|[![Practice][p]](https://www.fastprep.io/problems/apple-factorize-string-extremities)|🆕 Sep 12, 2026|
 |**SquadStack.ai**|[Minimum-Cost Digit String Decoding](https://www.fastprep.io/problems/squadstack-weighted-decode-ways)|[![Practice][p]](https://www.fastprep.io/problems/squadstack-weighted-decode-ways)|🆕 Sep 12, 2026|
 |**SquadStack.ai**|[Minimum Seats for One-Way Car Pooling](https://www.fastprep.io/problems/squadstack-minimum-seats-car-pooling)|[![Practice][p]](https://www.fastprep.io/problems/squadstack-minimum-seats-car-pooling)|🆕 Sep 12, 2026|
-|**Amazon**|[Get Minimum Amount](https://www.fastprep.io/problems/amazon-get-min-amount)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-amount)|🆕 Sep 12, 2026|
 |**Amazon**|[Word Search II](https://www.fastprep.io/problems/amazon-word-search-ii)|[![Practice][p]](https://www.fastprep.io/problems/amazon-word-search-ii)|🆕 Sep 12, 2026|
 |**Amazon**|[Interleaving String](https://www.fastprep.io/problems/amazon-interleaving-string)|[![Practice][p]](https://www.fastprep.io/problems/amazon-interleaving-string)|🆕 Sep 12, 2026|
 |**Amazon**|[Dynamic Prefix Search Collection](https://www.fastprep.io/problems/amazon-prefix-search-collection)|[![Practice][p]](https://www.fastprep.io/problems/amazon-prefix-search-collection)|🆕 Sep 12, 2026|
