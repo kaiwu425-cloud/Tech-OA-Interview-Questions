@@ -33,6 +33,10 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <!-- question-pages:end -->
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Capital One**|[Summarize Taxi Drivers and Rides](https://www.fastprep.io/problems/capital-one-driver-and-ride-summary)|SQL|[![Practice][p]](https://www.fastprep.io/problems/capital-one-driver-and-ride-summary)|🔥 Oct 01, 2026|
+|**Capital One**|[Build Taxi Driver Performance Features](https://www.fastprep.io/problems/capital-one-build-taxi-driver-features)|SQL|[![Practice][p]](https://www.fastprep.io/problems/capital-one-build-taxi-driver-features)|🔥 Oct 01, 2026|
+|**Capital One**|[Prepare Taxi Driver Classification Data](https://www.fastprep.io/problems/capital-one-prepare-driver-classification-data)|SQL|[![Practice][p]](https://www.fastprep.io/problems/capital-one-prepare-driver-classification-data)|🔥 Oct 01, 2026|
+|**Capital One**|[Predict Taxi Driver Classes](https://www.fastprep.io/problems/capital-one-predict-driver-classes)|SQL|[![Practice][p]](https://www.fastprep.io/problems/capital-one-predict-driver-classes)|🔥 Oct 01, 2026|
 |**TikTok**|[Leftmost Memory Block Allocator (for mle also :)](https://www.fastprep.io/problems/tiktok-leftmost-memory-block-allocator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-leftmost-memory-block-allocator)|🔥 Sep 30, 2026|
 |**Rippling**|[Token Validation](https://www.fastprep.io/problems/rippling-token-validation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-token-validation)|🔥 Sep 30, 2026|
 |**Rippling**|[REST API: Highest International Students](https://www.fastprep.io/problems/rippling-highest-international-students)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-highest-international-students)|🔥 Sep 30, 2026|
@@ -1695,8 +1699,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**IndiaMART**|[Reverse a String](https://www.fastprep.io/problems/indiamart-reverse-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/indiamart-reverse-string)|Jul 12, 2026|
 |**Moody's**|[Longest Subarray with At Most Two Distinct Values](https://www.fastprep.io/problems/moodys-longest-subarray-at-most-two-distinct)|Coding|[![Practice][p]](https://www.fastprep.io/problems/moodys-longest-subarray-at-most-two-distinct)|Jul 12, 2026|
 |**MulticoreWare**|[Minimum Coin Change](https://www.fastprep.io/problems/multicoreware-minimum-coin-change)|Coding|[![Practice][p]](https://www.fastprep.io/problems/multicoreware-minimum-coin-change)|Jul 12, 2026|
-|**MulticoreWare**|[Second Distinct Largest Element](https://www.fastprep.io/problems/multicoreware-second-distinct-largest-element)|Coding|[![Practice][p]](https://www.fastprep.io/problems/multicoreware-second-distinct-largest-element)|Jul 12, 2026|
-|**Shipsy**|[Largest Rectangle in Histogram](https://www.fastprep.io/problems/shipsy-largest-rectangle-in-histogram)|Coding|[![Practice][p]](https://www.fastprep.io/problems/shipsy-largest-rectangle-in-histogram)|Jul 12, 2026|
-|**Stryker**|[Squares of a Sorted Array](https://www.fastprep.io/problems/stryker-squares-of-a-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stryker-squares-of-a-sorted-array)|Jul 12, 2026|
-|**Hive**|[Validate a Directed Edge Addition](https://www.fastprep.io/problems/hive-validate-directed-edge-addition)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hive-validate-directed-edge-addition)|Jul 12, 2026|
 <a id="bottom"></a>
