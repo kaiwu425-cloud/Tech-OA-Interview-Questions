@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**51 questions**
+**52 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -52,6 +52,7 @@
 |**Point72**|[Internet Service Provider Monthly Report](https://www.fastprep.io/problems/point72-internet-service-provider-monthly-report)|[![Practice][p]](https://www.fastprep.io/problems/point72-internet-service-provider-monthly-report)|Jul 02, 2026|
 |**Agoda**|[TV Series in a Production Window](https://www.fastprep.io/problems/agoda-tv-series-production-window)|[![Practice][p]](https://www.fastprep.io/problems/agoda-tv-series-production-window)|Nov 29, 2025|
 |**Chainalysis**|[Block Transaction Count Trends](https://www.fastprep.io/problems/chainalysis-block-transaction-count-trends)|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-block-transaction-count-trends)|Mar 06, 2025|
+|**AT&T**|[Advertising System Failures Report](https://www.fastprep.io/problems/att-advertising-system-failures-report)|[![Practice][p]](https://www.fastprep.io/problems/att-advertising-system-failures-report)|Nov 08, 2024|
 |**Odoo**|[Employees Joined per Month](https://www.fastprep.io/problems/odoo-employees-joined-per-month)|[![Practice][p]](https://www.fastprep.io/problems/odoo-employees-joined-per-month)|Sep 17, 2024|
 |**Agoda**|[Process Airline Seat Requests](https://www.fastprep.io/problems/agoda-airline-seat-requests)|[![Practice][p]](https://www.fastprep.io/problems/agoda-airline-seat-requests)|Oct 27, 2023|
 |**Agoda**|[Convert a Purchase at Its Historical Exchange Rate](https://www.fastprep.io/problems/agoda-historical-purchase-exchange-rate)|[![Practice][p]](https://www.fastprep.io/problems/agoda-historical-purchase-exchange-rate)|Oct 27, 2023|
