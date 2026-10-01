@@ -799,6 +799,7 @@
 |**Google**|[Maximize Points](https://www.fastprep.io/problems/google-maximize-points)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximize-points)|Nov 05, 2024|
 |**Google**|[Find Contiguous Subarray With Largest Min Plux Max](https://www.fastprep.io/problems/google-find-contiguous-subarray-with-largest-min-plus-max)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-contiguous-subarray-with-largest-min-plus-max)|Nov 05, 2024|
 |**Google**|[Design Road-Segment Travel-Time Prediction](https://www.fastprep.io/system-design/road-segment-travel-time-prediction)|System design|[![Practice][p]](https://www.fastprep.io/system-design/road-segment-travel-time-prediction)|Nov 05, 2024|
+|**Clipboard Health**|[Design a Dimmer and Connected Bulbs System](https://www.fastprep.io/low-level-design/dimmer-connected-bulbs)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/dimmer-connected-bulbs)|Oct 31, 2024|
 |**Amazon**|[Find Min Variance](https://www.fastprep.io/problems/amazon-find-minimum-possible-variance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-possible-variance)|Oct 30, 2024|
 |**Amazon**|[Find Min Time Required](https://www.fastprep.io/problems/amazon-find-minimum-time-required)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-time-required)|Oct 30, 2024|
 |**Amazon**|[Cleanup Dataset](https://www.fastprep.io/problems/amazon-cleanup-dataset)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-cleanup-dataset)|Oct 30, 2024|
@@ -1171,6 +1172,7 @@
 |**Hyper Verge**|[Get String to Remove](https://www.fastprep.io/problems/hyperverge-reach-a-given-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hyperverge-reach-a-given-number)|Aug 05, 2024|
 |**Onix**|[Get String to Remove](https://www.fastprep.io/problems/onix-get-string-to-remove)|Coding|[![Practice][p]](https://www.fastprep.io/problems/onix-get-string-to-remove)|Aug 05, 2024|
 |**SIG**|[Count Triples](https://www.fastprep.io/problems/counting-triples)|Coding|[![Practice][p]](https://www.fastprep.io/problems/counting-triples)|Aug 05, 2024|
+|**Highspot**|[Design a Greeting Card E-Commerce Marketplace](https://www.fastprep.io/system-design/greeting-card-marketplace)|System design|[![Practice][p]](https://www.fastprep.io/system-design/greeting-card-marketplace)|Aug 03, 2024|
 |**Ramp**|[Correct Apartment Bedroom Counts](https://www.fastprep.io/problems/ramp-correct-apartment-bedroom-counts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-correct-apartment-bedroom-counts)|Aug 01, 2024|
 |**Character.AI**|[Choose the Next Hidden-Word Guess](https://www.fastprep.io/problems/character-ai-guess-the-word)|Coding|[![Practice][p]](https://www.fastprep.io/problems/character-ai-guess-the-word)|Jul 31, 2024|
 |**Amazon**|[Get Minimum Boxes](https://www.fastprep.io/problems/amazon-get-minimum-boxes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-minimum-boxes)|Jul 25, 2024|
@@ -1853,6 +1855,4 @@
 |**ZipRecruiter**|[Solve a Sudoku Board](https://www.fastprep.io/problems/ziprecruiter-sudoku-solver)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-sudoku-solver)|Aug 16, 2021|
 |**ZipRecruiter**|[Validate a Sudoku Board](https://www.fastprep.io/problems/ziprecruiter-valid-sudoku)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-valid-sudoku)|Aug 16, 2021|
 |**Airbnb**|[Simplified XML Validator](https://www.fastprep.io/problems/airbnb-simplified-xml-validator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-simplified-xml-validator)|Jun 21, 2021|
-|**ZipRecruiter**|[Center-Outward Number Spiral](https://www.fastprep.io/problems/ziprecruiter-center-outward-number-spiral)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-center-outward-number-spiral)|Jun 14, 2021|
-|**Bloomberg LP**|[Design Video Download, Progress, and Recommendations](https://www.fastprep.io/system-design/offline-video-progress-recommendation-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/offline-video-progress-recommendation-platform)|Jun 08, 2021|
 <a id="bottom"></a>

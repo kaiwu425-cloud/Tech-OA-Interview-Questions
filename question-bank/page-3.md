@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**ZipRecruiter**|[Center-Outward Number Spiral](https://www.fastprep.io/problems/ziprecruiter-center-outward-number-spiral)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-center-outward-number-spiral)|Jun 14, 2021|
+|**Bloomberg LP**|[Design Video Download, Progress, and Recommendations](https://www.fastprep.io/system-design/offline-video-progress-recommendation-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/offline-video-progress-recommendation-platform)|Jun 08, 2021|
 |**Bloomberg LP**|[Consecutive Characters](https://www.fastprep.io/problems/bloomberg-consecutive-characters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-consecutive-characters)|Jun 08, 2021|
 |**NVIDIA**|[Design a GPU-Limited Three-Model Pipeline](https://www.fastprep.io/system-design/gpu-limited-three-model-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/gpu-limited-three-model-pipeline)|Jun 07, 2021|
 |**Bloomberg LP**|[Flatten Binary Tree to Linked List](https://www.fastprep.io/problems/bloomberg-flatten-binary-tree-to-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-flatten-binary-tree-to-linked-list)|Jun 04, 2021|
@@ -107,6 +109,8 @@
 |**Bloomberg LP**|[Build a Tree from Preorder and Inorder Traversals](https://www.fastprep.io/problems/bloomberg-construct-binary-tree-from-preorder-and-inorder-traversal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-construct-binary-tree-from-preorder-and-inorder-traversal)|Jun 13, 2020|
 |**Bloomberg LP**|[Maximum Concurrent Meeting Time Slots](https://www.fastprep.io/problems/bloomberg-maximum-concurrent-meeting-slots)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-maximum-concurrent-meeting-slots)|Jun 09, 2020|
 |**Google**|[Design ML Landing-Page Optimization](https://www.fastprep.io/system-design/landing-page-optimization)|System design|[![Practice][p]](https://www.fastprep.io/system-design/landing-page-optimization)|Jun 02, 2020|
+|**Microsoft**|[Design a Learned Candidate Ranking Service](https://www.fastprep.io/system-design/learned-candidate-ranking-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/learned-candidate-ranking-service)|Jun 02, 2020|
+|**Meta**|[Design Offensive Ad Content Detection](https://www.fastprep.io/system-design/offensive-ad-content-detection)|System design|[![Practice][p]](https://www.fastprep.io/system-design/offensive-ad-content-detection)|Jun 02, 2020|
 |**Bloomberg LP**|[Minimum in a Rotated Sorted Array](https://www.fastprep.io/problems/bloomberg-find-minimum-in-rotated-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-minimum-in-rotated-sorted-array)|May 20, 2020|
 |**Bloomberg LP**|[First Unique Letter, Case Insensitive](https://www.fastprep.io/problems/bloomberg-first-unique-letter-case-insensitive)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-first-unique-letter-case-insensitive)|May 20, 2020|
 |**Bloomberg LP**|[Stock Price Range over a Sliding Day Window](https://www.fastprep.io/problems/bloomberg-stock-price-range-window)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-stock-price-range-window)|May 11, 2020|
