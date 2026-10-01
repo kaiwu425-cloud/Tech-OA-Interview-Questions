@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,034 questions**
+**3,036 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -48,6 +48,8 @@
 |**Amazon**|[Optimize Identifiers](https://www.fastprep.io/problems/amazon-optimized-identifiers)|[![Practice][p]](https://www.fastprep.io/problems/amazon-optimized-identifiers)|Nov 09, 2024|
 |**Google**|[Transform String](https://www.fastprep.io/problems/google-transform-string)|[![Practice][p]](https://www.fastprep.io/problems/google-transform-string)|Nov 09, 2024|
 |**Google**|[Build Maximum Integer](https://www.fastprep.io/problems/google-build-maximum-integer-from-subarray)|[![Practice][p]](https://www.fastprep.io/problems/google-build-maximum-integer-from-subarray)|Nov 09, 2024|
+|**AT&T**|[Counting Triplets Divisible by D](https://www.fastprep.io/problems/att-counting-triplets-divisible-by-d)|[![Practice][p]](https://www.fastprep.io/problems/att-counting-triplets-divisible-by-d)|Nov 08, 2024|
+|**AT&T**|[Project Estimates](https://www.fastprep.io/problems/att-project-estimates)|[![Practice][p]](https://www.fastprep.io/problems/att-project-estimates)|Nov 08, 2024|
 |**Stripe**|[Register and Transfer Brazilian Receivables](https://www.fastprep.io/problems/stripe-brazil-receivables-contracts)|[![Practice][p]](https://www.fastprep.io/problems/stripe-brazil-receivables-contracts)|Nov 08, 2024|
 |**Stripe**|[Brazilian Receivables Part 3 — Partial Contracts](https://www.fastprep.io/problems/stripe-brazil-receivables-part3-partial-contracts)|[![Practice][p]](https://www.fastprep.io/problems/stripe-brazil-receivables-part3-partial-contracts)|Nov 08, 2024|
 |**Google**|[Maximize Points](https://www.fastprep.io/problems/google-maximize-points)|[![Practice][p]](https://www.fastprep.io/problems/google-maximize-points)|Nov 05, 2024|
