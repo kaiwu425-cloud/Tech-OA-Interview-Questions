@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**2,976 questions**
+**2,993 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -1238,6 +1238,13 @@
 |**Walmart**|[K-Capable Model Selection](https://www.fastprep.io/problems/walmart-k-capable-model-selection)|[![Practice][p]](https://www.fastprep.io/problems/walmart-k-capable-model-selection)|Jun 16, 2026|
 |**Scale AI**|[Task Processor: Dependencies and Deadlines](https://www.fastprep.io/problems/scale-ai-task-processor-dependencies-deadlines)|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-task-processor-dependencies-deadlines)|Jun 14, 2026|
 |**Shopify**|[Mars Rover Robot Controller](https://www.fastprep.io/problems/shopify-mars-rover-robot-controller)|[![Practice][p]](https://www.fastprep.io/problems/shopify-mars-rover-robot-controller)|Jun 13, 2026|
+|**Luma AI**|[Center Crop a Grayscale Image](https://www.fastprep.io/problems/luma-ai-center-crop)|[![Practice][p]](https://www.fastprep.io/problems/luma-ai-center-crop)|Jun 12, 2026|
+|**Luma AI**|[Rotate a Rectangular Image Clockwise](https://www.fastprep.io/problems/luma-ai-rotate-image-clockwise)|[![Practice][p]](https://www.fastprep.io/problems/luma-ai-rotate-image-clockwise)|Jun 12, 2026|
+|**Luma AI**|[Numerically Stable Softmax](https://www.fastprep.io/problems/luma-ai-stable-softmax)|[![Practice][p]](https://www.fastprep.io/problems/luma-ai-stable-softmax)|Jun 12, 2026|
+|**Luma AI**|[Build a Gaussian Blur Kernel](https://www.fastprep.io/problems/luma-ai-gaussian-blur-kernel)|[![Practice][p]](https://www.fastprep.io/problems/luma-ai-gaussian-blur-kernel)|Jun 12, 2026|
+|**Luma AI**|[Triangle Flags from Adjacent Elements](https://www.fastprep.io/problems/luma-ai-adjacent-triangle-flags)|[![Practice][p]](https://www.fastprep.io/problems/luma-ai-adjacent-triangle-flags)|Jun 12, 2026|
+|**Luma AI**|[Minimum Euclidean Distance Between Points](https://www.fastprep.io/problems/luma-ai-minimum-euclidean-distance)|[![Practice][p]](https://www.fastprep.io/problems/luma-ai-minimum-euclidean-distance)|Jun 12, 2026|
+|**Luma AI**|[Impute Missing Values and Normalize Columns](https://www.fastprep.io/problems/luma-ai-impute-and-normalize-columns)|[![Practice][p]](https://www.fastprep.io/problems/luma-ai-impute-and-normalize-columns)|Jun 12, 2026|
 |**Rippling**|[In-Memory Fixed-Window Rate Limiter](https://www.fastprep.io/problems/rippling-in-memory-rate-limiter)|[![Practice][p]](https://www.fastprep.io/problems/rippling-in-memory-rate-limiter)|Jun 10, 2026|
 |**Salesforce**|[Count Prime Strings](https://www.fastprep.io/problems/salesforce-count-prime-strings)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-count-prime-strings)|Jun 10, 2026|
 |**Amazon**|[Select Least Resource Tasks](https://www.fastprep.io/problems/amazon-select-least-resource-tasks)|[![Practice][p]](https://www.fastprep.io/problems/amazon-select-least-resource-tasks)|Jun 09, 2026|
@@ -1533,6 +1540,7 @@
 |**Motive**|[Search a Row-Major Sorted Matrix](https://www.fastprep.io/problems/motive-search-row-major-sorted-matrix)|[![Practice][p]](https://www.fastprep.io/problems/motive-search-row-major-sorted-matrix)|Aug 13, 2025|
 |**Amazon**|[Fair Prize Distribution](https://www.fastprep.io/problems/amazon-fair-prize-distribution)|[![Practice][p]](https://www.fastprep.io/problems/amazon-fair-prize-distribution)|Aug 10, 2025|
 |**Amazon**|[Count Picked Items Less Than Queries](https://www.fastprep.io/problems/amazon-count-picked-items-less-than-queries)|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-picked-items-less-than-queries)|Aug 10, 2025|
+|**EvenUp**|[War Card Game Winner](https://www.fastprep.io/problems/evenup-war-card-game-winner)|[![Practice][p]](https://www.fastprep.io/problems/evenup-war-card-game-winner)|Aug 09, 2025|
 |**Salesforce**|[Spam Text Classification](https://www.fastprep.io/problems/salesforce-spam-text-classification)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-spam-text-classification)|Aug 06, 2025|
 |**Salesforce**|[Viewable Profiles by User](https://www.fastprep.io/problems/salesforce-viewable-profiles-by-user)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-viewable-profiles-by-user)|Aug 06, 2025|
 |**Amazon**|[Largest Number With Digit Sum](https://www.fastprep.io/problems/amazon-largest-number-with-digit-sum)|[![Practice][p]](https://www.fastprep.io/problems/amazon-largest-number-with-digit-sum)|Aug 03, 2025|
@@ -1588,12 +1596,14 @@
 |**Arcesium**|[Product of Subset Maxima](https://www.fastprep.io/problems/arcesium-product-of-subset-maxima)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-product-of-subset-maxima)|Jul 23, 2025|
 |**Arcesium**|[Reconstruct the Root Stream](https://www.fastprep.io/problems/arcesium-reconstruct-root-stream)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-reconstruct-root-stream)|Jul 23, 2025|
 |**Zip**|[In-Memory Database with TTL and Historical Queries](https://www.fastprep.io/problems/zip-in-memory-database-oa)|[![Practice][p]](https://www.fastprep.io/problems/zip-in-memory-database-oa)|Jul 22, 2025|
+|**Abnormal Security**|[Find Duplicate Image Files](https://www.fastprep.io/problems/abnormal-security-duplicate-image-files)|[![Practice][p]](https://www.fastprep.io/problems/abnormal-security-duplicate-image-files)|Jul 15, 2025|
 |**Amazon**|[Maximize Pages Before Suspension](https://www.fastprep.io/problems/amazon-maximize-pages-before-suspension)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-pages-before-suspension)|Jul 08, 2025|
 |**Salesforce**|[Minimum Operations to Zero](https://www.fastprep.io/problems/salesforce-minimum-operations-to-zero)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-minimum-operations-to-zero)|Jul 08, 2025|
 |**Salesforce**|[Integrity Score](https://www.fastprep.io/problems/salesforce-integrity-score)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-integrity-score)|Jul 08, 2025|
 |**Fortinet**|[Compute Checksum Aggregation](https://www.fastprep.io/problems/fortinet-compute-checksum-aggregation)|[![Practice][p]](https://www.fastprep.io/problems/fortinet-compute-checksum-aggregation)|Jul 08, 2025|
 |**Google**|[Minimum Swaps to Sort a Ternary Array After Updates](https://www.fastprep.io/problems/google-minimum-swaps-to-sort-ternary-array-after-updates)|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-swaps-to-sort-ternary-array-after-updates)|Jul 05, 2025|
 |**Google**|[Count Subsequences Without Three Equal-Parity Elements in a Row](https://www.fastprep.io/problems/google-count-valid-parity-run-subsequences)|[![Practice][p]](https://www.fastprep.io/problems/google-count-valid-parity-run-subsequences)|Jul 05, 2025|
+|**EvenUp**|[Wordle Feedback](https://www.fastprep.io/problems/evenup-wordle-feedback)|[![Practice][p]](https://www.fastprep.io/problems/evenup-wordle-feedback)|Jul 04, 2025|
 |**Fortinet**|[Madam C.J. Walker's Business Plan](https://www.fastprep.io/problems/fortinet-calculate-maximum-profit)|[![Practice][p]](https://www.fastprep.io/problems/fortinet-calculate-maximum-profit)|Jun 24, 2025|
 |**Fortinet**|[K-Means Clustering](https://www.fastprep.io/problems/fortinet-get-maximum-distance)|[![Practice][p]](https://www.fastprep.io/problems/fortinet-get-maximum-distance)|Jun 24, 2025|
 |**Fortinet**|[Signal Pings](https://www.fastprep.io/problems/fortinet-get-required-sweeps)|[![Practice][p]](https://www.fastprep.io/problems/fortinet-get-required-sweeps)|Jun 24, 2025|
@@ -1836,14 +1846,4 @@
 |**Google**|[Maximize Points](https://www.fastprep.io/problems/google-maximize-points)|[![Practice][p]](https://www.fastprep.io/problems/google-maximize-points)|Nov 05, 2024|
 |**Google**|[Find Contiguous Subarray With Largest Min Plux Max](https://www.fastprep.io/problems/google-find-contiguous-subarray-with-largest-min-plus-max)|[![Practice][p]](https://www.fastprep.io/problems/google-find-contiguous-subarray-with-largest-min-plus-max)|Nov 05, 2024|
 |**Amazon**|[Find Min Variance](https://www.fastprep.io/problems/amazon-find-minimum-possible-variance)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-possible-variance)|Oct 30, 2024|
-|**Amazon**|[Find Min Time Required](https://www.fastprep.io/problems/amazon-find-minimum-time-required)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-time-required)|Oct 30, 2024|
-|**Amazon**|[Cleanup Dataset](https://www.fastprep.io/problems/amazon-cleanup-dataset)|[![Practice][p]](https://www.fastprep.io/problems/amazon-cleanup-dataset)|Oct 30, 2024|
-|**Salesforce**|[Max Sum of Processed Time](https://www.fastprep.io/problems/salesforce-maximize-sum-of-processed-times)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-maximize-sum-of-processed-times)|Oct 30, 2024|
-|**Google**|[Num of Ways to Split Array](https://www.fastprep.io/problems/google-find-number-of-ways-to-split-array)|[![Practice][p]](https://www.fastprep.io/problems/google-find-number-of-ways-to-split-array)|Oct 30, 2024|
-|**DoorDash**|[Team Formation](https://www.fastprep.io/problems/doordash-team-formation)|[![Practice][p]](https://www.fastprep.io/problems/doordash-team-formation)|Oct 30, 2024|
-|**DoorDash**|[Get Final Price](https://www.fastprep.io/problems/doordash-get-final-price)|[![Practice][p]](https://www.fastprep.io/problems/doordash-get-final-price)|Oct 30, 2024|
-|**IBM**|[Count Teams](https://www.fastprep.io/problems/ibm-count-teams)|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-teams)|Oct 30, 2024|
-|**Amazon**|[Calculate Warehouse Efficiency](https://www.fastprep.io/problems/amazon-calculate-warehouse-efficiency)|[![Practice][p]](https://www.fastprep.io/problems/amazon-calculate-warehouse-efficiency)|Oct 28, 2024|
-|**Amazon**|[Make All Elements Distinct](https://www.fastprep.io/problems/amazon-make-all-elements-distinct)|[![Practice][p]](https://www.fastprep.io/problems/amazon-make-all-elements-distinct)|Oct 28, 2024|
-|**Amazon**|[Maximize Similarity](https://www.fastprep.io/problems/amazon-maximize-similarity)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-similarity)|Oct 28, 2024|
 <a id="bottom"></a>
