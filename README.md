@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,036)](formats/coding.md) · [SQL (52)](formats/sql.md) · [System design (482)](formats/system-design.md) · [Low-level design (123)](formats/low-level-design.md) · [AI coding (58)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,037)](formats/coding.md) · [SQL (52)](formats/sql.md) · [System design (482)](formats/system-design.md) · [Low-level design (123)](formats/low-level-design.md) · [AI coding (58)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -43,6 +43,10 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Capital One**|[Build House Viewing Features](https://www.fastprep.io/problems/capital-one-build-house-viewing-features)|SQL|[![Practice][p]](https://www.fastprep.io/problems/capital-one-build-house-viewing-features)|🔥 Sep 30, 2026|
 |**Capital One**|[Prepare House Price Regression Data](https://www.fastprep.io/problems/capital-one-prepare-house-price-data)|SQL|[![Practice][p]](https://www.fastprep.io/problems/capital-one-prepare-house-price-data)|🔥 Sep 30, 2026|
 |**Capital One**|[Predict House Prices](https://www.fastprep.io/problems/capital-one-predict-house-prices)|SQL|[![Practice][p]](https://www.fastprep.io/problems/capital-one-predict-house-prices)|🔥 Sep 30, 2026|
+|**TikTok**|[Sort Matrix Borders](https://www.fastprep.io/problems/tiktok-sort-matrix-borders)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-sort-matrix-borders)|🔥 Sep 30, 2026|
+|**TikTok**|[Count Even-Digit Numbers](https://www.fastprep.io/problems/tiktok-count-even-digit-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-even-digit-numbers)|🔥 Sep 30, 2026|
+|**TikTok**|[Rectangle Fit Queries](https://www.fastprep.io/problems/tiktok-rectangle-fit-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-rectangle-fit-queries)|🔥 Sep 30, 2026|
+|**TikTok**|[Construct WDL String](https://www.fastprep.io/problems/tiktok-construct-wdl-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-construct-wdl-string)|🔥 Sep 30, 2026|
 |**Oracle / Retell AI / Apple / Google / Walmart / Flipkart / Globalization Partners / Amazon / Reddit / Atlassian**|[Design a Distributed Rate Limiter](https://www.fastprep.io/system-design/distributed-rate-limiter)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-rate-limiter)|🔥 Sep 29, 2026|
 |**Moveworks / Atlassian**|[Design Cloud Usage Billing Infrastructure](https://www.fastprep.io/system-design/cloud-usage-billing-infrastructure)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cloud-usage-billing-infrastructure)|🔥 Sep 29, 2026|
 |**Amazon / Instacart / Zip / Nykaa**|[Design a Last-Unit Inventory Reservation Service](https://www.fastprep.io/system-design/last-unit-inventory-reservation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/last-unit-inventory-reservation)|🔥 Sep 29, 2026|
@@ -1209,8 +1213,6 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**ByteDance**|[Minimize Expression Value with Parentheses (for mle also :)](https://www.fastprep.io/problems/bytedance-minimize-expression-value-with-parentheses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-minimize-expression-value-with-parentheses)|🆕 Aug 25, 2026|
 |**ByteDance**|[Leftmost Memory Block Allocator (for mle also :)](https://www.fastprep.io/problems/bytedance-leftmost-memory-block-allocator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-leftmost-memory-block-allocator)|🆕 Aug 25, 2026|
 |**ByteDance**|[Find Sum Pairs (for mle also :)](https://www.fastprep.io/problems/bytedance-find-sum-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bytedance-find-sum-pairs)|🆕 Aug 25, 2026|
-|**TikTok**|[Sort Matrix Borders](https://www.fastprep.io/problems/tiktok-sort-matrix-borders)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-sort-matrix-borders)|🆕 Aug 25, 2026|
-|**TikTok**|[Count Even-Digit Numbers](https://www.fastprep.io/problems/tiktok-count-even-digit-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-even-digit-numbers)|🆕 Aug 25, 2026|
 |**Netflix / Google**|[Design a Grounded Recommendation Chatbot](https://www.fastprep.io/system-design/grounded-recommendation-chatbot)|System design|[![Practice][p]](https://www.fastprep.io/system-design/grounded-recommendation-chatbot)|🆕 Aug 25, 2026|
 |**Rippling / Apple / Oracle / Confluent**|[Design a Centralized Log Ingestion and Search Platform](https://www.fastprep.io/system-design/centralized-log-ingestion-and-search)|System design|[![Practice][p]](https://www.fastprep.io/system-design/centralized-log-ingestion-and-search)|🆕 Aug 25, 2026|
 |**Tekion**|[Design a Continuous Table Merge into NoSQL](https://www.fastprep.io/system-design/continuous-table-merge-to-nosql)|System design|[![Practice][p]](https://www.fastprep.io/system-design/continuous-table-merge-to-nosql)|🆕 Aug 25, 2026|
@@ -1697,6 +1699,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Robinhood**|[Word Frequency in a Large Text](https://www.fastprep.io/problems/robinhood-word-frequency-in-large-text)|Coding|[![Practice][p]](https://www.fastprep.io/problems/robinhood-word-frequency-in-large-text)|Jul 12, 2026|
 |**Target**|[Minimum Edit-Distance String for Each Query](https://www.fastprep.io/problems/target-minimum-edit-distance-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/target-minimum-edit-distance-string)|Jul 11, 2026|
 |**Target**|[Count Lucky Numbers in a Range](https://www.fastprep.io/problems/target-lucky-numbers-floor-square-root)|Coding|[![Practice][p]](https://www.fastprep.io/problems/target-lucky-numbers-floor-square-root)|Jul 11, 2026|
-|**Target**|[First-Available Seat Booking](https://www.fastprep.io/problems/target-first-available-seat-booking)|Coding|[![Practice][p]](https://www.fastprep.io/problems/target-first-available-seat-booking)|Jul 11, 2026|
-|**OpenAI**|[Memory Allocator](https://www.fastprep.io/problems/openai-memory-allocator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-memory-allocator)|Jul 10, 2026|
 <a id="bottom"></a>

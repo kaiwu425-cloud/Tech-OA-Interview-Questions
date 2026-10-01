@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,036 questions**
+**3,037 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -14,6 +14,10 @@
 |**Rippling**|[Server Investment](https://www.fastprep.io/problems/rippling-server-investment)|[![Practice][p]](https://www.fastprep.io/problems/rippling-server-investment)|🔥 Sep 30, 2026|
 |**TikTok**|[Cyclic Shift to a Reverse-Sorted Array](https://www.fastprep.io/problems/tiktok-cyclic-shift-to-reverse-sorted)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-cyclic-shift-to-reverse-sorted)|🔥 Sep 30, 2026|
 |**TikTok**|[Count Coordinates Illuminated by Exactly One Lamp](https://www.fastprep.io/problems/tiktok-count-coordinates-illuminated-by-exactly-one-lamp)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-coordinates-illuminated-by-exactly-one-lamp)|🔥 Sep 30, 2026|
+|**TikTok**|[Sort Matrix Borders](https://www.fastprep.io/problems/tiktok-sort-matrix-borders)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-sort-matrix-borders)|🔥 Sep 30, 2026|
+|**TikTok**|[Count Even-Digit Numbers](https://www.fastprep.io/problems/tiktok-count-even-digit-numbers)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-even-digit-numbers)|🔥 Sep 30, 2026|
+|**TikTok**|[Rectangle Fit Queries](https://www.fastprep.io/problems/tiktok-rectangle-fit-queries)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-rectangle-fit-queries)|🔥 Sep 30, 2026|
+|**TikTok**|[Construct WDL String](https://www.fastprep.io/problems/tiktok-construct-wdl-string)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-construct-wdl-string)|🔥 Sep 30, 2026|
 |**OpenAI**|[Leaves Remaining After Wind Gusts](https://www.fastprep.io/problems/openai-wind-shifted-leaf-sum)|[![Practice][p]](https://www.fastprep.io/problems/openai-wind-shifted-leaf-sum)|🔥 Sep 29, 2026|
 |**OpenAI**|[Count Routes Through Four Shop Types](https://www.fastprep.io/problems/openai-count-four-shop-routes)|[![Practice][p]](https://www.fastprep.io/problems/openai-count-four-shop-routes)|🔥 Sep 29, 2026|
 |**OpenAI**|[Invert or Blur an Image](https://www.fastprep.io/problems/openai-invert-or-blur-image)|[![Practice][p]](https://www.fastprep.io/problems/openai-invert-or-blur-image)|🔥 Sep 29, 2026|
@@ -847,8 +851,6 @@
 |**ByteDance**|[Minimize Expression Value with Parentheses (for mle also :)](https://www.fastprep.io/problems/bytedance-minimize-expression-value-with-parentheses)|[![Practice][p]](https://www.fastprep.io/problems/bytedance-minimize-expression-value-with-parentheses)|🆕 Aug 25, 2026|
 |**ByteDance**|[Leftmost Memory Block Allocator (for mle also :)](https://www.fastprep.io/problems/bytedance-leftmost-memory-block-allocator)|[![Practice][p]](https://www.fastprep.io/problems/bytedance-leftmost-memory-block-allocator)|🆕 Aug 25, 2026|
 |**ByteDance**|[Find Sum Pairs (for mle also :)](https://www.fastprep.io/problems/bytedance-find-sum-pairs)|[![Practice][p]](https://www.fastprep.io/problems/bytedance-find-sum-pairs)|🆕 Aug 25, 2026|
-|**TikTok**|[Sort Matrix Borders](https://www.fastprep.io/problems/tiktok-sort-matrix-borders)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-sort-matrix-borders)|🆕 Aug 25, 2026|
-|**TikTok**|[Count Even-Digit Numbers](https://www.fastprep.io/problems/tiktok-count-even-digit-numbers)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-even-digit-numbers)|🆕 Aug 25, 2026|
 |**Cerebras**|[Dense Vector Dot Product](https://www.fastprep.io/problems/cerebras-dense-vector-dot-product)|[![Practice][p]](https://www.fastprep.io/problems/cerebras-dense-vector-dot-product)|🆕 Aug 24, 2026|
 |**IBM**|[Expiring Authentication Token Manager](https://www.fastprep.io/problems/ibm-expiring-authentication-token-manager)|[![Practice][p]](https://www.fastprep.io/problems/ibm-expiring-authentication-token-manager)|🆕 Aug 24, 2026|
 |**Goldman Sachs**|[Maximum Ones After K Operations](https://www.fastprep.io/problems/goldman-sachs-maximum-ones-after-k-operations)|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-maximum-ones-after-k-operations)|🆕 Aug 24, 2026|
@@ -1251,7 +1253,6 @@
 |**Uber**|[Minimum Operations To Reduce To Zero](https://www.fastprep.io/problems/uber-minimum-operations-to-reduce-to-zero)|[![Practice][p]](https://www.fastprep.io/problems/uber-minimum-operations-to-reduce-to-zero)|Jun 29, 2026|
 |**Uber**|[Shopkeeper Final Price](https://www.fastprep.io/problems/uber-shopkeeper-final-price)|[![Practice][p]](https://www.fastprep.io/problems/uber-shopkeeper-final-price)|Jun 29, 2026|
 |**TikTok**|[Check Even-Position Monotonicity](https://www.fastprep.io/problems/tiktok-check-even-position-monotonicity)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-check-even-position-monotonicity)|Jun 29, 2026|
-|**TikTok**|[Construct WDL String](https://www.fastprep.io/problems/tiktok-construct-wdl-string)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-construct-wdl-string)|Jun 29, 2026|
 |**IBM**|[Request Retry Count](https://www.fastprep.io/problems/ibm-request-retry-count)|[![Practice][p]](https://www.fastprep.io/problems/ibm-request-retry-count)|Jun 29, 2026|
 |**Microsoft**|[Minimum Cost K-Capable Models](https://www.fastprep.io/problems/microsoft-minimum-cost-k-capable-models)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-cost-k-capable-models)|Jun 29, 2026|
 |**Microsoft**|[Unique Difference Pattern](https://www.fastprep.io/problems/microsoft-unique-difference-pattern)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-unique-difference-pattern)|Jun 29, 2026|
@@ -1841,5 +1842,4 @@
 |**TikTok**|[Interesting Watch Sequence](https://www.fastprep.io/problems/tiktok-interesting-watch-sequence)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-interesting-watch-sequence)|Dec 03, 2024|
 |**IBM**|[Get Final String](https://www.fastprep.io/problems/ibm-get-final-string)|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-final-string)|Dec 03, 2024|
 |**Amazon**|[Sum of All Days Numbers on Which the Data of the Xth Will Be Dependent](https://www.fastprep.io/problems/amazon-sum-of-all-days-numbers-on-which-the-data-of-the-xth-will-be-dependent)|[![Practice][p]](https://www.fastprep.io/problems/amazon-sum-of-all-days-numbers-on-which-the-data-of-the-xth-will-be-dependent)|Nov 27, 2024|
-|**Amazon**|[Optimize Identifiers](https://www.fastprep.io/problems/amazon-optimize-identifiers)|[![Practice][p]](https://www.fastprep.io/problems/amazon-optimize-identifiers)|Nov 25, 2024|
 <a id="bottom"></a>
