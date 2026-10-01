@@ -302,6 +302,7 @@
 |**Meta**|[Design a Six-Month Like Signal for Feed Scoring](https://www.fastprep.io/system-design/six-month-post-like-signal)|System design|[![Practice][p]](https://www.fastprep.io/system-design/six-month-post-like-signal)|Apr 24, 2026|
 |**Meta**|[Design Place Recommendations for a Moving User](https://www.fastprep.io/system-design/moving-user-local-place-discovery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/moving-user-local-place-discovery)|Apr 24, 2026|
 |**Meta**|[Design an Event Attendance Prediction Service](https://www.fastprep.io/system-design/event-attendance-prediction-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/event-attendance-prediction-service)|Apr 24, 2026|
+|**Meta**|[Repair and Extend a Maze Solver](https://www.fastprep.io/project-coding/meta-maze-solver)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/meta-maze-solver)|Apr 24, 2026|
 |**Duolingo**|[Rank Word-Translation Hints from Sentence Translations](https://www.fastprep.io/problems/duolingo-rank-translation-hints)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-rank-translation-hints)|Apr 21, 2026|
 |**Point72**|[Initial Public Offering](https://www.fastprep.io/problems/point72-initial-public-offering)|Coding|[![Practice][p]](https://www.fastprep.io/problems/point72-initial-public-offering)|Apr 19, 2026|
 |**Duolingo**|[Encrypt and Decrypt Strings](https://www.fastprep.io/problems/duolingo-encrypt-and-decrypt-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-encrypt-and-decrypt-strings)|Apr 17, 2026|
@@ -1858,5 +1859,4 @@
 |**SambaNova Systems**|[4Sum II Tuple Count](https://www.fastprep.io/problems/sambanova-four-sum-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-four-sum-ii)|Jun 30, 2022|
 |**SambaNova Systems**|[Sum Nodes with an Even-Valued Grandparent](https://www.fastprep.io/problems/sambanova-sum-even-valued-grandparent)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-sum-even-valued-grandparent)|Jun 30, 2022|
 |**SambaNova Systems**|[Validate Binary Search Tree](https://www.fastprep.io/problems/sambanova-validate-binary-search-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-validate-binary-search-tree)|Jun 30, 2022|
-|**Bloomberg LP**|[Insert Delete GetRandom O(1) - Duplicates Allowed](https://www.fastprep.io/problems/bloomberg-insert-delete-getrandom-o1-duplicates-allowed)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-insert-delete-getrandom-o1-duplicates-allowed)|Jun 30, 2022|
 <a id="bottom"></a>

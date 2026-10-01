@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Bloomberg LP**|[Insert Delete GetRandom O(1) - Duplicates Allowed](https://www.fastprep.io/problems/bloomberg-insert-delete-getrandom-o1-duplicates-allowed)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-insert-delete-getrandom-o1-duplicates-allowed)|Jun 30, 2022|
 |**SambaNova Systems**|[Deterministic Zigzag Sort](https://www.fastprep.io/problems/sambanova-zigzag-sort)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-zigzag-sort)|Jun 22, 2022|
 |**Revolut**|[Make Account Transfers Safe Under Concurrency](https://www.fastprep.io/project-coding/revolut-concurrency-safe-account-transfer)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/revolut-concurrency-safe-account-transfer)|Jun 20, 2022|
 |**Skyscanner**|[Design Flight Price Threshold Alerts](https://www.fastprep.io/system-design/flight-price-threshold-alerts)|System design|[![Practice][p]](https://www.fastprep.io/system-design/flight-price-threshold-alerts)|Jun 10, 2022|
