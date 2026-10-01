@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,037 questions**
+**3,039 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Amazon**|[Sum of All Days Numbers on Which the Data of the Xth Will Be Dependent](https://www.fastprep.io/problems/amazon-sum-of-all-days-numbers-on-which-the-data-of-the-xth-will-be-dependent)|[![Practice][p]](https://www.fastprep.io/problems/amazon-sum-of-all-days-numbers-on-which-the-data-of-the-xth-will-be-dependent)|Nov 27, 2024|
 |**Amazon**|[Optimize Identifiers](https://www.fastprep.io/problems/amazon-optimize-identifiers)|[![Practice][p]](https://www.fastprep.io/problems/amazon-optimize-identifiers)|Nov 25, 2024|
 |**Stripe**|[Card Range Obfuscation Part 4](https://www.fastprep.io/problems/stripe-card-range-obfuscation-part4)|[![Practice][p]](https://www.fastprep.io/problems/stripe-card-range-obfuscation-part4)|Nov 25, 2024|
 |**Stripe**|[Card Range Obfuscation Part 3](https://www.fastprep.io/problems/stripe-card-range-obfuscation-part3)|[![Practice][p]](https://www.fastprep.io/problems/stripe-card-range-obfuscation-part3)|Nov 25, 2024|

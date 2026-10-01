@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,037)](formats/coding.md) · [SQL (52)](formats/sql.md) · [System design (483)](formats/system-design.md) · [Low-level design (123)](formats/low-level-design.md) · [AI coding (58)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,039)](formats/coding.md) · [SQL (52)](formats/sql.md) · [System design (483)](formats/system-design.md) · [Low-level design (123)](formats/low-level-design.md) · [AI coding (58)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -33,6 +33,10 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <!-- question-pages:end -->
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Capital One**|[Summarize Taxi Drivers and Rides](https://www.fastprep.io/problems/capital-one-driver-and-ride-summary)|SQL|[![Practice][p]](https://www.fastprep.io/problems/capital-one-driver-and-ride-summary)|🔥 Oct 01, 2026|
+|**Capital One**|[Build Taxi Driver Performance Features](https://www.fastprep.io/problems/capital-one-build-taxi-driver-features)|SQL|[![Practice][p]](https://www.fastprep.io/problems/capital-one-build-taxi-driver-features)|🔥 Oct 01, 2026|
+|**Capital One**|[Prepare Taxi Driver Classification Data](https://www.fastprep.io/problems/capital-one-prepare-driver-classification-data)|SQL|[![Practice][p]](https://www.fastprep.io/problems/capital-one-prepare-driver-classification-data)|🔥 Oct 01, 2026|
+|**Capital One**|[Predict Taxi Driver Classes](https://www.fastprep.io/problems/capital-one-predict-driver-classes)|SQL|[![Practice][p]](https://www.fastprep.io/problems/capital-one-predict-driver-classes)|🔥 Oct 01, 2026|
 |**TikTok**|[Leftmost Memory Block Allocator (for mle also :)](https://www.fastprep.io/problems/tiktok-leftmost-memory-block-allocator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-leftmost-memory-block-allocator)|🔥 Sep 30, 2026|
 |**Rippling**|[Token Validation](https://www.fastprep.io/problems/rippling-token-validation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-token-validation)|🔥 Sep 30, 2026|
 |**Rippling**|[REST API: Highest International Students](https://www.fastprep.io/problems/rippling-highest-international-students)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-highest-international-students)|🔥 Sep 30, 2026|
@@ -310,6 +314,8 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Eightfold**|[Design Recurring Meeting-Room Booking](https://www.fastprep.io/low-level-design/recurring-meeting-room-booking-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/recurring-meeting-room-booking-domain)|🔥 Sep 25, 2026|
 |**Odoo**|[Build FIFO Inventory Costing](https://www.fastprep.io/project-coding/fifo-inventory-costing-service)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/fifo-inventory-costing-service)|🔥 Sep 25, 2026|
 |**Groww**|[Build an Extensible Brokerage Charge Calculator](https://www.fastprep.io/project-coding/brokerage-charge-calculator)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/brokerage-charge-calculator)|🔥 Sep 25, 2026|
+|**Microsoft**|[Grid Paths with Override Passes](https://www.fastprep.io/problems/microsoft-grid-paths-with-override-passes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-grid-paths-with-override-passes)|🔥 Sep 25, 2026|
+|**Microsoft**|[Weighted LFU Cache](https://www.fastprep.io/problems/microsoft-weighted-lfu-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-weighted-lfu-cache)|🔥 Sep 25, 2026|
 |**Walmart**|[House Robber](https://www.fastprep.io/problems/walmart-house-robber)|Coding|[![Practice][p]](https://www.fastprep.io/problems/walmart-house-robber)|🔥 Sep 24, 2026|
 |**FalconX**|[Longest Low-Slippage Execution Window](https://www.fastprep.io/problems/falconx-longest-low-slippage-window)|Coding|[![Practice][p]](https://www.fastprep.io/problems/falconx-longest-low-slippage-window)|🔥 Sep 24, 2026|
 |**Capital One**|[Distinct Values on Maximum-Sum Frames](https://www.fastprep.io/problems/capital-one-maximum-border-frame-values)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-maximum-border-frame-values)|🔥 Sep 24, 2026|
@@ -367,6 +373,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Morgan Stanley**|[Generate Strings of Length at Least Three](https://www.fastprep.io/problems/morgan-stanley-generate-strings-length-at-least-three)|Coding|[![Practice][p]](https://www.fastprep.io/problems/morgan-stanley-generate-strings-length-at-least-three)|🔥 Sep 24, 2026|
 |**Morgan Stanley**|[Three-Resource 0/1 Knapsack](https://www.fastprep.io/problems/morgan-stanley-three-resource-knapsack)|Coding|[![Practice][p]](https://www.fastprep.io/problems/morgan-stanley-three-resource-knapsack)|🔥 Sep 24, 2026|
 |**PhonePe**|[Identify Two Failing Tests From an Oracle Transcript](https://www.fastprep.io/problems/phonepe-identify-two-failing-tests-from-transcript)|Coding|[![Practice][p]](https://www.fastprep.io/problems/phonepe-identify-two-failing-tests-from-transcript)|🔥 Sep 24, 2026|
+|**Amazon**|[Get Minimum Amount](https://www.fastprep.io/problems/amazon-get-min-amount)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-amount)|🔥 Sep 24, 2026|
 |**Salesforce**|[Minimum Unique-Character Segments After Deletion](https://www.fastprep.io/problems/salesforce-minimum-unique-segments-after-deletion)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-minimum-unique-segments-after-deletion)|🔥 Sep 23, 2026|
 |**Microsoft**|[Copy File Bytes with Partial Writes](https://www.fastprep.io/problems/microsoft-copy-file-bytes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-copy-file-bytes)|🔥 Sep 23, 2026|
 |**Microsoft**|[Longest Repeating Character Replacement](https://www.fastprep.io/problems/microsoft-longest-repeating-character-replacement)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-longest-repeating-character-replacement)|🔥 Sep 23, 2026|
@@ -814,7 +821,6 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**SquadStack.ai**|[Minimum-Cost Digit String Decoding](https://www.fastprep.io/problems/squadstack-weighted-decode-ways)|Coding|[![Practice][p]](https://www.fastprep.io/problems/squadstack-weighted-decode-ways)|🆕 Sep 12, 2026|
 |**SquadStack.ai**|[Minimum Seats for One-Way Car Pooling](https://www.fastprep.io/problems/squadstack-minimum-seats-car-pooling)|Coding|[![Practice][p]](https://www.fastprep.io/problems/squadstack-minimum-seats-car-pooling)|🆕 Sep 12, 2026|
 |**SquadStack.ai**|[Find the Dominant Seller](https://www.fastprep.io/problems/squadstack-dominant-seller)|SQL|[![Practice][p]](https://www.fastprep.io/problems/squadstack-dominant-seller)|🆕 Sep 12, 2026|
-|**Amazon**|[Get Minimum Amount](https://www.fastprep.io/problems/amazon-get-min-amount)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-amount)|🆕 Sep 12, 2026|
 |**Amazon / Goldman Sachs**|[Repair recurring payments in the Wallet backend](https://www.fastprep.io/project-coding/repair-recurring-wallet-payments)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/repair-recurring-wallet-payments)|🆕 Sep 12, 2026|
 |**Bobyard**|[Design an Ordered Canvas Operation Coordinator](https://www.fastprep.io/low-level-design/ordered-canvas-operation-coordinator)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/ordered-canvas-operation-coordinator)|🆕 Sep 12, 2026|
 |**Google**|[Design and Implement a Highway Toll Session Domain](https://www.fastprep.io/low-level-design/highway-toll-session-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/highway-toll-session-domain)|🆕 Sep 12, 2026|
@@ -1693,10 +1699,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**IndiaMART**|[Reverse a String](https://www.fastprep.io/problems/indiamart-reverse-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/indiamart-reverse-string)|Jul 12, 2026|
 |**Moody's**|[Longest Subarray with At Most Two Distinct Values](https://www.fastprep.io/problems/moodys-longest-subarray-at-most-two-distinct)|Coding|[![Practice][p]](https://www.fastprep.io/problems/moodys-longest-subarray-at-most-two-distinct)|Jul 12, 2026|
 |**MulticoreWare**|[Minimum Coin Change](https://www.fastprep.io/problems/multicoreware-minimum-coin-change)|Coding|[![Practice][p]](https://www.fastprep.io/problems/multicoreware-minimum-coin-change)|Jul 12, 2026|
-|**MulticoreWare**|[Second Distinct Largest Element](https://www.fastprep.io/problems/multicoreware-second-distinct-largest-element)|Coding|[![Practice][p]](https://www.fastprep.io/problems/multicoreware-second-distinct-largest-element)|Jul 12, 2026|
-|**Shipsy**|[Largest Rectangle in Histogram](https://www.fastprep.io/problems/shipsy-largest-rectangle-in-histogram)|Coding|[![Practice][p]](https://www.fastprep.io/problems/shipsy-largest-rectangle-in-histogram)|Jul 12, 2026|
-|**Stryker**|[Squares of a Sorted Array](https://www.fastprep.io/problems/stryker-squares-of-a-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stryker-squares-of-a-sorted-array)|Jul 12, 2026|
-|**Hive**|[Validate a Directed Edge Addition](https://www.fastprep.io/problems/hive-validate-directed-edge-addition)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hive-validate-directed-edge-addition)|Jul 12, 2026|
-|**Robinhood**|[Word Frequency in a Large Text](https://www.fastprep.io/problems/robinhood-word-frequency-in-large-text)|Coding|[![Practice][p]](https://www.fastprep.io/problems/robinhood-word-frequency-in-large-text)|Jul 12, 2026|
-|**Target**|[Minimum Edit-Distance String for Each Query](https://www.fastprep.io/problems/target-minimum-edit-distance-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/target-minimum-edit-distance-string)|Jul 11, 2026|
 <a id="bottom"></a>

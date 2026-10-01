@@ -9,6 +9,12 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**MulticoreWare**|[Second Distinct Largest Element](https://www.fastprep.io/problems/multicoreware-second-distinct-largest-element)|Coding|[![Practice][p]](https://www.fastprep.io/problems/multicoreware-second-distinct-largest-element)|Jul 12, 2026|
+|**Shipsy**|[Largest Rectangle in Histogram](https://www.fastprep.io/problems/shipsy-largest-rectangle-in-histogram)|Coding|[![Practice][p]](https://www.fastprep.io/problems/shipsy-largest-rectangle-in-histogram)|Jul 12, 2026|
+|**Stryker**|[Squares of a Sorted Array](https://www.fastprep.io/problems/stryker-squares-of-a-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stryker-squares-of-a-sorted-array)|Jul 12, 2026|
+|**Hive**|[Validate a Directed Edge Addition](https://www.fastprep.io/problems/hive-validate-directed-edge-addition)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hive-validate-directed-edge-addition)|Jul 12, 2026|
+|**Robinhood**|[Word Frequency in a Large Text](https://www.fastprep.io/problems/robinhood-word-frequency-in-large-text)|Coding|[![Practice][p]](https://www.fastprep.io/problems/robinhood-word-frequency-in-large-text)|Jul 12, 2026|
+|**Target**|[Minimum Edit-Distance String for Each Query](https://www.fastprep.io/problems/target-minimum-edit-distance-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/target-minimum-edit-distance-string)|Jul 11, 2026|
 |**Target**|[Count Lucky Numbers in a Range](https://www.fastprep.io/problems/target-lucky-numbers-floor-square-root)|Coding|[![Practice][p]](https://www.fastprep.io/problems/target-lucky-numbers-floor-square-root)|Jul 11, 2026|
 |**Target**|[First-Available Seat Booking](https://www.fastprep.io/problems/target-first-available-seat-booking)|Coding|[![Practice][p]](https://www.fastprep.io/problems/target-first-available-seat-booking)|Jul 11, 2026|
 |**OpenAI**|[Memory Allocator](https://www.fastprep.io/problems/openai-memory-allocator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-memory-allocator)|Jul 10, 2026|
@@ -46,10 +52,6 @@
 |**Omnissa**|[Longest Substring Without Repeating Characters](https://www.fastprep.io/problems/omnissa-longest-substring-without-repeating-characters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/omnissa-longest-substring-without-repeating-characters)|Jul 09, 2026|
 |**Omnissa**|[Rotate Array Right](https://www.fastprep.io/problems/omnissa-rotate-array-right)|Coding|[![Practice][p]](https://www.fastprep.io/problems/omnissa-rotate-array-right)|Jul 09, 2026|
 |**Spotnana**|[All OOne Operations](https://www.fastprep.io/problems/spotnana-all-oone-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/spotnana-all-oone-operations)|Jul 09, 2026|
-|**Capital One**|[Summarize Taxi Drivers and Rides](https://www.fastprep.io/problems/capital-one-driver-and-ride-summary)|SQL|[![Practice][p]](https://www.fastprep.io/problems/capital-one-driver-and-ride-summary)|Jul 09, 2026|
-|**Capital One**|[Build Taxi Driver Performance Features](https://www.fastprep.io/problems/capital-one-build-taxi-driver-features)|SQL|[![Practice][p]](https://www.fastprep.io/problems/capital-one-build-taxi-driver-features)|Jul 09, 2026|
-|**Capital One**|[Prepare Taxi Driver Classification Data](https://www.fastprep.io/problems/capital-one-prepare-driver-classification-data)|SQL|[![Practice][p]](https://www.fastprep.io/problems/capital-one-prepare-driver-classification-data)|Jul 09, 2026|
-|**Capital One**|[Predict Taxi Driver Classes](https://www.fastprep.io/problems/capital-one-predict-driver-classes)|SQL|[![Practice][p]](https://www.fastprep.io/problems/capital-one-predict-driver-classes)|Jul 09, 2026|
 |**Rupeek**|[Trapping Rain Water](https://www.fastprep.io/problems/rupeek-trapping-rain-water)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rupeek-trapping-rain-water)|Jul 08, 2026|
 |**OpenAI**|[DSA Round: Maximum Score Grid Path](https://www.fastprep.io/problems/openai-dsa-round-maximum-score-grid-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-dsa-round-maximum-score-grid-path)|Jul 08, 2026|
 |**Amazon**|[Closest Version Date](https://www.fastprep.io/problems/amazon-closest-version-date)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-closest-version-date)|Jul 08, 2026|
@@ -1856,6 +1858,4 @@
 |**Bloomberg LP**|[Sort by Variable-Length Alphabet Tokens](https://www.fastprep.io/problems/bloomberg-variable-token-alphabet-sort)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-variable-token-alphabet-sort)|Apr 24, 2022|
 |**Bloomberg LP**|[Word Ladder](https://www.fastprep.io/problems/bloomberg-word-ladder)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-word-ladder)|Apr 24, 2022|
 |**Amazon**|[Design Cross-Catalog Entity Matching](https://www.fastprep.io/system-design/cross-catalog-entity-matching)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cross-catalog-entity-matching)|Apr 20, 2022|
-|**Airbnb**|[Cheapest Flight with Its Path](https://www.fastprep.io/problems/airbnb-cheapest-flight-with-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-cheapest-flight-with-path)|Apr 18, 2022|
-|**ZipRecruiter**|[Starting Value with the Longest Collatz Chain](https://www.fastprep.io/problems/ziprecruiter-longest-collatz-start)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-longest-collatz-start)|Apr 18, 2022|
 <a id="bottom"></a>

@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Airbnb**|[Cheapest Flight with Its Path](https://www.fastprep.io/problems/airbnb-cheapest-flight-with-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-cheapest-flight-with-path)|Apr 18, 2022|
+|**ZipRecruiter**|[Starting Value with the Longest Collatz Chain](https://www.fastprep.io/problems/ziprecruiter-longest-collatz-start)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-longest-collatz-start)|Apr 18, 2022|
 |**ZipRecruiter**|[Rotate a Square Matrix 90 Degrees Clockwise](https://www.fastprep.io/problems/ziprecruiter-rotate-image)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-rotate-image)|Apr 08, 2022|
 |**ZipRecruiter**|[Sort an Integer Array in Ascending Order](https://www.fastprep.io/problems/ziprecruiter-sort-integers-ascending)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-sort-integers-ascending)|Apr 08, 2022|
 |**SambaNova Systems**|[Parse Variable, Expression, and Application Trees](https://www.fastprep.io/problems/sambanova-expression-tree-parser)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-expression-tree-parser)|Mar 28, 2022|
