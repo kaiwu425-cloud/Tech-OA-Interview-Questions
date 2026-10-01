@@ -466,6 +466,9 @@
 |**Motive**|[Search in Rotated Sorted Array](https://www.fastprep.io/problems/motive-search-in-rotated-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-search-in-rotated-sorted-array)|Oct 11, 2025|
 |**Microsoft**|[Design RAG-Assisted Kusto Query Generation](https://www.fastprep.io/system-design/rag-assisted-kusto-query-generation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rag-assisted-kusto-query-generation)|Oct 08, 2025|
 |**Microsoft**|[Optimize LLM Inference Across Model and Infrastructure](https://www.fastprep.io/system-design/llm-inference-latency-cost-optimization)|System design|[![Practice][p]](https://www.fastprep.io/system-design/llm-inference-latency-cost-optimization)|Oct 08, 2025|
+|**Microsoft**|[Isomorphic Strings](https://www.fastprep.io/problems/microsoft-isomorphic-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-isomorphic-strings)|Sep 18, 2025|
+|**Microsoft**|[Merge Two Descending Linked Lists](https://www.fastprep.io/problems/microsoft-merge-two-descending-linked-lists)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-merge-two-descending-linked-lists)|Sep 18, 2025|
+|**Microsoft**|[Sort a Linked List in Descending Order](https://www.fastprep.io/problems/microsoft-sort-linked-list-descending)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-sort-linked-list-descending)|Sep 18, 2025|
 |**Zip**|[Winning Draws for a Mahjong Hand](https://www.fastprep.io/problems/zip-mahjong-winning-draws)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zip-mahjong-winning-draws)|Sep 16, 2025|
 |**Cerebras**|[Implement Binary Search From Scratch](https://www.fastprep.io/problems/cerebras-binary-search)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cerebras-binary-search)|Sep 06, 2025|
 |**Goldman Sachs**|[Lock Code](https://www.fastprep.io/problems/goldman-decrypt-code-lock)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-decrypt-code-lock)|Sep 06, 2025|
@@ -1852,7 +1855,4 @@
 |**Yelp**|[Design a Priority Venue Invitation Platform](https://www.fastprep.io/system-design/priority-venue-invitation-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/priority-venue-invitation-platform)|Nov 19, 2021|
 |**ZipRecruiter**|[Add Numbers Stored in Four-Digit Chunks](https://www.fastprep.io/problems/ziprecruiter-add-four-digit-chunk-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-add-four-digit-chunk-numbers)|Nov 19, 2021|
 |**ZipRecruiter**|[Add Two Numeric Strings with Carry](https://www.fastprep.io/problems/ziprecruiter-add-numeric-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-add-numeric-strings)|Nov 19, 2021|
-|**ZipRecruiter**|[Expand Decimal Digits into Runs of Ones](https://www.fastprep.io/problems/ziprecruiter-expand-digits-to-ones)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-expand-digits-to-ones)|Nov 19, 2021|
-|**ZipRecruiter**|[Website Pair with the Most Common Visitors](https://www.fastprep.io/problems/ziprecruiter-website-pair-common-visitors)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-website-pair-common-visitors)|Nov 19, 2021|
-|**FlexTrade**|[Merge Two Sorted Arrays](https://www.fastprep.io/problems/flextrade-merge-two-sorted-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flextrade-merge-two-sorted-arrays)|Nov 16, 2021|
 <a id="bottom"></a>
