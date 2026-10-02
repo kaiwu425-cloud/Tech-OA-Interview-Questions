@@ -2,12 +2,21 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,056 questions**
+**3,066 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Amazon**|[Get Max Stability](https://www.fastprep.io/problems/amazon-minimum-swaps-to-make-palindrome)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-swaps-to-make-palindrome)|Dec 20, 2024|
+|**Amazon**|[Get Max Stability](https://www.fastprep.io/problems/amazon-get-max-stability)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-stability)|Dec 20, 2024|
+|**Google**|[Set Total Palindrome Tranformation Cost](https://www.fastprep.io/problems/google-set-total-palindrome-transformation-cost)|[![Practice][p]](https://www.fastprep.io/problems/google-set-total-palindrome-transformation-cost)|Dec 20, 2024|
+|**Trend Micro**|[Change Segment Colors](https://www.fastprep.io/problems/trendmicro-change-segment-colors)|[![Practice][p]](https://www.fastprep.io/problems/trendmicro-change-segment-colors)|Dec 20, 2024|
+|**Google**|[Find Optimal Input](https://www.fastprep.io/problems/google-find-optimal-input)|[![Practice][p]](https://www.fastprep.io/problems/google-find-optimal-input)|Dec 18, 2024|
+|**Google**|[Calculate Min Satellites Required](https://www.fastprep.io/problems/google-calculate-minimum-satellites-required)|[![Practice][p]](https://www.fastprep.io/problems/google-calculate-minimum-satellites-required)|Dec 18, 2024|
+|**Uber**|[Regional Maximum Finder](https://www.fastprep.io/problems/uber-regional-maximum-finder)|[![Practice][p]](https://www.fastprep.io/problems/uber-regional-maximum-finder)|Dec 16, 2024|
+|**Uber**|[Command Frequency Counter](https://www.fastprep.io/problems/uber-command-frequency-counter)|[![Practice][p]](https://www.fastprep.io/problems/uber-command-frequency-counter)|Dec 16, 2024|
+|**Uber**|[Valid String Check](https://www.fastprep.io/problems/uber-valid-string-check)|[![Practice][p]](https://www.fastprep.io/problems/uber-valid-string-check)|Dec 16, 2024|
 |**Microsoft**|[Min Replacements Required to Make a Matrix Balanced](https://www.fastprep.io/problems/microsoft-minimum-replacements-required-to-make-a-matrix-balanced)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-replacements-required-to-make-a-matrix-balanced)|Dec 16, 2024|
 |**Microsoft**|[Max Sum With Same First And Last Digit](https://www.fastprep.io/problems/microsoft-find-max-sum-with-same-first-and-last-digit)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-find-max-sum-with-same-first-and-last-digit)|Dec 16, 2024|
 |**GitHub**|[Bridge Car Weight](https://www.fastprep.io/problems/github-brdige-car-weight)|[![Practice][p]](https://www.fastprep.io/problems/github-brdige-car-weight)|Dec 16, 2024|
@@ -883,6 +892,7 @@
 |**ZipRecruiter**|[Final and Maximum Health after Deltas](https://www.fastprep.io/problems/ziprecruiter-final-and-maximum-health)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-final-and-maximum-health)|Oct 22, 2023|
 |**Deloitte**|[Install Carbon Filters](https://www.fastprep.io/problems/deloitte-install-carbon-filters)|[![Practice][p]](https://www.fastprep.io/problems/deloitte-install-carbon-filters)|Oct 21, 2023|
 |**Deloitte**|[Longest Substring with Even Occurrences](https://www.fastprep.io/problems/deloitte-lonest-substring-with-even-occurrences)|[![Practice][p]](https://www.fastprep.io/problems/deloitte-lonest-substring-with-even-occurrences)|Oct 21, 2023|
+|**Notion**|[Versioned Document Store](https://www.fastprep.io/problems/notion-versioned-document-store)|[![Practice][p]](https://www.fastprep.io/problems/notion-versioned-document-store)|Oct 21, 2023|
 |**ZipRecruiter**|[Track Maximum and Current Rating](https://www.fastprep.io/problems/ziprecruiter-track-maximum-and-current-rating)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-track-maximum-and-current-rating)|Oct 08, 2023|
 |**ZipRecruiter**|[Filter Reusable-Character Word Skeletons](https://www.fastprep.io/problems/ziprecruiter-filter-word-skeletons)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-filter-word-skeletons)|Oct 07, 2023|
 |**ZipRecruiter**|[Evaluate Indexed Arithmetic Equations](https://www.fastprep.io/problems/ziprecruiter-indexed-arithmetic-equations)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-indexed-arithmetic-equations)|Oct 07, 2023|
