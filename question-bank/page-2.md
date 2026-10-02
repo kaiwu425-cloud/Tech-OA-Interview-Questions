@@ -514,6 +514,7 @@
 |**Bloomberg LP**|[Validate Binary Search Tree](https://www.fastprep.io/problems/bloomberg-validate-binary-search-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-validate-binary-search-tree)|Nov 04, 2025|
 |**IBM**|[Process Execution Time](https://www.fastprep.io/problems/ibm-process-execution-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-process-execution-time)|Nov 03, 2025|
 |**IBM**|[Service Timeout Detection](https://www.fastprep.io/problems/ibm-service-timeout-detection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-service-timeout-detection)|Nov 03, 2025|
+|**Notion**|[Design an Adaptive Task Decomposition Queue](https://www.fastprep.io/system-design/adaptive-task-decomposition-queue)|System design|[![Practice][p]](https://www.fastprep.io/system-design/adaptive-task-decomposition-queue)|Nov 03, 2025|
 |**Bloomberg LP**|[Find the Winner of the Circular Game](https://www.fastprep.io/problems/bloomberg-find-winner-circular-game)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-winner-circular-game)|Nov 02, 2025|
 |**Bloomberg LP**|[Design a Top-N News Article System](https://www.fastprep.io/system-design/top-n-news-article-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/top-n-news-article-system)|Oct 31, 2025|
 |**Duolingo**|[Collect Sticks for a Bird's Nest](https://www.fastprep.io/problems/duolingo-collect-sticks-for-birds-nest)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-collect-sticks-for-birds-nest)|Oct 29, 2025|
@@ -1178,7 +1179,6 @@
 |**Roblox**|[Make Tower](https://www.fastprep.io/problems/roblox-make-towers-strictly-increasing-or-decreasing)|Coding|[![Practice][p]](https://www.fastprep.io/problems/roblox-make-towers-strictly-increasing-or-decreasing)|Aug 25, 2024|
 |**Roblox**|[Shift Ops](https://www.fastprep.io/problems/roblox-shift-ops)|Coding|[![Practice][p]](https://www.fastprep.io/problems/roblox-shift-ops)|Aug 25, 2024|
 |**Roblox**|[Find Longest Diagonal Segment](https://www.fastprep.io/problems/roblox-find-longest-diagonal-segment)|Coding|[![Practice][p]](https://www.fastprep.io/problems/roblox-find-longest-diagonal-segment)|Aug 25, 2024|
-|**Notion**|[Design an Adaptive Task Decomposition Queue](https://www.fastprep.io/system-design/adaptive-task-decomposition-queue)|System design|[![Practice][p]](https://www.fastprep.io/system-design/adaptive-task-decomposition-queue)|Aug 25, 2024|
 |**Amazon**|[Minimize Storage Required](https://www.fastprep.io/problems/amazon-minimum-storage-capacity-required)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-storage-capacity-required)|Aug 23, 2024|
 |**TikTok**|[Shared Categories](https://www.fastprep.io/problems/tiktok-max-shared-categories)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-max-shared-categories)|Aug 23, 2024|
 |**TikTok**|[Find Min Transitions](https://www.fastprep.io/problems/tiktok-find-minimum-transitions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-find-minimum-transitions)|Aug 23, 2024|
