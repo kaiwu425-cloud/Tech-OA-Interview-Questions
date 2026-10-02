@@ -11,6 +11,7 @@
 |**Microsoft**|[K Most Recent Unique Request IDs](https://www.fastprep.io/problems/microsoft-k-most-recent-unique-request-ids)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-k-most-recent-unique-request-ids)|🔥 Oct 01, 2026|
 |**Microsoft**|[Shortest Board Length to Cover Holes](https://www.fastprep.io/problems/microsoft-cover-holes)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-cover-holes)|🔥 Oct 01, 2026|
 |**Microsoft**|[Prepare Notification](https://www.fastprep.io/problems/microsoft-prepare-notification)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-prepare-notification)|🔥 Oct 01, 2026|
+|**Amazon**|[Minimum Merge Conflicts](https://www.fastprep.io/problems/amazon-minimum-merge-conflicts)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-merge-conflicts)|🔥 Oct 01, 2026|
 |**Amazon**|[Optimize Package Order by Sorting One Window](https://www.fastprep.io/problems/amazon-optimize-package-order-one-window)|[![Practice][p]](https://www.fastprep.io/problems/amazon-optimize-package-order-one-window)|🔥 Sep 30, 2026|
 |**Applied Intuition**|[Parse Nested Message Types](https://www.fastprep.io/problems/applied-intuition-parse-nested-message-types)|[![Practice][p]](https://www.fastprep.io/problems/applied-intuition-parse-nested-message-types)|🔥 Sep 30, 2026|
 |**Faire**|[Find the First Contiguous Haiku](https://www.fastprep.io/problems/faire-first-contiguous-haiku)|[![Practice][p]](https://www.fastprep.io/problems/faire-first-contiguous-haiku)|🔥 Sep 30, 2026|
@@ -96,7 +97,6 @@
 |**OpenAI**|[Network Endpoint or Cycle Boundary](https://www.fastprep.io/problems/openai-network-endpoint-or-cycle)|[![Practice][p]](https://www.fastprep.io/problems/openai-network-endpoint-or-cycle)|🔥 Sep 28, 2026|
 |**OpenAI**|[Largest Microorganism After Consumption](https://www.fastprep.io/problems/openai-largest-microorganism)|[![Practice][p]](https://www.fastprep.io/problems/openai-largest-microorganism)|🔥 Sep 28, 2026|
 |**OpenAI**|[Repair One Movement Instruction](https://www.fastprep.io/problems/openai-repair-one-movement-instruction)|[![Practice][p]](https://www.fastprep.io/problems/openai-repair-one-movement-instruction)|🔥 Sep 28, 2026|
-|**Amazon**|[Minimum Merge Conflicts](https://www.fastprep.io/problems/amazon-minimum-merge-conflicts)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-merge-conflicts)|🔥 Sep 28, 2026|
 |**Oracle**|[Next Permutation](https://www.fastprep.io/problems/oracle-next-permutation)|[![Practice][p]](https://www.fastprep.io/problems/oracle-next-permutation)|🔥 Sep 28, 2026|
 |**Abridge**|[Decode String](https://www.fastprep.io/problems/abridge-decode-string)|[![Practice][p]](https://www.fastprep.io/problems/abridge-decode-string)|🔥 Sep 28, 2026|
 |**Abridge**|[Flip, Invert, and Smooth a Binary Image](https://www.fastprep.io/problems/abridge-flip-invert-and-smooth-image)|[![Practice][p]](https://www.fastprep.io/problems/abridge-flip-invert-and-smooth-image)|🔥 Sep 28, 2026|
