@@ -2,12 +2,15 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,066 questions**
+**3,069 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Google**|[Max Break Time](https://www.fastprep.io/problems/google-reschedule-k-meetings-to-find-maximum-break-time)|[![Practice][p]](https://www.fastprep.io/problems/google-reschedule-k-meetings-to-find-maximum-break-time)|Dec 22, 2024|
+|**Microsoft**|[Three Partition Array](https://www.fastprep.io/problems/microsoft-three-partition-array)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-three-partition-array)|Dec 22, 2024|
+|**Amazon**|[Min Operations](https://www.fastprep.io/problems/amazon-make-array-zero-by-subtracting-equal-amounts)|[![Practice][p]](https://www.fastprep.io/problems/amazon-make-array-zero-by-subtracting-equal-amounts)|Dec 20, 2024|
 |**Amazon**|[Get Max Stability](https://www.fastprep.io/problems/amazon-minimum-swaps-to-make-palindrome)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-swaps-to-make-palindrome)|Dec 20, 2024|
 |**Amazon**|[Get Max Stability](https://www.fastprep.io/problems/amazon-get-max-stability)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-stability)|Dec 20, 2024|
 |**Google**|[Set Total Palindrome Tranformation Cost](https://www.fastprep.io/problems/google-set-total-palindrome-transformation-cost)|[![Practice][p]](https://www.fastprep.io/problems/google-set-total-palindrome-transformation-cost)|Dec 20, 2024|
