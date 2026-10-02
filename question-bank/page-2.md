@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Upstart**|[Interleave Equal-Length Strings by Column](https://www.fastprep.io/problems/upstart-interleave-equal-length-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/upstart-interleave-equal-length-strings)|Jul 12, 2026|
 |**Upstart**|[Scale Ingredient Quantities](https://www.fastprep.io/problems/upstart-scale-ingredient-quantities)|Coding|[![Practice][p]](https://www.fastprep.io/problems/upstart-scale-ingredient-quantities)|Jul 12, 2026|
 |**IDFC**|[Find All People With Secret](https://www.fastprep.io/problems/idfc-find-all-people-with-secret)|Coding|[![Practice][p]](https://www.fastprep.io/problems/idfc-find-all-people-with-secret)|Jul 12, 2026|
 |**DRW**|[Doctor Appointment Slot Assignment](https://www.fastprep.io/problems/drw-doctor-appointment-slot-assignment)|Coding|[![Practice][p]](https://www.fastprep.io/problems/drw-doctor-appointment-slot-assignment)|Jul 12, 2026|
@@ -1789,6 +1790,7 @@
 |**Bloomberg LP**|[Search in Rotated Sorted Array](https://www.fastprep.io/problems/bloomberg-search-in-rotated-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-search-in-rotated-sorted-array)|Nov 09, 2022|
 |**Bloomberg LP**|[Design a Deck, Hand, and Dealer](https://www.fastprep.io/low-level-design/card-game-deck-hand-dealer)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/card-game-deck-hand-dealer)|Nov 02, 2022|
 |**Bloomberg LP**|[Count Unhappy Friends](https://www.fastprep.io/problems/bloomberg-count-unhappy-friends)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-count-unhappy-friends)|Nov 02, 2022|
+|**Microsoft**|[Design Website Classification with Crowd-Labeled Data](https://www.fastprep.io/system-design/website-classification-crowd-labels)|System design|[![Practice][p]](https://www.fastprep.io/system-design/website-classification-crowd-labels)|Oct 31, 2022|
 |**Bloomberg LP**|[Collatz Conjecture with Shared Memoization](https://www.fastprep.io/problems/bloomberg-collatz-conjecture)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-collatz-conjecture)|Oct 27, 2022|
 |**ZipRecruiter**|[Alternating Signed Digit Sum](https://www.fastprep.io/problems/ziprecruiter-alternating-digit-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-alternating-digit-sum)|Oct 26, 2022|
 |**ZipRecruiter**|[Count Distinct Message Mentions](https://www.fastprep.io/problems/ziprecruiter-distinct-message-mentions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-distinct-message-mentions)|Oct 26, 2022|
@@ -1857,6 +1859,4 @@
 |**Bloomberg LP**|[Unique Reverse-Recency Browser History](https://www.fastprep.io/problems/bloomberg-unique-browser-history)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-unique-browser-history)|Jul 05, 2022|
 |**SambaNova Systems**|[Bomb Enemy Best Coordinates](https://www.fastprep.io/problems/sambanova-bomb-enemy-best-cells)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-bomb-enemy-best-cells)|Jun 30, 2022|
 |**SambaNova Systems**|[4Sum II Tuple Count](https://www.fastprep.io/problems/sambanova-four-sum-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-four-sum-ii)|Jun 30, 2022|
-|**SambaNova Systems**|[Sum Nodes with an Even-Valued Grandparent](https://www.fastprep.io/problems/sambanova-sum-even-valued-grandparent)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-sum-even-valued-grandparent)|Jun 30, 2022|
-|**SambaNova Systems**|[Validate Binary Search Tree](https://www.fastprep.io/problems/sambanova-validate-binary-search-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-validate-binary-search-tree)|Jun 30, 2022|
 <a id="bottom"></a>
