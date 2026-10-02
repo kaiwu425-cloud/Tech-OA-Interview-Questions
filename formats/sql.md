@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**52 questions**
+**57 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -50,6 +50,11 @@
 |**Amazon**|[Customer Package Delivery Report](https://www.fastprep.io/problems/amazon-customer-package-delivery-report)|[![Practice][p]](https://www.fastprep.io/problems/amazon-customer-package-delivery-report)|Jul 16, 2026|
 |**Clickhouse**|[Top Three Sales per County and Year](https://www.fastprep.io/problems/clickhouse-top-three-sales-per-county-and-year)|[![Practice][p]](https://www.fastprep.io/problems/clickhouse-top-three-sales-per-county-and-year)|Jul 07, 2026|
 |**Point72**|[Internet Service Provider Monthly Report](https://www.fastprep.io/problems/point72-internet-service-provider-monthly-report)|[![Practice][p]](https://www.fastprep.io/problems/point72-internet-service-provider-monthly-report)|Jul 02, 2026|
+|**Notion**|[Block Type with the Most Children](https://www.fastprep.io/problems/notion-block-type-with-most-children)|[![Practice][p]](https://www.fastprep.io/problems/notion-block-type-with-most-children)|Mar 26, 2026|
+|**Notion**|[Country with the Most Events](https://www.fastprep.io/problems/notion-country-with-most-events)|[![Practice][p]](https://www.fastprep.io/problems/notion-country-with-most-events)|Mar 26, 2026|
+|**Notion**|[Event Type with the Most Events](https://www.fastprep.io/problems/notion-event-type-with-most-events)|[![Practice][p]](https://www.fastprep.io/problems/notion-event-type-with-most-events)|Mar 26, 2026|
+|**Notion**|[Percentage of Blocks Never Edited](https://www.fastprep.io/problems/notion-percentage-blocks-never-edited)|[![Practice][p]](https://www.fastprep.io/problems/notion-percentage-blocks-never-edited)|Mar 26, 2026|
+|**Notion**|[Most Popular Active Plan for the Top Event Type](https://www.fastprep.io/problems/notion-popular-plan-for-top-event-type)|[![Practice][p]](https://www.fastprep.io/problems/notion-popular-plan-for-top-event-type)|Mar 26, 2026|
 |**Agoda**|[TV Series in a Production Window](https://www.fastprep.io/problems/agoda-tv-series-production-window)|[![Practice][p]](https://www.fastprep.io/problems/agoda-tv-series-production-window)|Nov 29, 2025|
 |**Chainalysis**|[Block Transaction Count Trends](https://www.fastprep.io/problems/chainalysis-block-transaction-count-trends)|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-block-transaction-count-trends)|Mar 06, 2025|
 |**AT&T**|[Advertising System Failures Report](https://www.fastprep.io/problems/att-advertising-system-failures-report)|[![Practice][p]](https://www.fastprep.io/problems/att-advertising-system-failures-report)|Nov 08, 2024|
