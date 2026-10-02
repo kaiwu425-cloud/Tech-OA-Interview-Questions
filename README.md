@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,069)](formats/coding.md) · [SQL (57)](formats/sql.md) · [System design (497)](formats/system-design.md) · [Low-level design (123)](formats/low-level-design.md) · [AI coding (61)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,069)](formats/coding.md) · [SQL (57)](formats/sql.md) · [System design (499)](formats/system-design.md) · [Low-level design (124)](formats/low-level-design.md) · [AI coding (61)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -764,7 +764,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Lenskart**|[Most Recent Active User Per Department](https://www.fastprep.io/problems/lenskart-most-recent-active-user-per-department)|SQL|[![Practice][p]](https://www.fastprep.io/problems/lenskart-most-recent-active-user-per-department)|🆕 Sep 13, 2026|
 |**Lenskart**|[Test Execution Success Rate](https://www.fastprep.io/problems/lenskart-test-execution-success-rate)|SQL|[![Practice][p]](https://www.fastprep.io/problems/lenskart-test-execution-success-rate)|🆕 Sep 13, 2026|
 |**Lenskart**|[First Duplicate Transaction Within Ten Minutes](https://www.fastprep.io/problems/lenskart-first-duplicate-transaction-within-ten-minutes)|SQL|[![Practice][p]](https://www.fastprep.io/problems/lenskart-first-duplicate-transaction-within-ten-minutes)|🆕 Sep 13, 2026|
-|**Amazon / Postman / Mintlify / Walmart / Vercel**|[Design a Collaborative Document Editor](https://www.fastprep.io/system-design/collaborative-document-editor)|System design|[![Practice][p]](https://www.fastprep.io/system-design/collaborative-document-editor)|🆕 Sep 13, 2026|
+|**Amazon / Postman / Mintlify / Walmart / Vercel / Figma**|[Design a Collaborative Document Editor](https://www.fastprep.io/system-design/collaborative-document-editor)|System design|[![Practice][p]](https://www.fastprep.io/system-design/collaborative-document-editor)|🆕 Sep 13, 2026|
 |**Cursor / Amazon**|[Design a Versioned IDE Settings Sync System](https://www.fastprep.io/system-design/versioned-ide-settings-sync)|System design|[![Practice][p]](https://www.fastprep.io/system-design/versioned-ide-settings-sync)|🆕 Sep 13, 2026|
 |**Amazon**|[Design a Return Drop-Store Booking System](https://www.fastprep.io/low-level-design/return-drop-store-booking)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/return-drop-store-booking)|🆕 Sep 13, 2026|
 |**Amazon**|[Design a Playlist Source Mixer](https://www.fastprep.io/low-level-design/playlist-source-mixer)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/playlist-source-mixer)|🆕 Sep 13, 2026|
@@ -1695,5 +1695,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Amazon**|[Maximum Sum of Heights](https://www.fastprep.io/problems/amazon-maximum-sum-of-heights)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-sum-of-heights)|Jul 12, 2026|
 |**Amazon**|[Longest Palindromic Subsequence](https://www.fastprep.io/problems/amazon-longest-palindromic-subsequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-longest-palindromic-subsequence)|Jul 12, 2026|
 |**Amazon**|[Group Anagrams](https://www.fastprep.io/problems/amazon-group-anagrams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-group-anagrams)|Jul 12, 2026|
-|**Amazon**|[Maximal Square](https://www.fastprep.io/problems/amazon-maximal-square)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximal-square)|Jul 12, 2026|
 <a id="bottom"></a>
