@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Longest Palindromic Subsequence](https://www.fastprep.io/problems/amazon-longest-palindromic-subsequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-longest-palindromic-subsequence)|Jul 12, 2026|
+|**Amazon**|[Group Anagrams](https://www.fastprep.io/problems/amazon-group-anagrams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-group-anagrams)|Jul 12, 2026|
 |**Amazon**|[Maximal Square](https://www.fastprep.io/problems/amazon-maximal-square)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximal-square)|Jul 12, 2026|
 |**Amazon**|[Sliding Window Maximum](https://www.fastprep.io/problems/amazon-sliding-window-maximum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-sliding-window-maximum)|Jul 12, 2026|
 |**Agoda**|[3Sum](https://www.fastprep.io/problems/agoda-three-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-three-sum)|Jul 12, 2026|
@@ -609,7 +611,6 @@
 |**Meta**|[Minimum Operations for a Stepwise Sequence](https://www.fastprep.io/problems/meta-minimum-stepwise-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-minimum-stepwise-operations)|Jul 26, 2025|
 |**Meta**|[Most Frequent Reduced Digit](https://www.fastprep.io/problems/meta-most-frequent-reduced-digit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-most-frequent-reduced-digit)|Jul 26, 2025|
 |**Nuro**|[Maximum Value for Two Delivery Robots](https://www.fastprep.io/problems/nuro-maximum-two-robot-delivery-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nuro-maximum-two-robot-delivery-value)|Jul 26, 2025|
-|**OnePay**|[Count Complete Toll Journeys](https://www.fastprep.io/problems/onepay-count-complete-toll-journeys)|Coding|[![Practice][p]](https://www.fastprep.io/problems/onepay-count-complete-toll-journeys)|Jul 26, 2025|
 |**OpenAI**|[Versioned Followers and Followees](https://www.fastprep.io/problems/openai-versioned-followers-and-followees)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-versioned-followers-and-followees)|Jul 26, 2025|
 |**OpenAI**|[Versioned Friend Recommendations](https://www.fastprep.io/problems/openai-versioned-friend-recommendations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-versioned-friend-recommendations)|Jul 26, 2025|
 |**Salesforce**|[Maximum Barbell Weight](https://www.fastprep.io/problems/salesforce-weight-capacity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-weight-capacity)|Jul 26, 2025|
@@ -1860,5 +1861,4 @@
 |**ZipRecruiter**|[Longest Common File-System Path Prefix](https://www.fastprep.io/problems/ziprecruiter-common-filesystem-prefix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-common-filesystem-prefix)|Sep 26, 2022|
 |**Duolingo**|[Shortest Route Through a Traced Maze](https://www.fastprep.io/problems/duolingo-shortest-traced-maze-route)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-shortest-traced-maze-route)|Sep 24, 2022|
 |**ZipRecruiter**|[Sum All Ordered Decimal Concatenations](https://www.fastprep.io/problems/ziprecruiter-sum-ordered-concatenations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-sum-ordered-concatenations)|Sep 24, 2022|
-|**Airbnb**|[Count Palindromic Substrings](https://www.fastprep.io/problems/airbnb-count-palindromic-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-count-palindromic-substrings)|Sep 23, 2022|
 <a id="bottom"></a>

@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,069 questions**
+**3,070 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -42,6 +42,7 @@
 |**Stripe**|[Request Routing System](https://www.fastprep.io/problems/stripe-request-routing-system)|[![Practice][p]](https://www.fastprep.io/problems/stripe-request-routing-system)|🔥 Sep 30, 2026|
 |**Capital One**|[Digit-Coded Card Validation](https://www.fastprep.io/problems/capital-one-digit-coded-card-validation)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-digit-coded-card-validation)|🔥 Sep 30, 2026|
 |**Ramp**|[Accept or Decline Queries](https://www.fastprep.io/problems/ramp-accept-or-decline-queries)|[![Practice][p]](https://www.fastprep.io/problems/ramp-accept-or-decline-queries)|🔥 Sep 30, 2026|
+|**OnePay**|[Device Registry Operations](https://www.fastprep.io/problems/onepay-device-registry-operations)|[![Practice][p]](https://www.fastprep.io/problems/onepay-device-registry-operations)|🔥 Sep 29, 2026|
 |**OpenAI**|[Leaves Remaining After Wind Gusts](https://www.fastprep.io/problems/openai-wind-shifted-leaf-sum)|[![Practice][p]](https://www.fastprep.io/problems/openai-wind-shifted-leaf-sum)|🔥 Sep 29, 2026|
 |**OpenAI**|[Count Routes Through Four Shop Types](https://www.fastprep.io/problems/openai-count-four-shop-routes)|[![Practice][p]](https://www.fastprep.io/problems/openai-count-four-shop-routes)|🔥 Sep 29, 2026|
 |**OpenAI**|[Invert or Blur an Image](https://www.fastprep.io/problems/openai-invert-or-blur-image)|[![Practice][p]](https://www.fastprep.io/problems/openai-invert-or-blur-image)|🔥 Sep 29, 2026|
@@ -1070,6 +1071,7 @@
 |**Akuna**|[Profitable Project Pairs](https://www.fastprep.io/problems/akuna-profitable-project-pairs)|[![Practice][p]](https://www.fastprep.io/problems/akuna-profitable-project-pairs)|Jul 23, 2026|
 |**Goldman Sachs**|[Validate Binary Search Tree](https://www.fastprep.io/problems/goldman-sachs-validate-binary-search-tree)|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-validate-binary-search-tree)|Jul 23, 2026|
 |**Visa**|[Signal Pings](https://www.fastprep.io/problems/visa-signal-pings)|[![Practice][p]](https://www.fastprep.io/problems/visa-signal-pings)|Jul 23, 2026|
+|**OnePay**|[Count Complete Toll Journeys](https://www.fastprep.io/problems/onepay-count-complete-toll-journeys)|[![Practice][p]](https://www.fastprep.io/problems/onepay-count-complete-toll-journeys)|Jul 23, 2026|
 |**Bloomberg LP**|[Word Break II](https://www.fastprep.io/problems/bloomberg-word-break-ii)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-word-break-ii)|Jul 22, 2026|
 |**Microsoft**|[Binary String Swap Time](https://www.fastprep.io/problems/microsoft-binary-string-swap-time)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-binary-string-swap-time)|Jul 22, 2026|
 |**Microsoft**|[Minimum Effort Task Schedule](https://www.fastprep.io/problems/microsoft-minimum-effort-task-schedule)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-effort-task-schedule)|Jul 22, 2026|
@@ -1643,7 +1645,6 @@
 |**Meta**|[Minimum Operations for a Stepwise Sequence](https://www.fastprep.io/problems/meta-minimum-stepwise-operations)|[![Practice][p]](https://www.fastprep.io/problems/meta-minimum-stepwise-operations)|Jul 26, 2025|
 |**Meta**|[Most Frequent Reduced Digit](https://www.fastprep.io/problems/meta-most-frequent-reduced-digit)|[![Practice][p]](https://www.fastprep.io/problems/meta-most-frequent-reduced-digit)|Jul 26, 2025|
 |**Nuro**|[Maximum Value for Two Delivery Robots](https://www.fastprep.io/problems/nuro-maximum-two-robot-delivery-value)|[![Practice][p]](https://www.fastprep.io/problems/nuro-maximum-two-robot-delivery-value)|Jul 26, 2025|
-|**OnePay**|[Count Complete Toll Journeys](https://www.fastprep.io/problems/onepay-count-complete-toll-journeys)|[![Practice][p]](https://www.fastprep.io/problems/onepay-count-complete-toll-journeys)|Jul 26, 2025|
 |**OpenAI**|[Versioned Followers and Followees](https://www.fastprep.io/problems/openai-versioned-followers-and-followees)|[![Practice][p]](https://www.fastprep.io/problems/openai-versioned-followers-and-followees)|Jul 26, 2025|
 |**OpenAI**|[Versioned Friend Recommendations](https://www.fastprep.io/problems/openai-versioned-friend-recommendations)|[![Practice][p]](https://www.fastprep.io/problems/openai-versioned-friend-recommendations)|Jul 26, 2025|
 |**Salesforce**|[Maximum Barbell Weight](https://www.fastprep.io/problems/salesforce-weight-capacity)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-weight-capacity)|Jul 26, 2025|
@@ -1840,5 +1841,4 @@
 |**Amazon**|[Max Transfer Rate](https://www.fastprep.io/problems/amazon-max-transfer-rate)|[![Practice][p]](https://www.fastprep.io/problems/amazon-max-transfer-rate)|Dec 22, 2024|
 |**Amazon**|[Get Final Location](https://www.fastprep.io/problems/amazon-get-final-locations)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-final-locations)|Dec 22, 2024|
 |**Amazon**|[Get Stable Periods Count](https://www.fastprep.io/problems/amazon-get-stable-periods-count)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-stable-periods-count)|Dec 22, 2024|
-|**Amazon**|[Calculate Max Profit](https://www.fastprep.io/problems/amazon-calculate-max-profit)|[![Practice][p]](https://www.fastprep.io/problems/amazon-calculate-max-profit)|Dec 22, 2024|
 <a id="bottom"></a>

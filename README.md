@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,069)](formats/coding.md) · [SQL (57)](formats/sql.md) · [System design (499)](formats/system-design.md) · [Low-level design (124)](formats/low-level-design.md) · [AI coding (61)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,070)](formats/coding.md) · [SQL (57)](formats/sql.md) · [System design (499)](formats/system-design.md) · [Low-level design (124)](formats/low-level-design.md) · [AI coding (61)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -88,6 +88,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Capital One**|[Digit-Coded Card Validation](https://www.fastprep.io/problems/capital-one-digit-coded-card-validation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-digit-coded-card-validation)|🔥 Sep 30, 2026|
 |**Ramp**|[Accept or Decline Queries](https://www.fastprep.io/problems/ramp-accept-or-decline-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-accept-or-decline-queries)|🔥 Sep 30, 2026|
 |**BNSF Railway**|[Implement a Railway Quote Service Layer](https://www.fastprep.io/project-coding/bnsf-railway-quote-service-layer)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/bnsf-railway-quote-service-layer)|🔥 Sep 30, 2026|
+|**OnePay**|[Device Registry Operations](https://www.fastprep.io/problems/onepay-device-registry-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/onepay-device-registry-operations)|🔥 Sep 29, 2026|
 |**Moveworks / Atlassian**|[Design Cloud Usage Billing Infrastructure](https://www.fastprep.io/system-design/cloud-usage-billing-infrastructure)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cloud-usage-billing-infrastructure)|🔥 Sep 29, 2026|
 |**Amazon / Instacart / Zip / Nykaa**|[Design a Last-Unit Inventory Reservation Service](https://www.fastprep.io/system-design/last-unit-inventory-reservation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/last-unit-inventory-reservation)|🔥 Sep 29, 2026|
 |**Autodesk / Nykaa**|[Design a Rapid Grocery Ordering Platform](https://www.fastprep.io/system-design/rapid-grocery-ordering-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rapid-grocery-ordering-platform)|🔥 Sep 29, 2026|
@@ -1606,6 +1607,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Visa**|[Signal Pings](https://www.fastprep.io/problems/visa-signal-pings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-signal-pings)|Jul 23, 2026|
 |**OnePay**|[Design a Community Chat Platform](https://www.fastprep.io/system-design/community-chat-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/community-chat-platform)|Jul 23, 2026|
 |**Roblox**|[Design a Like/Unlike Service](https://www.fastprep.io/system-design/like-unlike-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/like-unlike-service)|Jul 23, 2026|
+|**OnePay**|[Count Complete Toll Journeys](https://www.fastprep.io/problems/onepay-count-complete-toll-journeys)|Coding|[![Practice][p]](https://www.fastprep.io/problems/onepay-count-complete-toll-journeys)|Jul 23, 2026|
 |**Bloomberg LP**|[Word Break II](https://www.fastprep.io/problems/bloomberg-word-break-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-word-break-ii)|Jul 22, 2026|
 |**Microsoft**|[Binary String Swap Time](https://www.fastprep.io/problems/microsoft-binary-string-swap-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-binary-string-swap-time)|Jul 22, 2026|
 |**Microsoft**|[Minimum Effort Task Schedule](https://www.fastprep.io/problems/microsoft-minimum-effort-task-schedule)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-effort-task-schedule)|Jul 22, 2026|
@@ -1693,6 +1695,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Anthropic**|[Cloud Storage Prefix Trash and Restore](https://www.fastprep.io/problems/anthropic-cloud-storage-prefix-trash)|Coding|[![Practice][p]](https://www.fastprep.io/problems/anthropic-cloud-storage-prefix-trash)|Jul 12, 2026|
 |**Amazon**|[Number of Islands II](https://www.fastprep.io/problems/amazon-number-of-islands-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-number-of-islands-ii)|Jul 12, 2026|
 |**Amazon**|[Maximum Sum of Heights](https://www.fastprep.io/problems/amazon-maximum-sum-of-heights)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-sum-of-heights)|Jul 12, 2026|
-|**Amazon**|[Longest Palindromic Subsequence](https://www.fastprep.io/problems/amazon-longest-palindromic-subsequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-longest-palindromic-subsequence)|Jul 12, 2026|
-|**Amazon**|[Group Anagrams](https://www.fastprep.io/problems/amazon-group-anagrams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-group-anagrams)|Jul 12, 2026|
 <a id="bottom"></a>

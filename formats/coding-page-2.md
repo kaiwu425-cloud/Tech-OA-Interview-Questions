@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,069 questions**
+**3,070 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Amazon**|[Calculate Max Profit](https://www.fastprep.io/problems/amazon-calculate-max-profit)|[![Practice][p]](https://www.fastprep.io/problems/amazon-calculate-max-profit)|Dec 22, 2024|
 |**Google**|[Max Break Time](https://www.fastprep.io/problems/google-reschedule-k-meetings-to-find-maximum-break-time)|[![Practice][p]](https://www.fastprep.io/problems/google-reschedule-k-meetings-to-find-maximum-break-time)|Dec 22, 2024|
 |**Microsoft**|[Three Partition Array](https://www.fastprep.io/problems/microsoft-three-partition-array)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-three-partition-array)|Dec 22, 2024|
 |**Amazon**|[Min Operations](https://www.fastprep.io/problems/amazon-make-array-zero-by-subtracting-equal-amounts)|[![Practice][p]](https://www.fastprep.io/problems/amazon-make-array-zero-by-subtracting-equal-amounts)|Dec 20, 2024|
