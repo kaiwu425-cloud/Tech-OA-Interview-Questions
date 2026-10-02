@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,066 questions**
+**3,069 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -1608,6 +1608,8 @@
 |**Cerebras**|[Implement Binary Search From Scratch](https://www.fastprep.io/problems/cerebras-binary-search)|[![Practice][p]](https://www.fastprep.io/problems/cerebras-binary-search)|Sep 06, 2025|
 |**Goldman Sachs**|[Lock Code](https://www.fastprep.io/problems/goldman-decrypt-code-lock)|[![Practice][p]](https://www.fastprep.io/problems/goldman-decrypt-code-lock)|Sep 06, 2025|
 |**Goldman Sachs**|[Data Reorganization](https://www.fastprep.io/problems/goldman-get-minimum-value)|[![Practice][p]](https://www.fastprep.io/problems/goldman-get-minimum-value)|Sep 06, 2025|
+|**Tennr**|[Top K Frequent Elements](https://www.fastprep.io/problems/tennr-top-k-frequent-elements)|[![Practice][p]](https://www.fastprep.io/problems/tennr-top-k-frequent-elements)|Aug 24, 2025|
+|**Tennr**|[Wildcard Multi-Delimiter Validation](https://www.fastprep.io/problems/tennr-wildcard-multi-delimiter-validation)|[![Practice][p]](https://www.fastprep.io/problems/tennr-wildcard-multi-delimiter-validation)|Aug 24, 2025|
 |**SpaceX**|[Rocket Component Cost](https://www.fastprep.io/problems/spacex-rocket-component-cost)|[![Practice][p]](https://www.fastprep.io/problems/spacex-rocket-component-cost)|Aug 22, 2025|
 |**Motive**|[Search a Row-Major Sorted Matrix](https://www.fastprep.io/problems/motive-search-row-major-sorted-matrix)|[![Practice][p]](https://www.fastprep.io/problems/motive-search-row-major-sorted-matrix)|Aug 13, 2025|
 |**Amazon**|[Fair Prize Distribution](https://www.fastprep.io/problems/amazon-fair-prize-distribution)|[![Practice][p]](https://www.fastprep.io/problems/amazon-fair-prize-distribution)|Aug 10, 2025|
@@ -1811,6 +1813,7 @@
 |**TikTok**|[Change Username](https://www.fastprep.io/problems/tiktok-changing-username)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-changing-username)|Feb 09, 2025|
 |**Microsoft**|[Maximize Number Of Produced Cars](https://www.fastprep.io/problems/microsoft-maximize-number-of-produced-cars)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximize-number-of-produced-cars)|Feb 08, 2025|
 |**Microsoft**|[Minimize Tokens Remaining](https://www.fastprep.io/problems/microsoft-minimum-tokens-remaining)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-tokens-remaining)|Feb 08, 2025|
+|**Tennr**|[Find First and Last Position in Sorted Array](https://www.fastprep.io/problems/tennr-find-first-and-last-position)|[![Practice][p]](https://www.fastprep.io/problems/tennr-find-first-and-last-position)|Feb 06, 2025|
 |**Amazon**|[Max Number of Products You can Pick](https://www.fastprep.io/problems/amazon-maximum-number-of-products-you-can-pick)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-number-of-products-you-can-pick)|Feb 05, 2025|
 |**Amazon**|[Maximize Sum of Array Multiplication](https://www.fastprep.io/problems/amazon-maximize-sum-of-array-multiplication)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-sum-of-array-multiplication)|Feb 05, 2025|
 |**Amazon**|[Sum of Max Subarrys](https://www.fastprep.io/problems/amazon-sum-of-max-subarrays)|[![Practice][p]](https://www.fastprep.io/problems/amazon-sum-of-max-subarrays)|Feb 02, 2025|
@@ -1838,7 +1841,4 @@
 |**Amazon**|[Get Final Location](https://www.fastprep.io/problems/amazon-get-final-locations)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-final-locations)|Dec 22, 2024|
 |**Amazon**|[Get Stable Periods Count](https://www.fastprep.io/problems/amazon-get-stable-periods-count)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-stable-periods-count)|Dec 22, 2024|
 |**Amazon**|[Calculate Max Profit](https://www.fastprep.io/problems/amazon-calculate-max-profit)|[![Practice][p]](https://www.fastprep.io/problems/amazon-calculate-max-profit)|Dec 22, 2024|
-|**Google**|[Max Break Time](https://www.fastprep.io/problems/google-reschedule-k-meetings-to-find-maximum-break-time)|[![Practice][p]](https://www.fastprep.io/problems/google-reschedule-k-meetings-to-find-maximum-break-time)|Dec 22, 2024|
-|**Microsoft**|[Three Partition Array](https://www.fastprep.io/problems/microsoft-three-partition-array)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-three-partition-array)|Dec 22, 2024|
-|**Amazon**|[Min Operations](https://www.fastprep.io/problems/amazon-make-array-zero-by-subtracting-equal-amounts)|[![Practice][p]](https://www.fastprep.io/problems/amazon-make-array-zero-by-subtracting-equal-amounts)|Dec 20, 2024|
 <a id="bottom"></a>
