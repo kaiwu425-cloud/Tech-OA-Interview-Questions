@@ -410,6 +410,7 @@
 |**Bloomberg LP**|[Insert, Delete, and Get Random in Constant Time](https://www.fastprep.io/problems/bloomberg-insert-delete-getrandom-o1)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-insert-delete-getrandom-o1)|Feb 17, 2026|
 |**Google**|[Find All People With the Secret](https://www.fastprep.io/problems/google-find-all-people-with-secret)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-all-people-with-secret)|Feb 14, 2026|
 |**Google**|[House Robber with Selected Indices](https://www.fastprep.io/problems/google-house-robber-with-selected-indices)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-house-robber-with-selected-indices)|Feb 14, 2026|
+|**Figma**|[Design a Browser-Based Graphics Editor](https://www.fastprep.io/system-design/browser-graphics-editor)|System design|[![Practice][p]](https://www.fastprep.io/system-design/browser-graphics-editor)|Feb 12, 2026|
 |**Temporal**|[Normalize and Aggregate Error Logs](https://www.fastprep.io/problems/temporal-log-error-aggregation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/temporal-log-error-aggregation)|Feb 11, 2026|
 |**Wells Fargo**|[Count Server Replacements](https://www.fastprep.io/problems/wellsfargo-count-server-replacements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-count-server-replacements)|Feb 08, 2026|
 |**Wells Fargo**|[Minimum Remaining Length](https://www.fastprep.io/problems/wellsfargo-minimum-remaining-length)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-minimum-remaining-length)|Feb 08, 2026|
@@ -1860,5 +1861,4 @@
 |**Bloomberg LP**|[Populate Next Right Pointers](https://www.fastprep.io/problems/bloomberg-populate-next-right-pointers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-populate-next-right-pointers)|Sep 26, 2022|
 |**ZipRecruiter**|[Longest Common File-System Path Prefix](https://www.fastprep.io/problems/ziprecruiter-common-filesystem-prefix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-common-filesystem-prefix)|Sep 26, 2022|
 |**Duolingo**|[Shortest Route Through a Traced Maze](https://www.fastprep.io/problems/duolingo-shortest-traced-maze-route)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-shortest-traced-maze-route)|Sep 24, 2022|
-|**ZipRecruiter**|[Sum All Ordered Decimal Concatenations](https://www.fastprep.io/problems/ziprecruiter-sum-ordered-concatenations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-sum-ordered-concatenations)|Sep 24, 2022|
 <a id="bottom"></a>
