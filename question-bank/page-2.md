@@ -194,6 +194,7 @@
 |**Agoda**|[Minimum Absolute Difference Pairs](https://www.fastprep.io/problems/agoda-minimum-absolute-difference-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-minimum-absolute-difference-pairs)|Jun 08, 2026|
 |**Hebbia**|[Detect a Winner on a 3x3 Tic-Tac-Toe Board](https://www.fastprep.io/problems/hebbia-tic-tac-toe-winner)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hebbia-tic-tac-toe-winner)|Jun 06, 2026|
 |**Amazon**|[Design an E-commerce Recommendation Event Pipeline](https://www.fastprep.io/system-design/ecommerce-recommendation-event-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ecommerce-recommendation-event-pipeline)|Jun 05, 2026|
+|**Notion**|[Design a Calendar Search and Sync Platform](https://www.fastprep.io/system-design/calendar-search-and-sync-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/calendar-search-and-sync-platform)|Jun 05, 2026|
 |**JP Morgan**|[About Shipping](https://www.fastprep.io/problems/jpmorgan-about-shipping)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-about-shipping)|Jun 04, 2026|
 |**Netflix**|[Topological Sort for Ads Tasks](https://www.fastprep.io/problems/netflix-topological-sort-course-schedule-ads)|Coding|[![Practice][p]](https://www.fastprep.io/problems/netflix-topological-sort-course-schedule-ads)|Jun 04, 2026|
 |**Alpaca**|[Hungarian Lottery Winner Counts](https://www.fastprep.io/problems/alpaca-hungarian-lottery-winners)|Coding|[![Practice][p]](https://www.fastprep.io/problems/alpaca-hungarian-lottery-winners)|Jun 02, 2026|
@@ -328,6 +329,7 @@
 |**Uber**|[Maximum Comfortable Riders](https://www.fastprep.io/problems/uber-maximum-comfortable-riders)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-maximum-comfortable-riders)|Apr 09, 2026|
 |**Uber**|[Palindrome Path Queries in a Tree](https://www.fastprep.io/problems/uber-palindrome-path-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-palindrome-path-queries)|Apr 09, 2026|
 |**Modular**|[Critical Path Through Dependent Tasks](https://www.fastprep.io/problems/modular-critical-path-schedule)|Coding|[![Practice][p]](https://www.fastprep.io/problems/modular-critical-path-schedule)|Apr 08, 2026|
+|**Notion**|[Design an Event Data Warehouse Platform](https://www.fastprep.io/system-design/event-data-warehouse-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/event-data-warehouse-platform)|Apr 08, 2026|
 |**Amazon**|[Maximize Protected City Population](https://www.fastprep.io/problems/amazon-maximize-protected-city-population)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-protected-city-population)|Apr 06, 2026|
 |**Amazon**|[Minimum Cost to Convert Products to Variant A](https://www.fastprep.io/problems/amazon-minimum-cost-to-convert-products-to-variant-a)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-cost-to-convert-products-to-variant-a)|Apr 06, 2026|
 |**Amazon**|[Minimum Preparation Time for Two Handlers](https://www.fastprep.io/problems/amazon-minimum-preparation-time-for-two-handlers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-preparation-time-for-two-handlers)|Apr 06, 2026|
@@ -514,6 +516,7 @@
 |**Bloomberg LP**|[Validate Binary Search Tree](https://www.fastprep.io/problems/bloomberg-validate-binary-search-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-validate-binary-search-tree)|Nov 04, 2025|
 |**IBM**|[Process Execution Time](https://www.fastprep.io/problems/ibm-process-execution-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-process-execution-time)|Nov 03, 2025|
 |**IBM**|[Service Timeout Detection](https://www.fastprep.io/problems/ibm-service-timeout-detection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-service-timeout-detection)|Nov 03, 2025|
+|**Notion**|[Design an Adaptive Task Decomposition Queue](https://www.fastprep.io/system-design/adaptive-task-decomposition-queue)|System design|[![Practice][p]](https://www.fastprep.io/system-design/adaptive-task-decomposition-queue)|Nov 03, 2025|
 |**Bloomberg LP**|[Find the Winner of the Circular Game](https://www.fastprep.io/problems/bloomberg-find-winner-circular-game)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-winner-circular-game)|Nov 02, 2025|
 |**Bloomberg LP**|[Design a Top-N News Article System](https://www.fastprep.io/system-design/top-n-news-article-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/top-n-news-article-system)|Oct 31, 2025|
 |**Duolingo**|[Collect Sticks for a Bird's Nest](https://www.fastprep.io/problems/duolingo-collect-sticks-for-birds-nest)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-collect-sticks-for-birds-nest)|Oct 29, 2025|
@@ -1856,7 +1859,4 @@
 |**Bloomberg LP**|[Gossip Consensus on the Maximum Value](https://www.fastprep.io/problems/bloomberg-gossip-consensus-maximum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-gossip-consensus-maximum)|Jul 19, 2022|
 |**Bloomberg LP**|[Maximum Product of Three Numbers](https://www.fastprep.io/problems/bloomberg-maximum-product-of-three-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-maximum-product-of-three-numbers)|Jul 16, 2022|
 |**Bloomberg LP**|[Word Break](https://www.fastprep.io/problems/bloomberg-word-break)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-word-break)|Jul 16, 2022|
-|**Bloomberg LP**|[Unique Reverse-Recency Browser History](https://www.fastprep.io/problems/bloomberg-unique-browser-history)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-unique-browser-history)|Jul 05, 2022|
-|**SambaNova Systems**|[Bomb Enemy Best Coordinates](https://www.fastprep.io/problems/sambanova-bomb-enemy-best-cells)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-bomb-enemy-best-cells)|Jun 30, 2022|
-|**SambaNova Systems**|[4Sum II Tuple Count](https://www.fastprep.io/problems/sambanova-four-sum-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-four-sum-ii)|Jun 30, 2022|
 <a id="bottom"></a>
