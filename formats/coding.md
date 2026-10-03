@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,095 questions**
+**3,097 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -48,6 +48,8 @@
 |**Capital One**|[Digit-Coded Card Validation](https://www.fastprep.io/problems/capital-one-digit-coded-card-validation)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-digit-coded-card-validation)|🔥 Sep 30, 2026|
 |**Ramp**|[Accept or Decline Queries](https://www.fastprep.io/problems/ramp-accept-or-decline-queries)|[![Practice][p]](https://www.fastprep.io/problems/ramp-accept-or-decline-queries)|🔥 Sep 30, 2026|
 |**Google**|[Count Triplets With Sum at Most Target](https://www.fastprep.io/problems/google-count-triplets-with-sum-at-most-target)|[![Practice][p]](https://www.fastprep.io/problems/google-count-triplets-with-sum-at-most-target)|🔥 Sep 30, 2026|
+|**Google**|[Target Interval Conflict](https://www.fastprep.io/problems/google-target-interval-conflict)|[![Practice][p]](https://www.fastprep.io/problems/google-target-interval-conflict)|🔥 Sep 30, 2026|
+|**Google**|[Word Break](https://www.fastprep.io/problems/google-word-break)|[![Practice][p]](https://www.fastprep.io/problems/google-word-break)|🔥 Sep 30, 2026|
 |**OnePay**|[Device Registry Operations](https://www.fastprep.io/problems/onepay-device-registry-operations)|[![Practice][p]](https://www.fastprep.io/problems/onepay-device-registry-operations)|🔥 Sep 29, 2026|
 |**OpenAI**|[Leaves Remaining After Wind Gusts](https://www.fastprep.io/problems/openai-wind-shifted-leaf-sum)|[![Practice][p]](https://www.fastprep.io/problems/openai-wind-shifted-leaf-sum)|🔥 Sep 29, 2026|
 |**OpenAI**|[Count Routes Through Four Shop Types](https://www.fastprep.io/problems/openai-count-four-shop-routes)|[![Practice][p]](https://www.fastprep.io/problems/openai-count-four-shop-routes)|🔥 Sep 29, 2026|
@@ -1839,6 +1841,4 @@
 |**TikTok**|[TikTok Spam Filter](https://www.fastprep.io/problems/tiktok-get-spam-comments)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-spam-comments)|Jan 04, 2025|
 |**TikTok**|[Count Twin Pairs](https://www.fastprep.io/problems/tiktok-count-twin-pairs)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-twin-pairs)|Jan 04, 2025|
 |**Stripe**|[Currency Conversion Through Exchange Paths](https://www.fastprep.io/problems/stripe-currency-conversion-paths)|[![Practice][p]](https://www.fastprep.io/problems/stripe-currency-conversion-paths)|Jan 02, 2025|
-|**Stripe**|[Parse and Expand Supported Card Identifiers](https://www.fastprep.io/problems/stripe-ordered-card-identifier-expansion)|[![Practice][p]](https://www.fastprep.io/problems/stripe-ordered-card-identifier-expansion)|Jan 02, 2025|
-|**Google**|[Number of Distinct Islands](https://www.fastprep.io/problems/google-number-of-distinct-islands)|[![Practice][p]](https://www.fastprep.io/problems/google-number-of-distinct-islands)|Dec 31, 2024|
 <a id="bottom"></a>
