@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,144 questions**
+**3,145 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -1006,6 +1006,7 @@
 |**TikTok**|[Rating Level After Changes](https://www.fastprep.io/problems/tiktok-rating-level-after-changes)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-rating-level-after-changes)|Aug 05, 2026|
 |**TikTok**|[Space Station Shuttle Missions](https://www.fastprep.io/problems/tiktok-space-station-shuttle-missions)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-space-station-shuttle-missions)|Aug 05, 2026|
 |**IMC**|[Weighted LFU Cache](https://www.fastprep.io/problems/imc-weighted-lfu-cache)|[![Practice][p]](https://www.fastprep.io/problems/imc-weighted-lfu-cache)|Aug 05, 2026|
+|**Google**|[Minimum Distance to Return a Book](https://www.fastprep.io/problems/google-minimum-library-return-distance)|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-library-return-distance)|Aug 05, 2026|
 |**TikTok**|[Count Case-Insensitive Triplets](https://www.fastprep.io/problems/tiktok-count-case-insensitive-triplets)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-case-insensitive-triplets)|Aug 04, 2026|
 |**TikTok**|[Linear Warehouse Drone Delivery](https://www.fastprep.io/problems/tiktok-linear-warehouse-drone-delivery)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-linear-warehouse-drone-delivery)|Aug 04, 2026|
 |**TikTok**|[Product Minus Sum of Digits](https://www.fastprep.io/problems/tiktok-product-minus-sum-of-digits)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-product-minus-sum-of-digits)|Aug 04, 2026|
@@ -1834,5 +1835,4 @@
 |**Amazon**|[Find Least Possible Vulnerability](https://www.fastprep.io/problems/amazon-find-least-possible-vulnerability)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-least-possible-vulnerability)|Mar 24, 2025|
 |**Tesla**|[Shoe Factory](https://www.fastprep.io/problems/tesla-shoe-factory)|[![Practice][p]](https://www.fastprep.io/problems/tesla-shoe-factory)|Mar 24, 2025|
 |**Tesla**|[Encrypt](https://www.fastprep.io/problems/tesla-encrypt)|[![Practice][p]](https://www.fastprep.io/problems/tesla-encrypt)|Mar 24, 2025|
-|**Fortinet**|[Beautiful Strings](https://www.fastprep.io/problems/fortinet-maximize-beautiful-substrings)|[![Practice][p]](https://www.fastprep.io/problems/fortinet-maximize-beautiful-substrings)|Mar 24, 2025|
 <a id="bottom"></a>

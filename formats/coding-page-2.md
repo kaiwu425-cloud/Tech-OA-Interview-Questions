@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,144 questions**
+**3,145 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Fortinet**|[Beautiful Strings](https://www.fastprep.io/problems/fortinet-maximize-beautiful-substrings)|[![Practice][p]](https://www.fastprep.io/problems/fortinet-maximize-beautiful-substrings)|Mar 24, 2025|
 |**Amazon**|[Number Of Well Performing Groups](https://www.fastprep.io/problems/amazon-number-of-well-performing-groups)|[![Practice][p]](https://www.fastprep.io/problems/amazon-number-of-well-performing-groups)|Mar 23, 2025|
 |**Amazon**|[Ensure Non Zero Load Sum](https://www.fastprep.io/problems/amazon-ensure-non-zero-load-sum)|[![Practice][p]](https://www.fastprep.io/problems/amazon-ensure-non-zero-load-sum)|Mar 23, 2025|
 |**TikTok**|[Min Adjustment](https://www.fastprep.io/problems/tiktok-get-min-adjustments)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-min-adjustments)|Mar 23, 2025|

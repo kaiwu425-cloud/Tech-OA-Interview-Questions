@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,144)](formats/coding.md) · [SQL (57)](formats/sql.md) · [System design (509)](formats/system-design.md) · [Low-level design (127)](formats/low-level-design.md) · [AI coding (62)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,145)](formats/coding.md) · [SQL (57)](formats/sql.md) · [System design (509)](formats/system-design.md) · [Low-level design (127)](formats/low-level-design.md) · [AI coding (62)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -1498,6 +1498,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Apple**|[Design a Multi-Device Photo Storage System](https://www.fastprep.io/system-design/multi-device-photo-storage)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-device-photo-storage)|Aug 05, 2026|
 |**JP Morgan Chase**|[Design a Fleet Insurance Registration Platform](https://www.fastprep.io/system-design/fleet-insurance-registration-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/fleet-insurance-registration-platform)|Aug 05, 2026|
 |**IMC**|[Weighted LFU Cache](https://www.fastprep.io/problems/imc-weighted-lfu-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-weighted-lfu-cache)|Aug 05, 2026|
+|**Google**|[Minimum Distance to Return a Book](https://www.fastprep.io/problems/google-minimum-library-return-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-library-return-distance)|Aug 05, 2026|
 |**TikTok**|[Count Case-Insensitive Triplets](https://www.fastprep.io/problems/tiktok-count-case-insensitive-triplets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-case-insensitive-triplets)|Aug 04, 2026|
 |**TikTok**|[Linear Warehouse Drone Delivery](https://www.fastprep.io/problems/tiktok-linear-warehouse-drone-delivery)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-linear-warehouse-drone-delivery)|Aug 04, 2026|
 |**Figma**|[Design Access-Aware Design-File Retrieval and Ranking](https://www.fastprep.io/system-design/access-aware-design-file-retrieval-ranking)|System design|[![Practice][p]](https://www.fastprep.io/system-design/access-aware-design-file-retrieval-ranking)|Aug 04, 2026|
@@ -1692,5 +1693,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Amazon / Goldman Sachs**|[Design a Financial Portfolio Dashboard](https://www.fastprep.io/system-design/financial-portfolio-dashboard)|System design|[![Practice][p]](https://www.fastprep.io/system-design/financial-portfolio-dashboard)|Jul 22, 2026|
 |**Databricks**|[Design a Chat Application with Message and Thread Deletion](https://www.fastprep.io/system-design/chat-message-and-thread-deletion)|System design|[![Practice][p]](https://www.fastprep.io/system-design/chat-message-and-thread-deletion)|Jul 22, 2026|
 |**Amazon**|[Loyal Customers Across Two Days](https://www.fastprep.io/problems/amazon-loyal-customers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-loyal-customers)|Jul 21, 2026|
-|**Amazon**|[Smallest Number With a Given Digit Sum](https://www.fastprep.io/problems/amazon-smallest-number-with-digit-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-smallest-number-with-digit-sum)|Jul 21, 2026|
 <a id="bottom"></a>
