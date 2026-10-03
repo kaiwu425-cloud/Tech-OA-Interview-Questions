@@ -2,12 +2,15 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,134 questions**
+**3,136 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Publicis Sapients**|[Get Min Time](https://www.fastprep.io/problems/publicis-sapients-get-minimum-time)|[![Practice][p]](https://www.fastprep.io/problems/publicis-sapients-get-minimum-time)|Mar 22, 2025|
+|**Pure Storage**|[Bakery Quality Control](https://www.fastprep.io/problems/purestorage-compare-boxes-to-template)|[![Practice][p]](https://www.fastprep.io/problems/purestorage-compare-boxes-to-template)|Mar 22, 2025|
+|**Pure Storage**|[Find Repetition](https://www.fastprep.io/problems/purestorage-find-repetitions)|[![Practice][p]](https://www.fastprep.io/problems/purestorage-find-repetitions)|Mar 22, 2025|
 |**Pure Storage**|[Count Different Palindrome Substrings](https://www.fastprep.io/problems/purestorage-count-different-palindrome-substrings)|[![Practice][p]](https://www.fastprep.io/problems/purestorage-count-different-palindrome-substrings)|Mar 22, 2025|
 |**Pure Storage**|[Racing Results](https://www.fastprep.io/problems/purestorage-racing-results)|[![Practice][p]](https://www.fastprep.io/problems/purestorage-racing-results)|Mar 22, 2025|
 |**Amazon**|[Trader Joe Trades](https://www.fastprep.io/problems/amazon-trader-joe-trades)|[![Practice][p]](https://www.fastprep.io/problems/amazon-trader-joe-trades)|Mar 21, 2025|
