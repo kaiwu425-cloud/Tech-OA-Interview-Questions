@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,124 questions**
+**3,126 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -123,6 +123,8 @@
 |**WhatNot**|[Minimum Stores for a Shopping List](https://www.fastprep.io/problems/whatnot-minimum-stores-for-shopping-list)|[![Practice][p]](https://www.fastprep.io/problems/whatnot-minimum-stores-for-shopping-list)|🔥 Sep 29, 2026|
 |**Google**|[High-Traffic IPs in a Sliding Window](https://www.fastprep.io/problems/google-high-traffic-ips-in-sliding-window)|[![Practice][p]](https://www.fastprep.io/problems/google-high-traffic-ips-in-sliding-window)|🔥 Sep 29, 2026|
 |**Google**|[Shortest Hop Path Between Machines](https://www.fastprep.io/problems/google-shortest-machine-hop-path)|[![Practice][p]](https://www.fastprep.io/problems/google-shortest-machine-hop-path)|🔥 Sep 29, 2026|
+|**Google**|[Match File Paths with Wildcards](https://www.fastprep.io/problems/google-file-path-wildcard-matching)|[![Practice][p]](https://www.fastprep.io/problems/google-file-path-wildcard-matching)|🔥 Sep 29, 2026|
+|**Google**|[Shortest Grid Path with Obstacle Elimination](https://www.fastprep.io/problems/google-shortest-grid-path-obstacle-elimination)|[![Practice][p]](https://www.fastprep.io/problems/google-shortest-grid-path-obstacle-elimination)|🔥 Sep 29, 2026|
 |**Microsoft**|[Shopkeeper Final Price Summary](https://www.fastprep.io/problems/microsoft-shopkeeper-final-price-summary)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-shopkeeper-final-price-summary)|🔥 Sep 28, 2026|
 |**Microsoft**|[Maximum Reward Points](https://www.fastprep.io/problems/microsoft-get-maximum-reward-points)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-get-maximum-reward-points)|🔥 Sep 28, 2026|
 |**OpenAI**|[Network Endpoint or Cycle Boundary](https://www.fastprep.io/problems/openai-network-endpoint-or-cycle)|[![Practice][p]](https://www.fastprep.io/problems/openai-network-endpoint-or-cycle)|🔥 Sep 28, 2026|
@@ -1836,7 +1838,4 @@
 |**Amazon**|[Inventory Processes Survival Possibility](https://www.fastprep.io/problems/amazon-inventory-processes-survival-possibility)|[![Practice][p]](https://www.fastprep.io/problems/amazon-inventory-processes-survival-possibility)|Mar 18, 2025|
 |**Amazon**|[All About Medians](https://www.fastprep.io/problems/amazon-medians)|[![Practice][p]](https://www.fastprep.io/problems/amazon-medians)|Mar 18, 2025|
 |**Amazon**|[Get Largest Number](https://www.fastprep.io/problems/amazon-find-partition-cost)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-partition-cost)|Mar 13, 2025|
-|**SpaceX**|[Speed to Pressure Lookup](https://www.fastprep.io/problems/spacex-speed-to-pressure-lookup)|[![Practice][p]](https://www.fastprep.io/problems/spacex-speed-to-pressure-lookup)|Mar 13, 2025|
-|**Chainalysis**|[Filter Team A Logs](https://www.fastprep.io/problems/chainalysis-filter-team-a-logs)|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-filter-team-a-logs)|Mar 06, 2025|
-|**Chainalysis**|[Filter Team A Transfer Logs](https://www.fastprep.io/problems/chainalysis-filter-team-a-transfer-logs)|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-filter-team-a-transfer-logs)|Mar 06, 2025|
 <a id="bottom"></a>
