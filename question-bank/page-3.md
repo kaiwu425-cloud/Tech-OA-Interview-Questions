@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Chainalysis**|[Longest Common Suffix](https://www.fastprep.io/problems/chainalysis-longest-common-suffix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-longest-common-suffix)|Dec 10, 2022|
+|**Bloomberg LP**|[Next Permutation](https://www.fastprep.io/problems/bloomberg-next-permutation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-next-permutation)|Nov 28, 2022|
 |**Bloomberg LP**|[Design Capacity-Weighted Cache Routing](https://www.fastprep.io/system-design/capacity-weighted-cache-routing)|System design|[![Practice][p]](https://www.fastprep.io/system-design/capacity-weighted-cache-routing)|Nov 21, 2022|
 |**Bloomberg LP**|[Knight Dialer Sequences](https://www.fastprep.io/problems/bloomberg-knight-dialer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-knight-dialer)|Nov 14, 2022|
 |**Bloomberg LP**|[Emit an Out-of-Order Packet Stream in Order](https://www.fastprep.io/problems/bloomberg-out-of-order-packet-stream)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-out-of-order-packet-stream)|Nov 14, 2022|
