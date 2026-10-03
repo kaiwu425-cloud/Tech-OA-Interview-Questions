@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,120 questions**
+**3,122 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -68,6 +68,8 @@
 |**Google**|[Count Triplets With Sum at Most Target](https://www.fastprep.io/problems/google-count-triplets-with-sum-at-most-target)|[![Practice][p]](https://www.fastprep.io/problems/google-count-triplets-with-sum-at-most-target)|🔥 Sep 30, 2026|
 |**Google**|[Target Interval Conflict](https://www.fastprep.io/problems/google-target-interval-conflict)|[![Practice][p]](https://www.fastprep.io/problems/google-target-interval-conflict)|🔥 Sep 30, 2026|
 |**Google**|[Word Break](https://www.fastprep.io/problems/google-word-break)|[![Practice][p]](https://www.fastprep.io/problems/google-word-break)|🔥 Sep 30, 2026|
+|**Google**|[K Closest Stars from a Data Stream](https://www.fastprep.io/problems/google-k-closest-stars-stream)|[![Practice][p]](https://www.fastprep.io/problems/google-k-closest-stars-stream)|🔥 Sep 30, 2026|
+|**Google**|[N-Ary Tree BFS Codec](https://www.fastprep.io/problems/google-nary-tree-bfs-codec)|[![Practice][p]](https://www.fastprep.io/problems/google-nary-tree-bfs-codec)|🔥 Sep 30, 2026|
 |**OnePay**|[Device Registry Operations](https://www.fastprep.io/problems/onepay-device-registry-operations)|[![Practice][p]](https://www.fastprep.io/problems/onepay-device-registry-operations)|🔥 Sep 29, 2026|
 |**OpenAI**|[Leaves Remaining After Wind Gusts](https://www.fastprep.io/problems/openai-wind-shifted-leaf-sum)|[![Practice][p]](https://www.fastprep.io/problems/openai-wind-shifted-leaf-sum)|🔥 Sep 29, 2026|
 |**OpenAI**|[Count Routes Through Four Shop Types](https://www.fastprep.io/problems/openai-count-four-shop-routes)|[![Practice][p]](https://www.fastprep.io/problems/openai-count-four-shop-routes)|🔥 Sep 29, 2026|
@@ -1836,6 +1838,4 @@
 |**Chainalysis**|[Filter Team A Logs](https://www.fastprep.io/problems/chainalysis-filter-team-a-logs)|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-filter-team-a-logs)|Mar 06, 2025|
 |**Chainalysis**|[Filter Team A Transfer Logs](https://www.fastprep.io/problems/chainalysis-filter-team-a-transfer-logs)|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-filter-team-a-transfer-logs)|Mar 06, 2025|
 |**Chainalysis**|[High-Severity Counts by Search Type](https://www.fastprep.io/problems/chainalysis-high-severity-counts-by-search-type)|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-high-severity-counts-by-search-type)|Mar 06, 2025|
-|**Chainalysis**|[Team A High-Severity Transfer Hashes](https://www.fastprep.io/problems/chainalysis-team-a-high-severity-transfer-hashes)|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-team-a-high-severity-transfer-hashes)|Mar 06, 2025|
-|**Optiver**|[Satellite Network Message Propagation](https://www.fastprep.io/problems/optiver-satellite-network)|[![Practice][p]](https://www.fastprep.io/problems/optiver-satellite-network)|Mar 01, 2025|
 <a id="bottom"></a>

@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,120 questions**
+**3,122 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Chainalysis**|[Team A High-Severity Transfer Hashes](https://www.fastprep.io/problems/chainalysis-team-a-high-severity-transfer-hashes)|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-team-a-high-severity-transfer-hashes)|Mar 06, 2025|
+|**Optiver**|[Satellite Network Message Propagation](https://www.fastprep.io/problems/optiver-satellite-network)|[![Practice][p]](https://www.fastprep.io/problems/optiver-satellite-network)|Mar 01, 2025|
 |**Motive**|[Mark a Queen’s Attack Board](https://www.fastprep.io/problems/motive-queen-attack-board)|[![Practice][p]](https://www.fastprep.io/problems/motive-queen-attack-board)|Feb 27, 2025|
 |**Zip**|[Furthest Building with Sandbags and Ropes](https://www.fastprep.io/problems/zip-furthest-building)|[![Practice][p]](https://www.fastprep.io/problems/zip-furthest-building)|Feb 24, 2025|
 |**Bloomberg LP**|[Minimum-Cost Root-to-Leaf Path in an N-ary Tree](https://www.fastprep.io/problems/bloomberg-minimum-cost-nary-root-to-leaf-path)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-minimum-cost-nary-root-to-leaf-path)|Feb 21, 2025|

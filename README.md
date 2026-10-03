@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,120)](formats/coding.md) · [SQL (57)](formats/sql.md) · [System design (509)](formats/system-design.md) · [Low-level design (127)](formats/low-level-design.md) · [AI coding (61)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,122)](formats/coding.md) · [SQL (57)](formats/sql.md) · [System design (509)](formats/system-design.md) · [Low-level design (127)](formats/low-level-design.md) · [AI coding (61)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -125,6 +125,8 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Google**|[Count Triplets With Sum at Most Target](https://www.fastprep.io/problems/google-count-triplets-with-sum-at-most-target)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-count-triplets-with-sum-at-most-target)|🔥 Sep 30, 2026|
 |**Google**|[Target Interval Conflict](https://www.fastprep.io/problems/google-target-interval-conflict)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-target-interval-conflict)|🔥 Sep 30, 2026|
 |**Google**|[Word Break](https://www.fastprep.io/problems/google-word-break)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-word-break)|🔥 Sep 30, 2026|
+|**Google**|[K Closest Stars from a Data Stream](https://www.fastprep.io/problems/google-k-closest-stars-stream)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-k-closest-stars-stream)|🔥 Sep 30, 2026|
+|**Google**|[N-Ary Tree BFS Codec](https://www.fastprep.io/problems/google-nary-tree-bfs-codec)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-nary-tree-bfs-codec)|🔥 Sep 30, 2026|
 |**Google**|[Design and Implement a Concurrent Priority Task Scheduler](https://www.fastprep.io/low-level-design/concurrent-priority-timeout-task-scheduler)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/concurrent-priority-timeout-task-scheduler)|🔥 Sep 30, 2026|
 |**OnePay**|[Device Registry Operations](https://www.fastprep.io/problems/onepay-device-registry-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/onepay-device-registry-operations)|🔥 Sep 29, 2026|
 |**Moveworks / Atlassian**|[Design Cloud Usage Billing Infrastructure](https://www.fastprep.io/system-design/cloud-usage-billing-infrastructure)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cloud-usage-billing-infrastructure)|🔥 Sep 29, 2026|
@@ -1693,6 +1695,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Pinterest**|[Design a Real-Time Category Leaderboard](https://www.fastprep.io/system-design/real-time-category-leaderboard)|System design|[![Practice][p]](https://www.fastprep.io/system-design/real-time-category-leaderboard)|Jul 18, 2026|
 |**Cursor**|[Design and Implement a Pluggable Notification Rate Limiter](https://www.fastprep.io/low-level-design/pluggable-notification-rate-limiter)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/pluggable-notification-rate-limiter)|Jul 18, 2026|
 |**Goldman Sachs**|[Inherited Role Permissions](https://www.fastprep.io/problems/goldman-sachs-role-permissions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-role-permissions)|Jul 17, 2026|
-|**Goldman Sachs**|[Root of the Largest Tree](https://www.fastprep.io/problems/goldman-sachs-largest-tree-root)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-largest-tree-root)|Jul 17, 2026|
-|**Uber**|[Design a Driver Payout System](https://www.fastprep.io/system-design/uber-driver-payout)|System design|[![Practice][p]](https://www.fastprep.io/system-design/uber-driver-payout)|Jul 17, 2026|
 <a id="bottom"></a>
