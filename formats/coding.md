@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,136 questions**
+**3,141 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -503,6 +503,8 @@
 |**Together AI**|[Time-Indexed Key-Value Store](https://www.fastprep.io/problems/together-ai-time-indexed-key-value-store)|[![Practice][p]](https://www.fastprep.io/problems/together-ai-time-indexed-key-value-store)|🆕 Sep 17, 2026|
 |**Waymo**|[Cyclic Fuel Command Simulation](https://www.fastprep.io/problems/waymo-cyclic-fuel-command-simulation)|[![Practice][p]](https://www.fastprep.io/problems/waymo-cyclic-fuel-command-simulation)|🆕 Sep 17, 2026|
 |**Zip**|[Maximum Survival Time in a Graph Pursuit](https://www.fastprep.io/problems/zip-graph-pursuit-survival-time)|[![Practice][p]](https://www.fastprep.io/problems/zip-graph-pursuit-survival-time)|🆕 Sep 17, 2026|
+|**Google**|[Find a Valid Course Completion Order](https://www.fastprep.io/problems/google-course-completion-order)|[![Practice][p]](https://www.fastprep.io/problems/google-course-completion-order)|🆕 Sep 17, 2026|
+|**Google**|[First and Last Target Position in a Mountain Array](https://www.fastprep.io/problems/google-mountain-array-target-range)|[![Practice][p]](https://www.fastprep.io/problems/google-mountain-array-target-range)|🆕 Sep 17, 2026|
 |**Tesla**|[Swap Even and Odd Bits](https://www.fastprep.io/problems/tesla-swap-even-and-odd-bits)|[![Practice][p]](https://www.fastprep.io/problems/tesla-swap-even-and-odd-bits)|🆕 Sep 16, 2026|
 |**Stripe**|[Split Tender Transactions Part 1 - Basic Split Tendering](https://www.fastprep.io/problems/stripe-split-tender-basic)|[![Practice][p]](https://www.fastprep.io/problems/stripe-split-tender-basic)|🆕 Sep 16, 2026|
 |**IBM**|[Minimum Additions to Make a Valid ABC String](https://www.fastprep.io/problems/ibm-minimum-additions-to-make-valid-abc-string)|[![Practice][p]](https://www.fastprep.io/problems/ibm-minimum-additions-to-make-valid-abc-string)|🆕 Sep 16, 2026|
@@ -547,6 +549,7 @@
 |**Meta**|[Partition a Card Deck into Fifteens](https://www.fastprep.io/problems/meta-partition-deck-into-fifteens)|[![Practice][p]](https://www.fastprep.io/problems/meta-partition-deck-into-fifteens)|🆕 Sep 15, 2026|
 |**OpenAI**|[Dependency-Aware Agent Task Scheduler](https://www.fastprep.io/problems/openai-dependency-aware-agent-scheduler)|[![Practice][p]](https://www.fastprep.io/problems/openai-dependency-aware-agent-scheduler)|🆕 Sep 15, 2026|
 |**Robinhood**|[Transitive Employee Referral Counts](https://www.fastprep.io/problems/robinhood-transitive-employee-referral-counts)|[![Practice][p]](https://www.fastprep.io/problems/robinhood-transitive-employee-referral-counts)|🆕 Sep 15, 2026|
+|**Google**|[Detect Duplicate Trace IDs in a Linked List](https://www.fastprep.io/problems/google-duplicate-trace-ids-linked-list)|[![Practice][p]](https://www.fastprep.io/problems/google-duplicate-trace-ids-linked-list)|🆕 Sep 15, 2026|
 |**Amazon**|[Root-to-Leaf Paths with a Target Sum](https://www.fastprep.io/problems/amazon-root-to-leaf-target-sum-paths)|[![Practice][p]](https://www.fastprep.io/problems/amazon-root-to-leaf-target-sum-paths)|🆕 Sep 14, 2026|
 |**Amazon**|[First Non-Repeating Character](https://www.fastprep.io/problems/amazon-first-non-repeating-character)|[![Practice][p]](https://www.fastprep.io/problems/amazon-first-non-repeating-character)|🆕 Sep 14, 2026|
 |**Akuna Capital**|[Count Server Replacements](https://www.fastprep.io/problems/akuna-count-server-replacements)|[![Practice][p]](https://www.fastprep.io/problems/akuna-count-server-replacements)|🆕 Sep 14, 2026|
@@ -567,6 +570,8 @@
 |**LinkedIn**|[Restricted Decimal Number Validator](https://www.fastprep.io/problems/linkedin-restricted-decimal-number-validator)|[![Practice][p]](https://www.fastprep.io/problems/linkedin-restricted-decimal-number-validator)|🆕 Sep 14, 2026|
 |**LinkedIn**|[Second Minimum in a Tournament Tree](https://www.fastprep.io/problems/linkedin-tournament-tree-second-minimum)|[![Practice][p]](https://www.fastprep.io/problems/linkedin-tournament-tree-second-minimum)|🆕 Sep 14, 2026|
 |**The Walt Disney Company**|[Resizable Array-Backed Integer Set](https://www.fastprep.io/problems/the-walt-disney-company-resizable-array-set)|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-resizable-array-set)|🆕 Sep 14, 2026|
+|**Google**|[Find the Duplicate Number Without Modifying the Array](https://www.fastprep.io/problems/google-find-the-duplicate-number)|[![Practice][p]](https://www.fastprep.io/problems/google-find-the-duplicate-number)|🆕 Sep 14, 2026|
+|**Google**|[Set Matrix Zeroes](https://www.fastprep.io/problems/google-set-matrix-zeroes)|[![Practice][p]](https://www.fastprep.io/problems/google-set-matrix-zeroes)|🆕 Sep 14, 2026|
 |**Google**|[Determine Whether Two Horses Are Genetically Related](https://www.fastprep.io/problems/google-horse-genetic-relatedness)|[![Practice][p]](https://www.fastprep.io/problems/google-horse-genetic-relatedness)|🆕 Sep 13, 2026|
 |**Juspay**|[Sum Dynamic Weighted Tree Distances](https://www.fastprep.io/problems/juspay-dynamic-weighted-tree-distance-sum)|[![Practice][p]](https://www.fastprep.io/problems/juspay-dynamic-weighted-tree-distance-sum)|🆕 Sep 13, 2026|
 |**Juspay**|[Minimum of Fixed-Window Maxima](https://www.fastprep.io/problems/juspay-minimum-of-window-maxima)|[![Practice][p]](https://www.fastprep.io/problems/juspay-minimum-of-window-maxima)|🆕 Sep 13, 2026|
@@ -1830,10 +1835,4 @@
 |**Amazon**|[Number Of Well Performing Groups](https://www.fastprep.io/problems/amazon-number-of-well-performing-groups)|[![Practice][p]](https://www.fastprep.io/problems/amazon-number-of-well-performing-groups)|Mar 23, 2025|
 |**Amazon**|[Ensure Non Zero Load Sum](https://www.fastprep.io/problems/amazon-ensure-non-zero-load-sum)|[![Practice][p]](https://www.fastprep.io/problems/amazon-ensure-non-zero-load-sum)|Mar 23, 2025|
 |**TikTok**|[Min Adjustment](https://www.fastprep.io/problems/tiktok-get-min-adjustments)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-min-adjustments)|Mar 23, 2025|
-|**TikTok**|[Shopping Cost](https://www.fastprep.io/problems/tiktok-calculate-tiktok-shopping-cost)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-calculate-tiktok-shopping-cost)|Mar 23, 2025|
-|**Instacart**|[Bird Collects Sticks](https://www.fastprep.io/problems/instacart-collect-sticks)|[![Practice][p]](https://www.fastprep.io/problems/instacart-collect-sticks)|Mar 23, 2025|
-|**Instacart**|[Pop Bubbles](https://www.fastprep.io/problems/instacart-pop-bubbles)|[![Practice][p]](https://www.fastprep.io/problems/instacart-pop-bubbles)|Mar 23, 2025|
-|**Instacart**|[Count Color Pairs](https://www.fastprep.io/problems/instacart-balloon-color-pairs)|[![Practice][p]](https://www.fastprep.io/problems/instacart-balloon-color-pairs)|Mar 23, 2025|
-|**Amazon**|[Get Max Increments](https://www.fastprep.io/problems/amazon-get-max-increments)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-increments)|Mar 22, 2025|
-|**Amazon**|[Password Strength](https://www.fastprep.io/problems/amazon-password-strength)|[![Practice][p]](https://www.fastprep.io/problems/amazon-password-strength)|Mar 22, 2025|
 <a id="bottom"></a>

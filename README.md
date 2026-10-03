@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,136)](formats/coding.md) · [SQL (57)](formats/sql.md) · [System design (509)](formats/system-design.md) · [Low-level design (127)](formats/low-level-design.md) · [AI coding (62)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,141)](formats/coding.md) · [SQL (57)](formats/sql.md) · [System design (509)](formats/system-design.md) · [Low-level design (127)](formats/low-level-design.md) · [AI coding (62)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -711,6 +711,8 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Together AI**|[Time-Indexed Key-Value Store](https://www.fastprep.io/problems/together-ai-time-indexed-key-value-store)|Coding|[![Practice][p]](https://www.fastprep.io/problems/together-ai-time-indexed-key-value-store)|🆕 Sep 17, 2026|
 |**Waymo**|[Cyclic Fuel Command Simulation](https://www.fastprep.io/problems/waymo-cyclic-fuel-command-simulation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/waymo-cyclic-fuel-command-simulation)|🆕 Sep 17, 2026|
 |**Zip**|[Maximum Survival Time in a Graph Pursuit](https://www.fastprep.io/problems/zip-graph-pursuit-survival-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zip-graph-pursuit-survival-time)|🆕 Sep 17, 2026|
+|**Google**|[Find a Valid Course Completion Order](https://www.fastprep.io/problems/google-course-completion-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-course-completion-order)|🆕 Sep 17, 2026|
+|**Google**|[First and Last Target Position in a Mountain Array](https://www.fastprep.io/problems/google-mountain-array-target-range)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-mountain-array-target-range)|🆕 Sep 17, 2026|
 |**Zip**|[Cache Ticket Alerts for Approval](https://www.fastprep.io/project-coding/zip-ticket-alert-approval-cache)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/zip-ticket-alert-approval-cache)|🆕 Sep 16, 2026|
 |**IBM**|[Repair Event Pre-Save Validation](https://www.fastprep.io/project-coding/ibm-event-presave-validation)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/ibm-event-presave-validation)|🆕 Sep 16, 2026|
 |**Tesla**|[Swap Even and Odd Bits](https://www.fastprep.io/problems/tesla-swap-even-and-odd-bits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tesla-swap-even-and-odd-bits)|🆕 Sep 16, 2026|
@@ -787,6 +789,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Meta**|[Partition a Card Deck into Fifteens](https://www.fastprep.io/problems/meta-partition-deck-into-fifteens)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-partition-deck-into-fifteens)|🆕 Sep 15, 2026|
 |**OpenAI**|[Dependency-Aware Agent Task Scheduler](https://www.fastprep.io/problems/openai-dependency-aware-agent-scheduler)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-dependency-aware-agent-scheduler)|🆕 Sep 15, 2026|
 |**Robinhood**|[Transitive Employee Referral Counts](https://www.fastprep.io/problems/robinhood-transitive-employee-referral-counts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/robinhood-transitive-employee-referral-counts)|🆕 Sep 15, 2026|
+|**Google**|[Detect Duplicate Trace IDs in a Linked List](https://www.fastprep.io/problems/google-duplicate-trace-ids-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-duplicate-trace-ids-linked-list)|🆕 Sep 15, 2026|
 |**Amazon**|[Design Usage Billing for One Account](https://www.fastprep.io/low-level-design/single-account-usage-billing)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/single-account-usage-billing)|🆕 Sep 14, 2026|
 |**Amazon**|[Root-to-Leaf Paths with a Target Sum](https://www.fastprep.io/problems/amazon-root-to-leaf-target-sum-paths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-root-to-leaf-target-sum-paths)|🆕 Sep 14, 2026|
 |**Amazon**|[First Non-Repeating Character](https://www.fastprep.io/problems/amazon-first-non-repeating-character)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-first-non-repeating-character)|🆕 Sep 14, 2026|
@@ -813,6 +816,8 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**LinkedIn**|[Restricted Decimal Number Validator](https://www.fastprep.io/problems/linkedin-restricted-decimal-number-validator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-restricted-decimal-number-validator)|🆕 Sep 14, 2026|
 |**LinkedIn**|[Second Minimum in a Tournament Tree](https://www.fastprep.io/problems/linkedin-tournament-tree-second-minimum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-tournament-tree-second-minimum)|🆕 Sep 14, 2026|
 |**The Walt Disney Company**|[Resizable Array-Backed Integer Set](https://www.fastprep.io/problems/the-walt-disney-company-resizable-array-set)|Coding|[![Practice][p]](https://www.fastprep.io/problems/the-walt-disney-company-resizable-array-set)|🆕 Sep 14, 2026|
+|**Google**|[Find the Duplicate Number Without Modifying the Array](https://www.fastprep.io/problems/google-find-the-duplicate-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-the-duplicate-number)|🆕 Sep 14, 2026|
+|**Google**|[Set Matrix Zeroes](https://www.fastprep.io/problems/google-set-matrix-zeroes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-set-matrix-zeroes)|🆕 Sep 14, 2026|
 |**Rippling**|[Design a Personalized News Aggregation Platform](https://www.fastprep.io/system-design/personalized-news-aggregation-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-news-aggregation-platform)|🆕 Sep 13, 2026|
 |**Google**|[Determine Whether Two Horses Are Genetically Related](https://www.fastprep.io/problems/google-horse-genetic-relatedness)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-horse-genetic-relatedness)|🆕 Sep 13, 2026|
 |**JP Morgan Chase**|[Spark Cluster Sizing for a 100 GB Workload](https://www.fastprep.io/system-design/spark-cluster-sizing-100-gb-workload)|System design|[![Practice][p]](https://www.fastprep.io/system-design/spark-cluster-sizing-100-gb-workload)|🆕 Sep 13, 2026|
@@ -1688,10 +1693,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Oracle**|[Merge k Sorted Lists](https://www.fastprep.io/problems/oracle-merge-k-sorted-lists)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-merge-k-sorted-lists)|Jul 21, 2026|
 |**Amazon**|[Design a Distributed Recurring Workflow Scheduler](https://www.fastprep.io/system-design/distributed-recurring-workflow-scheduler)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-recurring-workflow-scheduler)|Jul 21, 2026|
 |**Amazon**|[Design Music Search, Playlists, and Playback](https://www.fastprep.io/low-level-design/amazon-music-search-and-playback)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/amazon-music-search-and-playback)|Jul 21, 2026|
-|**Airbnb**|[Most Frequent Reduced Digit](https://www.fastprep.io/problems/airbnb-most-frequent-reduced-digit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-most-frequent-reduced-digit)|Jul 20, 2026|
-|**Airbnb**|[Rectangle Fit Queries](https://www.fastprep.io/problems/airbnb-rectangle-fit-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-rectangle-fit-queries)|Jul 20, 2026|
-|**Airbnb**|[Robot Final Direction](https://www.fastprep.io/problems/airbnb-robot-final-direction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-robot-final-direction)|Jul 20, 2026|
-|**Airbnb**|[Robot Inventory Tracking](https://www.fastprep.io/problems/airbnb-robot-inventory-tracking)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-robot-inventory-tracking)|Jul 20, 2026|
-|**Akuna**|[Communications Handler](https://www.fastprep.io/problems/akuna-communications-handler)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-communications-handler)|Jul 20, 2026|
-|**Akuna**|[Maximum K-Star Sum](https://www.fastprep.io/problems/akuna-maximum-k-star-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-maximum-k-star-sum)|Jul 20, 2026|
 <a id="bottom"></a>
