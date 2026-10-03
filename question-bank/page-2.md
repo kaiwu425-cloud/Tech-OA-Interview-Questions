@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**OpenAI**|[Toy Language Generic Return-Type Inference](https://www.fastprep.io/problems/openai-toy-language-return-type-inference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-toy-language-return-type-inference)|Jul 12, 2026|
 |**OpenAI**|[Count Matching Regions in Two Binary Grids](https://www.fastprep.io/problems/openai-count-matching-grid-regions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-count-matching-grid-regions)|Jul 12, 2026|
 |**OpenAI**|[Largest Square Subgrid Under a Sum Limit](https://www.fastprep.io/problems/openai-largest-square-subgrid-under-sum-limit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-largest-square-subgrid-under-sum-limit)|Jul 12, 2026|
 |**OpenAI**|[Backpropagation Through Sort and Median](https://www.fastprep.io/problems/openai-backpropagation-through-sort-and-median)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-backpropagation-through-sort-and-median)|Jul 12, 2026|
@@ -1862,5 +1863,4 @@
 |**Bloomberg LP**|[Implement Stack Using Two Queues](https://www.fastprep.io/problems/bloomberg-implement-stack-using-two-queues)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-implement-stack-using-two-queues)|Oct 19, 2022|
 |**Confluent**|[Design a Resilient Infinite-Scroll Social Feed](https://www.fastprep.io/system-design/resilient-infinite-scroll-social-feed)|System design|[![Practice][p]](https://www.fastprep.io/system-design/resilient-infinite-scroll-social-feed)|Oct 18, 2022|
 |**ZipRecruiter**|[Running Union Length after Interval Uploads](https://www.fastprep.io/problems/ziprecruiter-running-interval-union-length)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-running-interval-union-length)|Oct 18, 2022|
-|**Tesla**|[Find the Intersection Node of Two Linked Lists](https://www.fastprep.io/problems/tesla-linked-list-intersection-node)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tesla-linked-list-intersection-node)|Oct 17, 2022|
 <a id="bottom"></a>

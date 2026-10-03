@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,095)](formats/coding.md) · [SQL (57)](formats/sql.md) · [System design (508)](formats/system-design.md) · [Low-level design (125)](formats/low-level-design.md) · [AI coding (61)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,097)](formats/coding.md) · [SQL (57)](formats/sql.md) · [System design (508)](formats/system-design.md) · [Low-level design (125)](formats/low-level-design.md) · [AI coding (61)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -105,6 +105,8 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Ramp**|[Accept or Decline Queries](https://www.fastprep.io/problems/ramp-accept-or-decline-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-accept-or-decline-queries)|🔥 Sep 30, 2026|
 |**BNSF Railway**|[Implement a Railway Quote Service Layer](https://www.fastprep.io/project-coding/bnsf-railway-quote-service-layer)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/bnsf-railway-quote-service-layer)|🔥 Sep 30, 2026|
 |**Google**|[Count Triplets With Sum at Most Target](https://www.fastprep.io/problems/google-count-triplets-with-sum-at-most-target)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-count-triplets-with-sum-at-most-target)|🔥 Sep 30, 2026|
+|**Google**|[Target Interval Conflict](https://www.fastprep.io/problems/google-target-interval-conflict)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-target-interval-conflict)|🔥 Sep 30, 2026|
+|**Google**|[Word Break](https://www.fastprep.io/problems/google-word-break)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-word-break)|🔥 Sep 30, 2026|
 |**OnePay**|[Device Registry Operations](https://www.fastprep.io/problems/onepay-device-registry-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/onepay-device-registry-operations)|🔥 Sep 29, 2026|
 |**Moveworks / Atlassian**|[Design Cloud Usage Billing Infrastructure](https://www.fastprep.io/system-design/cloud-usage-billing-infrastructure)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cloud-usage-billing-infrastructure)|🔥 Sep 29, 2026|
 |**Amazon / Instacart / Zip / Nykaa**|[Design a Last-Unit Inventory Reservation Service](https://www.fastprep.io/system-design/last-unit-inventory-reservation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/last-unit-inventory-reservation)|🔥 Sep 29, 2026|
@@ -1694,5 +1696,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**OpenAI**|[IPv4 Forward Iterator](https://www.fastprep.io/problems/openai-ipv4-forward-iterator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-ipv4-forward-iterator)|Jul 12, 2026|
 |**OpenAI**|[IPv4 Reverse Iterator](https://www.fastprep.io/problems/openai-ipv4-reverse-iterator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-ipv4-reverse-iterator)|Jul 12, 2026|
 |**OpenAI**|[Convert an IPv4 Range to Minimal CIDR Blocks](https://www.fastprep.io/problems/openai-ip-range-to-cidr)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-ip-range-to-cidr)|Jul 12, 2026|
-|**OpenAI**|[Toy Language Generic Return-Type Inference](https://www.fastprep.io/problems/openai-toy-language-return-type-inference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-toy-language-return-type-inference)|Jul 12, 2026|
 <a id="bottom"></a>
