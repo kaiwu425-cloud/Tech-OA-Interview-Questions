@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,122)](formats/coding.md) · [SQL (57)](formats/sql.md) · [System design (509)](formats/system-design.md) · [Low-level design (127)](formats/low-level-design.md) · [AI coding (62)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,126)](formats/coding.md) · [SQL (57)](formats/sql.md) · [System design (509)](formats/system-design.md) · [Low-level design (127)](formats/low-level-design.md) · [AI coding (62)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -198,6 +198,10 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**WhatNot**|[Attraction Route Without Reusing Trails](https://www.fastprep.io/problems/whatnot-attraction-trail-route)|Coding|[![Practice][p]](https://www.fastprep.io/problems/whatnot-attraction-trail-route)|🔥 Sep 29, 2026|
 |**WhatNot**|[Earliest Car for Each Passenger](https://www.fastprep.io/problems/whatnot-earliest-car-passenger-assignments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/whatnot-earliest-car-passenger-assignments)|🔥 Sep 29, 2026|
 |**WhatNot**|[Minimum Stores for a Shopping List](https://www.fastprep.io/problems/whatnot-minimum-stores-for-shopping-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/whatnot-minimum-stores-for-shopping-list)|🔥 Sep 29, 2026|
+|**Google**|[High-Traffic IPs in a Sliding Window](https://www.fastprep.io/problems/google-high-traffic-ips-in-sliding-window)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-high-traffic-ips-in-sliding-window)|🔥 Sep 29, 2026|
+|**Google**|[Shortest Hop Path Between Machines](https://www.fastprep.io/problems/google-shortest-machine-hop-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-shortest-machine-hop-path)|🔥 Sep 29, 2026|
+|**Google**|[Match File Paths with Wildcards](https://www.fastprep.io/problems/google-file-path-wildcard-matching)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-file-path-wildcard-matching)|🔥 Sep 29, 2026|
+|**Google**|[Shortest Grid Path with Obstacle Elimination](https://www.fastprep.io/problems/google-shortest-grid-path-obstacle-elimination)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-shortest-grid-path-obstacle-elimination)|🔥 Sep 29, 2026|
 |**Microsoft**|[Shopkeeper Final Price Summary](https://www.fastprep.io/problems/microsoft-shopkeeper-final-price-summary)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-shopkeeper-final-price-summary)|🔥 Sep 28, 2026|
 |**Microsoft**|[Maximum Reward Points](https://www.fastprep.io/problems/microsoft-get-maximum-reward-points)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-get-maximum-reward-points)|🔥 Sep 28, 2026|
 |**OpenAI**|[Network Endpoint or Cycle Boundary](https://www.fastprep.io/problems/openai-network-endpoint-or-cycle)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-network-endpoint-or-cycle)|🔥 Sep 28, 2026|
@@ -1690,9 +1694,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Waymo**|[Average or Zero](https://www.fastprep.io/problems/waymo-average-or-zero)|Coding|[![Practice][p]](https://www.fastprep.io/problems/waymo-average-or-zero)|Jul 19, 2026|
 |**Google**|[Maximum Programmer-Problem Matching](https://www.fastprep.io/problems/google-maximum-programmer-problem-matching)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-programmer-problem-matching)|Jul 19, 2026|
 |**Visa**|[Minimum Score of a Path Between Cities](https://www.fastprep.io/problems/visa-minimum-score-path-between-cities)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-minimum-score-path-between-cities)|Jul 18, 2026|
-|**IDFC**|[Smallest Adjacent Concatenation](https://www.fastprep.io/problems/idfc-smallest-adjacent-concatenation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/idfc-smallest-adjacent-concatenation)|Jul 18, 2026|
-|**IDFC**|[Minimum Cake Cuts](https://www.fastprep.io/problems/idfc-minimum-cake-cuts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/idfc-minimum-cake-cuts)|Jul 18, 2026|
-|**Apple**|[Design a Large JSON Transformation Service](https://www.fastprep.io/system-design/large-json-transformation-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/large-json-transformation-service)|Jul 18, 2026|
-|**Pinterest**|[Design a Real-Time Category Leaderboard](https://www.fastprep.io/system-design/real-time-category-leaderboard)|System design|[![Practice][p]](https://www.fastprep.io/system-design/real-time-category-leaderboard)|Jul 18, 2026|
-|**Cursor**|[Design and Implement a Pluggable Notification Rate Limiter](https://www.fastprep.io/low-level-design/pluggable-notification-rate-limiter)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/pluggable-notification-rate-limiter)|Jul 18, 2026|
 <a id="bottom"></a>

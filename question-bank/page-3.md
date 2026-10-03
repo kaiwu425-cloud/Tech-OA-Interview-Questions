@@ -9,6 +9,11 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**ZipRecruiter**|[K-Group Digit-Sum Compression](https://www.fastprep.io/problems/ziprecruiter-k-group-digit-compression)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-k-group-digit-compression)|Dec 28, 2022|
+|**ZipRecruiter**|[Render Wrapped Two-Party Chat Lines](https://www.fastprep.io/problems/ziprecruiter-wrapped-chat-alignment)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-wrapped-chat-alignment)|Dec 28, 2022|
+|**Bloomberg LP**|[Index of the First Non-Repeating Character](https://www.fastprep.io/problems/bloomberg-first-unique-character-in-a-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-first-unique-character-in-a-string)|Dec 15, 2022|
+|**Bloomberg LP**|[Most-Frequent Next-Word Predictor](https://www.fastprep.io/problems/bloomberg-most-common-next-word)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-most-common-next-word)|Dec 15, 2022|
+|**Old Mission**|[Implement an Unordered Map](https://www.fastprep.io/problems/old-mission-implement-unordered-map)|Coding|[![Practice][p]](https://www.fastprep.io/problems/old-mission-implement-unordered-map)|Dec 13, 2022|
 |**Chainalysis**|[Course Schedule II](https://www.fastprep.io/problems/chainalysis-lexicographically-smallest-course-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-lexicographically-smallest-course-order)|Dec 10, 2022|
 |**Chainalysis**|[Longest Common Suffix](https://www.fastprep.io/problems/chainalysis-longest-common-suffix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-longest-common-suffix)|Dec 10, 2022|
 |**Bloomberg LP**|[Next Permutation](https://www.fastprep.io/problems/bloomberg-next-permutation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-next-permutation)|Nov 28, 2022|
