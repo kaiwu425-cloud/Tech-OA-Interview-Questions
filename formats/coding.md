@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,133 questions**
+**3,134 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -383,6 +383,7 @@
 |**Snowflake**|[Sliding-Window Rate Limiter](https://www.fastprep.io/problems/snowflake-sliding-window-rate-limiter)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-sliding-window-rate-limiter)|🔥 Sep 22, 2026|
 |**Stripe**|[Validate Six-Column Business CSV Rows](https://www.fastprep.io/problems/stripe-business-csv-rule-validator)|[![Practice][p]](https://www.fastprep.io/problems/stripe-business-csv-rule-validator)|🔥 Sep 22, 2026|
 |**Visa**|[Shortest Digit Prefix for Target Multisets](https://www.fastprep.io/problems/visa-shortest-digit-prefix-for-targets)|[![Practice][p]](https://www.fastprep.io/problems/visa-shortest-digit-prefix-for-targets)|🔥 Sep 22, 2026|
+|**Google**|[Subtract One Half-Open Interval from Another](https://www.fastprep.io/problems/google-subtract-half-open-interval)|[![Practice][p]](https://www.fastprep.io/problems/google-subtract-half-open-interval)|🔥 Sep 21, 2026|
 |**Google**|[Maximal Rectangle in a Binary Matrix](https://www.fastprep.io/problems/google-maximal-rectangle-in-binary-matrix)|[![Practice][p]](https://www.fastprep.io/problems/google-maximal-rectangle-in-binary-matrix)|🔥 Sep 21, 2026|
 |**Google**|[BST to Sorted Circular Doubly Linked List](https://www.fastprep.io/problems/google-bst-to-circular-doubly-linked-list)|[![Practice][p]](https://www.fastprep.io/problems/google-bst-to-circular-doubly-linked-list)|🔥 Sep 21, 2026|
 |**Amazon**|[Edit Distance](https://www.fastprep.io/problems/amazon-edit-distance)|[![Practice][p]](https://www.fastprep.io/problems/amazon-edit-distance)|🔥 Sep 21, 2026|

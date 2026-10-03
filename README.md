@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,133)](formats/coding.md) · [SQL (57)](formats/sql.md) · [System design (509)](formats/system-design.md) · [Low-level design (127)](formats/low-level-design.md) · [AI coding (62)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,134)](formats/coding.md) · [SQL (57)](formats/sql.md) · [System design (509)](formats/system-design.md) · [Low-level design (127)](formats/low-level-design.md) · [AI coding (62)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -551,6 +551,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Snowflake**|[Sliding-Window Rate Limiter](https://www.fastprep.io/problems/snowflake-sliding-window-rate-limiter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-sliding-window-rate-limiter)|🔥 Sep 22, 2026|
 |**Stripe**|[Validate Six-Column Business CSV Rows](https://www.fastprep.io/problems/stripe-business-csv-rule-validator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-business-csv-rule-validator)|🔥 Sep 22, 2026|
 |**Visa**|[Shortest Digit Prefix for Target Multisets](https://www.fastprep.io/problems/visa-shortest-digit-prefix-for-targets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-shortest-digit-prefix-for-targets)|🔥 Sep 22, 2026|
+|**Google**|[Subtract One Half-Open Interval from Another](https://www.fastprep.io/problems/google-subtract-half-open-interval)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-subtract-half-open-interval)|🔥 Sep 21, 2026|
 |**Google**|[Maximal Rectangle in a Binary Matrix](https://www.fastprep.io/problems/google-maximal-rectangle-in-binary-matrix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximal-rectangle-in-binary-matrix)|🔥 Sep 21, 2026|
 |**Google**|[BST to Sorted Circular Doubly Linked List](https://www.fastprep.io/problems/google-bst-to-circular-doubly-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-bst-to-circular-doubly-linked-list)|🔥 Sep 21, 2026|
 |**Pinterest / Slack / Motive**|[Design a Typeahead Suggestion Service](https://www.fastprep.io/system-design/typeahead-suggestion-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/typeahead-suggestion-service)|🔥 Sep 21, 2026|
@@ -1693,5 +1694,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Akuna**|[Maximum K-Star Sum](https://www.fastprep.io/problems/akuna-maximum-k-star-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-maximum-k-star-sum)|Jul 20, 2026|
 |**Microsoft**|[Maximum Pipeline Throughput](https://www.fastprep.io/problems/microsoft-maximum-pipeline-throughput)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximum-pipeline-throughput)|Jul 20, 2026|
 |**Microsoft**|[Maximum Strong Team Subarray](https://www.fastprep.io/problems/microsoft-maximum-strong-team-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximum-strong-team-subarray)|Jul 20, 2026|
-|**PhonePe**|[Luna and the Colorful Socks](https://www.fastprep.io/problems/phonepe-colorful-socks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/phonepe-colorful-socks)|Jul 20, 2026|
 <a id="bottom"></a>
