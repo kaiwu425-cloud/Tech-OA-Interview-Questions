@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**508 questions**
+**509 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -122,7 +122,7 @@
 |**Microsoft**|[AI Receptionist Voice Chat](https://www.fastprep.io/system-design/ai-receptionist-voice-chat-system)|[![Practice][p]](https://www.fastprep.io/system-design/ai-receptionist-voice-chat-system)|🔥 Sep 19, 2026|
 |**Airbnb**|[Customer Support Resolution Assistant](https://www.fastprep.io/system-design/customer-support-resolution-rag-system)|[![Practice][p]](https://www.fastprep.io/system-design/customer-support-resolution-rag-system)|🔥 Sep 19, 2026|
 |**Walleye Capital**|[Equity Research Decision Intelligence](https://www.fastprep.io/system-design/equity-research-decision-intelligence)|[![Practice][p]](https://www.fastprep.io/system-design/equity-research-decision-intelligence)|🔥 Sep 19, 2026|
-|**Microsoft**|[Global One-to-One Voice Calling](https://www.fastprep.io/system-design/global-one-to-one-voice-calling-system)|[![Practice][p]](https://www.fastprep.io/system-design/global-one-to-one-voice-calling-system)|🔥 Sep 19, 2026|
+|**Microsoft / Optiver**|[Global One-to-One Voice Calling](https://www.fastprep.io/system-design/global-one-to-one-voice-calling-system)|[![Practice][p]](https://www.fastprep.io/system-design/global-one-to-one-voice-calling-system)|🔥 Sep 19, 2026|
 |**Atlassian**|[Social Post Comments](https://www.fastprep.io/system-design/social-post-comments-system)|[![Practice][p]](https://www.fastprep.io/system-design/social-post-comments-system)|🔥 Sep 19, 2026|
 |**Airbnb**|[Vacation Rental Candidate Ranking](https://www.fastprep.io/system-design/vacation-rental-candidate-ranking-system)|[![Practice][p]](https://www.fastprep.io/system-design/vacation-rental-candidate-ranking-system)|🔥 Sep 19, 2026|
 |**Amazon**|[Design a Large-Scale File Change Watcher](https://www.fastprep.io/system-design/large-scale-file-change-watcher)|[![Practice][p]](https://www.fastprep.io/system-design/large-scale-file-change-watcher)|🆕 Sep 18, 2026|
@@ -132,7 +132,7 @@
 |**Uber**|[Large Structured Data Filesystem](https://www.fastprep.io/system-design/large-structured-data-filesystem)|[![Practice][p]](https://www.fastprep.io/system-design/large-structured-data-filesystem)|🆕 Sep 18, 2026|
 |**Microsoft**|[Design Distributed LLM Embedding and Output Sharding](https://www.fastprep.io/system-design/distributed-llm-embedding-and-output-sharding)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-llm-embedding-and-output-sharding)|🆕 Sep 17, 2026|
 |**Postman / Uber Freight / LinkedIn**|[Design a Calendar Event Collaboration System](https://www.fastprep.io/system-design/calendar-event-collaboration-system)|[![Practice][p]](https://www.fastprep.io/system-design/calendar-event-collaboration-system)|🆕 Sep 17, 2026|
-|**Amazon / Airwallex / Apple / Wex / Confluent / Oracle / Motive / Grab**|[Design a Ticket Booking System](https://www.fastprep.io/system-design/ticket-booking-system)|[![Practice][p]](https://www.fastprep.io/system-design/ticket-booking-system)|🆕 Sep 17, 2026|
+|**Amazon / Airwallex / Apple / Wex / Confluent / Oracle / Motive / Grab / Optiver**|[Design a Ticket Booking System](https://www.fastprep.io/system-design/ticket-booking-system)|[![Practice][p]](https://www.fastprep.io/system-design/ticket-booking-system)|🆕 Sep 17, 2026|
 |**Confluent / Oracle**|[Design a Durable Disposable Email Service](https://www.fastprep.io/system-design/durable-disposable-email-username-registry)|[![Practice][p]](https://www.fastprep.io/system-design/durable-disposable-email-username-registry)|🆕 Sep 17, 2026|
 |**Fox Corporation**|[Design a Model-Version-Aware Derived-Data Cache](https://www.fastprep.io/system-design/model-version-aware-derived-cache)|[![Practice][p]](https://www.fastprep.io/system-design/model-version-aware-derived-cache)|🆕 Sep 17, 2026|
 |**Oracle**|[Design Data-Loss Prevention and Recovery for a Distributed Store](https://www.fastprep.io/system-design/distributed-data-loss-prevention-and-recovery)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-data-loss-prevention-and-recovery)|🆕 Sep 17, 2026|
@@ -510,6 +510,7 @@
 |**Google**|[Design ML Landing-Page Optimization](https://www.fastprep.io/system-design/landing-page-optimization)|[![Practice][p]](https://www.fastprep.io/system-design/landing-page-optimization)|Jun 02, 2020|
 |**Microsoft**|[Design a Learned Candidate Ranking Service](https://www.fastprep.io/system-design/learned-candidate-ranking-service)|[![Practice][p]](https://www.fastprep.io/system-design/learned-candidate-ranking-service)|Jun 02, 2020|
 |**Meta**|[Design Offensive Ad Content Detection](https://www.fastprep.io/system-design/offensive-ad-content-detection)|[![Practice][p]](https://www.fastprep.io/system-design/offensive-ad-content-detection)|Jun 02, 2020|
+|**Optiver**|[Design a Cross-Site Stock Trading Application](https://www.fastprep.io/system-design/cross-site-stock-trading-application)|[![Practice][p]](https://www.fastprep.io/system-design/cross-site-stock-trading-application)|May 08, 2020|
 |**NVIDIA**|[Design a Versioned Flask Model Inference Service](https://www.fastprep.io/system-design/versioned-flask-model-inference-service)|[![Practice][p]](https://www.fastprep.io/system-design/versioned-flask-model-inference-service)|Apr 04, 2020|
 |**Postman**|[Design an Authenticated Page Presence Counter](https://www.fastprep.io/system-design/authenticated-page-presence-counter)|[![Practice][p]](https://www.fastprep.io/system-design/authenticated-page-presence-counter)|Mar 31, 2020|
 |**SpaceX**|[Design a Satellite Fleet Management and Ground-Station Communications Platform](https://www.fastprep.io/system-design/satellite-fleet-management-ground-station-communications)|[![Practice][p]](https://www.fastprep.io/system-design/satellite-fleet-management-ground-station-communications)|Feb 26, 2020|

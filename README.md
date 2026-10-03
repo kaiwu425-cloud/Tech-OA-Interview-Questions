@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,097)](formats/coding.md) · [SQL (57)](formats/sql.md) · [System design (508)](formats/system-design.md) · [Low-level design (125)](formats/low-level-design.md) · [AI coding (61)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,097)](formats/coding.md) · [SQL (57)](formats/sql.md) · [System design (509)](formats/system-design.md) · [Low-level design (125)](formats/low-level-design.md) · [AI coding (61)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -573,7 +573,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Microsoft**|[AI Receptionist Voice Chat](https://www.fastprep.io/system-design/ai-receptionist-voice-chat-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ai-receptionist-voice-chat-system)|🔥 Sep 19, 2026|
 |**Airbnb**|[Customer Support Resolution Assistant](https://www.fastprep.io/system-design/customer-support-resolution-rag-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/customer-support-resolution-rag-system)|🔥 Sep 19, 2026|
 |**Walleye Capital**|[Equity Research Decision Intelligence](https://www.fastprep.io/system-design/equity-research-decision-intelligence)|System design|[![Practice][p]](https://www.fastprep.io/system-design/equity-research-decision-intelligence)|🔥 Sep 19, 2026|
-|**Microsoft**|[Global One-to-One Voice Calling](https://www.fastprep.io/system-design/global-one-to-one-voice-calling-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/global-one-to-one-voice-calling-system)|🔥 Sep 19, 2026|
+|**Microsoft / Optiver**|[Global One-to-One Voice Calling](https://www.fastprep.io/system-design/global-one-to-one-voice-calling-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/global-one-to-one-voice-calling-system)|🔥 Sep 19, 2026|
 |**Atlassian**|[Social Post Comments](https://www.fastprep.io/system-design/social-post-comments-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/social-post-comments-system)|🔥 Sep 19, 2026|
 |**Airbnb**|[Vacation Rental Candidate Ranking](https://www.fastprep.io/system-design/vacation-rental-candidate-ranking-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/vacation-rental-candidate-ranking-system)|🔥 Sep 19, 2026|
 |**Capital One**|[Rank Flights by Airline and Destination Frequency](https://www.fastprep.io/problems/capital-one-rank-flights-by-airline-and-destination)|SQL|[![Practice][p]](https://www.fastprep.io/problems/capital-one-rank-flights-by-airline-and-destination)|🔥 Sep 19, 2026|
@@ -642,7 +642,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Uber**|[First Unique IP Hitting the Server](https://www.fastprep.io/problems/uber-first-unique-ip-hitting-server)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-first-unique-ip-hitting-server)|🆕 Sep 17, 2026|
 |**Microsoft**|[Design Distributed LLM Embedding and Output Sharding](https://www.fastprep.io/system-design/distributed-llm-embedding-and-output-sharding)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-llm-embedding-and-output-sharding)|🆕 Sep 17, 2026|
 |**Postman / Uber Freight / LinkedIn**|[Design a Calendar Event Collaboration System](https://www.fastprep.io/system-design/calendar-event-collaboration-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/calendar-event-collaboration-system)|🆕 Sep 17, 2026|
-|**Amazon / Airwallex / Apple / Wex / Confluent / Oracle / Motive / Grab**|[Design a Ticket Booking System](https://www.fastprep.io/system-design/ticket-booking-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ticket-booking-system)|🆕 Sep 17, 2026|
+|**Amazon / Airwallex / Apple / Wex / Confluent / Oracle / Motive / Grab / Optiver**|[Design a Ticket Booking System](https://www.fastprep.io/system-design/ticket-booking-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ticket-booking-system)|🆕 Sep 17, 2026|
 |**Confluent / Oracle**|[Design a Durable Disposable Email Service](https://www.fastprep.io/system-design/durable-disposable-email-username-registry)|System design|[![Practice][p]](https://www.fastprep.io/system-design/durable-disposable-email-username-registry)|🆕 Sep 17, 2026|
 |**Susquehanna International Group (SIG)**|[Leftmost Memory Block Allocator](https://www.fastprep.io/problems/susquehanna-leftmost-memory-block-allocator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/susquehanna-leftmost-memory-block-allocator)|🆕 Sep 17, 2026|
 |**Susquehanna International Group (SIG)**|[Sort Matrix Borders](https://www.fastprep.io/problems/susquehanna-sort-matrix-borders)|Coding|[![Practice][p]](https://www.fastprep.io/problems/susquehanna-sort-matrix-borders)|🆕 Sep 17, 2026|
