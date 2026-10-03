@@ -9,6 +9,11 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**ZipRecruiter**|[Circular Server Scheduling with Recovery](https://www.fastprep.io/problems/ziprecruiter-circular-server-recovery)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-circular-server-recovery)|Oct 11, 2022|
+|**ZipRecruiter**|[Distribute Values by Distance from Current Averages](https://www.fastprep.io/problems/ziprecruiter-distribute-by-average-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-distribute-by-average-distance)|Oct 11, 2022|
+|**ZipRecruiter**|[House Segments After Removals](https://www.fastprep.io/problems/ziprecruiter-house-segments-after-removals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-house-segments-after-removals)|Oct 11, 2022|
+|**ZipRecruiter**|[Rearrange a String Outside In](https://www.fastprep.io/problems/ziprecruiter-outside-in-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-outside-in-string)|Oct 10, 2022|
+|**ZipRecruiter**|[Query Box Inside Every Saved Rectangle](https://www.fastprep.io/problems/ziprecruiter-query-box-inside-saved-rectangles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-query-box-inside-saved-rectangles)|Oct 10, 2022|
 |**ZipRecruiter**|[Sliding Window Rate Limiter](https://www.fastprep.io/problems/ziprecruiter-per-user-sliding-window-rate-limiter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-per-user-sliding-window-rate-limiter)|Oct 09, 2022|
 |**ZipRecruiter**|[Find a Symbolic Pattern in a Numeric Matrix](https://www.fastprep.io/problems/ziprecruiter-symbolic-matrix-pattern)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-symbolic-matrix-pattern)|Oct 09, 2022|
 |**Bloomberg LP**|[Find the Index of the First Occurrence in a String](https://www.fastprep.io/problems/bloomberg-find-first-string-occurrence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-first-string-occurrence)|Oct 06, 2022|
@@ -105,6 +110,7 @@
 |**ZipRecruiter**|[Multiset Intersection of Three Lists](https://www.fastprep.io/problems/ziprecruiter-multiset-intersection-three-lists)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-multiset-intersection-three-lists)|Feb 17, 2022|
 |**ZipRecruiter**|[Rotation with at Most Three Mismatches](https://www.fastprep.io/problems/ziprecruiter-rotation-with-three-mismatches)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-rotation-with-three-mismatches)|Feb 17, 2022|
 |**Bloomberg LP**|[Design a Streaming Top-K Hitters System](https://www.fastprep.io/system-design/streaming-top-k-hitters)|System design|[![Practice][p]](https://www.fastprep.io/system-design/streaming-top-k-hitters)|Feb 14, 2022|
+|**Optiver**|[Traveling the Graphs](https://www.fastprep.io/problems/optiver-traveling-the-graphs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/optiver-traveling-the-graphs)|Feb 13, 2022|
 |**Airbnb**|[Most Booked Origin-Destination Route](https://www.fastprep.io/problems/airbnb-most-booked-origin-destination)|SQL|[![Practice][p]](https://www.fastprep.io/problems/airbnb-most-booked-origin-destination)|Feb 12, 2022|
 |**Airbnb**|[Median of Two Sorted Arrays](https://www.fastprep.io/problems/airbnb-median-of-two-sorted-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-median-of-two-sorted-arrays)|Feb 07, 2022|
 |**Bloomberg LP**|[Character Intersection and Frequency Ordering](https://www.fastprep.io/problems/bloomberg-character-intersection-and-frequency-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-character-intersection-and-frequency-order)|Jan 31, 2022|

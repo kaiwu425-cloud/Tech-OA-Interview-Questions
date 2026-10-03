@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,087)](formats/coding.md) · [SQL (57)](formats/sql.md) · [System design (508)](formats/system-design.md) · [Low-level design (125)](formats/low-level-design.md) · [AI coding (61)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,094)](formats/coding.md) · [SQL (57)](formats/sql.md) · [System design (508)](formats/system-design.md) · [Low-level design (125)](formats/low-level-design.md) · [AI coding (61)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -1672,6 +1672,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Amazon**|[Customer Package Delivery Report](https://www.fastprep.io/problems/amazon-customer-package-delivery-report)|SQL|[![Practice][p]](https://www.fastprep.io/problems/amazon-customer-package-delivery-report)|Jul 16, 2026|
 |**Microsoft**|[Alphabetically Smallest Palindrome](https://www.fastprep.io/problems/microsoft-alphabetically-smallest-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-alphabetically-smallest-palindrome)|Jul 16, 2026|
 |**Zomato / Eternal**|[Robot Warehouse Optimization](https://www.fastprep.io/problems/zomato-robot-warehouse-optimization)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zomato-robot-warehouse-optimization)|Jul 16, 2026|
+|**Optiver**|[Construct Binary Tree S-Expression](https://www.fastprep.io/problems/optiver-construct-binary-tree-s-expression)|Coding|[![Practice][p]](https://www.fastprep.io/problems/optiver-construct-binary-tree-s-expression)|Jul 16, 2026|
 |**Google**|[Count Good Numbers](https://www.fastprep.io/problems/google-count-good-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-count-good-numbers)|Jul 15, 2026|
 |**Google**|[Count Element Symbol Decompositions](https://www.fastprep.io/problems/google-count-element-symbol-decompositions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-count-element-symbol-decompositions)|Jul 15, 2026|
 |**Google**|[Convert Snake Case to Camel Case](https://www.fastprep.io/problems/google-convert-snake-case-to-camel-case)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-convert-snake-case-to-camel-case)|Jul 15, 2026|
@@ -1694,5 +1695,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**OpenAI**|[Convert an IPv4 Range to Minimal CIDR Blocks](https://www.fastprep.io/problems/openai-ip-range-to-cidr)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-ip-range-to-cidr)|Jul 12, 2026|
 |**OpenAI**|[Toy Language Generic Return-Type Inference](https://www.fastprep.io/problems/openai-toy-language-return-type-inference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-toy-language-return-type-inference)|Jul 12, 2026|
 |**OpenAI**|[Count Matching Regions in Two Binary Grids](https://www.fastprep.io/problems/openai-count-matching-grid-regions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-count-matching-grid-regions)|Jul 12, 2026|
-|**OpenAI**|[Largest Square Subgrid Under a Sum Limit](https://www.fastprep.io/problems/openai-largest-square-subgrid-under-sum-limit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-largest-square-subgrid-under-sum-limit)|Jul 12, 2026|
 <a id="bottom"></a>
