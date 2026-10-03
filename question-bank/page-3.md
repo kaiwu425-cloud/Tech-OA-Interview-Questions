@@ -9,6 +9,11 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Bloomberg LP**|[Find the Index of the First Occurrence in a String](https://www.fastprep.io/problems/bloomberg-find-first-string-occurrence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-first-string-occurrence)|Oct 06, 2022|
+|**Bloomberg LP**|[Kill Process](https://www.fastprep.io/problems/bloomberg-kill-process)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-kill-process)|Oct 06, 2022|
+|**Bloomberg LP**|[Min Stack](https://www.fastprep.io/problems/bloomberg-min-stack)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-min-stack)|Oct 06, 2022|
+|**ZipRecruiter**|[Pop Matching Balloon Neighborhoods](https://www.fastprep.io/problems/ziprecruiter-pop-orthogonal-balloons)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-pop-orthogonal-balloons)|Oct 04, 2022|
+|**ZipRecruiter**|[Count Prioritized Binary-Run Operations](https://www.fastprep.io/problems/ziprecruiter-prioritized-binary-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-prioritized-binary-operations)|Oct 04, 2022|
 |**Duolingo**|[Most-Read Page Across Every Valid Storyline](https://www.fastprep.io/problems/duolingo-most-read-story-page)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-most-read-story-page)|Oct 03, 2022|
 |**Duolingo**|[Directional Tiles: Find a Valid Reconfiguration Path](https://www.fastprep.io/problems/duolingo-directional-tile-reconfiguration-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-directional-tile-reconfiguration-path)|Oct 03, 2022|
 |**Duolingo**|[Visit Desired Attractions Without Reusing a Trail](https://www.fastprep.io/problems/duolingo-visit-attractions-without-reusing-trails)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-visit-attractions-without-reusing-trails)|Oct 03, 2022|

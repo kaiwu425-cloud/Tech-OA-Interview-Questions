@@ -9,6 +9,11 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Anthropic**|[Normalize a DNS Domain Name](https://www.fastprep.io/problems/anthropic-normalize-dns-name)|Coding|[![Practice][p]](https://www.fastprep.io/problems/anthropic-normalize-dns-name)|Jul 12, 2026|
+|**Anthropic**|[Worker Management, Part 1: Office Registration](https://www.fastprep.io/problems/anthropic-worker-management-level-1)|Coding|[![Practice][p]](https://www.fastprep.io/problems/anthropic-worker-management-level-1)|Jul 12, 2026|
+|**Anthropic**|[Worker Management, Part 2: Top Workers](https://www.fastprep.io/problems/anthropic-worker-management-level-2)|Coding|[![Practice][p]](https://www.fastprep.io/problems/anthropic-worker-management-level-2)|Jul 12, 2026|
+|**Anthropic**|[Worker Management, Part 3: Promotions and Salary](https://www.fastprep.io/problems/anthropic-worker-management-level-3)|Coding|[![Practice][p]](https://www.fastprep.io/problems/anthropic-worker-management-level-3)|Jul 12, 2026|
+|**Anthropic**|[Worker Management, Part 4: Double-Paid Intervals](https://www.fastprep.io/problems/anthropic-worker-management-level-4)|Coding|[![Practice][p]](https://www.fastprep.io/problems/anthropic-worker-management-level-4)|Jul 12, 2026|
 |**Anthropic**|[Cloud Storage Compression and Decompression](https://www.fastprep.io/problems/anthropic-cloud-storage-compression)|Coding|[![Practice][p]](https://www.fastprep.io/problems/anthropic-cloud-storage-compression)|Jul 12, 2026|
 |**Anthropic**|[In-Memory Database Historical Lookup](https://www.fastprep.io/problems/anthropic-in-memory-database-historical-lookup)|Coding|[![Practice][p]](https://www.fastprep.io/problems/anthropic-in-memory-database-historical-lookup)|Jul 12, 2026|
 |**Anthropic**|[Banking Pending Transfer Acceptance](https://www.fastprep.io/problems/anthropic-banking-pending-transfer-acceptance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/anthropic-banking-pending-transfer-acceptance)|Jul 12, 2026|
@@ -1857,9 +1862,4 @@
 |**ZipRecruiter**|[Query Box Inside Every Saved Rectangle](https://www.fastprep.io/problems/ziprecruiter-query-box-inside-saved-rectangles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-query-box-inside-saved-rectangles)|Oct 10, 2022|
 |**ZipRecruiter**|[Sliding Window Rate Limiter](https://www.fastprep.io/problems/ziprecruiter-per-user-sliding-window-rate-limiter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-per-user-sliding-window-rate-limiter)|Oct 09, 2022|
 |**ZipRecruiter**|[Find a Symbolic Pattern in a Numeric Matrix](https://www.fastprep.io/problems/ziprecruiter-symbolic-matrix-pattern)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-symbolic-matrix-pattern)|Oct 09, 2022|
-|**Bloomberg LP**|[Find the Index of the First Occurrence in a String](https://www.fastprep.io/problems/bloomberg-find-first-string-occurrence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-first-string-occurrence)|Oct 06, 2022|
-|**Bloomberg LP**|[Kill Process](https://www.fastprep.io/problems/bloomberg-kill-process)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-kill-process)|Oct 06, 2022|
-|**Bloomberg LP**|[Min Stack](https://www.fastprep.io/problems/bloomberg-min-stack)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-min-stack)|Oct 06, 2022|
-|**ZipRecruiter**|[Pop Matching Balloon Neighborhoods](https://www.fastprep.io/problems/ziprecruiter-pop-orthogonal-balloons)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-pop-orthogonal-balloons)|Oct 04, 2022|
-|**ZipRecruiter**|[Count Prioritized Binary-Run Operations](https://www.fastprep.io/problems/ziprecruiter-prioritized-binary-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-prioritized-binary-operations)|Oct 04, 2022|
 <a id="bottom"></a>
