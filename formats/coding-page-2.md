@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,136 questions**
+**3,138 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Amazon**|[Get Max Increments](https://www.fastprep.io/problems/amazon-get-max-increments)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-increments)|Mar 22, 2025|
+|**Amazon**|[Password Strength](https://www.fastprep.io/problems/amazon-password-strength)|[![Practice][p]](https://www.fastprep.io/problems/amazon-password-strength)|Mar 22, 2025|
 |**Publicis Sapients**|[Get Min Time](https://www.fastprep.io/problems/publicis-sapients-get-minimum-time)|[![Practice][p]](https://www.fastprep.io/problems/publicis-sapients-get-minimum-time)|Mar 22, 2025|
 |**Pure Storage**|[Bakery Quality Control](https://www.fastprep.io/problems/purestorage-compare-boxes-to-template)|[![Practice][p]](https://www.fastprep.io/problems/purestorage-compare-boxes-to-template)|Mar 22, 2025|
 |**Pure Storage**|[Find Repetition](https://www.fastprep.io/problems/purestorage-find-repetitions)|[![Practice][p]](https://www.fastprep.io/problems/purestorage-find-repetitions)|Mar 22, 2025|
