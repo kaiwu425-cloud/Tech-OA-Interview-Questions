@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,094 questions**
+**3,095 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -16,6 +16,7 @@
 |**Microsoft**|[Shortest Board Length to Cover Holes](https://www.fastprep.io/problems/microsoft-cover-holes)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-cover-holes)|🔥 Oct 01, 2026|
 |**Microsoft**|[Prepare Notification](https://www.fastprep.io/problems/microsoft-prepare-notification)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-prepare-notification)|🔥 Oct 01, 2026|
 |**Amazon**|[Minimum Merge Conflicts](https://www.fastprep.io/problems/amazon-minimum-merge-conflicts)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-merge-conflicts)|🔥 Oct 01, 2026|
+|**Google**|[Zero Array Transformation I](https://www.fastprep.io/problems/google-zero-array-transformation-i)|[![Practice][p]](https://www.fastprep.io/problems/google-zero-array-transformation-i)|🔥 Sep 30, 2026|
 |**Amazon**|[Optimize Package Order by Sorting One Window](https://www.fastprep.io/problems/amazon-optimize-package-order-one-window)|[![Practice][p]](https://www.fastprep.io/problems/amazon-optimize-package-order-one-window)|🔥 Sep 30, 2026|
 |**Applied Intuition**|[Parse Nested Message Types](https://www.fastprep.io/problems/applied-intuition-parse-nested-message-types)|[![Practice][p]](https://www.fastprep.io/problems/applied-intuition-parse-nested-message-types)|🔥 Sep 30, 2026|
 |**Faire**|[Find the First Contiguous Haiku](https://www.fastprep.io/problems/faire-first-contiguous-haiku)|[![Practice][p]](https://www.fastprep.io/problems/faire-first-contiguous-haiku)|🔥 Sep 30, 2026|
@@ -1840,5 +1841,4 @@
 |**Stripe**|[Currency Conversion Through Exchange Paths](https://www.fastprep.io/problems/stripe-currency-conversion-paths)|[![Practice][p]](https://www.fastprep.io/problems/stripe-currency-conversion-paths)|Jan 02, 2025|
 |**Stripe**|[Parse and Expand Supported Card Identifiers](https://www.fastprep.io/problems/stripe-ordered-card-identifier-expansion)|[![Practice][p]](https://www.fastprep.io/problems/stripe-ordered-card-identifier-expansion)|Jan 02, 2025|
 |**Google**|[Number of Distinct Islands](https://www.fastprep.io/problems/google-number-of-distinct-islands)|[![Practice][p]](https://www.fastprep.io/problems/google-number-of-distinct-islands)|Dec 31, 2024|
-|**Snowflake**|[Remove Stones to Minimize the Total](https://www.fastprep.io/problems/snowflake-remove-stones-to-minimize-the-total)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-remove-stones-to-minimize-the-total)|Dec 28, 2024|
 <a id="bottom"></a>

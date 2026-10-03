@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,094)](formats/coding.md) · [SQL (57)](formats/sql.md) · [System design (508)](formats/system-design.md) · [Low-level design (125)](formats/low-level-design.md) · [AI coding (61)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,095)](formats/coding.md) · [SQL (57)](formats/sql.md) · [System design (508)](formats/system-design.md) · [Low-level design (125)](formats/low-level-design.md) · [AI coding (61)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -62,6 +62,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**LinkedIn**|[Design a Job-Click Prediction Platform](https://www.fastprep.io/system-design/job-click-prediction-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/job-click-prediction-platform)|🔥 Oct 01, 2026|
 |**LinkedIn**|[Design a Personalized Recruiter Outreach Platform](https://www.fastprep.io/system-design/personalized-recruiter-outreach-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-recruiter-outreach-platform)|🔥 Oct 01, 2026|
 |**Microsoft**|[Design an Employee Attrition Risk Platform](https://www.fastprep.io/system-design/employee-attrition-risk-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/employee-attrition-risk-platform)|🔥 Oct 01, 2026|
+|**Google**|[Zero Array Transformation I](https://www.fastprep.io/problems/google-zero-array-transformation-i)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-zero-array-transformation-i)|🔥 Sep 30, 2026|
 |**Amazon**|[Optimize Package Order by Sorting One Window](https://www.fastprep.io/problems/amazon-optimize-package-order-one-window)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-optimize-package-order-one-window)|🔥 Sep 30, 2026|
 |**Applied Intuition**|[Parse Nested Message Types](https://www.fastprep.io/problems/applied-intuition-parse-nested-message-types)|Coding|[![Practice][p]](https://www.fastprep.io/problems/applied-intuition-parse-nested-message-types)|🔥 Sep 30, 2026|
 |**Faire**|[Find the First Contiguous Haiku](https://www.fastprep.io/problems/faire-first-contiguous-haiku)|Coding|[![Practice][p]](https://www.fastprep.io/problems/faire-first-contiguous-haiku)|🔥 Sep 30, 2026|
@@ -1694,5 +1695,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**OpenAI**|[IPv4 Reverse Iterator](https://www.fastprep.io/problems/openai-ipv4-reverse-iterator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-ipv4-reverse-iterator)|Jul 12, 2026|
 |**OpenAI**|[Convert an IPv4 Range to Minimal CIDR Blocks](https://www.fastprep.io/problems/openai-ip-range-to-cidr)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-ip-range-to-cidr)|Jul 12, 2026|
 |**OpenAI**|[Toy Language Generic Return-Type Inference](https://www.fastprep.io/problems/openai-toy-language-return-type-inference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-toy-language-return-type-inference)|Jul 12, 2026|
-|**OpenAI**|[Count Matching Regions in Two Binary Grids](https://www.fastprep.io/problems/openai-count-matching-grid-regions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-count-matching-grid-regions)|Jul 12, 2026|
 <a id="bottom"></a>
