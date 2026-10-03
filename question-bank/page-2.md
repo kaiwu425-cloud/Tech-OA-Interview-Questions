@@ -9,6 +9,12 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Microsoft**|[Design a Real-Time Multiplayer Game](https://www.fastprep.io/system-design/real-time-multiplayer-game)|System design|[![Practice][p]](https://www.fastprep.io/system-design/real-time-multiplayer-game)|Jul 17, 2026|
+|**Adobe**|[Design Network-Backed Search Suggestions](https://www.fastprep.io/low-level-design/adobe-network-search-suggestions)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/adobe-network-search-suggestions)|Jul 17, 2026|
+|**Amazon**|[Customer Package Delivery Report](https://www.fastprep.io/problems/amazon-customer-package-delivery-report)|SQL|[![Practice][p]](https://www.fastprep.io/problems/amazon-customer-package-delivery-report)|Jul 16, 2026|
+|**Microsoft**|[Alphabetically Smallest Palindrome](https://www.fastprep.io/problems/microsoft-alphabetically-smallest-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-alphabetically-smallest-palindrome)|Jul 16, 2026|
+|**Zomato / Eternal**|[Robot Warehouse Optimization](https://www.fastprep.io/problems/zomato-robot-warehouse-optimization)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zomato-robot-warehouse-optimization)|Jul 16, 2026|
+|**Optiver**|[Construct Binary Tree S-Expression](https://www.fastprep.io/problems/optiver-construct-binary-tree-s-expression)|Coding|[![Practice][p]](https://www.fastprep.io/problems/optiver-construct-binary-tree-s-expression)|Jul 16, 2026|
 |**Google**|[Count Good Numbers](https://www.fastprep.io/problems/google-count-good-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-count-good-numbers)|Jul 15, 2026|
 |**Google**|[Count Element Symbol Decompositions](https://www.fastprep.io/problems/google-count-element-symbol-decompositions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-count-element-symbol-decompositions)|Jul 15, 2026|
 |**Google**|[Convert Snake Case to Camel Case](https://www.fastprep.io/problems/google-convert-snake-case-to-camel-case)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-convert-snake-case-to-camel-case)|Jul 15, 2026|
@@ -1858,10 +1864,4 @@
 |**Chainalysis**|[Course Schedule II](https://www.fastprep.io/problems/chainalysis-lexicographically-smallest-course-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-lexicographically-smallest-course-order)|Dec 10, 2022|
 |**Chainalysis**|[Longest Common Suffix](https://www.fastprep.io/problems/chainalysis-longest-common-suffix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-longest-common-suffix)|Dec 10, 2022|
 |**Bloomberg LP**|[Next Permutation](https://www.fastprep.io/problems/bloomberg-next-permutation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-next-permutation)|Nov 28, 2022|
-|**Bloomberg LP**|[Design Capacity-Weighted Cache Routing](https://www.fastprep.io/system-design/capacity-weighted-cache-routing)|System design|[![Practice][p]](https://www.fastprep.io/system-design/capacity-weighted-cache-routing)|Nov 21, 2022|
-|**Bloomberg LP**|[Knight Dialer Sequences](https://www.fastprep.io/problems/bloomberg-knight-dialer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-knight-dialer)|Nov 14, 2022|
-|**Bloomberg LP**|[Emit an Out-of-Order Packet Stream in Order](https://www.fastprep.io/problems/bloomberg-out-of-order-packet-stream)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-out-of-order-packet-stream)|Nov 14, 2022|
-|**ZipRecruiter**|[Alternate through Forest Positions until 100](https://www.fastprep.io/problems/ziprecruiter-alternating-forest-collection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-alternating-forest-collection)|Nov 11, 2022|
-|**ZipRecruiter**|[Convert Snake Case to Camel Case](https://www.fastprep.io/problems/ziprecruiter-snake-to-camel-case)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-snake-to-camel-case)|Nov 11, 2022|
-|**Bloomberg LP**|[Search in Rotated Sorted Array](https://www.fastprep.io/problems/bloomberg-search-in-rotated-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-search-in-rotated-sorted-array)|Nov 09, 2022|
 <a id="bottom"></a>

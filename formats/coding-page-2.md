@@ -2,12 +2,18 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,115 questions**
+**3,120 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Motive**|[Mark a Queen’s Attack Board](https://www.fastprep.io/problems/motive-queen-attack-board)|[![Practice][p]](https://www.fastprep.io/problems/motive-queen-attack-board)|Feb 27, 2025|
+|**Zip**|[Furthest Building with Sandbags and Ropes](https://www.fastprep.io/problems/zip-furthest-building)|[![Practice][p]](https://www.fastprep.io/problems/zip-furthest-building)|Feb 24, 2025|
+|**Bloomberg LP**|[Minimum-Cost Root-to-Leaf Path in an N-ary Tree](https://www.fastprep.io/problems/bloomberg-minimum-cost-nary-root-to-leaf-path)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-minimum-cost-nary-root-to-leaf-path)|Feb 21, 2025|
+|**Bloomberg LP**|[Welsh Custom Alphabet Sort](https://www.fastprep.io/problems/bloomberg-welsh-custom-alphabet-sort)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-welsh-custom-alphabet-sort)|Feb 21, 2025|
+|**Google**|[Maximum Subarray](https://www.fastprep.io/problems/google-maximum-subarray)|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-subarray)|Feb 13, 2025|
+|**Google**|[Merge Intervals](https://www.fastprep.io/problems/google-merge-intervals)|[![Practice][p]](https://www.fastprep.io/problems/google-merge-intervals)|Feb 13, 2025|
 |**Amazon**|[Get The Most Out Of The Data](https://www.fastprep.io/problems/amazon-get-most-out-of-the-data)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-most-out-of-the-data)|Feb 10, 2025|
 |**TikTok**|[Playlist Partitioning](https://www.fastprep.io/problems/tiktok-playlist-partitioning)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-playlist-partitioning)|Feb 09, 2025|
 |**TikTok**|[Change Username](https://www.fastprep.io/problems/tiktok-changing-username)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-changing-username)|Feb 09, 2025|

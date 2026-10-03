@@ -9,6 +9,12 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Bloomberg LP**|[Design Capacity-Weighted Cache Routing](https://www.fastprep.io/system-design/capacity-weighted-cache-routing)|System design|[![Practice][p]](https://www.fastprep.io/system-design/capacity-weighted-cache-routing)|Nov 21, 2022|
+|**Bloomberg LP**|[Knight Dialer Sequences](https://www.fastprep.io/problems/bloomberg-knight-dialer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-knight-dialer)|Nov 14, 2022|
+|**Bloomberg LP**|[Emit an Out-of-Order Packet Stream in Order](https://www.fastprep.io/problems/bloomberg-out-of-order-packet-stream)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-out-of-order-packet-stream)|Nov 14, 2022|
+|**ZipRecruiter**|[Alternate through Forest Positions until 100](https://www.fastprep.io/problems/ziprecruiter-alternating-forest-collection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-alternating-forest-collection)|Nov 11, 2022|
+|**ZipRecruiter**|[Convert Snake Case to Camel Case](https://www.fastprep.io/problems/ziprecruiter-snake-to-camel-case)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-snake-to-camel-case)|Nov 11, 2022|
+|**Bloomberg LP**|[Search in Rotated Sorted Array](https://www.fastprep.io/problems/bloomberg-search-in-rotated-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-search-in-rotated-sorted-array)|Nov 09, 2022|
 |**Bloomberg LP**|[Design a Deck, Hand, and Dealer](https://www.fastprep.io/low-level-design/card-game-deck-hand-dealer)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/card-game-deck-hand-dealer)|Nov 02, 2022|
 |**Bloomberg LP**|[Count Unhappy Friends](https://www.fastprep.io/problems/bloomberg-count-unhappy-friends)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-count-unhappy-friends)|Nov 02, 2022|
 |**Microsoft**|[Design Website Classification with Crowd-Labeled Data](https://www.fastprep.io/system-design/website-classification-crowd-labels)|System design|[![Practice][p]](https://www.fastprep.io/system-design/website-classification-crowd-labels)|Oct 31, 2022|
