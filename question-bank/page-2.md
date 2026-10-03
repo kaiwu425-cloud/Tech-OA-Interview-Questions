@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**OpenAI**|[Backpropagation Through Sort and Median](https://www.fastprep.io/problems/openai-backpropagation-through-sort-and-median)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-backpropagation-through-sort-and-median)|Jul 12, 2026|
 |**Anthropic**|[Repair the Bootloader Program](https://www.fastprep.io/problems/anthropic-repair-bootloader-program)|Coding|[![Practice][p]](https://www.fastprep.io/problems/anthropic-repair-bootloader-program)|Jul 12, 2026|
 |**Anthropic**|[Normalize a DNS Domain Name](https://www.fastprep.io/problems/anthropic-normalize-dns-name)|Coding|[![Practice][p]](https://www.fastprep.io/problems/anthropic-normalize-dns-name)|Jul 12, 2026|
 |**Anthropic**|[Worker Management, Part 1: Office Registration](https://www.fastprep.io/problems/anthropic-worker-management-level-1)|Coding|[![Practice][p]](https://www.fastprep.io/problems/anthropic-worker-management-level-1)|Jul 12, 2026|
@@ -1861,5 +1862,4 @@
 |**ZipRecruiter**|[House Segments After Removals](https://www.fastprep.io/problems/ziprecruiter-house-segments-after-removals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-house-segments-after-removals)|Oct 11, 2022|
 |**ZipRecruiter**|[Rearrange a String Outside In](https://www.fastprep.io/problems/ziprecruiter-outside-in-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-outside-in-string)|Oct 10, 2022|
 |**ZipRecruiter**|[Query Box Inside Every Saved Rectangle](https://www.fastprep.io/problems/ziprecruiter-query-box-inside-saved-rectangles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-query-box-inside-saved-rectangles)|Oct 10, 2022|
-|**ZipRecruiter**|[Sliding Window Rate Limiter](https://www.fastprep.io/problems/ziprecruiter-per-user-sliding-window-rate-limiter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-per-user-sliding-window-rate-limiter)|Oct 09, 2022|
 <a id="bottom"></a>
