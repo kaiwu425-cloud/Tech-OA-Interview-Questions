@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**ZipRecruiter**|[Count Prefix-Related Word Pairs](https://www.fastprep.io/problems/ziprecruiter-count-prefix-related-word-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-prefix-related-word-pairs)|Feb 07, 2023|
+|**ZipRecruiter**|[Longest Common Normalized Path Suffix](https://www.fastprep.io/problems/ziprecruiter-longest-common-normalized-path-suffix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-longest-common-normalized-path-suffix)|Jan 26, 2023|
+|**Odoo**|[Maximum Profit from an Increasing Price Triplet](https://www.fastprep.io/problems/odoo-maximum-profit-increasing-triplet)|Coding|[![Practice][p]](https://www.fastprep.io/problems/odoo-maximum-profit-increasing-triplet)|Jan 24, 2023|
 |**ZipRecruiter**|[K-Group Digit-Sum Compression](https://www.fastprep.io/problems/ziprecruiter-k-group-digit-compression)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-k-group-digit-compression)|Dec 28, 2022|
 |**ZipRecruiter**|[Render Wrapped Two-Party Chat Lines](https://www.fastprep.io/problems/ziprecruiter-wrapped-chat-alignment)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-wrapped-chat-alignment)|Dec 28, 2022|
 |**Bloomberg LP**|[Index of the First Non-Repeating Character](https://www.fastprep.io/problems/bloomberg-first-unique-character-in-a-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-first-unique-character-in-a-string)|Dec 15, 2022|
