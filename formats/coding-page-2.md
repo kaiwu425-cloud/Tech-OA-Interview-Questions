@@ -2,12 +2,17 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,081 questions**
+**3,085 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Microsoft**|[Maximize Sum of Two Non Overlapping Fragments](https://www.fastprep.io/problems/microsoft-maximize-sum-of-two-non-overlapping-fragments)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximize-sum-of-two-non-overlapping-fragments)|Dec 24, 2024|
+|**Capital One**|[Sum Digits Until One](https://www.fastprep.io/problems/capitalone-sum-digits-until-one)|[![Practice][p]](https://www.fastprep.io/problems/capitalone-sum-digits-until-one)|Dec 23, 2024|
+|**IBM**|[Min Cost](https://www.fastprep.io/problems/ibm-get-minimum-cost)|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-minimum-cost)|Dec 23, 2024|
+|**IBM**|[Min Difference](https://www.fastprep.io/problems/ibm-minimum-difference)|[![Practice][p]](https://www.fastprep.io/problems/ibm-minimum-difference)|Dec 23, 2024|
+|**IBM**|[Max Profit](https://www.fastprep.io/problems/ibm-max-profit)|[![Practice][p]](https://www.fastprep.io/problems/ibm-max-profit)|Dec 23, 2024|
 |**Amazon**|[Max Transfer Rate](https://www.fastprep.io/problems/amazon-max-transfer-rate)|[![Practice][p]](https://www.fastprep.io/problems/amazon-max-transfer-rate)|Dec 22, 2024|
 |**Amazon**|[Get Final Location](https://www.fastprep.io/problems/amazon-get-final-locations)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-final-locations)|Dec 22, 2024|
 |**Amazon**|[Get Stable Periods Count](https://www.fastprep.io/problems/amazon-get-stable-periods-count)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-stable-periods-count)|Dec 22, 2024|

@@ -2,12 +2,16 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,081 questions**
+**3,085 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Pinecone**|[Set Matrix Zeroes](https://www.fastprep.io/problems/pinecone-set-matrix-zeroes)|[![Practice][p]](https://www.fastprep.io/problems/pinecone-set-matrix-zeroes)|🔥 Oct 02, 2026|
+|**Pinecone**|[Minimum Binary String Length After Pair Removals](https://www.fastprep.io/problems/pinecone-minimum-binary-string-after-removals)|[![Practice][p]](https://www.fastprep.io/problems/pinecone-minimum-binary-string-after-removals)|🔥 Oct 02, 2026|
+|**Pinecone**|[Tic-Tac-Toe Board Status](https://www.fastprep.io/problems/pinecone-tic-tac-toe-status)|[![Practice][p]](https://www.fastprep.io/problems/pinecone-tic-tac-toe-status)|🔥 Oct 02, 2026|
+|**Pinecone**|[Binary Tree Right View](https://www.fastprep.io/problems/pinecone-binary-tree-right-view)|[![Practice][p]](https://www.fastprep.io/problems/pinecone-binary-tree-right-view)|🔥 Oct 02, 2026|
 |**Microsoft**|[K Most Recent Unique Request IDs](https://www.fastprep.io/problems/microsoft-k-most-recent-unique-request-ids)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-k-most-recent-unique-request-ids)|🔥 Oct 01, 2026|
 |**Microsoft**|[Shortest Board Length to Cover Holes](https://www.fastprep.io/problems/microsoft-cover-holes)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-cover-holes)|🔥 Oct 01, 2026|
 |**Microsoft**|[Prepare Notification](https://www.fastprep.io/problems/microsoft-prepare-notification)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-prepare-notification)|🔥 Oct 01, 2026|
@@ -1836,9 +1840,4 @@
 |**Snowflake**|[Remove Stones to Minimize the Total](https://www.fastprep.io/problems/snowflake-remove-stones-to-minimize-the-total)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-remove-stones-to-minimize-the-total)|Dec 28, 2024|
 |**Snowflake**|[Find the Max Len of A Good Subsequence I](https://www.fastprep.io/problems/snowflake-find-the-maximum-length-of-a-good-subsequence-i)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-find-the-maximum-length-of-a-good-subsequence-i)|Dec 28, 2024|
 |**Microsoft**|[Sum with Tiles](https://www.fastprep.io/problems/microsoft-sum-with-tiles)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-sum-with-tiles)|Dec 24, 2024|
-|**Microsoft**|[Maximize Sum of Two Non Overlapping Fragments](https://www.fastprep.io/problems/microsoft-maximize-sum-of-two-non-overlapping-fragments)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximize-sum-of-two-non-overlapping-fragments)|Dec 24, 2024|
-|**Capital One**|[Sum Digits Until One](https://www.fastprep.io/problems/capitalone-sum-digits-until-one)|[![Practice][p]](https://www.fastprep.io/problems/capitalone-sum-digits-until-one)|Dec 23, 2024|
-|**IBM**|[Min Cost](https://www.fastprep.io/problems/ibm-get-minimum-cost)|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-minimum-cost)|Dec 23, 2024|
-|**IBM**|[Min Difference](https://www.fastprep.io/problems/ibm-minimum-difference)|[![Practice][p]](https://www.fastprep.io/problems/ibm-minimum-difference)|Dec 23, 2024|
-|**IBM**|[Max Profit](https://www.fastprep.io/problems/ibm-max-profit)|[![Practice][p]](https://www.fastprep.io/problems/ibm-max-profit)|Dec 23, 2024|
 <a id="bottom"></a>
