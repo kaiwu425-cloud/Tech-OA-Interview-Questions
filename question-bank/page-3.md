@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**ZipRecruiter**|[Sliding Window Rate Limiter](https://www.fastprep.io/problems/ziprecruiter-per-user-sliding-window-rate-limiter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-per-user-sliding-window-rate-limiter)|Oct 09, 2022|
 |**ZipRecruiter**|[Find a Symbolic Pattern in a Numeric Matrix](https://www.fastprep.io/problems/ziprecruiter-symbolic-matrix-pattern)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-symbolic-matrix-pattern)|Oct 09, 2022|
 |**Bloomberg LP**|[Find the Index of the First Occurrence in a String](https://www.fastprep.io/problems/bloomberg-find-first-string-occurrence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-first-string-occurrence)|Oct 06, 2022|
 |**Bloomberg LP**|[Kill Process](https://www.fastprep.io/problems/bloomberg-kill-process)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-kill-process)|Oct 06, 2022|
