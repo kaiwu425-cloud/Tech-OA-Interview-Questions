@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,126 questions**
+**3,129 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -199,6 +199,7 @@
 |**Meta**|[Reservoir Sampling with Recorded Draws](https://www.fastprep.io/problems/meta-reservoir-sampling-with-recorded-draws)|[![Practice][p]](https://www.fastprep.io/problems/meta-reservoir-sampling-with-recorded-draws)|🔥 Sep 27, 2026|
 |**Meta**|[Stochastic Gradient Descent with Momentum](https://www.fastprep.io/problems/meta-sgd-with-momentum)|[![Practice][p]](https://www.fastprep.io/problems/meta-sgd-with-momentum)|🔥 Sep 27, 2026|
 |**Meta**|[Top K Largest Values with a Heap](https://www.fastprep.io/problems/meta-top-k-largest-with-heap)|[![Practice][p]](https://www.fastprep.io/problems/meta-top-k-largest-with-heap)|🔥 Sep 27, 2026|
+|**Google**|[Count One-Valued Regions in a Binary Tree](https://www.fastprep.io/problems/google-count-one-regions-in-binary-tree)|[![Practice][p]](https://www.fastprep.io/problems/google-count-one-regions-in-binary-tree)|🔥 Sep 26, 2026|
 |**Airwallex**|[4Sum Index Quadruples](https://www.fastprep.io/problems/airwallex-four-sum-index-quadruples)|[![Practice][p]](https://www.fastprep.io/problems/airwallex-four-sum-index-quadruples)|🔥 Sep 26, 2026|
 |**IBM**|[Maximum Points by Deleting Elements](https://www.fastprep.io/problems/ibm-maximum-points-by-deleting-elements)|[![Practice][p]](https://www.fastprep.io/problems/ibm-maximum-points-by-deleting-elements)|🔥 Sep 26, 2026|
 |**Suno**|[Longest Path in a Directed Acyclic Graph](https://www.fastprep.io/problems/suno-longest-dag-path)|[![Practice][p]](https://www.fastprep.io/problems/suno-longest-dag-path)|🔥 Sep 26, 2026|
@@ -350,6 +351,8 @@
 |**Optiver**|[Power Cell Bank](https://www.fastprep.io/problems/optiver-power-cell-bank)|[![Practice][p]](https://www.fastprep.io/problems/optiver-power-cell-bank)|🔥 Sep 23, 2026|
 |**Perplexity AI**|[In-Memory Filesystem Commands](https://www.fastprep.io/problems/perplexity-ai-in-memory-filesystem-commands)|[![Practice][p]](https://www.fastprep.io/problems/perplexity-ai-in-memory-filesystem-commands)|🔥 Sep 23, 2026|
 |**Instacart**|[Sort Products by Aisle With Frozen Items Last](https://www.fastprep.io/problems/instacart-sort-products-by-aisle-with-frozen-last)|[![Practice][p]](https://www.fastprep.io/problems/instacart-sort-products-by-aisle-with-frozen-last)|🔥 Sep 23, 2026|
+|**Google**|[Three Sum: Unique Zero-Sum Triplets](https://www.fastprep.io/problems/google-three-sum-zero-unique-triplets)|[![Practice][p]](https://www.fastprep.io/problems/google-three-sum-zero-unique-triplets)|🔥 Sep 22, 2026|
+|**Google**|[Binary Tree Level Order Traversal](https://www.fastprep.io/problems/google-binary-tree-level-order-traversal)|[![Practice][p]](https://www.fastprep.io/problems/google-binary-tree-level-order-traversal)|🔥 Sep 22, 2026|
 |**Intuit**|[Pressure-Isolation Shutdown Order](https://www.fastprep.io/problems/intuit-pressure-isolation-shutdown-order)|[![Practice][p]](https://www.fastprep.io/problems/intuit-pressure-isolation-shutdown-order)|🔥 Sep 22, 2026|
 |**Intuit**|[Submask Sum Queries](https://www.fastprep.io/problems/intuit-submask-sum-queries)|[![Practice][p]](https://www.fastprep.io/problems/intuit-submask-sum-queries)|🔥 Sep 22, 2026|
 |**Google**|[Minimize Absolute Difference of Server Loads](https://www.fastprep.io/problems/google-minimize-absolute-difference-of-server-loads)|[![Practice][p]](https://www.fastprep.io/problems/google-minimize-absolute-difference-of-server-loads)|🔥 Sep 22, 2026|
@@ -1835,7 +1838,4 @@
 |**Amazon**|[Optimal Level](https://www.fastprep.io/problems/amazon-find-optimal-level)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-optimal-level)|Mar 21, 2025|
 |**Amazon**|[Min Operation](https://www.fastprep.io/problems/amazon-min-operation)|[![Practice][p]](https://www.fastprep.io/problems/amazon-min-operation)|Mar 21, 2025|
 |**Amazon**|[All About Rewards](https://www.fastprep.io/problems/amazon-all-about-rewards)|[![Practice][p]](https://www.fastprep.io/problems/amazon-all-about-rewards)|Mar 20, 2025|
-|**Amazon**|[Inventory Processes Survival Possibility](https://www.fastprep.io/problems/amazon-inventory-processes-survival-possibility)|[![Practice][p]](https://www.fastprep.io/problems/amazon-inventory-processes-survival-possibility)|Mar 18, 2025|
-|**Amazon**|[All About Medians](https://www.fastprep.io/problems/amazon-medians)|[![Practice][p]](https://www.fastprep.io/problems/amazon-medians)|Mar 18, 2025|
-|**Amazon**|[Get Largest Number](https://www.fastprep.io/problems/amazon-find-partition-cost)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-partition-cost)|Mar 13, 2025|
 <a id="bottom"></a>

@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,126)](formats/coding.md) · [SQL (57)](formats/sql.md) · [System design (509)](formats/system-design.md) · [Low-level design (127)](formats/low-level-design.md) · [AI coding (62)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,129)](formats/coding.md) · [SQL (57)](formats/sql.md) · [System design (509)](formats/system-design.md) · [Low-level design (127)](formats/low-level-design.md) · [AI coding (62)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -292,6 +292,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Tekion**|[Design a Durable Agent Workflow Runtime](https://www.fastprep.io/system-design/durable-agent-workflow-runtime)|System design|[![Practice][p]](https://www.fastprep.io/system-design/durable-agent-workflow-runtime)|🔥 Sep 27, 2026|
 |**Amazon**|[Design an Extensible Financial Account with Charges and Tax](https://www.fastprep.io/low-level-design/extensible-financial-account-charges)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/extensible-financial-account-charges)|🔥 Sep 27, 2026|
 |**Expedia**|[Design Collaborative Versioned File Storage](https://www.fastprep.io/low-level-design/collaborative-versioned-file-storage-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/collaborative-versioned-file-storage-domain)|🔥 Sep 27, 2026|
+|**Google**|[Count One-Valued Regions in a Binary Tree](https://www.fastprep.io/problems/google-count-one-regions-in-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-count-one-regions-in-binary-tree)|🔥 Sep 26, 2026|
 |**Airwallex**|[4Sum Index Quadruples](https://www.fastprep.io/problems/airwallex-four-sum-index-quadruples)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airwallex-four-sum-index-quadruples)|🔥 Sep 26, 2026|
 |**IBM**|[Maximum Points by Deleting Elements](https://www.fastprep.io/problems/ibm-maximum-points-by-deleting-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-maximum-points-by-deleting-elements)|🔥 Sep 26, 2026|
 |**Suno**|[Longest Path in a Directed Acyclic Graph](https://www.fastprep.io/problems/suno-longest-dag-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/suno-longest-dag-path)|🔥 Sep 26, 2026|
@@ -507,6 +508,8 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Optiver**|[Power Cell Bank](https://www.fastprep.io/problems/optiver-power-cell-bank)|Coding|[![Practice][p]](https://www.fastprep.io/problems/optiver-power-cell-bank)|🔥 Sep 23, 2026|
 |**Perplexity AI**|[In-Memory Filesystem Commands](https://www.fastprep.io/problems/perplexity-ai-in-memory-filesystem-commands)|Coding|[![Practice][p]](https://www.fastprep.io/problems/perplexity-ai-in-memory-filesystem-commands)|🔥 Sep 23, 2026|
 |**Instacart**|[Sort Products by Aisle With Frozen Items Last](https://www.fastprep.io/problems/instacart-sort-products-by-aisle-with-frozen-last)|Coding|[![Practice][p]](https://www.fastprep.io/problems/instacart-sort-products-by-aisle-with-frozen-last)|🔥 Sep 23, 2026|
+|**Google**|[Three Sum: Unique Zero-Sum Triplets](https://www.fastprep.io/problems/google-three-sum-zero-unique-triplets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-three-sum-zero-unique-triplets)|🔥 Sep 22, 2026|
+|**Google**|[Binary Tree Level Order Traversal](https://www.fastprep.io/problems/google-binary-tree-level-order-traversal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-binary-tree-level-order-traversal)|🔥 Sep 22, 2026|
 |**Harvey**|[Design Human-Governed File Review Agents](https://www.fastprep.io/system-design/human-governed-file-review-agents)|System design|[![Practice][p]](https://www.fastprep.io/system-design/human-governed-file-review-agents)|🔥 Sep 22, 2026|
 |**Anthropic / Snap Inc. / Lyft / Fivetran / Temporal**|[One-to-One Chat Service](https://www.fastprep.io/system-design/one-to-one-chat-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/one-to-one-chat-service)|🔥 Sep 22, 2026|
 |**PayPay**|[Design a Coupon Generation and Redemption Service](https://www.fastprep.io/system-design/coupon-generation-and-redemption-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/coupon-generation-and-redemption-service)|🔥 Sep 22, 2026|
@@ -1691,7 +1694,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Meta**|[Design and Implement an In-Memory Tally Service](https://www.fastprep.io/low-level-design/meta-tally-service)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/meta-tally-service)|Jul 20, 2026|
 |**Assort Health**|[Design a Conversational Flight Search and Booking Agent](https://www.fastprep.io/system-design/conversational-flight-search-and-booking-agent)|System design|[![Practice][p]](https://www.fastprep.io/system-design/conversational-flight-search-and-booking-agent)|Jul 20, 2026|
 |**Capital One**|[Sort Every Matrix Border Layer](https://www.fastprep.io/problems/capital-one-sort-matrix-border-layers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-sort-matrix-border-layers)|Jul 19, 2026|
-|**Waymo**|[Average or Zero](https://www.fastprep.io/problems/waymo-average-or-zero)|Coding|[![Practice][p]](https://www.fastprep.io/problems/waymo-average-or-zero)|Jul 19, 2026|
-|**Google**|[Maximum Programmer-Problem Matching](https://www.fastprep.io/problems/google-maximum-programmer-problem-matching)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-programmer-problem-matching)|Jul 19, 2026|
-|**Visa**|[Minimum Score of a Path Between Cities](https://www.fastprep.io/problems/visa-minimum-score-path-between-cities)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-minimum-score-path-between-cities)|Jul 18, 2026|
 <a id="bottom"></a>

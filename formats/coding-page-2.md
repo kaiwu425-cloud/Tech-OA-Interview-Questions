@@ -2,12 +2,15 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,126 questions**
+**3,129 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Amazon**|[Inventory Processes Survival Possibility](https://www.fastprep.io/problems/amazon-inventory-processes-survival-possibility)|[![Practice][p]](https://www.fastprep.io/problems/amazon-inventory-processes-survival-possibility)|Mar 18, 2025|
+|**Amazon**|[All About Medians](https://www.fastprep.io/problems/amazon-medians)|[![Practice][p]](https://www.fastprep.io/problems/amazon-medians)|Mar 18, 2025|
+|**Amazon**|[Get Largest Number](https://www.fastprep.io/problems/amazon-find-partition-cost)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-partition-cost)|Mar 13, 2025|
 |**SpaceX**|[Speed to Pressure Lookup](https://www.fastprep.io/problems/spacex-speed-to-pressure-lookup)|[![Practice][p]](https://www.fastprep.io/problems/spacex-speed-to-pressure-lookup)|Mar 13, 2025|
 |**Chainalysis**|[Filter Team A Logs](https://www.fastprep.io/problems/chainalysis-filter-team-a-logs)|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-filter-team-a-logs)|Mar 06, 2025|
 |**Chainalysis**|[Filter Team A Transfer Logs](https://www.fastprep.io/problems/chainalysis-filter-team-a-transfer-logs)|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-filter-team-a-transfer-logs)|Mar 06, 2025|

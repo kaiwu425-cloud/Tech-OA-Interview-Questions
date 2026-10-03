@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Waymo**|[Average or Zero](https://www.fastprep.io/problems/waymo-average-or-zero)|Coding|[![Practice][p]](https://www.fastprep.io/problems/waymo-average-or-zero)|Jul 19, 2026|
+|**Google**|[Maximum Programmer-Problem Matching](https://www.fastprep.io/problems/google-maximum-programmer-problem-matching)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-programmer-problem-matching)|Jul 19, 2026|
+|**Visa**|[Minimum Score of a Path Between Cities](https://www.fastprep.io/problems/visa-minimum-score-path-between-cities)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-minimum-score-path-between-cities)|Jul 18, 2026|
 |**IDFC**|[Smallest Adjacent Concatenation](https://www.fastprep.io/problems/idfc-smallest-adjacent-concatenation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/idfc-smallest-adjacent-concatenation)|Jul 18, 2026|
 |**IDFC**|[Minimum Cake Cuts](https://www.fastprep.io/problems/idfc-minimum-cake-cuts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/idfc-minimum-cake-cuts)|Jul 18, 2026|
 |**Apple**|[Design a Large JSON Transformation Service](https://www.fastprep.io/system-design/large-json-transformation-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/large-json-transformation-service)|Jul 18, 2026|
@@ -1861,7 +1864,4 @@
 |**Bloomberg LP**|[Count Teams Outscoring a Target Team](https://www.fastprep.io/problems/bloomberg-count-teams-outscoring-target)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-count-teams-outscoring-target)|Feb 22, 2023|
 |**Bloomberg LP**|[Number of Islands](https://www.fastprep.io/problems/bloomberg-number-of-islands)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-number-of-islands)|Feb 22, 2023|
 |**ZipRecruiter**|[Format a Centered Paragraph in a Star Frame](https://www.fastprep.io/problems/ziprecruiter-centered-paragraph-frame)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-centered-paragraph-frame)|Feb 07, 2023|
-|**ZipRecruiter**|[Count Prefix-Related Word Pairs](https://www.fastprep.io/problems/ziprecruiter-count-prefix-related-word-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-prefix-related-word-pairs)|Feb 07, 2023|
-|**ZipRecruiter**|[Longest Common Normalized Path Suffix](https://www.fastprep.io/problems/ziprecruiter-longest-common-normalized-path-suffix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-longest-common-normalized-path-suffix)|Jan 26, 2023|
-|**Odoo**|[Maximum Profit from an Increasing Price Triplet](https://www.fastprep.io/problems/odoo-maximum-profit-increasing-triplet)|Coding|[![Practice][p]](https://www.fastprep.io/problems/odoo-maximum-profit-increasing-triplet)|Jan 24, 2023|
 <a id="bottom"></a>
