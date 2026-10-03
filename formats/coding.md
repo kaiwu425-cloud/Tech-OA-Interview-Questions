@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,122 questions**
+**3,124 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -121,6 +121,8 @@
 |**WhatNot**|[Attraction Route Without Reusing Trails](https://www.fastprep.io/problems/whatnot-attraction-trail-route)|[![Practice][p]](https://www.fastprep.io/problems/whatnot-attraction-trail-route)|🔥 Sep 29, 2026|
 |**WhatNot**|[Earliest Car for Each Passenger](https://www.fastprep.io/problems/whatnot-earliest-car-passenger-assignments)|[![Practice][p]](https://www.fastprep.io/problems/whatnot-earliest-car-passenger-assignments)|🔥 Sep 29, 2026|
 |**WhatNot**|[Minimum Stores for a Shopping List](https://www.fastprep.io/problems/whatnot-minimum-stores-for-shopping-list)|[![Practice][p]](https://www.fastprep.io/problems/whatnot-minimum-stores-for-shopping-list)|🔥 Sep 29, 2026|
+|**Google**|[High-Traffic IPs in a Sliding Window](https://www.fastprep.io/problems/google-high-traffic-ips-in-sliding-window)|[![Practice][p]](https://www.fastprep.io/problems/google-high-traffic-ips-in-sliding-window)|🔥 Sep 29, 2026|
+|**Google**|[Shortest Hop Path Between Machines](https://www.fastprep.io/problems/google-shortest-machine-hop-path)|[![Practice][p]](https://www.fastprep.io/problems/google-shortest-machine-hop-path)|🔥 Sep 29, 2026|
 |**Microsoft**|[Shopkeeper Final Price Summary](https://www.fastprep.io/problems/microsoft-shopkeeper-final-price-summary)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-shopkeeper-final-price-summary)|🔥 Sep 28, 2026|
 |**Microsoft**|[Maximum Reward Points](https://www.fastprep.io/problems/microsoft-get-maximum-reward-points)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-get-maximum-reward-points)|🔥 Sep 28, 2026|
 |**OpenAI**|[Network Endpoint or Cycle Boundary](https://www.fastprep.io/problems/openai-network-endpoint-or-cycle)|[![Practice][p]](https://www.fastprep.io/problems/openai-network-endpoint-or-cycle)|🔥 Sep 28, 2026|
@@ -1837,5 +1839,4 @@
 |**SpaceX**|[Speed to Pressure Lookup](https://www.fastprep.io/problems/spacex-speed-to-pressure-lookup)|[![Practice][p]](https://www.fastprep.io/problems/spacex-speed-to-pressure-lookup)|Mar 13, 2025|
 |**Chainalysis**|[Filter Team A Logs](https://www.fastprep.io/problems/chainalysis-filter-team-a-logs)|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-filter-team-a-logs)|Mar 06, 2025|
 |**Chainalysis**|[Filter Team A Transfer Logs](https://www.fastprep.io/problems/chainalysis-filter-team-a-transfer-logs)|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-filter-team-a-transfer-logs)|Mar 06, 2025|
-|**Chainalysis**|[High-Severity Counts by Search Type](https://www.fastprep.io/problems/chainalysis-high-severity-counts-by-search-type)|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-high-severity-counts-by-search-type)|Mar 06, 2025|
 <a id="bottom"></a>
