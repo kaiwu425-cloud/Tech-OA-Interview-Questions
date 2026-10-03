@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Anthropic**|[Cloud Storage Compression and Decompression](https://www.fastprep.io/problems/anthropic-cloud-storage-compression)|Coding|[![Practice][p]](https://www.fastprep.io/problems/anthropic-cloud-storage-compression)|Jul 12, 2026|
 |**Anthropic**|[In-Memory Database Historical Lookup](https://www.fastprep.io/problems/anthropic-in-memory-database-historical-lookup)|Coding|[![Practice][p]](https://www.fastprep.io/problems/anthropic-in-memory-database-historical-lookup)|Jul 12, 2026|
 |**Anthropic**|[Banking Pending Transfer Acceptance](https://www.fastprep.io/problems/anthropic-banking-pending-transfer-acceptance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/anthropic-banking-pending-transfer-acceptance)|Jul 12, 2026|
 |**Anthropic**|[Cloud Storage File Versioning](https://www.fastprep.io/problems/anthropic-cloud-storage-file-versioning)|Coding|[![Practice][p]](https://www.fastprep.io/problems/anthropic-cloud-storage-file-versioning)|Jul 12, 2026|
@@ -1861,5 +1862,4 @@
 |**Bloomberg LP**|[Min Stack](https://www.fastprep.io/problems/bloomberg-min-stack)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-min-stack)|Oct 06, 2022|
 |**ZipRecruiter**|[Pop Matching Balloon Neighborhoods](https://www.fastprep.io/problems/ziprecruiter-pop-orthogonal-balloons)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-pop-orthogonal-balloons)|Oct 04, 2022|
 |**ZipRecruiter**|[Count Prioritized Binary-Run Operations](https://www.fastprep.io/problems/ziprecruiter-prioritized-binary-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-prioritized-binary-operations)|Oct 04, 2022|
-|**Duolingo**|[Most-Read Page Across Every Valid Storyline](https://www.fastprep.io/problems/duolingo-most-read-story-page)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-most-read-story-page)|Oct 03, 2022|
 <a id="bottom"></a>
