@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,138 questions**
+**3,139 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Instacart**|[Count Color Pairs](https://www.fastprep.io/problems/instacart-balloon-color-pairs)|[![Practice][p]](https://www.fastprep.io/problems/instacart-balloon-color-pairs)|Mar 23, 2025|
 |**Amazon**|[Get Max Increments](https://www.fastprep.io/problems/amazon-get-max-increments)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-increments)|Mar 22, 2025|
 |**Amazon**|[Password Strength](https://www.fastprep.io/problems/amazon-password-strength)|[![Practice][p]](https://www.fastprep.io/problems/amazon-password-strength)|Mar 22, 2025|
 |**Publicis Sapients**|[Get Min Time](https://www.fastprep.io/problems/publicis-sapients-get-minimum-time)|[![Practice][p]](https://www.fastprep.io/problems/publicis-sapients-get-minimum-time)|Mar 22, 2025|

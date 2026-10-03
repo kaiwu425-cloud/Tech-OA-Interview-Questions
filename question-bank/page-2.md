@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Airbnb**|[Robot Final Direction](https://www.fastprep.io/problems/airbnb-robot-final-direction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-robot-final-direction)|Jul 20, 2026|
 |**Airbnb**|[Robot Inventory Tracking](https://www.fastprep.io/problems/airbnb-robot-inventory-tracking)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-robot-inventory-tracking)|Jul 20, 2026|
 |**Akuna**|[Communications Handler](https://www.fastprep.io/problems/akuna-communications-handler)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-communications-handler)|Jul 20, 2026|
 |**Akuna**|[Maximum K-Star Sum](https://www.fastprep.io/problems/akuna-maximum-k-star-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-maximum-k-star-sum)|Jul 20, 2026|
@@ -1863,5 +1864,4 @@
 |**Motive**|[Palindrome Permutation](https://www.fastprep.io/problems/motive-palindrome-permutation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-palindrome-permutation)|Jun 01, 2023|
 |**Motive**|[Valid Anagram](https://www.fastprep.io/problems/motive-valid-anagram)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-valid-anagram)|Jun 01, 2023|
 |**Motive**|[Valid Palindrome](https://www.fastprep.io/problems/motive-valid-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-valid-palindrome)|Jun 01, 2023|
-|**Airbnb**|[Validate BST Node Descriptions](https://www.fastprep.io/problems/airbnb-validate-bst-node-descriptions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-validate-bst-node-descriptions)|May 17, 2023|
 <a id="bottom"></a>

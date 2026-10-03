@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,138 questions**
+**3,139 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -549,6 +549,7 @@
 |**Meta**|[Partition a Card Deck into Fifteens](https://www.fastprep.io/problems/meta-partition-deck-into-fifteens)|[![Practice][p]](https://www.fastprep.io/problems/meta-partition-deck-into-fifteens)|🆕 Sep 15, 2026|
 |**OpenAI**|[Dependency-Aware Agent Task Scheduler](https://www.fastprep.io/problems/openai-dependency-aware-agent-scheduler)|[![Practice][p]](https://www.fastprep.io/problems/openai-dependency-aware-agent-scheduler)|🆕 Sep 15, 2026|
 |**Robinhood**|[Transitive Employee Referral Counts](https://www.fastprep.io/problems/robinhood-transitive-employee-referral-counts)|[![Practice][p]](https://www.fastprep.io/problems/robinhood-transitive-employee-referral-counts)|🆕 Sep 15, 2026|
+|**Google**|[Detect Duplicate Trace IDs in a Linked List](https://www.fastprep.io/problems/google-duplicate-trace-ids-linked-list)|[![Practice][p]](https://www.fastprep.io/problems/google-duplicate-trace-ids-linked-list)|🆕 Sep 15, 2026|
 |**Amazon**|[Root-to-Leaf Paths with a Target Sum](https://www.fastprep.io/problems/amazon-root-to-leaf-target-sum-paths)|[![Practice][p]](https://www.fastprep.io/problems/amazon-root-to-leaf-target-sum-paths)|🆕 Sep 14, 2026|
 |**Amazon**|[First Non-Repeating Character](https://www.fastprep.io/problems/amazon-first-non-repeating-character)|[![Practice][p]](https://www.fastprep.io/problems/amazon-first-non-repeating-character)|🆕 Sep 14, 2026|
 |**Akuna Capital**|[Count Server Replacements](https://www.fastprep.io/problems/akuna-count-server-replacements)|[![Practice][p]](https://www.fastprep.io/problems/akuna-count-server-replacements)|🆕 Sep 14, 2026|
@@ -1835,5 +1836,4 @@
 |**TikTok**|[Shopping Cost](https://www.fastprep.io/problems/tiktok-calculate-tiktok-shopping-cost)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-calculate-tiktok-shopping-cost)|Mar 23, 2025|
 |**Instacart**|[Bird Collects Sticks](https://www.fastprep.io/problems/instacart-collect-sticks)|[![Practice][p]](https://www.fastprep.io/problems/instacart-collect-sticks)|Mar 23, 2025|
 |**Instacart**|[Pop Bubbles](https://www.fastprep.io/problems/instacart-pop-bubbles)|[![Practice][p]](https://www.fastprep.io/problems/instacart-pop-bubbles)|Mar 23, 2025|
-|**Instacart**|[Count Color Pairs](https://www.fastprep.io/problems/instacart-balloon-color-pairs)|[![Practice][p]](https://www.fastprep.io/problems/instacart-balloon-color-pairs)|Mar 23, 2025|
 <a id="bottom"></a>

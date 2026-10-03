@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,138)](formats/coding.md) · [SQL (57)](formats/sql.md) · [System design (509)](formats/system-design.md) · [Low-level design (127)](formats/low-level-design.md) · [AI coding (62)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,139)](formats/coding.md) · [SQL (57)](formats/sql.md) · [System design (509)](formats/system-design.md) · [Low-level design (127)](formats/low-level-design.md) · [AI coding (62)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -789,6 +789,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Meta**|[Partition a Card Deck into Fifteens](https://www.fastprep.io/problems/meta-partition-deck-into-fifteens)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meta-partition-deck-into-fifteens)|🆕 Sep 15, 2026|
 |**OpenAI**|[Dependency-Aware Agent Task Scheduler](https://www.fastprep.io/problems/openai-dependency-aware-agent-scheduler)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-dependency-aware-agent-scheduler)|🆕 Sep 15, 2026|
 |**Robinhood**|[Transitive Employee Referral Counts](https://www.fastprep.io/problems/robinhood-transitive-employee-referral-counts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/robinhood-transitive-employee-referral-counts)|🆕 Sep 15, 2026|
+|**Google**|[Detect Duplicate Trace IDs in a Linked List](https://www.fastprep.io/problems/google-duplicate-trace-ids-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-duplicate-trace-ids-linked-list)|🆕 Sep 15, 2026|
 |**Amazon**|[Design Usage Billing for One Account](https://www.fastprep.io/low-level-design/single-account-usage-billing)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/single-account-usage-billing)|🆕 Sep 14, 2026|
 |**Amazon**|[Root-to-Leaf Paths with a Target Sum](https://www.fastprep.io/problems/amazon-root-to-leaf-target-sum-paths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-root-to-leaf-target-sum-paths)|🆕 Sep 14, 2026|
 |**Amazon**|[First Non-Repeating Character](https://www.fastprep.io/problems/amazon-first-non-repeating-character)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-first-non-repeating-character)|🆕 Sep 14, 2026|
@@ -1692,5 +1693,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Amazon**|[Design Music Search, Playlists, and Playback](https://www.fastprep.io/low-level-design/amazon-music-search-and-playback)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/amazon-music-search-and-playback)|Jul 21, 2026|
 |**Airbnb**|[Most Frequent Reduced Digit](https://www.fastprep.io/problems/airbnb-most-frequent-reduced-digit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-most-frequent-reduced-digit)|Jul 20, 2026|
 |**Airbnb**|[Rectangle Fit Queries](https://www.fastprep.io/problems/airbnb-rectangle-fit-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-rectangle-fit-queries)|Jul 20, 2026|
-|**Airbnb**|[Robot Final Direction](https://www.fastprep.io/problems/airbnb-robot-final-direction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-robot-final-direction)|Jul 20, 2026|
 <a id="bottom"></a>
