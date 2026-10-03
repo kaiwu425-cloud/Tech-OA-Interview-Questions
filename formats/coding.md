@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,134 questions**
+**3,136 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -384,6 +384,8 @@
 |**Stripe**|[Validate Six-Column Business CSV Rows](https://www.fastprep.io/problems/stripe-business-csv-rule-validator)|[![Practice][p]](https://www.fastprep.io/problems/stripe-business-csv-rule-validator)|🔥 Sep 22, 2026|
 |**Visa**|[Shortest Digit Prefix for Target Multisets](https://www.fastprep.io/problems/visa-shortest-digit-prefix-for-targets)|[![Practice][p]](https://www.fastprep.io/problems/visa-shortest-digit-prefix-for-targets)|🔥 Sep 22, 2026|
 |**Google**|[Subtract One Half-Open Interval from Another](https://www.fastprep.io/problems/google-subtract-half-open-interval)|[![Practice][p]](https://www.fastprep.io/problems/google-subtract-half-open-interval)|🔥 Sep 21, 2026|
+|**Google**|[Longest Dictionary Word from Nine Letters](https://www.fastprep.io/problems/google-longest-word-from-nine-letters)|[![Practice][p]](https://www.fastprep.io/problems/google-longest-word-from-nine-letters)|🔥 Sep 21, 2026|
+|**Google**|[Trace Every Water Drop to Its Resting Destination](https://www.fastprep.io/problems/google-water-drop-resting-destinations)|[![Practice][p]](https://www.fastprep.io/problems/google-water-drop-resting-destinations)|🔥 Sep 21, 2026|
 |**Google**|[Maximal Rectangle in a Binary Matrix](https://www.fastprep.io/problems/google-maximal-rectangle-in-binary-matrix)|[![Practice][p]](https://www.fastprep.io/problems/google-maximal-rectangle-in-binary-matrix)|🔥 Sep 21, 2026|
 |**Google**|[BST to Sorted Circular Doubly Linked List](https://www.fastprep.io/problems/google-bst-to-circular-doubly-linked-list)|[![Practice][p]](https://www.fastprep.io/problems/google-bst-to-circular-doubly-linked-list)|🔥 Sep 21, 2026|
 |**Amazon**|[Edit Distance](https://www.fastprep.io/problems/amazon-edit-distance)|[![Practice][p]](https://www.fastprep.io/problems/amazon-edit-distance)|🔥 Sep 21, 2026|
@@ -1834,7 +1836,4 @@
 |**Instacart**|[Count Color Pairs](https://www.fastprep.io/problems/instacart-balloon-color-pairs)|[![Practice][p]](https://www.fastprep.io/problems/instacart-balloon-color-pairs)|Mar 23, 2025|
 |**Amazon**|[Get Max Increments](https://www.fastprep.io/problems/amazon-get-max-increments)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-max-increments)|Mar 22, 2025|
 |**Amazon**|[Password Strength](https://www.fastprep.io/problems/amazon-password-strength)|[![Practice][p]](https://www.fastprep.io/problems/amazon-password-strength)|Mar 22, 2025|
-|**Publicis Sapients**|[Get Min Time](https://www.fastprep.io/problems/publicis-sapients-get-minimum-time)|[![Practice][p]](https://www.fastprep.io/problems/publicis-sapients-get-minimum-time)|Mar 22, 2025|
-|**Pure Storage**|[Bakery Quality Control](https://www.fastprep.io/problems/purestorage-compare-boxes-to-template)|[![Practice][p]](https://www.fastprep.io/problems/purestorage-compare-boxes-to-template)|Mar 22, 2025|
-|**Pure Storage**|[Find Repetition](https://www.fastprep.io/problems/purestorage-find-repetitions)|[![Practice][p]](https://www.fastprep.io/problems/purestorage-find-repetitions)|Mar 22, 2025|
 <a id="bottom"></a>
