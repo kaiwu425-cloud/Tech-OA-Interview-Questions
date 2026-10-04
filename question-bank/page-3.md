@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**ZipRecruiter**|[Earliest Longest Bounded-Adjacent Subarray](https://www.fastprep.io/problems/ziprecruiter-earliest-longest-bounded-adjacent-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-earliest-longest-bounded-adjacent-subarray)|Oct 29, 2023|
 |**ZipRecruiter**|[Minimum Right Rotations to Strictly Descending](https://www.fastprep.io/problems/ziprecruiter-right-rotations-to-descending)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-right-rotations-to-descending)|Oct 29, 2023|
 |**Agoda**|[Process Airline Seat Requests](https://www.fastprep.io/problems/agoda-airline-seat-requests)|SQL|[![Practice][p]](https://www.fastprep.io/problems/agoda-airline-seat-requests)|Oct 27, 2023|
 |**Agoda**|[Convert a Purchase at Its Historical Exchange Rate](https://www.fastprep.io/problems/agoda-historical-purchase-exchange-rate)|SQL|[![Practice][p]](https://www.fastprep.io/problems/agoda-historical-purchase-exchange-rate)|Oct 27, 2023|
