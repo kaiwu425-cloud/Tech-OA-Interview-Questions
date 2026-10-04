@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,162 questions**
+**3,163 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -319,6 +319,7 @@
 |**Morgan Stanley**|[Three-Resource 0/1 Knapsack](https://www.fastprep.io/problems/morgan-stanley-three-resource-knapsack)|[![Practice][p]](https://www.fastprep.io/problems/morgan-stanley-three-resource-knapsack)|🔥 Sep 24, 2026|
 |**PhonePe**|[Identify Two Failing Tests From an Oracle Transcript](https://www.fastprep.io/problems/phonepe-identify-two-failing-tests-from-transcript)|[![Practice][p]](https://www.fastprep.io/problems/phonepe-identify-two-failing-tests-from-transcript)|🔥 Sep 24, 2026|
 |**Amazon**|[Get Minimum Amount](https://www.fastprep.io/problems/amazon-get-min-amount)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-amount)|🔥 Sep 24, 2026|
+|**Google**|[Find the Town Judge](https://www.fastprep.io/problems/google-find-the-town-judge)|[![Practice][p]](https://www.fastprep.io/problems/google-find-the-town-judge)|🔥 Sep 24, 2026|
 |**Salesforce**|[Minimum Unique-Character Segments After Deletion](https://www.fastprep.io/problems/salesforce-minimum-unique-segments-after-deletion)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-minimum-unique-segments-after-deletion)|🔥 Sep 23, 2026|
 |**Microsoft**|[Copy File Bytes with Partial Writes](https://www.fastprep.io/problems/microsoft-copy-file-bytes)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-copy-file-bytes)|🔥 Sep 23, 2026|
 |**Microsoft**|[Longest Repeating Character Replacement](https://www.fastprep.io/problems/microsoft-longest-repeating-character-replacement)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-longest-repeating-character-replacement)|🔥 Sep 23, 2026|
@@ -1831,5 +1832,4 @@
 |**Amazon**|[Optimal Utilization](https://www.fastprep.io/problems/amazon-optimal-utilization)|[![Practice][p]](https://www.fastprep.io/problems/amazon-optimal-utilization)|Apr 05, 2025|
 |**Amazon**|[Buy Servers](https://www.fastprep.io/problems/amazon-purchase-servers)|[![Practice][p]](https://www.fastprep.io/problems/amazon-purchase-servers)|Apr 05, 2025|
 |**Motive**|[Lowest Common Ancestor in a Binary Tree](https://www.fastprep.io/problems/motive-lowest-common-ancestor-binary-tree)|[![Practice][p]](https://www.fastprep.io/problems/motive-lowest-common-ancestor-binary-tree)|Apr 02, 2025|
-|**Amazon**|[Min Retailers](https://www.fastprep.io/problems/amazon-minimum-retailers)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-retailers)|Mar 31, 2025|
 <a id="bottom"></a>

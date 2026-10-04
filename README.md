@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,162)](formats/coding.md) · [SQL (57)](formats/sql.md) · [System design (513)](formats/system-design.md) · [Low-level design (129)](formats/low-level-design.md) · [AI coding (63)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,163)](formats/coding.md) · [SQL (57)](formats/sql.md) · [System design (513)](formats/system-design.md) · [Low-level design (129)](formats/low-level-design.md) · [AI coding (63)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -465,6 +465,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Morgan Stanley**|[Three-Resource 0/1 Knapsack](https://www.fastprep.io/problems/morgan-stanley-three-resource-knapsack)|Coding|[![Practice][p]](https://www.fastprep.io/problems/morgan-stanley-three-resource-knapsack)|🔥 Sep 24, 2026|
 |**PhonePe**|[Identify Two Failing Tests From an Oracle Transcript](https://www.fastprep.io/problems/phonepe-identify-two-failing-tests-from-transcript)|Coding|[![Practice][p]](https://www.fastprep.io/problems/phonepe-identify-two-failing-tests-from-transcript)|🔥 Sep 24, 2026|
 |**Amazon**|[Get Minimum Amount](https://www.fastprep.io/problems/amazon-get-min-amount)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-amount)|🔥 Sep 24, 2026|
+|**Google**|[Find the Town Judge](https://www.fastprep.io/problems/google-find-the-town-judge)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-the-town-judge)|🔥 Sep 24, 2026|
 |**Salesforce**|[Minimum Unique-Character Segments After Deletion](https://www.fastprep.io/problems/salesforce-minimum-unique-segments-after-deletion)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-minimum-unique-segments-after-deletion)|🔥 Sep 23, 2026|
 |**Microsoft**|[Copy File Bytes with Partial Writes](https://www.fastprep.io/problems/microsoft-copy-file-bytes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-copy-file-bytes)|🔥 Sep 23, 2026|
 |**Microsoft**|[Longest Repeating Character Replacement](https://www.fastprep.io/problems/microsoft-longest-repeating-character-replacement)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-longest-repeating-character-replacement)|🔥 Sep 23, 2026|
@@ -1691,5 +1692,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Microsoft**|[Binary String Swap Time](https://www.fastprep.io/problems/microsoft-binary-string-swap-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-binary-string-swap-time)|Jul 22, 2026|
 |**Microsoft**|[Minimum Effort Task Schedule](https://www.fastprep.io/problems/microsoft-minimum-effort-task-schedule)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-effort-task-schedule)|Jul 22, 2026|
 |**Tekion**|[Longest Balanced Substring After One Swap](https://www.fastprep.io/problems/tekion-longest-balanced-substring-after-one-swap)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-longest-balanced-substring-after-one-swap)|Jul 22, 2026|
-|**Amazon**|[Sort an Array with Rotate and Flip](https://www.fastprep.io/problems/amazon-sort-array-with-rotate-and-flip)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-sort-array-with-rotate-and-flip)|Jul 22, 2026|
 <a id="bottom"></a>
