@@ -2,12 +2,22 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,145 questions**
+**3,154 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Yahoo**|[Get String](https://www.fastprep.io/problems/yahoo-get-string)|[![Practice][p]](https://www.fastprep.io/problems/yahoo-get-string)|Mar 28, 2025|
+|**Amazon**|[Max Sum of Non-overlapping Intervals](https://www.fastprep.io/problems/amazon-max-sum-of-non-overlapping-intervals)|[![Practice][p]](https://www.fastprep.io/problems/amazon-max-sum-of-non-overlapping-intervals)|Mar 27, 2025|
+|**Amazon**|[Find Min Max Difference](https://www.fastprep.io/problems/amazon-find-min-max-difference)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-min-max-difference)|Mar 27, 2025|
+|**Amazon**|[Get Minimal Cost](https://www.fastprep.io/problems/amazon-get-minimal-cost)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-minimal-cost)|Mar 26, 2025|
+|**Microsoft**|[Freeing Shelves](https://www.fastprep.io/problems/microsoft-maximize-types-after-freeing-shelves)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximize-types-after-freeing-shelves)|Mar 25, 2025|
+|**Microsoft**|[Balance the Game Board](https://www.fastprep.io/problems/microsoft-balance-the-game-board)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-balance-the-game-board)|Mar 25, 2025|
+|**Amazon**|[Make Array Distinct](https://www.fastprep.io/problems/amazon-make-array-distinct)|[![Practice][p]](https://www.fastprep.io/problems/amazon-make-array-distinct)|Mar 24, 2025|
+|**Amazon**|[Find Least Possible Vulnerability](https://www.fastprep.io/problems/amazon-find-least-possible-vulnerability)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-least-possible-vulnerability)|Mar 24, 2025|
+|**Tesla**|[Shoe Factory](https://www.fastprep.io/problems/tesla-shoe-factory)|[![Practice][p]](https://www.fastprep.io/problems/tesla-shoe-factory)|Mar 24, 2025|
+|**Tesla**|[Encrypt](https://www.fastprep.io/problems/tesla-encrypt)|[![Practice][p]](https://www.fastprep.io/problems/tesla-encrypt)|Mar 24, 2025|
 |**Fortinet**|[Beautiful Strings](https://www.fastprep.io/problems/fortinet-maximize-beautiful-substrings)|[![Practice][p]](https://www.fastprep.io/problems/fortinet-maximize-beautiful-substrings)|Mar 24, 2025|
 |**Amazon**|[Number Of Well Performing Groups](https://www.fastprep.io/problems/amazon-number-of-well-performing-groups)|[![Practice][p]](https://www.fastprep.io/problems/amazon-number-of-well-performing-groups)|Mar 23, 2025|
 |**Amazon**|[Ensure Non Zero Load Sum](https://www.fastprep.io/problems/amazon-ensure-non-zero-load-sum)|[![Practice][p]](https://www.fastprep.io/problems/amazon-ensure-non-zero-load-sum)|Mar 23, 2025|
@@ -526,6 +536,7 @@
 |**Highspot**|[Number of Islands](https://www.fastprep.io/problems/highspot-number-of-islands)|[![Practice][p]](https://www.fastprep.io/problems/highspot-number-of-islands)|Aug 03, 2024|
 |**Highspot**|[Minimum Window Substring](https://www.fastprep.io/problems/highspot-minimum-window-substring)|[![Practice][p]](https://www.fastprep.io/problems/highspot-minimum-window-substring)|Aug 03, 2024|
 |**Ramp**|[Correct Apartment Bedroom Counts](https://www.fastprep.io/problems/ramp-correct-apartment-bedroom-counts)|[![Practice][p]](https://www.fastprep.io/problems/ramp-correct-apartment-bedroom-counts)|Aug 01, 2024|
+|**Maven Clinic**|[Possible Bipartition](https://www.fastprep.io/problems/maven-clinic-possible-bipartition)|[![Practice][p]](https://www.fastprep.io/problems/maven-clinic-possible-bipartition)|Aug 01, 2024|
 |**Character.AI**|[Choose the Next Hidden-Word Guess](https://www.fastprep.io/problems/character-ai-guess-the-word)|[![Practice][p]](https://www.fastprep.io/problems/character-ai-guess-the-word)|Jul 31, 2024|
 |**Amazon**|[Get Minimum Boxes](https://www.fastprep.io/problems/amazon-get-minimum-boxes)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-minimum-boxes)|Jul 25, 2024|
 |**IBM**|[Min Insertion to Balance a Parentheses String](https://www.fastprep.io/problems/ibm-minimum-insertions-to-balance-a-parentheses-string)|[![Practice][p]](https://www.fastprep.io/problems/ibm-minimum-insertions-to-balance-a-parentheses-string)|Jul 25, 2024|
