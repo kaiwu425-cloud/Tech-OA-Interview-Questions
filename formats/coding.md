@@ -77,6 +77,7 @@
 |**Google**|[Word Break](https://www.fastprep.io/problems/google-word-break)|[![Practice][p]](https://www.fastprep.io/problems/google-word-break)|🔥 Sep 30, 2026|
 |**Google**|[K Closest Stars from a Data Stream](https://www.fastprep.io/problems/google-k-closest-stars-stream)|[![Practice][p]](https://www.fastprep.io/problems/google-k-closest-stars-stream)|🔥 Sep 30, 2026|
 |**Google**|[N-Ary Tree BFS Codec](https://www.fastprep.io/problems/google-nary-tree-bfs-codec)|[![Practice][p]](https://www.fastprep.io/problems/google-nary-tree-bfs-codec)|🔥 Sep 30, 2026|
+|**Google**|[Minimum Cars for Rental Requests](https://www.fastprep.io/problems/google-minimum-cars-for-rental-requests)|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-cars-for-rental-requests)|🔥 Sep 30, 2026|
 |**OnePay**|[Device Registry Operations](https://www.fastprep.io/problems/onepay-device-registry-operations)|[![Practice][p]](https://www.fastprep.io/problems/onepay-device-registry-operations)|🔥 Sep 29, 2026|
 |**OpenAI**|[Leaves Remaining After Wind Gusts](https://www.fastprep.io/problems/openai-wind-shifted-leaf-sum)|[![Practice][p]](https://www.fastprep.io/problems/openai-wind-shifted-leaf-sum)|🔥 Sep 29, 2026|
 |**OpenAI**|[Count Routes Through Four Shop Types](https://www.fastprep.io/problems/openai-count-four-shop-routes)|[![Practice][p]](https://www.fastprep.io/problems/openai-count-four-shop-routes)|🔥 Sep 29, 2026|
@@ -1454,7 +1455,6 @@
 |**Amazon**|[Feasible Indices After Reduction](https://www.fastprep.io/problems/amazon-feasible-indices-after-reduction)|[![Practice][p]](https://www.fastprep.io/problems/amazon-feasible-indices-after-reduction)|Apr 30, 2026|
 |**Netflix**|[Command Undo Data Structure](https://www.fastprep.io/problems/netflix-command-undo-data-structure)|[![Practice][p]](https://www.fastprep.io/problems/netflix-command-undo-data-structure)|Apr 30, 2026|
 |**Google**|[Shortest Path with Mandatory Waypoint](https://www.fastprep.io/problems/google-shortest-path-with-mandatory-waypoint)|[![Practice][p]](https://www.fastprep.io/problems/google-shortest-path-with-mandatory-waypoint)|Apr 30, 2026|
-|**Google**|[Minimum Cars for Rental Requests](https://www.fastprep.io/problems/google-minimum-cars-for-rental-requests)|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-cars-for-rental-requests)|Apr 30, 2026|
 |**Uber**|[First Unique Log Entry](https://www.fastprep.io/problems/uber-first-unique-log-entry)|[![Practice][p]](https://www.fastprep.io/problems/uber-first-unique-log-entry)|Apr 30, 2026|
 |**Uber**|[Top-K Using a Priority Queue](https://www.fastprep.io/problems/uber-top-k-using-priority-queue)|[![Practice][p]](https://www.fastprep.io/problems/uber-top-k-using-priority-queue)|Apr 30, 2026|
 |**Stripe**|[Generate Available Time Slots](https://www.fastprep.io/problems/stripe-generate-available-time-slots)|[![Practice][p]](https://www.fastprep.io/problems/stripe-generate-available-time-slots)|Apr 30, 2026|

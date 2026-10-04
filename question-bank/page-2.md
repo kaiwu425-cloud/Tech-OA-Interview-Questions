@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Akuna**|[Calculate Portfolio Rebalancing Deltas](https://www.fastprep.io/problems/akuna-portfolio-rebalancing-deltas)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-portfolio-rebalancing-deltas)|Jul 22, 2026|
 |**Akuna**|[Maximum Label Difference in a Connected Component](https://www.fastprep.io/problems/akuna-maximum-component-label-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-maximum-component-label-difference)|Jul 22, 2026|
 |**Akuna**|[Minimize Malware Spread by Removing a Node](https://www.fastprep.io/problems/akuna-minimize-malware-spread)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-minimize-malware-spread)|Jul 22, 2026|
 |**TikTok**|[Count Access Code Pairs](https://www.fastprep.io/problems/tiktok-count-access-code-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-access-code-pairs)|Jul 22, 2026|
@@ -364,7 +365,6 @@
 |**Amazon**|[Feasible Indices After Reduction](https://www.fastprep.io/problems/amazon-feasible-indices-after-reduction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-feasible-indices-after-reduction)|Apr 30, 2026|
 |**Netflix**|[Command Undo Data Structure](https://www.fastprep.io/problems/netflix-command-undo-data-structure)|Coding|[![Practice][p]](https://www.fastprep.io/problems/netflix-command-undo-data-structure)|Apr 30, 2026|
 |**Google**|[Shortest Path with Mandatory Waypoint](https://www.fastprep.io/problems/google-shortest-path-with-mandatory-waypoint)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-shortest-path-with-mandatory-waypoint)|Apr 30, 2026|
-|**Google**|[Minimum Cars for Rental Requests](https://www.fastprep.io/problems/google-minimum-cars-for-rental-requests)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-cars-for-rental-requests)|Apr 30, 2026|
 |**Uber**|[First Unique Log Entry](https://www.fastprep.io/problems/uber-first-unique-log-entry)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-first-unique-log-entry)|Apr 30, 2026|
 |**Uber**|[Top-K Using a Priority Queue](https://www.fastprep.io/problems/uber-top-k-using-priority-queue)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-top-k-using-priority-queue)|Apr 30, 2026|
 |**Stripe**|[Generate Available Time Slots](https://www.fastprep.io/problems/stripe-generate-available-time-slots)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-generate-available-time-slots)|Apr 30, 2026|
