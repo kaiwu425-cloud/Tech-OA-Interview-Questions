@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,163)](formats/coding.md) · [SQL (57)](formats/sql.md) · [System design (513)](formats/system-design.md) · [Low-level design (129)](formats/low-level-design.md) · [AI coding (63)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,164)](formats/coding.md) · [SQL (57)](formats/sql.md) · [System design (513)](formats/system-design.md) · [Low-level design (129)](formats/low-level-design.md) · [AI coding (63)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -409,6 +409,8 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Groww**|[Build an Extensible Brokerage Charge Calculator](https://www.fastprep.io/project-coding/brokerage-charge-calculator)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/brokerage-charge-calculator)|🔥 Sep 25, 2026|
 |**Microsoft**|[Grid Paths with Override Passes](https://www.fastprep.io/problems/microsoft-grid-paths-with-override-passes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-grid-paths-with-override-passes)|🔥 Sep 25, 2026|
 |**Microsoft**|[Weighted LFU Cache](https://www.fastprep.io/problems/microsoft-weighted-lfu-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-weighted-lfu-cache)|🔥 Sep 25, 2026|
+|**Google**|[Trace Every Water Drop to Its Resting Destination](https://www.fastprep.io/problems/google-water-drop-resting-destinations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-water-drop-resting-destinations)|🔥 Sep 25, 2026|
+|**Google**|[Count Determinable Player Rankings](https://www.fastprep.io/problems/google-count-determinable-player-rankings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-count-determinable-player-rankings)|🔥 Sep 25, 2026|
 |**Walmart**|[House Robber](https://www.fastprep.io/problems/walmart-house-robber)|Coding|[![Practice][p]](https://www.fastprep.io/problems/walmart-house-robber)|🔥 Sep 24, 2026|
 |**FalconX**|[Longest Low-Slippage Execution Window](https://www.fastprep.io/problems/falconx-longest-low-slippage-window)|Coding|[![Practice][p]](https://www.fastprep.io/problems/falconx-longest-low-slippage-window)|🔥 Sep 24, 2026|
 |**Capital One**|[Distinct Values on Maximum-Sum Frames](https://www.fastprep.io/problems/capital-one-maximum-border-frame-values)|Coding|[![Practice][p]](https://www.fastprep.io/problems/capital-one-maximum-border-frame-values)|🔥 Sep 24, 2026|
@@ -560,7 +562,6 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Visa**|[Shortest Digit Prefix for Target Multisets](https://www.fastprep.io/problems/visa-shortest-digit-prefix-for-targets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-shortest-digit-prefix-for-targets)|🔥 Sep 22, 2026|
 |**Google**|[Subtract One Half-Open Interval from Another](https://www.fastprep.io/problems/google-subtract-half-open-interval)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-subtract-half-open-interval)|🔥 Sep 21, 2026|
 |**Google**|[Longest Dictionary Word from Nine Letters](https://www.fastprep.io/problems/google-longest-word-from-nine-letters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-longest-word-from-nine-letters)|🔥 Sep 21, 2026|
-|**Google**|[Trace Every Water Drop to Its Resting Destination](https://www.fastprep.io/problems/google-water-drop-resting-destinations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-water-drop-resting-destinations)|🔥 Sep 21, 2026|
 |**Google**|[Maximal Rectangle in a Binary Matrix](https://www.fastprep.io/problems/google-maximal-rectangle-in-binary-matrix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximal-rectangle-in-binary-matrix)|🔥 Sep 21, 2026|
 |**Google**|[BST to Sorted Circular Doubly Linked List](https://www.fastprep.io/problems/google-bst-to-circular-doubly-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-bst-to-circular-doubly-linked-list)|🔥 Sep 21, 2026|
 |**Pinterest / Slack / Motive**|[Design a Typeahead Suggestion Service](https://www.fastprep.io/system-design/typeahead-suggestion-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/typeahead-suggestion-service)|🔥 Sep 21, 2026|
@@ -1691,5 +1692,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Bloomberg LP**|[Word Break II](https://www.fastprep.io/problems/bloomberg-word-break-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-word-break-ii)|Jul 22, 2026|
 |**Microsoft**|[Binary String Swap Time](https://www.fastprep.io/problems/microsoft-binary-string-swap-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-binary-string-swap-time)|Jul 22, 2026|
 |**Microsoft**|[Minimum Effort Task Schedule](https://www.fastprep.io/problems/microsoft-minimum-effort-task-schedule)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-effort-task-schedule)|Jul 22, 2026|
-|**Tekion**|[Longest Balanced Substring After One Swap](https://www.fastprep.io/problems/tekion-longest-balanced-substring-after-one-swap)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-longest-balanced-substring-after-one-swap)|Jul 22, 2026|
 <a id="bottom"></a>

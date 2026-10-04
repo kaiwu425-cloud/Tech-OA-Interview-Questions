@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,163 questions**
+**3,164 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -275,6 +275,8 @@
 |**Zomato / Eternal**|[Friend Circles and Redundant Connections](https://www.fastprep.io/problems/zomato-friend-circles-and-redundant-edges)|[![Practice][p]](https://www.fastprep.io/problems/zomato-friend-circles-and-redundant-edges)|🔥 Sep 25, 2026|
 |**Microsoft**|[Grid Paths with Override Passes](https://www.fastprep.io/problems/microsoft-grid-paths-with-override-passes)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-grid-paths-with-override-passes)|🔥 Sep 25, 2026|
 |**Microsoft**|[Weighted LFU Cache](https://www.fastprep.io/problems/microsoft-weighted-lfu-cache)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-weighted-lfu-cache)|🔥 Sep 25, 2026|
+|**Google**|[Trace Every Water Drop to Its Resting Destination](https://www.fastprep.io/problems/google-water-drop-resting-destinations)|[![Practice][p]](https://www.fastprep.io/problems/google-water-drop-resting-destinations)|🔥 Sep 25, 2026|
+|**Google**|[Count Determinable Player Rankings](https://www.fastprep.io/problems/google-count-determinable-player-rankings)|[![Practice][p]](https://www.fastprep.io/problems/google-count-determinable-player-rankings)|🔥 Sep 25, 2026|
 |**Walmart**|[House Robber](https://www.fastprep.io/problems/walmart-house-robber)|[![Practice][p]](https://www.fastprep.io/problems/walmart-house-robber)|🔥 Sep 24, 2026|
 |**FalconX**|[Longest Low-Slippage Execution Window](https://www.fastprep.io/problems/falconx-longest-low-slippage-window)|[![Practice][p]](https://www.fastprep.io/problems/falconx-longest-low-slippage-window)|🔥 Sep 24, 2026|
 |**Capital One**|[Distinct Values on Maximum-Sum Frames](https://www.fastprep.io/problems/capital-one-maximum-border-frame-values)|[![Practice][p]](https://www.fastprep.io/problems/capital-one-maximum-border-frame-values)|🔥 Sep 24, 2026|
@@ -389,7 +391,6 @@
 |**Visa**|[Shortest Digit Prefix for Target Multisets](https://www.fastprep.io/problems/visa-shortest-digit-prefix-for-targets)|[![Practice][p]](https://www.fastprep.io/problems/visa-shortest-digit-prefix-for-targets)|🔥 Sep 22, 2026|
 |**Google**|[Subtract One Half-Open Interval from Another](https://www.fastprep.io/problems/google-subtract-half-open-interval)|[![Practice][p]](https://www.fastprep.io/problems/google-subtract-half-open-interval)|🔥 Sep 21, 2026|
 |**Google**|[Longest Dictionary Word from Nine Letters](https://www.fastprep.io/problems/google-longest-word-from-nine-letters)|[![Practice][p]](https://www.fastprep.io/problems/google-longest-word-from-nine-letters)|🔥 Sep 21, 2026|
-|**Google**|[Trace Every Water Drop to Its Resting Destination](https://www.fastprep.io/problems/google-water-drop-resting-destinations)|[![Practice][p]](https://www.fastprep.io/problems/google-water-drop-resting-destinations)|🔥 Sep 21, 2026|
 |**Google**|[Maximal Rectangle in a Binary Matrix](https://www.fastprep.io/problems/google-maximal-rectangle-in-binary-matrix)|[![Practice][p]](https://www.fastprep.io/problems/google-maximal-rectangle-in-binary-matrix)|🔥 Sep 21, 2026|
 |**Google**|[BST to Sorted Circular Doubly Linked List](https://www.fastprep.io/problems/google-bst-to-circular-doubly-linked-list)|[![Practice][p]](https://www.fastprep.io/problems/google-bst-to-circular-doubly-linked-list)|🔥 Sep 21, 2026|
 |**Amazon**|[Edit Distance](https://www.fastprep.io/problems/amazon-edit-distance)|[![Practice][p]](https://www.fastprep.io/problems/amazon-edit-distance)|🔥 Sep 21, 2026|
@@ -1831,5 +1832,4 @@
 |**Character.AI**|[Time-Based Key-Value Map With Floor and Ceiling Queries](https://www.fastprep.io/problems/character-ai-time-based-key-value-map)|[![Practice][p]](https://www.fastprep.io/problems/character-ai-time-based-key-value-map)|Apr 07, 2025|
 |**Amazon**|[Optimal Utilization](https://www.fastprep.io/problems/amazon-optimal-utilization)|[![Practice][p]](https://www.fastprep.io/problems/amazon-optimal-utilization)|Apr 05, 2025|
 |**Amazon**|[Buy Servers](https://www.fastprep.io/problems/amazon-purchase-servers)|[![Practice][p]](https://www.fastprep.io/problems/amazon-purchase-servers)|Apr 05, 2025|
-|**Motive**|[Lowest Common Ancestor in a Binary Tree](https://www.fastprep.io/problems/motive-lowest-common-ancestor-binary-tree)|[![Practice][p]](https://www.fastprep.io/problems/motive-lowest-common-ancestor-binary-tree)|Apr 02, 2025|
 <a id="bottom"></a>

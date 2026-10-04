@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Tekion**|[Longest Balanced Substring After One Swap](https://www.fastprep.io/problems/tekion-longest-balanced-substring-after-one-swap)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tekion-longest-balanced-substring-after-one-swap)|Jul 22, 2026|
 |**Amazon**|[Sort an Array with Rotate and Flip](https://www.fastprep.io/problems/amazon-sort-array-with-rotate-and-flip)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-sort-array-with-rotate-and-flip)|Jul 22, 2026|
 |**Akuna**|[Calculate Portfolio Rebalancing Deltas](https://www.fastprep.io/problems/akuna-portfolio-rebalancing-deltas)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-portfolio-rebalancing-deltas)|Jul 22, 2026|
 |**Akuna**|[Maximum Label Difference in a Connected Component](https://www.fastprep.io/problems/akuna-maximum-component-label-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-maximum-component-label-difference)|Jul 22, 2026|
@@ -1859,5 +1860,4 @@
 |**ZipRecruiter**|[Nonzero Local Maxima in Cornerless Neighborhoods](https://www.fastprep.io/problems/ziprecruiter-cornerless-local-maxima)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-cornerless-local-maxima)|Oct 04, 2023|
 |**ZipRecruiter**|[Sum Leftmost Subtraction Levels](https://www.fastprep.io/problems/ziprecruiter-leftmost-subtraction-levels)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-leftmost-subtraction-levels)|Oct 04, 2023|
 |**ZipRecruiter**|[Count Numbers with an Even Digit Count](https://www.fastprep.io/problems/ziprecruiter-count-even-digit-numbers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-even-digit-numbers)|Oct 03, 2023|
-|**ZipRecruiter**|[Inventory Revenue Across Supply, Sell, and Return Logs](https://www.fastprep.io/problems/ziprecruiter-inventory-revenue)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-inventory-revenue)|Oct 03, 2023|
 <a id="bottom"></a>
