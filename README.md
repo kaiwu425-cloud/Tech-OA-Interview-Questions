@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,158)](formats/coding.md) · [SQL (57)](formats/sql.md) · [System design (513)](formats/system-design.md) · [Low-level design (129)](formats/low-level-design.md) · [AI coding (63)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,161)](formats/coding.md) · [SQL (57)](formats/sql.md) · [System design (513)](formats/system-design.md) · [Low-level design (129)](formats/low-level-design.md) · [AI coding (63)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -641,6 +641,9 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Microsoft**|[3Sum](https://www.fastprep.io/problems/microsoft-three-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-three-sum)|🆕 Sep 19, 2026|
 |**Oracle**|[Island Count and Maximum Area](https://www.fastprep.io/problems/oracle-island-count-and-max-area)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-island-count-and-max-area)|🆕 Sep 19, 2026|
 |**Oracle**|[Retry with an Attempt Limit](https://www.fastprep.io/problems/oracle-retry-with-attempt-limit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-retry-with-attempt-limit)|🆕 Sep 19, 2026|
+|**Google**|[Nth Staged License Plate](https://www.fastprep.io/problems/google-nth-staged-license-plate)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-nth-staged-license-plate)|🆕 Sep 19, 2026|
+|**Google**|[Merge Subsequences Into a Consistent Total Order](https://www.fastprep.io/problems/google-merge-subsequences-into-total-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-merge-subsequences-into-total-order)|🆕 Sep 19, 2026|
+|**Google**|[Delete Leaves With a Target Value](https://www.fastprep.io/problems/google-delete-leaves-with-target-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-delete-leaves-with-target-value)|🆕 Sep 19, 2026|
 |**Tata Consultancy Services**|[Maximum Gap After Sorting](https://www.fastprep.io/problems/tata-consultancy-services-maximum-gap)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tata-consultancy-services-maximum-gap)|🆕 Sep 18, 2026|
 |**Tata Consultancy Services**|[EV Charging Cost Optimization](https://www.fastprep.io/problems/tata-consultancy-services-ev-charging-cost-optimization)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tata-consultancy-services-ev-charging-cost-optimization)|🆕 Sep 18, 2026|
 |**Amazon**|[Inventory Allocation](https://www.fastprep.io/problems/amazon-inventory-allocation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-inventory-allocation)|🆕 Sep 18, 2026|
@@ -1689,8 +1692,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Amazon**|[Sort an Array with Rotate and Flip](https://www.fastprep.io/problems/amazon-sort-array-with-rotate-and-flip)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-sort-array-with-rotate-and-flip)|Jul 22, 2026|
 |**Akuna**|[Calculate Portfolio Rebalancing Deltas](https://www.fastprep.io/problems/akuna-portfolio-rebalancing-deltas)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-portfolio-rebalancing-deltas)|Jul 22, 2026|
 |**Akuna**|[Maximum Label Difference in a Connected Component](https://www.fastprep.io/problems/akuna-maximum-component-label-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-maximum-component-label-difference)|Jul 22, 2026|
-|**Akuna**|[Minimize Malware Spread by Removing a Node](https://www.fastprep.io/problems/akuna-minimize-malware-spread)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-minimize-malware-spread)|Jul 22, 2026|
-|**TikTok**|[Count Access Code Pairs](https://www.fastprep.io/problems/tiktok-count-access-code-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-access-code-pairs)|Jul 22, 2026|
-|**TikTok**|[Count Key Changes](https://www.fastprep.io/problems/tiktok-count-key-changes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-key-changes)|Jul 22, 2026|
-|**TikTok**|[Travel Distance on Scooters](https://www.fastprep.io/problems/tiktok-travel-distance-on-scooters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-travel-distance-on-scooters)|Jul 22, 2026|
 <a id="bottom"></a>

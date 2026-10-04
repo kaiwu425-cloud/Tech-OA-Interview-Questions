@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,158 questions**
+**3,161 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -449,6 +449,9 @@
 |**Microsoft**|[3Sum](https://www.fastprep.io/problems/microsoft-three-sum)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-three-sum)|🆕 Sep 19, 2026|
 |**Oracle**|[Island Count and Maximum Area](https://www.fastprep.io/problems/oracle-island-count-and-max-area)|[![Practice][p]](https://www.fastprep.io/problems/oracle-island-count-and-max-area)|🆕 Sep 19, 2026|
 |**Oracle**|[Retry with an Attempt Limit](https://www.fastprep.io/problems/oracle-retry-with-attempt-limit)|[![Practice][p]](https://www.fastprep.io/problems/oracle-retry-with-attempt-limit)|🆕 Sep 19, 2026|
+|**Google**|[Nth Staged License Plate](https://www.fastprep.io/problems/google-nth-staged-license-plate)|[![Practice][p]](https://www.fastprep.io/problems/google-nth-staged-license-plate)|🆕 Sep 19, 2026|
+|**Google**|[Merge Subsequences Into a Consistent Total Order](https://www.fastprep.io/problems/google-merge-subsequences-into-total-order)|[![Practice][p]](https://www.fastprep.io/problems/google-merge-subsequences-into-total-order)|🆕 Sep 19, 2026|
+|**Google**|[Delete Leaves With a Target Value](https://www.fastprep.io/problems/google-delete-leaves-with-target-value)|[![Practice][p]](https://www.fastprep.io/problems/google-delete-leaves-with-target-value)|🆕 Sep 19, 2026|
 |**Tata Consultancy Services**|[Maximum Gap After Sorting](https://www.fastprep.io/problems/tata-consultancy-services-maximum-gap)|[![Practice][p]](https://www.fastprep.io/problems/tata-consultancy-services-maximum-gap)|🆕 Sep 18, 2026|
 |**Tata Consultancy Services**|[EV Charging Cost Optimization](https://www.fastprep.io/problems/tata-consultancy-services-ev-charging-cost-optimization)|[![Practice][p]](https://www.fastprep.io/problems/tata-consultancy-services-ev-charging-cost-optimization)|🆕 Sep 18, 2026|
 |**Amazon**|[Inventory Allocation](https://www.fastprep.io/problems/amazon-inventory-allocation)|[![Practice][p]](https://www.fastprep.io/problems/amazon-inventory-allocation)|🆕 Sep 18, 2026|
@@ -1829,8 +1832,4 @@
 |**Motive**|[Lowest Common Ancestor in a Binary Tree](https://www.fastprep.io/problems/motive-lowest-common-ancestor-binary-tree)|[![Practice][p]](https://www.fastprep.io/problems/motive-lowest-common-ancestor-binary-tree)|Apr 02, 2025|
 |**Amazon**|[Min Retailers](https://www.fastprep.io/problems/amazon-minimum-retailers)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-retailers)|Mar 31, 2025|
 |**Amazon**|[Cinema Shows](https://www.fastprep.io/problems/amazon-cinema-shows)|[![Practice][p]](https://www.fastprep.io/problems/amazon-cinema-shows)|Mar 31, 2025|
-|**Amazon**|[Find Replacement](https://www.fastprep.io/problems/amazon-find-min-replacements)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-min-replacements)|Mar 29, 2025|
-|**IBM**|[Bitonic Subarray](https://www.fastprep.io/problems/ibm-find-length-of-longest-bitonic-subarray)|[![Practice][p]](https://www.fastprep.io/problems/ibm-find-length-of-longest-bitonic-subarray)|Mar 29, 2025|
-|**ZipRecruiter**|[Fantasy Card Duel](https://www.fastprep.io/problems/ziprecruiter-fantasy-card-duel)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-fantasy-card-duel)|Mar 29, 2025|
-|**Amazon**|[Good String](https://www.fastprep.io/problems/amazon-convert-to-good-string)|[![Practice][p]](https://www.fastprep.io/problems/amazon-convert-to-good-string)|Mar 28, 2025|
 <a id="bottom"></a>

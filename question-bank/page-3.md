@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**ZipRecruiter**|[Swap Adjacent Inversions in One Pass](https://www.fastprep.io/problems/ziprecruiter-one-pass-adjacent-inversion-swaps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-one-pass-adjacent-inversion-swaps)|Oct 02, 2023|
+|**ZipRecruiter**|[Rectangle Fit Queries](https://www.fastprep.io/problems/ziprecruiter-saved-rectangle-fit-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-saved-rectangle-fit-queries)|Sep 27, 2023|
+|**Gecko Robotics**|[Maximum Damage Patch](https://www.fastprep.io/problems/gecko-robotics-maximum-damage-patch)|Coding|[![Practice][p]](https://www.fastprep.io/problems/gecko-robotics-maximum-damage-patch)|Sep 25, 2023|
+|**Gecko Robotics**|[Generate Parameter Combinations](https://www.fastprep.io/problems/gecko-robotics-parameter-combinations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/gecko-robotics-parameter-combinations)|Sep 25, 2023|
 |**Amazon**|[Get Average Standing](https://www.fastprep.io/problems/get-average-standing)|Coding|[![Practice][p]](https://www.fastprep.io/problems/get-average-standing)|Sep 24, 2023|
 |**Amazon**|[Minimum Time Spent](https://www.fastprep.io/problems/minimum-time-spent)|Coding|[![Practice][p]](https://www.fastprep.io/problems/minimum-time-spent)|Sep 24, 2023|
 |**Amazon**|[Count Max Num Teams](https://www.fastprep.io/problems/count-max-num-teams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/count-max-num-teams)|Sep 24, 2023|
