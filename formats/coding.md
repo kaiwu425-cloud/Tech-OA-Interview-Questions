@@ -9,6 +9,7 @@
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
 |**Stripe**|[Business Account KYC Verification — Parts 1–5](https://www.fastprep.io/problems/stripe-kyc-business-verification)|[![Practice][p]](https://www.fastprep.io/problems/stripe-kyc-business-verification)|🔥 Oct 04, 2026|
+|**Google**|[Minimum Cars for Rental Requests](https://www.fastprep.io/problems/google-minimum-cars-for-rental-requests)|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-cars-for-rental-requests)|🔥 Oct 04, 2026|
 |**Google**|[Minimum Union of Two Routes](https://www.fastprep.io/problems/google-minimum-union-route-edges)|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-union-route-edges)|🔥 Oct 03, 2026|
 |**Roblox**|[Robot Navigation Around Lasers](https://www.fastprep.io/problems/roblox-laser-robot-safe-path)|[![Practice][p]](https://www.fastprep.io/problems/roblox-laser-robot-safe-path)|🔥 Oct 03, 2026|
 |**ByteDance**|[Least Recently Used Cache](https://www.fastprep.io/problems/bytedance-lru-cache)|[![Practice][p]](https://www.fastprep.io/problems/bytedance-lru-cache)|🔥 Oct 03, 2026|
@@ -95,7 +96,6 @@
 |**Google**|[Word Break](https://www.fastprep.io/problems/google-word-break)|[![Practice][p]](https://www.fastprep.io/problems/google-word-break)|🔥 Sep 30, 2026|
 |**Google**|[K Closest Stars from a Data Stream](https://www.fastprep.io/problems/google-k-closest-stars-stream)|[![Practice][p]](https://www.fastprep.io/problems/google-k-closest-stars-stream)|🔥 Sep 30, 2026|
 |**Google**|[N-Ary Tree BFS Codec](https://www.fastprep.io/problems/google-nary-tree-bfs-codec)|[![Practice][p]](https://www.fastprep.io/problems/google-nary-tree-bfs-codec)|🔥 Sep 30, 2026|
-|**Google**|[Minimum Cars for Rental Requests](https://www.fastprep.io/problems/google-minimum-cars-for-rental-requests)|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-cars-for-rental-requests)|🔥 Sep 30, 2026|
 |**OnePay**|[Device Registry Operations](https://www.fastprep.io/problems/onepay-device-registry-operations)|[![Practice][p]](https://www.fastprep.io/problems/onepay-device-registry-operations)|🔥 Sep 29, 2026|
 |**OpenAI**|[Leaves Remaining After Wind Gusts](https://www.fastprep.io/problems/openai-wind-shifted-leaf-sum)|[![Practice][p]](https://www.fastprep.io/problems/openai-wind-shifted-leaf-sum)|🔥 Sep 29, 2026|
 |**OpenAI**|[Count Routes Through Four Shop Types](https://www.fastprep.io/problems/openai-count-four-shop-routes)|[![Practice][p]](https://www.fastprep.io/problems/openai-count-four-shop-routes)|🔥 Sep 29, 2026|
