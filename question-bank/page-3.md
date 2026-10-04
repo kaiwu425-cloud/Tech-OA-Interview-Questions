@@ -9,6 +9,16 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Find Minimum Inefficiency](https://www.fastprep.io/problems/find-minimum-inefficiency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/find-minimum-inefficiency)|Aug 31, 2023|
+|**Goldman Sachs**|[Encryption Valididy](https://www.fastprep.io/problems/encryption-validity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/encryption-validity)|Aug 31, 2023|
+|**Goldman Sachs**|[Decoding String](https://www.fastprep.io/problems/decoding-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/decoding-string)|Aug 31, 2023|
+|**Goldman Sachs**|[Is Possible](https://www.fastprep.io/problems/is-possible)|Coding|[![Practice][p]](https://www.fastprep.io/problems/is-possible)|Aug 31, 2023|
+|**Arcesium**|[Add Digits](https://www.fastprep.io/problems/arcesium-add-digits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-add-digits)|Aug 30, 2023|
+|**Arcesium**|[Binary Tree Maximum Path Sum](https://www.fastprep.io/problems/arcesium-binary-tree-maximum-path-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-binary-tree-maximum-path-sum)|Aug 30, 2023|
+|**Sentry**|[Wildcard Bad-Word Filter](https://www.fastprep.io/problems/sentry-wildcard-bad-word-filter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sentry-wildcard-bad-word-filter)|Aug 17, 2023|
+|**Sentry**|[Word Wrap with Even Justification](https://www.fastprep.io/problems/sentry-word-wrap-justification)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sentry-word-wrap-justification)|Aug 17, 2023|
+|**Arcesium**|[Reverse First K Characters in Every 2K Block](https://www.fastprep.io/problems/arcesium-reverse-first-k-every-2k-block)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-reverse-first-k-every-2k-block)|Aug 05, 2023|
+|**Arcesium**|[Detect a Cycle in Directed Hate Relationships](https://www.fastprep.io/problems/arcesium-detect-cycle-in-directed-hate-graph)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-detect-cycle-in-directed-hate-graph)|Aug 05, 2023|
 |**Optiver**|[Worst Trade Reporter](https://www.fastprep.io/problems/optiver-worst-trade-reporter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/optiver-worst-trade-reporter)|Jul 25, 2023|
 |**Optiver**|[Truck Position Subscriber](https://www.fastprep.io/problems/optiver-truck-positions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/optiver-truck-positions)|Jul 25, 2023|
 |**Arcesium**|[Robo Data Sharing Direction](https://www.fastprep.io/problems/arcesium-robo-data-sharing-direction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-robo-data-sharing-direction)|Jul 17, 2023|

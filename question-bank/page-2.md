@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon / Goldman Sachs**|[Design a Financial Portfolio Dashboard](https://www.fastprep.io/system-design/financial-portfolio-dashboard)|System design|[![Practice][p]](https://www.fastprep.io/system-design/financial-portfolio-dashboard)|Jul 22, 2026|
+|**Databricks**|[Design a Chat Application with Message and Thread Deletion](https://www.fastprep.io/system-design/chat-message-and-thread-deletion)|System design|[![Practice][p]](https://www.fastprep.io/system-design/chat-message-and-thread-deletion)|Jul 22, 2026|
 |**Amazon**|[Loyal Customers Across Two Days](https://www.fastprep.io/problems/amazon-loyal-customers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-loyal-customers)|Jul 21, 2026|
 |**Amazon**|[Smallest Number With a Given Digit Sum](https://www.fastprep.io/problems/amazon-smallest-number-with-digit-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-smallest-number-with-digit-sum)|Jul 21, 2026|
 |**Oracle**|[Merge k Sorted Lists](https://www.fastprep.io/problems/oracle-merge-k-sorted-lists)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-merge-k-sorted-lists)|Jul 21, 2026|
@@ -246,6 +248,7 @@
 |**Meesho**|[Efficient Deployments](https://www.fastprep.io/problems/meesho-efficient-deployments)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meesho-efficient-deployments)|Jun 18, 2026|
 |**Google**|[Minimum Tree Value After Leaf Relocations](https://www.fastprep.io/problems/google-minimum-tree-value-after-leaf-relocations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-tree-value-after-leaf-relocations)|Jun 18, 2026|
 |**Hebbia**|[Multi-Agent Financial Research Assistant](https://www.fastprep.io/system-design/multi-agent-financial-research-assistant)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-agent-financial-research-assistant)|Jun 18, 2026|
+|**Maven Clinic**|[Minimum Appointment Cancellations with a Required Break](https://www.fastprep.io/problems/maven-clinic-minimum-appointment-cancellations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/maven-clinic-minimum-appointment-cancellations)|Jun 18, 2026|
 |**Google**|[Fountain Safety](https://www.fastprep.io/problems/google-fountain-safety)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-fountain-safety)|Jun 17, 2026|
 |**Visa**|[Maximum Even Tag Sum](https://www.fastprep.io/problems/visa-maximum-even-tag-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-maximum-even-tag-sum)|Jun 17, 2026|
 |**Visa**|[Transform Binary Matrix](https://www.fastprep.io/problems/visa-transform-binary-matrix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/visa-transform-binary-matrix)|Jun 17, 2026|
@@ -418,6 +421,7 @@
 |**Rubrik**|[Minimum Swaps To Binary Palindrome](https://www.fastprep.io/problems/rubrik-minimum-swaps-to-binary-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rubrik-minimum-swaps-to-binary-palindrome)|Apr 04, 2026|
 |**Zorvyn**|[Shortest Path With K Free Edges](https://www.fastprep.io/problems/zorvyn-shortest-path-with-k-free-edges)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zorvyn-shortest-path-with-k-free-edges)|Apr 04, 2026|
 |**Confluent**|[Design and Implement a Random-Access FIFO Queue](https://www.fastprep.io/low-level-design/random-access-fifo-queue)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/random-access-fifo-queue)|Apr 03, 2026|
+|**Maven Clinic**|[Paginate Provider Listings with Per-Page Diversity](https://www.fastprep.io/problems/maven-clinic-provider-diverse-pagination)|Coding|[![Practice][p]](https://www.fastprep.io/problems/maven-clinic-provider-diverse-pagination)|Apr 03, 2026|
 |**Zip**|[Find All Zip Rummy Melds](https://www.fastprep.io/problems/zip-rummy-melds)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zip-rummy-melds)|Apr 02, 2026|
 |**Rippling**|[Driver Balance Ledger](https://www.fastprep.io/problems/rippling-driver-balance-ledger)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-driver-balance-ledger)|Apr 01, 2026|
 |**Rippling**|[Merge Overlapping Intervals](https://www.fastprep.io/problems/rippling-merge-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-merge-intervals)|Apr 01, 2026|
@@ -456,6 +460,7 @@
 |**Adobe**|[Closest Number Pairs](https://www.fastprep.io/problems/adobe-closest-number-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adobe-closest-number-pairs)|Mar 12, 2026|
 |**Adobe**|[Maximum Reachable Value Within a Step Budget](https://www.fastprep.io/problems/adobe-maximum-reachable-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adobe-maximum-reachable-value)|Mar 12, 2026|
 |**Adobe**|[Count Distinct Fixed-Length Substrings](https://www.fastprep.io/problems/adobe-count-distinct-fixed-length-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/adobe-count-distinct-fixed-length-substrings)|Mar 12, 2026|
+|**Maven Clinic**|[Shortest Currency Conversion with Three-Decimal Rate](https://www.fastprep.io/problems/maven-clinic-shortest-currency-conversion)|Coding|[![Practice][p]](https://www.fastprep.io/problems/maven-clinic-shortest-currency-conversion)|Mar 11, 2026|
 |**Notion**|[Text Document History](https://www.fastprep.io/problems/notion-text-document-history)|Coding|[![Practice][p]](https://www.fastprep.io/problems/notion-text-document-history)|Mar 08, 2026|
 |**Bloomberg LP**|[Two City Scheduling with an Odd Candidate Count](https://www.fastprep.io/problems/bloomberg-two-city-scheduling)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-two-city-scheduling)|Mar 05, 2026|
 |**Ramp**|[In-Memory Database with TTL and Historical Lookup](https://www.fastprep.io/problems/ramp-in-memory-database-historical-lookup)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-in-memory-database-historical-lookup)|Mar 04, 2026|
@@ -645,6 +650,9 @@
 |**Goldman Sachs**|[Data Reorganization](https://www.fastprep.io/problems/goldman-get-minimum-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-get-minimum-value)|Sep 06, 2025|
 |**Cerebras**|[Multi-Channel Message Routing Queue](https://www.fastprep.io/system-design/multi-channel-message-routing-queue)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-channel-message-routing-queue)|Sep 06, 2025|
 |**Lambda**|[Cloud AI Inference Platform](https://www.fastprep.io/system-design/cloud-ai-inference-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cloud-ai-inference-platform)|Sep 06, 2025|
+|**Maven Clinic**|[Configurable Valid Brackets](https://www.fastprep.io/problems/maven-clinic-configurable-valid-brackets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/maven-clinic-configurable-valid-brackets)|Aug 28, 2025|
+|**Maven Clinic**|[Longest Valid Parentheses](https://www.fastprep.io/problems/maven-clinic-longest-valid-parentheses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/maven-clinic-longest-valid-parentheses)|Aug 28, 2025|
+|**Maven Clinic**|[Meeting Rooms II](https://www.fastprep.io/problems/maven-clinic-meeting-rooms-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/maven-clinic-meeting-rooms-ii)|Aug 28, 2025|
 |**Tennr**|[Top K Frequent Elements](https://www.fastprep.io/problems/tennr-top-k-frequent-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tennr-top-k-frequent-elements)|Aug 24, 2025|
 |**Tennr**|[Wildcard Multi-Delimiter Validation](https://www.fastprep.io/problems/tennr-wildcard-multi-delimiter-validation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tennr-wildcard-multi-delimiter-validation)|Aug 24, 2025|
 |**SpaceX**|[Rocket Component Cost](https://www.fastprep.io/problems/spacex-rocket-component-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/spacex-rocket-component-cost)|Aug 22, 2025|
@@ -1368,6 +1376,7 @@
 |**Highspot**|[Number of Islands](https://www.fastprep.io/problems/highspot-number-of-islands)|Coding|[![Practice][p]](https://www.fastprep.io/problems/highspot-number-of-islands)|Aug 03, 2024|
 |**Highspot**|[Minimum Window Substring](https://www.fastprep.io/problems/highspot-minimum-window-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/highspot-minimum-window-substring)|Aug 03, 2024|
 |**Ramp**|[Correct Apartment Bedroom Counts](https://www.fastprep.io/problems/ramp-correct-apartment-bedroom-counts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-correct-apartment-bedroom-counts)|Aug 01, 2024|
+|**Maven Clinic**|[Possible Bipartition](https://www.fastprep.io/problems/maven-clinic-possible-bipartition)|Coding|[![Practice][p]](https://www.fastprep.io/problems/maven-clinic-possible-bipartition)|Aug 01, 2024|
 |**Character.AI**|[Choose the Next Hidden-Word Guess](https://www.fastprep.io/problems/character-ai-guess-the-word)|Coding|[![Practice][p]](https://www.fastprep.io/problems/character-ai-guess-the-word)|Jul 31, 2024|
 |**Amazon**|[Get Minimum Boxes](https://www.fastprep.io/problems/amazon-get-minimum-boxes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-minimum-boxes)|Jul 25, 2024|
 |**IBM**|[Min Insertion to Balance a Parentheses String](https://www.fastprep.io/problems/ibm-minimum-insertions-to-balance-a-parentheses-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-minimum-insertions-to-balance-a-parentheses-string)|Jul 25, 2024|
@@ -1853,14 +1862,4 @@
 |**Amazon**|[Cet Mean Rank Count](https://www.fastprep.io/problems/get-mean-rank-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/get-mean-rank-count)|Aug 31, 2023|
 |**Amazon**|[Count Spikes](https://www.fastprep.io/problems/count-spikes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/count-spikes)|Aug 31, 2023|
 |**Amazon**|[Get Minimum Costs](https://www.fastprep.io/problems/get-minimum-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/get-minimum-cost)|Aug 31, 2023|
-|**Amazon**|[Find Minimum Inefficiency](https://www.fastprep.io/problems/find-minimum-inefficiency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/find-minimum-inefficiency)|Aug 31, 2023|
-|**Goldman Sachs**|[Encryption Valididy](https://www.fastprep.io/problems/encryption-validity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/encryption-validity)|Aug 31, 2023|
-|**Goldman Sachs**|[Decoding String](https://www.fastprep.io/problems/decoding-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/decoding-string)|Aug 31, 2023|
-|**Goldman Sachs**|[Is Possible](https://www.fastprep.io/problems/is-possible)|Coding|[![Practice][p]](https://www.fastprep.io/problems/is-possible)|Aug 31, 2023|
-|**Arcesium**|[Add Digits](https://www.fastprep.io/problems/arcesium-add-digits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-add-digits)|Aug 30, 2023|
-|**Arcesium**|[Binary Tree Maximum Path Sum](https://www.fastprep.io/problems/arcesium-binary-tree-maximum-path-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-binary-tree-maximum-path-sum)|Aug 30, 2023|
-|**Sentry**|[Wildcard Bad-Word Filter](https://www.fastprep.io/problems/sentry-wildcard-bad-word-filter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sentry-wildcard-bad-word-filter)|Aug 17, 2023|
-|**Sentry**|[Word Wrap with Even Justification](https://www.fastprep.io/problems/sentry-word-wrap-justification)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sentry-word-wrap-justification)|Aug 17, 2023|
-|**Arcesium**|[Reverse First K Characters in Every 2K Block](https://www.fastprep.io/problems/arcesium-reverse-first-k-every-2k-block)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-reverse-first-k-every-2k-block)|Aug 05, 2023|
-|**Arcesium**|[Detect a Cycle in Directed Hate Relationships](https://www.fastprep.io/problems/arcesium-detect-cycle-in-directed-hate-graph)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-detect-cycle-in-directed-hate-graph)|Aug 05, 2023|
 <a id="bottom"></a>
