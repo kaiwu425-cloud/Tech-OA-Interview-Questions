@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,157 questions**
+**3,158 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -943,6 +943,8 @@
 |**Microsoft**|[Minimum Fuel Cost Between Cities](https://www.fastprep.io/problems/microsoft-minimum-fuel-cost)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-fuel-cost)|🆕 Aug 23, 2026|
 |**Barclays**|[Allocate Workers for a Production Ratio](https://www.fastprep.io/problems/barclays-production-ratio-worker-allocation)|[![Practice][p]](https://www.fastprep.io/problems/barclays-production-ratio-worker-allocation)|🆕 Aug 22, 2026|
 |**Anthropic**|[Cloud Storage System](https://www.fastprep.io/problems/anthropic-cloud-storage-system)|[![Practice][p]](https://www.fastprep.io/problems/anthropic-cloud-storage-system)|🆕 Aug 22, 2026|
+|**Google**|[Longest Unique Substring Range](https://www.fastprep.io/problems/google-longest-unique-substring-range)|[![Practice][p]](https://www.fastprep.io/problems/google-longest-unique-substring-range)|🆕 Aug 22, 2026|
+|**Google**|[Minimum Distance to Return a Book](https://www.fastprep.io/problems/google-minimum-library-return-distance)|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-library-return-distance)|🆕 Aug 22, 2026|
 |**Google**|[Directed Graph Reachability Queries](https://www.fastprep.io/problems/google-directed-graph-reachability-queries)|[![Practice][p]](https://www.fastprep.io/problems/google-directed-graph-reachability-queries)|🆕 Aug 21, 2026|
 |**Pinterest**|[Phone Spam Report Counter](https://www.fastprep.io/problems/pinterest-phone-spam-report-counter)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-phone-spam-report-counter)|🆕 Aug 21, 2026|
 |**Pinterest**|[Minimize the Longest Hike Between Rest Stops](https://www.fastprep.io/problems/pinterest-minimize-longest-hike-between-rest-stops)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-minimize-longest-hike-between-rest-stops)|🆕 Aug 21, 2026|
@@ -1008,7 +1010,6 @@
 |**TikTok**|[Rating Level After Changes](https://www.fastprep.io/problems/tiktok-rating-level-after-changes)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-rating-level-after-changes)|Aug 05, 2026|
 |**TikTok**|[Space Station Shuttle Missions](https://www.fastprep.io/problems/tiktok-space-station-shuttle-missions)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-space-station-shuttle-missions)|Aug 05, 2026|
 |**IMC**|[Weighted LFU Cache](https://www.fastprep.io/problems/imc-weighted-lfu-cache)|[![Practice][p]](https://www.fastprep.io/problems/imc-weighted-lfu-cache)|Aug 05, 2026|
-|**Google**|[Minimum Distance to Return a Book](https://www.fastprep.io/problems/google-minimum-library-return-distance)|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-library-return-distance)|Aug 05, 2026|
 |**TikTok**|[Count Case-Insensitive Triplets](https://www.fastprep.io/problems/tiktok-count-case-insensitive-triplets)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-case-insensitive-triplets)|Aug 04, 2026|
 |**TikTok**|[Linear Warehouse Drone Delivery](https://www.fastprep.io/problems/tiktok-linear-warehouse-drone-delivery)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-linear-warehouse-drone-delivery)|Aug 04, 2026|
 |**TikTok**|[Product Minus Sum of Digits](https://www.fastprep.io/problems/tiktok-product-minus-sum-of-digits)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-product-minus-sum-of-digits)|Aug 04, 2026|
@@ -1832,5 +1833,4 @@
 |**IBM**|[Bitonic Subarray](https://www.fastprep.io/problems/ibm-find-length-of-longest-bitonic-subarray)|[![Practice][p]](https://www.fastprep.io/problems/ibm-find-length-of-longest-bitonic-subarray)|Mar 29, 2025|
 |**ZipRecruiter**|[Fantasy Card Duel](https://www.fastprep.io/problems/ziprecruiter-fantasy-card-duel)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-fantasy-card-duel)|Mar 29, 2025|
 |**Amazon**|[Good String](https://www.fastprep.io/problems/amazon-convert-to-good-string)|[![Practice][p]](https://www.fastprep.io/problems/amazon-convert-to-good-string)|Mar 28, 2025|
-|**ZipRecruiter**|[Triplets With Unique Chars](https://www.fastprep.io/problems/ziprecruiter-triplets-with-unique-chars)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-triplets-with-unique-chars)|Mar 28, 2025|
 <a id="bottom"></a>

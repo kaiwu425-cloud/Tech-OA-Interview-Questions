@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,157 questions**
+**3,158 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**ZipRecruiter**|[Triplets With Unique Chars](https://www.fastprep.io/problems/ziprecruiter-triplets-with-unique-chars)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-triplets-with-unique-chars)|Mar 28, 2025|
 |**HSBC**|[Flower Bouquets](https://www.fastprep.io/problems/hsbc-arrange-flower-sticks)|[![Practice][p]](https://www.fastprep.io/problems/hsbc-arrange-flower-sticks)|Mar 28, 2025|
 |**HSBC**|[Max House Area](https://www.fastprep.io/problems/hsbc-find-largest-house-area)|[![Practice][p]](https://www.fastprep.io/problems/hsbc-find-largest-house-area)|Mar 28, 2025|
 |**Yahoo**|[Count Substring](https://www.fastprep.io/problems/yahoo-get-substring-count)|[![Practice][p]](https://www.fastprep.io/problems/yahoo-get-substring-count)|Mar 28, 2025|

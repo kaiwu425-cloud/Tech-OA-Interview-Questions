@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Get Average Standing](https://www.fastprep.io/problems/get-average-standing)|Coding|[![Practice][p]](https://www.fastprep.io/problems/get-average-standing)|Sep 24, 2023|
 |**Amazon**|[Minimum Time Spent](https://www.fastprep.io/problems/minimum-time-spent)|Coding|[![Practice][p]](https://www.fastprep.io/problems/minimum-time-spent)|Sep 24, 2023|
 |**Amazon**|[Count Max Num Teams](https://www.fastprep.io/problems/count-max-num-teams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/count-max-num-teams)|Sep 24, 2023|
 |**ZipRecruiter**|[First Strict Local Minimum](https://www.fastprep.io/problems/ziprecruiter-first-strict-local-minimum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-first-strict-local-minimum)|Sep 23, 2023|

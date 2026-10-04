@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,157)](formats/coding.md) · [SQL (57)](formats/sql.md) · [System design (513)](formats/system-design.md) · [Low-level design (129)](formats/low-level-design.md) · [AI coding (63)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,158)](formats/coding.md) · [SQL (57)](formats/sql.md) · [System design (513)](formats/system-design.md) · [Low-level design (129)](formats/low-level-design.md) · [AI coding (63)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -1354,9 +1354,11 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Tekion**|[Design a Workflow Orchestrator Domain](https://www.fastprep.io/low-level-design/workflow-orchestration-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/workflow-orchestration-domain)|🆕 Aug 23, 2026|
 |**Barclays**|[Allocate Workers for a Production Ratio](https://www.fastprep.io/problems/barclays-production-ratio-worker-allocation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/barclays-production-ratio-worker-allocation)|🆕 Aug 22, 2026|
 |**Anthropic**|[Cloud Storage System](https://www.fastprep.io/problems/anthropic-cloud-storage-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/anthropic-cloud-storage-system)|🆕 Aug 22, 2026|
+|**Google**|[Longest Unique Substring Range](https://www.fastprep.io/problems/google-longest-unique-substring-range)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-longest-unique-substring-range)|🆕 Aug 22, 2026|
 |**Uber**|[Design a Price Movement Alert Platform](https://www.fastprep.io/system-design/price-movement-alert-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/price-movement-alert-platform)|🆕 Aug 22, 2026|
 |**Citadel / Goldman Sachs**|[Design a Course Registration Platform](https://www.fastprep.io/system-design/course-registration-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/course-registration-platform)|🆕 Aug 22, 2026|
 |**LinkedIn**|[Design a Rolling Shared-Article Leaderboard](https://www.fastprep.io/system-design/rolling-shared-article-leaderboard)|System design|[![Practice][p]](https://www.fastprep.io/system-design/rolling-shared-article-leaderboard)|🆕 Aug 22, 2026|
+|**Google**|[Minimum Distance to Return a Book](https://www.fastprep.io/problems/google-minimum-library-return-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-library-return-distance)|🆕 Aug 22, 2026|
 |**Google**|[Directed Graph Reachability Queries](https://www.fastprep.io/problems/google-directed-graph-reachability-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-directed-graph-reachability-queries)|🆕 Aug 21, 2026|
 |**Pinterest**|[Phone Spam Report Counter](https://www.fastprep.io/problems/pinterest-phone-spam-report-counter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/pinterest-phone-spam-report-counter)|🆕 Aug 21, 2026|
 |**Pinterest**|[Minimize the Longest Hike Between Rest Stops](https://www.fastprep.io/problems/pinterest-minimize-longest-hike-between-rest-stops)|Coding|[![Practice][p]](https://www.fastprep.io/problems/pinterest-minimize-longest-hike-between-rest-stops)|🆕 Aug 21, 2026|
@@ -1503,7 +1505,6 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Apple**|[Design a Multi-Device Photo Storage System](https://www.fastprep.io/system-design/multi-device-photo-storage)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-device-photo-storage)|Aug 05, 2026|
 |**JP Morgan Chase**|[Design a Fleet Insurance Registration Platform](https://www.fastprep.io/system-design/fleet-insurance-registration-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/fleet-insurance-registration-platform)|Aug 05, 2026|
 |**IMC**|[Weighted LFU Cache](https://www.fastprep.io/problems/imc-weighted-lfu-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-weighted-lfu-cache)|Aug 05, 2026|
-|**Google**|[Minimum Distance to Return a Book](https://www.fastprep.io/problems/google-minimum-library-return-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-library-return-distance)|Aug 05, 2026|
 |**TikTok**|[Count Case-Insensitive Triplets](https://www.fastprep.io/problems/tiktok-count-case-insensitive-triplets)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-case-insensitive-triplets)|Aug 04, 2026|
 |**TikTok**|[Linear Warehouse Drone Delivery](https://www.fastprep.io/problems/tiktok-linear-warehouse-drone-delivery)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-linear-warehouse-drone-delivery)|Aug 04, 2026|
 |**Figma**|[Design Access-Aware Design-File Retrieval and Ranking](https://www.fastprep.io/system-design/access-aware-design-file-retrieval-ranking)|System design|[![Practice][p]](https://www.fastprep.io/system-design/access-aware-design-file-retrieval-ranking)|Aug 04, 2026|
@@ -1692,5 +1693,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**TikTok**|[Count Access Code Pairs](https://www.fastprep.io/problems/tiktok-count-access-code-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-access-code-pairs)|Jul 22, 2026|
 |**TikTok**|[Count Key Changes](https://www.fastprep.io/problems/tiktok-count-key-changes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-key-changes)|Jul 22, 2026|
 |**TikTok**|[Travel Distance on Scooters](https://www.fastprep.io/problems/tiktok-travel-distance-on-scooters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-travel-distance-on-scooters)|Jul 22, 2026|
-|**TikTok**|[Validate 3x3 Digit Windows](https://www.fastprep.io/problems/tiktok-validate-3x3-digit-windows)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-validate-3x3-digit-windows)|Jul 22, 2026|
 <a id="bottom"></a>

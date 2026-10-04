@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**TikTok**|[Validate 3x3 Digit Windows](https://www.fastprep.io/problems/tiktok-validate-3x3-digit-windows)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-validate-3x3-digit-windows)|Jul 22, 2026|
 |**DRW**|[Last Round for Each Player](https://www.fastprep.io/problems/drw-last-round-for-each-player)|Coding|[![Practice][p]](https://www.fastprep.io/problems/drw-last-round-for-each-player)|Jul 22, 2026|
 |**DRW**|[Shortest Compressed Length After Removal](https://www.fastprep.io/problems/drw-shortest-compressed-length-after-removal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/drw-shortest-compressed-length-after-removal)|Jul 22, 2026|
 |**Amazon / Goldman Sachs**|[Design a Financial Portfolio Dashboard](https://www.fastprep.io/system-design/financial-portfolio-dashboard)|System design|[![Practice][p]](https://www.fastprep.io/system-design/financial-portfolio-dashboard)|Jul 22, 2026|
@@ -1858,5 +1859,4 @@
 |**ZipRecruiter**|[Rectangle Fit Queries](https://www.fastprep.io/problems/ziprecruiter-saved-rectangle-fit-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-saved-rectangle-fit-queries)|Sep 27, 2023|
 |**Gecko Robotics**|[Maximum Damage Patch](https://www.fastprep.io/problems/gecko-robotics-maximum-damage-patch)|Coding|[![Practice][p]](https://www.fastprep.io/problems/gecko-robotics-maximum-damage-patch)|Sep 25, 2023|
 |**Gecko Robotics**|[Generate Parameter Combinations](https://www.fastprep.io/problems/gecko-robotics-parameter-combinations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/gecko-robotics-parameter-combinations)|Sep 25, 2023|
-|**Amazon**|[Get Average Standing](https://www.fastprep.io/problems/get-average-standing)|Coding|[![Practice][p]](https://www.fastprep.io/problems/get-average-standing)|Sep 24, 2023|
 <a id="bottom"></a>
