@@ -9,6 +9,11 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**ZipRecruiter**|[Rank the Top Two Competition Teams](https://www.fastprep.io/problems/ziprecruiter-rank-top-two-teams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-rank-top-two-teams)|Sep 23, 2023|
+|**Persona**|[File Download Coverage Percentage](https://www.fastprep.io/problems/persona-download-coverage-percent)|Coding|[![Practice][p]](https://www.fastprep.io/problems/persona-download-coverage-percent)|Sep 20, 2023|
+|**NVIDIA**|[Neural-Network Graph Tracing and Autograd](https://www.fastprep.io/project-coding/nvidia-neural-network-tracing-autograd)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/nvidia-neural-network-tracing-autograd)|Sep 19, 2023|
+|**Odoo**|[HTML Elements Single-Tag Correction](https://www.fastprep.io/problems/odoo-html-elements-single-tag-correction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/odoo-html-elements-single-tag-correction)|Sep 18, 2023|
+|**Figma**|[Sparse Canvas Paint History](https://www.fastprep.io/problems/figma-canvas-paint-history)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-canvas-paint-history)|Sep 13, 2023|
 |**Optiver**|[Numbers Station Message Decoder](https://www.fastprep.io/problems/optiver-numbers-station)|Coding|[![Practice][p]](https://www.fastprep.io/problems/optiver-numbers-station)|Sep 05, 2023|
 |**Amazon**|[Cet Mean Rank Count](https://www.fastprep.io/problems/get-mean-rank-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/get-mean-rank-count)|Aug 31, 2023|
 |**Amazon**|[Count Spikes](https://www.fastprep.io/problems/count-spikes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/count-spikes)|Aug 31, 2023|
@@ -360,7 +365,6 @@
 |**Bloomberg LP**|[Course Schedule](https://www.fastprep.io/problems/bloomberg-course-schedule)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-course-schedule)|Mar 11, 2020|
 |**Bloomberg LP**|[Last Position of a Target in a Sorted Array](https://www.fastprep.io/problems/bloomberg-last-position-in-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-last-position-in-sorted-array)|Mar 11, 2020|
 |**Bloomberg LP**|[Three Calls Within Three Seconds](https://www.fastprep.io/problems/bloomberg-three-calls-within-three-seconds)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-three-calls-within-three-seconds)|Feb 28, 2020|
-|**SpaceX**|[Design a Satellite Fleet Management and Ground-Station Communications Platform](https://www.fastprep.io/system-design/satellite-fleet-management-ground-station-communications)|System design|[![Practice][p]](https://www.fastprep.io/system-design/satellite-fleet-management-ground-station-communications)|Feb 26, 2020|
 |**Bloomberg LP**|[Sort an Absolute-Value-Sorted Linked List](https://www.fastprep.io/problems/bloomberg-sort-absolute-value-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-sort-absolute-value-linked-list)|Feb 25, 2020|
 |**Microsoft**|[Design a Spreadsheet Next-Command Recommender](https://www.fastprep.io/system-design/spreadsheet-next-command-recommender)|System design|[![Practice][p]](https://www.fastprep.io/system-design/spreadsheet-next-command-recommender)|Feb 11, 2020|
 |**Bloomberg LP**|[Maximal Consecutive Number Ranges](https://www.fastprep.io/problems/bloomberg-consecutive-number-ranges)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-consecutive-number-ranges)|Jan 04, 2020|

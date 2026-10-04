@@ -794,6 +794,7 @@
 |**Postman**|[Design a Dating Application](https://www.fastprep.io/low-level-design/dating-application-object-model)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/dating-application-object-model)|May 15, 2025|
 |**Postman**|[Design a Location-Aware Dating Application](https://www.fastprep.io/low-level-design/location-aware-dating-application)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/location-aware-dating-application)|May 15, 2025|
 |**Old Mission**|[Restricted JSON Parser](https://www.fastprep.io/problems/old-mission-restricted-json-parser)|Coding|[![Practice][p]](https://www.fastprep.io/problems/old-mission-restricted-json-parser)|May 12, 2025|
+|**Scale AI**|[Design a Third-Party LLM Batch Job Orchestrator](https://www.fastprep.io/system-design/third-party-llm-batch-job-orchestrator)|System design|[![Practice][p]](https://www.fastprep.io/system-design/third-party-llm-batch-job-orchestrator)|May 12, 2025|
 |**Temporal**|[Delayed Task Executor Ordering](https://www.fastprep.io/problems/temporal-delayed-task-executor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/temporal-delayed-task-executor)|May 09, 2025|
 |**ElevenLabs**|[Dubbing Review Status Propagation](https://www.fastprep.io/problems/elevenlabs-dubbing-review-status)|Coding|[![Practice][p]](https://www.fastprep.io/problems/elevenlabs-dubbing-review-status)|May 01, 2025|
 |**ElevenLabs**|[Collaborative Dubbing Review Platform](https://www.fastprep.io/system-design/collaborative-dubbing-review-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/collaborative-dubbing-review-platform)|May 01, 2025|
@@ -821,6 +822,7 @@
 |**Motive**|[Lowest Common Ancestor in a Binary Tree](https://www.fastprep.io/problems/motive-lowest-common-ancestor-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-lowest-common-ancestor-binary-tree)|Apr 02, 2025|
 |**Amazon**|[Min Retailers](https://www.fastprep.io/problems/amazon-minimum-retailers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-retailers)|Mar 31, 2025|
 |**Amazon**|[Cinema Shows](https://www.fastprep.io/problems/amazon-cinema-shows)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-cinema-shows)|Mar 31, 2025|
+|**SpaceX**|[Design a Satellite Fleet Management and Ground-Station Communications Platform](https://www.fastprep.io/system-design/satellite-fleet-management-ground-station-communications)|System design|[![Practice][p]](https://www.fastprep.io/system-design/satellite-fleet-management-ground-station-communications)|Mar 31, 2025|
 |**Amazon**|[Find Replacement](https://www.fastprep.io/problems/amazon-find-min-replacements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-min-replacements)|Mar 29, 2025|
 |**IBM**|[Bitonic Subarray](https://www.fastprep.io/problems/ibm-find-length-of-longest-bitonic-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-find-length-of-longest-bitonic-subarray)|Mar 29, 2025|
 |**ZipRecruiter**|[Fantasy Card Duel](https://www.fastprep.io/problems/ziprecruiter-fantasy-card-duel)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-fantasy-card-duel)|Mar 29, 2025|
@@ -870,6 +872,7 @@
 |**Chainalysis**|[Block Transaction Count Trends](https://www.fastprep.io/problems/chainalysis-block-transaction-count-trends)|SQL|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-block-transaction-count-trends)|Mar 06, 2025|
 |**Optiver**|[Satellite Network Message Propagation](https://www.fastprep.io/problems/optiver-satellite-network)|Coding|[![Practice][p]](https://www.fastprep.io/problems/optiver-satellite-network)|Mar 01, 2025|
 |**Motive**|[Mark a Queen’s Attack Board](https://www.fastprep.io/problems/motive-queen-attack-board)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-queen-attack-board)|Feb 27, 2025|
+|**SpaceX**|[Design a Hardware Component Test Orchestration Platform](https://www.fastprep.io/system-design/hardware-component-test-orchestration)|System design|[![Practice][p]](https://www.fastprep.io/system-design/hardware-component-test-orchestration)|Feb 27, 2025|
 |**Zip**|[Furthest Building with Sandbags and Ropes](https://www.fastprep.io/problems/zip-furthest-building)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zip-furthest-building)|Feb 24, 2025|
 |**Zipline**|[Design a Drone Route Planning Geospatial Platform](https://www.fastprep.io/system-design/drone-route-planning-geospatial-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/drone-route-planning-geospatial-platform)|Feb 22, 2025|
 |**Bloomberg LP**|[Minimum-Cost Root-to-Leaf Path in an N-ary Tree](https://www.fastprep.io/problems/bloomberg-minimum-cost-nary-root-to-leaf-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-minimum-cost-nary-root-to-leaf-path)|Feb 21, 2025|
@@ -1037,6 +1040,7 @@
 |**Amazon**|[Min Time to Create Beautiful Canvas](https://www.fastprep.io/problems/amazon-find-minimum-time-to-create-beautiful-canvas)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-time-to-create-beautiful-canvas)|Oct 11, 2024|
 |**Amazon**|[Rearrange Binary String](https://www.fastprep.io/problems/amazon-rearrange-binary-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-rearrange-binary-string)|Oct 11, 2024|
 |**Amazon**|[Sort Permutation](https://www.fastprep.io/problems/amazon-can-sort-permutation-in-given-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-can-sort-permutation-in-given-moves)|Oct 11, 2024|
+|**SpaceX**|[Design a Distributed Real-Time Data Processing Platform](https://www.fastprep.io/system-design/distributed-real-time-data-processing-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-real-time-data-processing-platform)|Oct 10, 2024|
 |**Wells Fargo**|[Allocate Wells](https://www.fastprep.io/problems/wellsfargo-fair-distribution)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-fair-distribution)|Oct 09, 2024|
 |**Wells Fargo**|[Find Affected Systems](https://www.fastprep.io/problems/wellsfargo-shot-on-mi-a3-ai-triple-camera)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-shot-on-mi-a3-ai-triple-camera)|Oct 09, 2024|
 |**Wells Fargo**|[Max Distance](https://www.fastprep.io/problems/wellsfargo-find-maximum-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-find-maximum-distance)|Oct 09, 2024|
@@ -1856,9 +1860,4 @@
 |**Amazon**|[Minimum Time Spent](https://www.fastprep.io/problems/minimum-time-spent)|Coding|[![Practice][p]](https://www.fastprep.io/problems/minimum-time-spent)|Sep 24, 2023|
 |**Amazon**|[Count Max Num Teams](https://www.fastprep.io/problems/count-max-num-teams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/count-max-num-teams)|Sep 24, 2023|
 |**ZipRecruiter**|[First Strict Local Minimum](https://www.fastprep.io/problems/ziprecruiter-first-strict-local-minimum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-first-strict-local-minimum)|Sep 23, 2023|
-|**ZipRecruiter**|[Rank the Top Two Competition Teams](https://www.fastprep.io/problems/ziprecruiter-rank-top-two-teams)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-rank-top-two-teams)|Sep 23, 2023|
-|**Persona**|[File Download Coverage Percentage](https://www.fastprep.io/problems/persona-download-coverage-percent)|Coding|[![Practice][p]](https://www.fastprep.io/problems/persona-download-coverage-percent)|Sep 20, 2023|
-|**NVIDIA**|[Neural-Network Graph Tracing and Autograd](https://www.fastprep.io/project-coding/nvidia-neural-network-tracing-autograd)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/nvidia-neural-network-tracing-autograd)|Sep 19, 2023|
-|**Odoo**|[HTML Elements Single-Tag Correction](https://www.fastprep.io/problems/odoo-html-elements-single-tag-correction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/odoo-html-elements-single-tag-correction)|Sep 18, 2023|
-|**Figma**|[Sparse Canvas Paint History](https://www.fastprep.io/problems/figma-canvas-paint-history)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-canvas-paint-history)|Sep 13, 2023|
 <a id="bottom"></a>
