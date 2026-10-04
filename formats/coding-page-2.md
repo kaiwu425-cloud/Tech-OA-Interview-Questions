@@ -2,12 +2,20 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,157 questions**
+**3,164 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Motive**|[Lowest Common Ancestor in a Binary Tree](https://www.fastprep.io/problems/motive-lowest-common-ancestor-binary-tree)|[![Practice][p]](https://www.fastprep.io/problems/motive-lowest-common-ancestor-binary-tree)|Apr 02, 2025|
+|**Amazon**|[Min Retailers](https://www.fastprep.io/problems/amazon-minimum-retailers)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-retailers)|Mar 31, 2025|
+|**Amazon**|[Cinema Shows](https://www.fastprep.io/problems/amazon-cinema-shows)|[![Practice][p]](https://www.fastprep.io/problems/amazon-cinema-shows)|Mar 31, 2025|
+|**Amazon**|[Find Replacement](https://www.fastprep.io/problems/amazon-find-min-replacements)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-min-replacements)|Mar 29, 2025|
+|**IBM**|[Bitonic Subarray](https://www.fastprep.io/problems/ibm-find-length-of-longest-bitonic-subarray)|[![Practice][p]](https://www.fastprep.io/problems/ibm-find-length-of-longest-bitonic-subarray)|Mar 29, 2025|
+|**ZipRecruiter**|[Fantasy Card Duel](https://www.fastprep.io/problems/ziprecruiter-fantasy-card-duel)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-fantasy-card-duel)|Mar 29, 2025|
+|**Amazon**|[Good String](https://www.fastprep.io/problems/amazon-convert-to-good-string)|[![Practice][p]](https://www.fastprep.io/problems/amazon-convert-to-good-string)|Mar 28, 2025|
+|**ZipRecruiter**|[Triplets With Unique Chars](https://www.fastprep.io/problems/ziprecruiter-triplets-with-unique-chars)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-triplets-with-unique-chars)|Mar 28, 2025|
 |**HSBC**|[Flower Bouquets](https://www.fastprep.io/problems/hsbc-arrange-flower-sticks)|[![Practice][p]](https://www.fastprep.io/problems/hsbc-arrange-flower-sticks)|Mar 28, 2025|
 |**HSBC**|[Max House Area](https://www.fastprep.io/problems/hsbc-find-largest-house-area)|[![Practice][p]](https://www.fastprep.io/problems/hsbc-find-largest-house-area)|Mar 28, 2025|
 |**Yahoo**|[Count Substring](https://www.fastprep.io/problems/yahoo-get-substring-count)|[![Practice][p]](https://www.fastprep.io/problems/yahoo-get-substring-count)|Mar 28, 2025|
