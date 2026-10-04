@@ -410,6 +410,7 @@
 |**Pinterest**|[Policy Violation Set Checks](https://www.fastprep.io/problems/pinterest-policy-violation-set-checks)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-policy-violation-set-checks)|🔥 Sep 21, 2026|
 |**Affirm**|[Assign Sequential Loan Identifiers](https://www.fastprep.io/problems/affirm-assign-sequential-loan-identifiers)|[![Practice][p]](https://www.fastprep.io/problems/affirm-assign-sequential-loan-identifiers)|🔥 Sep 21, 2026|
 |**Affirm**|[Normalize Loan Merchants to Root Businesses](https://www.fastprep.io/problems/affirm-normalize-loan-merchants-to-root-business)|[![Practice][p]](https://www.fastprep.io/problems/affirm-normalize-loan-merchants-to-root-business)|🔥 Sep 21, 2026|
+|**Google**|[Filesystem Entity Total Size](https://www.fastprep.io/problems/google-filesystem-entity-total-size)|[![Practice][p]](https://www.fastprep.io/problems/google-filesystem-entity-total-size)|🔥 Sep 21, 2026|
 |**Mercury**|[Sliding Window Rate Limiter](https://www.fastprep.io/problems/mercury-sliding-window-rate-limiter)|[![Practice][p]](https://www.fastprep.io/problems/mercury-sliding-window-rate-limiter)|🔥 Sep 20, 2026|
 |**Google**|[Count Score Categories](https://www.fastprep.io/problems/google-count-score-categories)|[![Practice][p]](https://www.fastprep.io/problems/google-count-score-categories)|🔥 Sep 20, 2026|
 |**Google**|[Book Reading Evenings](https://www.fastprep.io/problems/google-book-reading-evenings)|[![Practice][p]](https://www.fastprep.io/problems/google-book-reading-evenings)|🔥 Sep 20, 2026|
@@ -879,7 +880,6 @@
 |**Microsoft**|[Most Visited String Sectors](https://www.fastprep.io/problems/microsoft-most-visited-string-sectors)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-most-visited-string-sectors)|🆕 Sep 01, 2026|
 |**Akuna Capital**|[Minimum Swaps](https://www.fastprep.io/problems/akuna-minimum-swaps)|[![Practice][p]](https://www.fastprep.io/problems/akuna-minimum-swaps)|🆕 Sep 01, 2026|
 |**Akuna Capital**|[Minimum Absolute Difference Pairs](https://www.fastprep.io/problems/akuna-minimum-absolute-difference-pairs)|[![Practice][p]](https://www.fastprep.io/problems/akuna-minimum-absolute-difference-pairs)|🆕 Sep 01, 2026|
-|**Google**|[Filesystem Entity Total Size](https://www.fastprep.io/problems/google-filesystem-entity-total-size)|[![Practice][p]](https://www.fastprep.io/problems/google-filesystem-entity-total-size)|🆕 Sep 01, 2026|
 |**LinkedIn**|[Largest Number](https://www.fastprep.io/problems/linkedin-largest-number)|[![Practice][p]](https://www.fastprep.io/problems/linkedin-largest-number)|🆕 Sep 01, 2026|
 |**Snap Inc.**|[Most Stones Removed with Same Row or Column](https://www.fastprep.io/problems/snap-inc-most-stones-removed)|[![Practice][p]](https://www.fastprep.io/problems/snap-inc-most-stones-removed)|🆕 Sep 01, 2026|
 |**LinkedIn**|[Repeated Shortest Word Distance Queries](https://www.fastprep.io/problems/linkedin-shortest-word-distance-queries)|[![Practice][p]](https://www.fastprep.io/problems/linkedin-shortest-word-distance-queries)|🆕 Sep 01, 2026|
