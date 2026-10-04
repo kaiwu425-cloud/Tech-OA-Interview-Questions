@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Loyal Customers Across Two Days](https://www.fastprep.io/problems/amazon-loyal-customers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-loyal-customers)|Jul 21, 2026|
 |**Amazon**|[Smallest Number With a Given Digit Sum](https://www.fastprep.io/problems/amazon-smallest-number-with-digit-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-smallest-number-with-digit-sum)|Jul 21, 2026|
 |**Oracle**|[Merge k Sorted Lists](https://www.fastprep.io/problems/oracle-merge-k-sorted-lists)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-merge-k-sorted-lists)|Jul 21, 2026|
 |**Amazon**|[Design a Distributed Recurring Workflow Scheduler](https://www.fastprep.io/system-design/distributed-recurring-workflow-scheduler)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-recurring-workflow-scheduler)|Jul 21, 2026|
@@ -570,6 +571,7 @@
 |**Zopsmart**|[Reverse Base36 Number](https://www.fastprep.io/problems/zopsmart-reverse-base36-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zopsmart-reverse-base36-number)|Dec 16, 2025|
 |**Amazon**|[Minimum S3 Storage Cost](https://www.fastprep.io/problems/amazon-minimum-s3-storage-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-s3-storage-cost)|Dec 11, 2025|
 |**Flipkart**|[Minimized Total Idle Time](https://www.fastprep.io/problems/flipkart-minimized-total-idle-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/flipkart-minimized-total-idle-time)|Dec 11, 2025|
+|**Scale AI**|[Implement a Worker Load Balancer](https://www.fastprep.io/project-coding/scale-ai-worker-load-balancer-practical)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-worker-load-balancer-practical)|Dec 07, 2025|
 |**Google**|[The Skyline Problem](https://www.fastprep.io/problems/google-the-skyline-problem)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-the-skyline-problem)|Dec 04, 2025|
 |**Google**|[Run-Length Encode a String](https://www.fastprep.io/problems/google-run-length-encode-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-run-length-encode-string)|Dec 04, 2025|
 |**Bloomberg LP**|[Deepest Nested Substrings](https://www.fastprep.io/problems/bloomberg-deepest-nested-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-deepest-nested-substrings)|Dec 03, 2025|
@@ -1861,7 +1863,4 @@
 |**Sentry**|[Word Wrap with Even Justification](https://www.fastprep.io/problems/sentry-word-wrap-justification)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sentry-word-wrap-justification)|Aug 17, 2023|
 |**Arcesium**|[Reverse First K Characters in Every 2K Block](https://www.fastprep.io/problems/arcesium-reverse-first-k-every-2k-block)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-reverse-first-k-every-2k-block)|Aug 05, 2023|
 |**Arcesium**|[Detect a Cycle in Directed Hate Relationships](https://www.fastprep.io/problems/arcesium-detect-cycle-in-directed-hate-graph)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-detect-cycle-in-directed-hate-graph)|Aug 05, 2023|
-|**Optiver**|[Worst Trade Reporter](https://www.fastprep.io/problems/optiver-worst-trade-reporter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/optiver-worst-trade-reporter)|Jul 25, 2023|
-|**Optiver**|[Truck Position Subscriber](https://www.fastprep.io/problems/optiver-truck-positions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/optiver-truck-positions)|Jul 25, 2023|
-|**Arcesium**|[Robo Data Sharing Direction](https://www.fastprep.io/problems/arcesium-robo-data-sharing-direction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-robo-data-sharing-direction)|Jul 17, 2023|
 <a id="bottom"></a>

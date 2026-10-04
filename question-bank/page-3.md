@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Optiver**|[Worst Trade Reporter](https://www.fastprep.io/problems/optiver-worst-trade-reporter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/optiver-worst-trade-reporter)|Jul 25, 2023|
+|**Optiver**|[Truck Position Subscriber](https://www.fastprep.io/problems/optiver-truck-positions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/optiver-truck-positions)|Jul 25, 2023|
+|**Arcesium**|[Robo Data Sharing Direction](https://www.fastprep.io/problems/arcesium-robo-data-sharing-direction)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-robo-data-sharing-direction)|Jul 17, 2023|
 |**Motive**|[Design a Restaurant Catalog Management Service](https://www.fastprep.io/low-level-design/restaurant-catalog-management)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/restaurant-catalog-management)|Jun 07, 2023|
 |**Motive**|[Basic Calculator](https://www.fastprep.io/problems/motive-basic-calculator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-basic-calculator)|Jun 01, 2023|
 |**Motive**|[All Anagram Start Indices](https://www.fastprep.io/problems/motive-find-all-anagram-start-indices)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-find-all-anagram-start-indices)|Jun 01, 2023|

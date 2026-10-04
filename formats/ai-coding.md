@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**62 questions**
+**63 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -60,6 +60,7 @@
 |**Tesla**|[Coordinate Parallel Runs Across Two Exclusive Targets](https://www.fastprep.io/project-coding/tesla-dual-target-parallel-runner)|[![Practice][p]](https://www.fastprep.io/project-coding/tesla-dual-target-parallel-runner)|Jan 14, 2026|
 |**Motive**|[Integrate Geocoding and Route Services](https://www.fastprep.io/project-coding/motive-geocoding-route-integration)|[![Practice][p]](https://www.fastprep.io/project-coding/motive-geocoding-route-integration)|Dec 23, 2025|
 |**Motive**|[Build a Vehicle Catalog Analysis API](https://www.fastprep.io/project-coding/vehicle-catalog-analysis)|[![Practice][p]](https://www.fastprep.io/project-coding/vehicle-catalog-analysis)|Dec 19, 2025|
+|**Scale AI**|[Implement a Worker Load Balancer](https://www.fastprep.io/project-coding/scale-ai-worker-load-balancer-practical)|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-worker-load-balancer-practical)|Dec 07, 2025|
 |**Rippling**|[Build an In-Memory Community Q&A API](https://www.fastprep.io/project-coding/community-question-answer-api)|[![Practice][p]](https://www.fastprep.io/project-coding/community-question-answer-api)|Nov 20, 2025|
 |**Stripe**|[Repair Redirected Request Body Replay](https://www.fastprep.io/project-coding/stripe-redirect-stream-replay)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-redirect-stream-replay)|Nov 12, 2025|
 |**Stripe**|[Complete a Two-Label Tabular Model Pipeline](https://www.fastprep.io/project-coding/stripe-tabular-two-label-model-pipeline)|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-tabular-two-label-model-pipeline)|Nov 11, 2025|
