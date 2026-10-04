@@ -2,12 +2,15 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,154 questions**
+**3,157 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**HSBC**|[Flower Bouquets](https://www.fastprep.io/problems/hsbc-arrange-flower-sticks)|[![Practice][p]](https://www.fastprep.io/problems/hsbc-arrange-flower-sticks)|Mar 28, 2025|
+|**HSBC**|[Max House Area](https://www.fastprep.io/problems/hsbc-find-largest-house-area)|[![Practice][p]](https://www.fastprep.io/problems/hsbc-find-largest-house-area)|Mar 28, 2025|
+|**Yahoo**|[Count Substring](https://www.fastprep.io/problems/yahoo-get-substring-count)|[![Practice][p]](https://www.fastprep.io/problems/yahoo-get-substring-count)|Mar 28, 2025|
 |**Yahoo**|[Get String](https://www.fastprep.io/problems/yahoo-get-string)|[![Practice][p]](https://www.fastprep.io/problems/yahoo-get-string)|Mar 28, 2025|
 |**Amazon**|[Max Sum of Non-overlapping Intervals](https://www.fastprep.io/problems/amazon-max-sum-of-non-overlapping-intervals)|[![Practice][p]](https://www.fastprep.io/problems/amazon-max-sum-of-non-overlapping-intervals)|Mar 27, 2025|
 |**Amazon**|[Find Min Max Difference](https://www.fastprep.io/problems/amazon-find-min-max-difference)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-min-max-difference)|Mar 27, 2025|
