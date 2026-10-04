@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Optiver**|[Numbers Station Message Decoder](https://www.fastprep.io/problems/optiver-numbers-station)|Coding|[![Practice][p]](https://www.fastprep.io/problems/optiver-numbers-station)|Sep 05, 2023|
+|**Amazon**|[Cet Mean Rank Count](https://www.fastprep.io/problems/get-mean-rank-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/get-mean-rank-count)|Aug 31, 2023|
+|**Amazon**|[Count Spikes](https://www.fastprep.io/problems/count-spikes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/count-spikes)|Aug 31, 2023|
+|**Amazon**|[Get Minimum Costs](https://www.fastprep.io/problems/get-minimum-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/get-minimum-cost)|Aug 31, 2023|
 |**Amazon**|[Find Minimum Inefficiency](https://www.fastprep.io/problems/find-minimum-inefficiency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/find-minimum-inefficiency)|Aug 31, 2023|
 |**Goldman Sachs**|[Encryption Valididy](https://www.fastprep.io/problems/encryption-validity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/encryption-validity)|Aug 31, 2023|
 |**Goldman Sachs**|[Decoding String](https://www.fastprep.io/problems/decoding-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/decoding-string)|Aug 31, 2023|
