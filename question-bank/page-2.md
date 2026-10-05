@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**MathWorks**|[Find Minimum Cost to Remove Array Elements](https://www.fastprep.io/problems/mathworks-find-minimum-cost-to-remove-array-elements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathworks-find-minimum-cost-to-remove-array-elements)|Jul 24, 2026|
+|**Apple**|[Design Task Manager](https://www.fastprep.io/problems/apple-design-task-manager)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-design-task-manager)|Jul 24, 2026|
 |**Apple**|[Unit Conversion II](https://www.fastprep.io/problems/apple-unit-conversion-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-unit-conversion-ii)|Jul 24, 2026|
 |**Cresta**|[Feature Flag Evaluation Engine](https://www.fastprep.io/problems/cresta-feature-flag-evaluation-engine)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cresta-feature-flag-evaluation-engine)|Jul 24, 2026|
 |**MathWorks**|[Group Shifted Strings](https://www.fastprep.io/problems/mathworks-group-shifted-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathworks-group-shifted-strings)|Jul 24, 2026|
@@ -1859,5 +1861,4 @@
 |**ZipRecruiter**|[Convert Backticked Identifiers to Camel Case](https://www.fastprep.io/problems/ziprecruiter-convert-backticked-identifiers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-convert-backticked-identifiers)|Nov 08, 2023|
 |**Onehouse**|[Least Recently Used Cache](https://www.fastprep.io/problems/onehouse-lru-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/onehouse-lru-cache)|Nov 07, 2023|
 |**Onehouse**|[Least Frequently Used Cache](https://www.fastprep.io/problems/onehouse-lfu-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/onehouse-lfu-cache)|Nov 07, 2023|
-|**Onehouse**|[Design a Kafka-Like Distributed Queue](https://www.fastprep.io/low-level-design/kafka-like-distributed-queue)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/kafka-like-distributed-queue)|Nov 07, 2023|
 <a id="bottom"></a>
