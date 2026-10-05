@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**519 questions**
+**524 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -494,6 +494,11 @@
 |**Google / Microsoft**|[Design Learned Web Search Ranking](https://www.fastprep.io/system-design/learned-web-search-ranking)|[![Practice][p]](https://www.fastprep.io/system-design/learned-web-search-ranking)|Apr 28, 2022|
 |**Amazon**|[Design Cross-Catalog Entity Matching](https://www.fastprep.io/system-design/cross-catalog-entity-matching)|[![Practice][p]](https://www.fastprep.io/system-design/cross-catalog-entity-matching)|Apr 20, 2022|
 |**Meta**|[Design a Human-Detection Video Data Pipeline](https://www.fastprep.io/system-design/human-detection-video-data-pipeline)|[![Practice][p]](https://www.fastprep.io/system-design/human-detection-video-data-pipeline)|Apr 05, 2022|
+|**Meta**|[Design a Global Most-Listened Songs Leaderboard](https://www.fastprep.io/system-design/global-most-listened-songs-leaderboard)|[![Practice][p]](https://www.fastprep.io/system-design/global-most-listened-songs-leaderboard)|Apr 05, 2022|
+|**Google**|[Design a Motion-Sensor Activity Model and Clean Training Data](https://www.fastprep.io/system-design/motion-sensor-activity-model-and-training-data)|[![Practice][p]](https://www.fastprep.io/system-design/motion-sensor-activity-model-and-training-data)|Apr 05, 2022|
+|**Google**|[Expand a US Digital Wallet to New Markets](https://www.fastprep.io/system-design/multi-market-digital-wallet-payments)|[![Practice][p]](https://www.fastprep.io/system-design/multi-market-digital-wallet-payments)|Apr 05, 2022|
+|**Meta**|[Select and Improve a Short-Audio Speech Recognizer](https://www.fastprep.io/system-design/short-audio-speech-recognition-model-selection)|[![Practice][p]](https://www.fastprep.io/system-design/short-audio-speech-recognition-model-selection)|Apr 05, 2022|
+|**Google**|[Train a Click Model from Multiple Live Streams](https://www.fastprep.io/system-design/multi-stream-live-click-model-training)|[![Practice][p]](https://www.fastprep.io/system-design/multi-stream-live-click-model-training)|Apr 05, 2022|
 |**Grubhub**|[Design a Restaurant Menu Catalog Service](https://www.fastprep.io/system-design/restaurant-menu-catalog-service)|[![Practice][p]](https://www.fastprep.io/system-design/restaurant-menu-catalog-service)|Mar 26, 2022|
 |**Fivetran**|[Design a Parking Lot Operations System](https://www.fastprep.io/system-design/parking-lot-operations-system)|[![Practice][p]](https://www.fastprep.io/system-design/parking-lot-operations-system)|Feb 23, 2022|
 |**Bloomberg LP**|[Design a Streaming Top-K Hitters System](https://www.fastprep.io/system-design/streaming-top-k-hitters)|[![Practice][p]](https://www.fastprep.io/system-design/streaming-top-k-hitters)|Feb 14, 2022|

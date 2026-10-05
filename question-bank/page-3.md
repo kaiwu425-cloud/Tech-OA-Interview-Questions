@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**ZipRecruiter**|[Build Cyclic String Endpoint Pairs](https://www.fastprep.io/problems/ziprecruiter-cyclic-string-endpoints)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-cyclic-string-endpoints)|Oct 31, 2023|
 |**ZipRecruiter**|[Minimum Wait until the Next Bus](https://www.fastprep.io/problems/ziprecruiter-minimum-forward-bus-wait)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-minimum-forward-bus-wait)|Oct 31, 2023|
 |**ZipRecruiter**|[Partition Matrix by Nonnegative Averages](https://www.fastprep.io/problems/ziprecruiter-partition-matrix-by-nonnegative-averages)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-partition-matrix-by-nonnegative-averages)|Oct 31, 2023|
 |**ZipRecruiter**|[Circular Memory Slot Allocator](https://www.fastprep.io/problems/ziprecruiter-circular-memory-allocator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-circular-memory-allocator)|Oct 30, 2023|
@@ -204,6 +205,11 @@
 |**ZipRecruiter**|[Rotate a Square Matrix 90 Degrees Clockwise](https://www.fastprep.io/problems/ziprecruiter-rotate-image)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-rotate-image)|Apr 08, 2022|
 |**ZipRecruiter**|[Sort an Integer Array in Ascending Order](https://www.fastprep.io/problems/ziprecruiter-sort-integers-ascending)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-sort-integers-ascending)|Apr 08, 2022|
 |**Meta**|[Design a Human-Detection Video Data Pipeline](https://www.fastprep.io/system-design/human-detection-video-data-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/human-detection-video-data-pipeline)|Apr 05, 2022|
+|**Meta**|[Design a Global Most-Listened Songs Leaderboard](https://www.fastprep.io/system-design/global-most-listened-songs-leaderboard)|System design|[![Practice][p]](https://www.fastprep.io/system-design/global-most-listened-songs-leaderboard)|Apr 05, 2022|
+|**Google**|[Design a Motion-Sensor Activity Model and Clean Training Data](https://www.fastprep.io/system-design/motion-sensor-activity-model-and-training-data)|System design|[![Practice][p]](https://www.fastprep.io/system-design/motion-sensor-activity-model-and-training-data)|Apr 05, 2022|
+|**Google**|[Expand a US Digital Wallet to New Markets](https://www.fastprep.io/system-design/multi-market-digital-wallet-payments)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-market-digital-wallet-payments)|Apr 05, 2022|
+|**Meta**|[Select and Improve a Short-Audio Speech Recognizer](https://www.fastprep.io/system-design/short-audio-speech-recognition-model-selection)|System design|[![Practice][p]](https://www.fastprep.io/system-design/short-audio-speech-recognition-model-selection)|Apr 05, 2022|
+|**Google**|[Train a Click Model from Multiple Live Streams](https://www.fastprep.io/system-design/multi-stream-live-click-model-training)|System design|[![Practice][p]](https://www.fastprep.io/system-design/multi-stream-live-click-model-training)|Apr 05, 2022|
 |**SambaNova Systems**|[Parse Variable, Expression, and Application Trees](https://www.fastprep.io/problems/sambanova-expression-tree-parser)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-expression-tree-parser)|Mar 28, 2022|
 |**Grubhub**|[Design a Restaurant Menu Catalog Service](https://www.fastprep.io/system-design/restaurant-menu-catalog-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/restaurant-menu-catalog-service)|Mar 26, 2022|
 |**Grubhub**|[Air Traffic Control System](https://www.fastprep.io/low-level-design/air-traffic-control-system)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/air-traffic-control-system)|Mar 26, 2022|
@@ -274,6 +280,7 @@
 |**NVIDIA**|[Design a GPU-Limited Three-Model Pipeline](https://www.fastprep.io/system-design/gpu-limited-three-model-pipeline)|System design|[![Practice][p]](https://www.fastprep.io/system-design/gpu-limited-three-model-pipeline)|Jun 07, 2021|
 |**NVIDIA**|[Design an Embedded Thread Sleep and Wakeup Service](https://www.fastprep.io/system-design/embedded-thread-sleep-and-wakeup-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/embedded-thread-sleep-and-wakeup-service)|Jun 07, 2021|
 |**Bloomberg LP**|[Flatten Binary Tree to Linked List](https://www.fastprep.io/problems/bloomberg-flatten-binary-tree-to-linked-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-flatten-binary-tree-to-linked-list)|Jun 04, 2021|
+|**Checkr**|[Design a Motor-Vehicle Record Rule Engine](https://www.fastprep.io/low-level-design/motor-vehicle-record-rule-engine)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/motor-vehicle-record-rule-engine)|May 13, 2021|
 |**Bloomberg LP**|[Pow(x, n)](https://www.fastprep.io/problems/bloomberg-pow-x-n)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-pow-x-n)|Apr 15, 2021|
 |**SambaNova Systems**|[Ugly Number](https://www.fastprep.io/problems/sambanova-ugly-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/sambanova-ugly-number)|Apr 02, 2021|
 |**Bloomberg LP**|[Lottery with Add and Pick Operations](https://www.fastprep.io/problems/bloomberg-lottery-add-and-pick)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-lottery-add-and-pick)|Apr 01, 2021|

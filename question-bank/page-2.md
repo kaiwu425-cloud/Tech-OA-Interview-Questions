@@ -1795,6 +1795,7 @@
 |**Amazon**|[Group Students](https://www.fastprep.io/problems/amazon-group-students)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-group-students)|Jan 27, 2024|
 |**Clio**|[Append Deranged CSV Rows](https://www.fastprep.io/problems/clio-append-deranged-csv-rows)|Coding|[![Practice][p]](https://www.fastprep.io/problems/clio-append-deranged-csv-rows)|Jan 24, 2024|
 |**Navan**|[Design a Credit-Card Spending Report Platform](https://www.fastprep.io/system-design/credit-card-spending-report-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/credit-card-spending-report-platform)|Jan 24, 2024|
+|**Navan**|[Design a Calendar Availability Scheduler](https://www.fastprep.io/low-level-design/calendar-availability-scheduler)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/calendar-availability-scheduler)|Jan 24, 2024|
 |**Amazon**|[Rice Bags](https://www.fastprep.io/problems/max-set-size)|Coding|[![Practice][p]](https://www.fastprep.io/problems/max-set-size)|Jan 13, 2024|
 |**Snowflake**|[Smallest Set Covering Intervals](https://www.fastprep.io/problems/smallest-set-covering-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/smallest-set-covering-intervals)|Jan 13, 2024|
 |**Snowflake**|[Maximum Order Volume](https://www.fastprep.io/problems/phone-calls)|Coding|[![Practice][p]](https://www.fastprep.io/problems/phone-calls)|Jan 13, 2024|
@@ -1860,5 +1861,4 @@
 |**ZipRecruiter**|[Binary String Flip and Prefix Zero Counts](https://www.fastprep.io/problems/ziprecruiter-binary-prefix-zero-requests)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-binary-prefix-zero-requests)|Oct 31, 2023|
 |**ZipRecruiter**|[Concatenate Digit-wise Sums](https://www.fastprep.io/problems/ziprecruiter-concatenate-digit-wise-sums)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-concatenate-digit-wise-sums)|Oct 31, 2023|
 |**ZipRecruiter**|[Count Overlapping Substring Occurrences](https://www.fastprep.io/problems/ziprecruiter-count-overlapping-substrings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-overlapping-substrings)|Oct 31, 2023|
-|**ZipRecruiter**|[Build Cyclic String Endpoint Pairs](https://www.fastprep.io/problems/ziprecruiter-cyclic-string-endpoints)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-cyclic-string-endpoints)|Oct 31, 2023|
 <a id="bottom"></a>
