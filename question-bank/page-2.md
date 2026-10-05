@@ -843,6 +843,7 @@
 |**Amazon**|[Find Idle Skill Query](https://www.fastprep.io/problems/amazon-find-idle-skills-query)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-idle-skills-query)|Apr 27, 2025|
 |**Amazon**|[Compute Beauty of Array Products](https://www.fastprep.io/problems/amazon-compute-beauty-of-array-products)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-compute-beauty-of-array-products)|Apr 27, 2025|
 |**Zip**|[Design Personalized Customer Document Search](https://www.fastprep.io/system-design/personalized-customer-document-search)|System design|[![Practice][p]](https://www.fastprep.io/system-design/personalized-customer-document-search)|Apr 21, 2025|
+|**Checkr**|[Design a Background-Check Processing Platform](https://www.fastprep.io/system-design/background-check-processing-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/background-check-processing-platform)|Apr 19, 2025|
 |**Amazon**|[Min Num Unique Distribution Hubs](https://www.fastprep.io/problems/amazon-get-minimum-number-of-unique-distribution-centers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-minimum-number-of-unique-distribution-centers)|Apr 13, 2025|
 |**Amazon**|[Use Minimum Tokens](https://www.fastprep.io/problems/amazon-use-minimum-tokens)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-use-minimum-tokens)|Apr 13, 2025|
 |**Amazon**|[Next Perfect String](https://www.fastprep.io/problems/amazon-next-greater-perfect-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-next-greater-perfect-string)|Apr 13, 2025|
@@ -1859,6 +1860,4 @@
 |**Stripe**|[Rebalance Bank Accounts to a Minimum Balance](https://www.fastprep.io/problems/stripe-minimum-bank-balance-transfers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-minimum-bank-balance-transfers)|Nov 17, 2023|
 |**Stripe**|[URL Segment Compression Part 3 — Global Token Budget](https://www.fastprep.io/problems/stripe-url-segment-compression-part3)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-url-segment-compression-part3)|Nov 17, 2023|
 |**ZipRecruiter**|[Convert Backticked Identifiers to Camel Case](https://www.fastprep.io/problems/ziprecruiter-convert-backticked-identifiers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-convert-backticked-identifiers)|Nov 08, 2023|
-|**Onehouse**|[Least Recently Used Cache](https://www.fastprep.io/problems/onehouse-lru-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/onehouse-lru-cache)|Nov 07, 2023|
-|**Onehouse**|[Least Frequently Used Cache](https://www.fastprep.io/problems/onehouse-lfu-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/onehouse-lfu-cache)|Nov 07, 2023|
 <a id="bottom"></a>

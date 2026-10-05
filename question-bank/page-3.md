@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Onehouse**|[Least Recently Used Cache](https://www.fastprep.io/problems/onehouse-lru-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/onehouse-lru-cache)|Nov 07, 2023|
+|**Onehouse**|[Least Frequently Used Cache](https://www.fastprep.io/problems/onehouse-lfu-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/onehouse-lfu-cache)|Nov 07, 2023|
 |**Onehouse**|[Design a Kafka-Like Distributed Queue](https://www.fastprep.io/low-level-design/kafka-like-distributed-queue)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/kafka-like-distributed-queue)|Nov 07, 2023|
 |**ZipRecruiter**|[Compare Counts Around a Pivot](https://www.fastprep.io/problems/ziprecruiter-compare-counts-around-pivot)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-compare-counts-around-pivot)|Nov 07, 2023|
 |**ZipRecruiter**|[Split Text into Minimum Suffixed SMS Messages](https://www.fastprep.io/problems/ziprecruiter-minimum-suffixed-sms)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-minimum-suffixed-sms)|Nov 07, 2023|

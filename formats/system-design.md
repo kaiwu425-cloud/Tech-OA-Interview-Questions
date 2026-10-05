@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**525 questions**
+**526 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -452,6 +452,7 @@
 |**Scale AI**|[Design a Third-Party LLM Batch Job Orchestrator](https://www.fastprep.io/system-design/third-party-llm-batch-job-orchestrator)|[![Practice][p]](https://www.fastprep.io/system-design/third-party-llm-batch-job-orchestrator)|May 12, 2025|
 |**ElevenLabs**|[Collaborative Dubbing Review Platform](https://www.fastprep.io/system-design/collaborative-dubbing-review-platform)|[![Practice][p]](https://www.fastprep.io/system-design/collaborative-dubbing-review-platform)|May 01, 2025|
 |**Zip**|[Design Personalized Customer Document Search](https://www.fastprep.io/system-design/personalized-customer-document-search)|[![Practice][p]](https://www.fastprep.io/system-design/personalized-customer-document-search)|Apr 21, 2025|
+|**Checkr**|[Design a Background-Check Processing Platform](https://www.fastprep.io/system-design/background-check-processing-platform)|[![Practice][p]](https://www.fastprep.io/system-design/background-check-processing-platform)|Apr 19, 2025|
 |**Modular**|[Design a Machine Learning Feature Store](https://www.fastprep.io/system-design/machine-learning-feature-store)|[![Practice][p]](https://www.fastprep.io/system-design/machine-learning-feature-store)|Apr 10, 2025|
 |**SpaceX**|[Design a Satellite Fleet Management and Ground-Station Communications Platform](https://www.fastprep.io/system-design/satellite-fleet-management-ground-station-communications)|[![Practice][p]](https://www.fastprep.io/system-design/satellite-fleet-management-ground-station-communications)|Mar 31, 2025|
 |**Chainalysis**|[Design a Real-Time Multi-Chain Blockchain Data Pipeline](https://www.fastprep.io/system-design/multi-chain-blockchain-data-pipeline)|[![Practice][p]](https://www.fastprep.io/system-design/multi-chain-blockchain-data-pipeline)|Mar 06, 2025|
