@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,214 questions**
+**3,217 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -1576,6 +1576,7 @@
 |**Bloomberg LP**|[Insert, Delete, and Get Random in Constant Time](https://www.fastprep.io/problems/bloomberg-insert-delete-getrandom-o1)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-insert-delete-getrandom-o1)|Feb 17, 2026|
 |**Google**|[Find All People With the Secret](https://www.fastprep.io/problems/google-find-all-people-with-secret)|[![Practice][p]](https://www.fastprep.io/problems/google-find-all-people-with-secret)|Feb 14, 2026|
 |**Google**|[House Robber with Selected Indices](https://www.fastprep.io/problems/google-house-robber-with-selected-indices)|[![Practice][p]](https://www.fastprep.io/problems/google-house-robber-with-selected-indices)|Feb 14, 2026|
+|**SpaceX**|[Button Combination Detector](https://www.fastprep.io/problems/spacex-button-combination-detector)|[![Practice][p]](https://www.fastprep.io/problems/spacex-button-combination-detector)|Feb 11, 2026|
 |**Temporal**|[Normalize and Aggregate Error Logs](https://www.fastprep.io/problems/temporal-log-error-aggregation)|[![Practice][p]](https://www.fastprep.io/problems/temporal-log-error-aggregation)|Feb 11, 2026|
 |**Wells Fargo**|[Count Server Replacements](https://www.fastprep.io/problems/wellsfargo-count-server-replacements)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-count-server-replacements)|Feb 08, 2026|
 |**Wells Fargo**|[Minimum Remaining Length](https://www.fastprep.io/problems/wellsfargo-minimum-remaining-length)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-minimum-remaining-length)|Feb 08, 2026|
@@ -1830,6 +1831,4 @@
 |**Airtable**|[Get Most Hydrated Team](https://www.fastprep.io/problems/airtable-get-mostp-hydrated-team)|[![Practice][p]](https://www.fastprep.io/problems/airtable-get-mostp-hydrated-team)|May 25, 2025|
 |**Airtable**|[Table Editing](https://www.fastprep.io/problems/airtable-percentiles)|[![Practice][p]](https://www.fastprep.io/problems/airtable-percentiles)|May 25, 2025|
 |**Dell**|[Optimizing Resource Allocation](https://www.fastprep.io/problems/dell-find-optimal-resources)|[![Practice][p]](https://www.fastprep.io/problems/dell-find-optimal-resources)|May 25, 2025|
-|**Dell**|[Count Binary Substrings](https://www.fastprep.io/problems/dell-get-substring-count)|[![Practice][p]](https://www.fastprep.io/problems/dell-get-substring-count)|May 25, 2025|
-|**Epify**|[Request Redirection](https://www.fastprep.io/problems/epifi-get-min-latency)|[![Practice][p]](https://www.fastprep.io/problems/epifi-get-min-latency)|May 25, 2025|
 <a id="bottom"></a>
