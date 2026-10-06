@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**TikTok**|[Uppercase-Lowercase Difference](https://www.fastprep.io/problems/tiktok-uppercase-lowercase-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-uppercase-lowercase-difference)|Jul 25, 2026|
 |**Salesforce**|[Longest Increasing Subsequence](https://www.fastprep.io/problems/salesforce-longest-increasing-subsequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-longest-increasing-subsequence)|Jul 24, 2026|
 |**Salesforce**|[Maximal Square](https://www.fastprep.io/problems/salesforce-maximal-square)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-maximal-square)|Jul 24, 2026|
 |**MathWorks**|[Beautiful Arrangement](https://www.fastprep.io/problems/mathworks-beautiful-arrangement)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathworks-beautiful-arrangement)|Jul 24, 2026|
@@ -561,7 +562,6 @@
 |**Ramp**|[Worker Management, Part 2: Top Workers](https://www.fastprep.io/problems/ramp-worker-management-level-2)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-worker-management-level-2)|Jan 21, 2026|
 |**Ramp**|[Worker Management, Part 3: Promotions and Salary](https://www.fastprep.io/problems/ramp-worker-management-level-3)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-worker-management-level-3)|Jan 21, 2026|
 |**Ramp**|[Worker Management, Part 4: Double-Paid Intervals](https://www.fastprep.io/problems/ramp-worker-management-level-4)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-worker-management-level-4)|Jan 21, 2026|
-|**Stripe**|[Complete a Bikemap Route and JSON Integration](https://www.fastprep.io/project-coding/stripe-bikemap-json-integration)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-bikemap-json-integration)|Jan 20, 2026|
 |**Navan**|[Design a Flight Offer Aggregator](https://www.fastprep.io/low-level-design/flight-offer-aggregation-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/flight-offer-aggregation-domain)|Jan 20, 2026|
 |**JP Morgan**|[Count Dropped Requests](https://www.fastprep.io/problems/jpmorgan-count-dropped-requests)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-count-dropped-requests)|Jan 19, 2026|
 |**JP Morgan**|[Generate Table of Contents](https://www.fastprep.io/problems/jpmorgan-generate-table-of-contents)|Coding|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-generate-table-of-contents)|Jan 19, 2026|
