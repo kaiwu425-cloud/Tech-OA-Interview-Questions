@@ -9,6 +9,11 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Goldman Sachs**|[Autocorrect Prototype](https://www.fastprep.io/problems/autocorrect-prototype)|Coding|[![Practice][p]](https://www.fastprep.io/problems/autocorrect-prototype)|Jan 09, 2024|
+|**Goldman Sachs**|[Do They Belong?](https://www.fastprep.io/problems/points-belong)|Coding|[![Practice][p]](https://www.fastprep.io/problems/points-belong)|Jan 09, 2024|
+|**Goldman Sachs**|[Preprocess Dates](https://www.fastprep.io/problems/preprocess-date)|Coding|[![Practice][p]](https://www.fastprep.io/problems/preprocess-date)|Jan 09, 2024|
+|**Goldman Sachs**|[Compare Strings](https://www.fastprep.io/problems/compare-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/compare-strings)|Jan 09, 2024|
+|**Goldman Sachs**|[Plus Mult Array](https://www.fastprep.io/problems/plus-mult-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/plus-mult-array)|Jan 09, 2024|
 |**Goldman Sachs**|[Better Compression](https://www.fastprep.io/problems/better-compression)|Coding|[![Practice][p]](https://www.fastprep.io/problems/better-compression)|Jan 09, 2024|
 |**Goldman Sachs**|[Encircular](https://www.fastprep.io/problems/encircular)|Coding|[![Practice][p]](https://www.fastprep.io/problems/encircular)|Jan 09, 2024|
 |**Goldman Sachs**|[Project Estimates](https://www.fastprep.io/problems/project-estimates)|Coding|[![Practice][p]](https://www.fastprep.io/problems/project-estimates)|Jan 09, 2024|

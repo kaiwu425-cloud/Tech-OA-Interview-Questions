@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Databricks**|[Design a Durable Local Event Writer](https://www.fastprep.io/system-design/durable-local-event-writer)|System design|[![Practice][p]](https://www.fastprep.io/system-design/durable-local-event-writer)|Jul 26, 2026|
+|**Databricks**|[Design a Chat Application Cache Architecture](https://www.fastprep.io/system-design/chat-application-cache-architecture)|System design|[![Practice][p]](https://www.fastprep.io/system-design/chat-application-cache-architecture)|Jul 25, 2026|
+|**Salesforce**|[Optimal Account Balancing](https://www.fastprep.io/problems/salesforce-optimal-account-balancing)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-optimal-account-balancing)|Jul 25, 2026|
+|**Google**|[Count Sortable Splits](https://www.fastprep.io/problems/google-count-sortable-splits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-count-sortable-splits)|Jul 25, 2026|
 |**Pinterest**|[Nested Set Structural Equivalence](https://www.fastprep.io/problems/pinterest-nested-set-structural-equivalence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/pinterest-nested-set-structural-equivalence)|Jul 25, 2026|
 |**TikTok**|[Bubble Explosion](https://www.fastprep.io/problems/tiktok-bubble-explosion)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-bubble-explosion)|Jul 25, 2026|
 |**TikTok**|[Reconstruct Landmark Journey](https://www.fastprep.io/problems/tiktok-reconstruct-landmark-journey)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-reconstruct-landmark-journey)|Jul 25, 2026|
@@ -1855,9 +1859,4 @@
 |**Goldman Sachs**|[Compute Parameter Value](https://www.fastprep.io/problems/compute-parameter-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/compute-parameter-value)|Jan 09, 2024|
 |**Goldman Sachs**|[Max Min](https://www.fastprep.io/problems/max-min)|Coding|[![Practice][p]](https://www.fastprep.io/problems/max-min)|Jan 09, 2024|
 |**Goldman Sachs**|[Chair Requirements](https://www.fastprep.io/problems/goldman-min-chair)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-min-chair)|Jan 09, 2024|
-|**Goldman Sachs**|[Autocorrect Prototype](https://www.fastprep.io/problems/autocorrect-prototype)|Coding|[![Practice][p]](https://www.fastprep.io/problems/autocorrect-prototype)|Jan 09, 2024|
-|**Goldman Sachs**|[Do They Belong?](https://www.fastprep.io/problems/points-belong)|Coding|[![Practice][p]](https://www.fastprep.io/problems/points-belong)|Jan 09, 2024|
-|**Goldman Sachs**|[Preprocess Dates](https://www.fastprep.io/problems/preprocess-date)|Coding|[![Practice][p]](https://www.fastprep.io/problems/preprocess-date)|Jan 09, 2024|
-|**Goldman Sachs**|[Compare Strings](https://www.fastprep.io/problems/compare-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/compare-strings)|Jan 09, 2024|
-|**Goldman Sachs**|[Plus Mult Array](https://www.fastprep.io/problems/plus-mult-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/plus-mult-array)|Jan 09, 2024|
 <a id="bottom"></a>

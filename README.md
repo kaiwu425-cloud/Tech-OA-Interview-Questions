@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,221)](formats/coding.md) · [SQL (57)](formats/sql.md) · [System design (532)](formats/system-design.md) · [Low-level design (140)](formats/low-level-design.md) · [AI coding (67)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,225)](formats/coding.md) · [SQL (57)](formats/sql.md) · [System design (532)](formats/system-design.md) · [Low-level design (140)](formats/low-level-design.md) · [AI coding (67)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -653,6 +653,10 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**LinkedIn**|[Inverse-Depth Nested List Sum](https://www.fastprep.io/problems/linkedin-nested-list-weight-sum-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/linkedin-nested-list-weight-sum-ii)|🆕 Sep 20, 2026|
 |**Figma**|[Layer History with Batch Undo and Redo](https://www.fastprep.io/problems/figma-layer-history)|Coding|[![Practice][p]](https://www.fastprep.io/problems/figma-layer-history)|🆕 Sep 20, 2026|
 |**Google**|[First Missing Positive](https://www.fastprep.io/problems/google-first-missing-positive)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-first-missing-positive)|🆕 Sep 20, 2026|
+|**Google**|[Latest Arrival Time for a Shuttle](https://www.fastprep.io/problems/google-latest-shuttle-arrival)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-latest-shuttle-arrival)|🆕 Sep 20, 2026|
+|**Google**|[Reach a Meeting by Scheduled Trains](https://www.fastprep.io/problems/google-scheduled-train-meeting-reachability)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-scheduled-train-meeting-reachability)|🆕 Sep 20, 2026|
+|**Google**|[Reverse Vowels of a String](https://www.fastprep.io/problems/google-reverse-vowels-of-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-reverse-vowels-of-string)|🆕 Sep 20, 2026|
+|**Google**|[Random Picks Excluding Recent Values](https://www.fastprep.io/problems/google-random-pick-excluding-recent)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-random-pick-excluding-recent)|🆕 Sep 20, 2026|
 |**GoodScore**|[Design and Implement a Thread-Safe In-Memory Task Queue](https://www.fastprep.io/low-level-design/thread-safe-in-memory-task-queue)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-in-memory-task-queue)|🆕 Sep 19, 2026|
 |**GoodScore**|[Count Divisible Power Sums](https://www.fastprep.io/problems/goodscore-count-divisible-power-sums)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goodscore-count-divisible-power-sums)|🆕 Sep 19, 2026|
 |**Stripe**|[Incident Monitor](https://www.fastprep.io/problems/stripe-incident-monitor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-incident-monitor)|🆕 Sep 19, 2026|
@@ -1687,8 +1691,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Citadel**|[Limit Order Book Matching Engine](https://www.fastprep.io/problems/citadel-limit-order-book-matching-engine)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-limit-order-book-matching-engine)|Jul 26, 2026|
 |**Hudson River Trading**|[Market Data Signal Watcher](https://www.fastprep.io/problems/hudson-river-market-data-signal-watcher)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hudson-river-market-data-signal-watcher)|Jul 26, 2026|
 |**Amazon**|[Shortest Distance on a Circular Bus Route](https://www.fastprep.io/problems/amazon-shortest-distance-circular-bus-route)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-shortest-distance-circular-bus-route)|Jul 26, 2026|
-|**Databricks**|[Design a Durable Local Event Writer](https://www.fastprep.io/system-design/durable-local-event-writer)|System design|[![Practice][p]](https://www.fastprep.io/system-design/durable-local-event-writer)|Jul 26, 2026|
-|**Databricks**|[Design a Chat Application Cache Architecture](https://www.fastprep.io/system-design/chat-application-cache-architecture)|System design|[![Practice][p]](https://www.fastprep.io/system-design/chat-application-cache-architecture)|Jul 25, 2026|
-|**Salesforce**|[Optimal Account Balancing](https://www.fastprep.io/problems/salesforce-optimal-account-balancing)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-optimal-account-balancing)|Jul 25, 2026|
-|**Google**|[Count Sortable Splits](https://www.fastprep.io/problems/google-count-sortable-splits)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-count-sortable-splits)|Jul 25, 2026|
 <a id="bottom"></a>

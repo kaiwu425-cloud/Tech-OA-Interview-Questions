@@ -2,12 +2,17 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,221 questions**
+**3,225 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Agoda**|[Two-Core Process Assignment](https://www.fastprep.io/problems/agoda-two-core-process-assignment)|[![Practice][p]](https://www.fastprep.io/problems/agoda-two-core-process-assignment)|May 25, 2025|
+|**Agoda**|[Team Formation](https://www.fastprep.io/problems/agoda-team-formation)|[![Practice][p]](https://www.fastprep.io/problems/agoda-team-formation)|May 25, 2025|
+|**IBM**|[Get Min Increment](https://www.fastprep.io/problems/ibm-get-minimum-increment)|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-minimum-increment)|May 25, 2025|
+|**IBM**|[Get Min Operations](https://www.fastprep.io/problems/ibm-get-min-operations)|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-min-operations)|May 25, 2025|
+|**Microsoft**|[Valid Mixed Case Letters](https://www.fastprep.io/problems/microsoft-valid-mixed-case-letters)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-valid-mixed-case-letters)|May 25, 2025|
 |**Airtable**|[Approximate Percentiles](https://www.fastprep.io/problems/airtable-approximate-percentiles)|[![Practice][p]](https://www.fastprep.io/problems/airtable-approximate-percentiles)|May 25, 2025|
 |**Airtable**|[Get Most Hydrated Team](https://www.fastprep.io/problems/airtable-get-mostp-hydrated-team)|[![Practice][p]](https://www.fastprep.io/problems/airtable-get-mostp-hydrated-team)|May 25, 2025|
 |**Airtable**|[Table Editing](https://www.fastprep.io/problems/airtable-percentiles)|[![Practice][p]](https://www.fastprep.io/problems/airtable-percentiles)|May 25, 2025|
