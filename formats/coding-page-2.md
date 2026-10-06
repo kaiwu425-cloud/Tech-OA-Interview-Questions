@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,212 questions**
+**3,214 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -80,6 +80,7 @@
 |**Chainalysis**|[Filter Team A Transfer Logs](https://www.fastprep.io/problems/chainalysis-filter-team-a-transfer-logs)|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-filter-team-a-transfer-logs)|Mar 06, 2025|
 |**Chainalysis**|[High-Severity Counts by Search Type](https://www.fastprep.io/problems/chainalysis-high-severity-counts-by-search-type)|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-high-severity-counts-by-search-type)|Mar 06, 2025|
 |**Chainalysis**|[Team A High-Severity Transfer Hashes](https://www.fastprep.io/problems/chainalysis-team-a-high-severity-transfer-hashes)|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-team-a-high-severity-transfer-hashes)|Mar 06, 2025|
+|**Scale AI**|[Best Poker Category with a Joker](https://www.fastprep.io/problems/scale-ai-best-poker-category-with-joker)|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-best-poker-category-with-joker)|Mar 04, 2025|
 |**Optiver**|[Satellite Network Message Propagation](https://www.fastprep.io/problems/optiver-satellite-network)|[![Practice][p]](https://www.fastprep.io/problems/optiver-satellite-network)|Mar 01, 2025|
 |**Motive**|[Mark a Queen’s Attack Board](https://www.fastprep.io/problems/motive-queen-attack-board)|[![Practice][p]](https://www.fastprep.io/problems/motive-queen-attack-board)|Feb 27, 2025|
 |**Zip**|[Furthest Building with Sandbags and Ropes](https://www.fastprep.io/problems/zip-furthest-building)|[![Practice][p]](https://www.fastprep.io/problems/zip-furthest-building)|Feb 24, 2025|
@@ -1274,6 +1275,7 @@
 |**Bloomberg LP**|[Number of Distinct Islands](https://www.fastprep.io/problems/bloomberg-number-of-distinct-islands)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-number-of-distinct-islands)|Jan 20, 2021|
 |**Bloomberg LP**|[Target Sum Across Two Sorted Arrays](https://www.fastprep.io/problems/bloomberg-target-sum-across-two-arrays)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-target-sum-across-two-arrays)|Jan 17, 2021|
 |**Bloomberg LP**|[Coin Change II](https://www.fastprep.io/problems/bloomberg-coin-change-ii)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-coin-change-ii)|Jan 12, 2021|
+|**Scale AI**|[Adjacent Order-Statistic Gap Distributions](https://www.fastprep.io/problems/scale-ai-adjacent-order-statistic-gaps)|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-adjacent-order-statistic-gaps)|Jan 08, 2021|
 |**Bloomberg LP**|[Decode a Binary Tree by Vertical Traversal](https://www.fastprep.io/problems/bloomberg-vertical-tree-decoding)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-vertical-tree-decoding)|Dec 23, 2020|
 |**Bloomberg LP**|[All Simple Paths in a Cyclic Directed Graph](https://www.fastprep.io/problems/bloomberg-all-simple-paths-directed-cyclic-graph)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-all-simple-paths-directed-cyclic-graph)|Dec 22, 2020|
 |**Bloomberg LP**|[Maximum Non-Overlapping Longer Intervals](https://www.fastprep.io/problems/bloomberg-longer-interval-priority-scheduling)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-longer-interval-priority-scheduling)|Dec 22, 2020|
