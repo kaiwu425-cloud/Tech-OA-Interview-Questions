@@ -845,6 +845,7 @@
 |**Old Mission**|[Restricted JSON Parser](https://www.fastprep.io/problems/old-mission-restricted-json-parser)|Coding|[![Practice][p]](https://www.fastprep.io/problems/old-mission-restricted-json-parser)|May 12, 2025|
 |**Scale AI**|[Design a Third-Party LLM Batch Job Orchestrator](https://www.fastprep.io/system-design/third-party-llm-batch-job-orchestrator)|System design|[![Practice][p]](https://www.fastprep.io/system-design/third-party-llm-batch-job-orchestrator)|May 12, 2025|
 |**Temporal**|[Delayed Task Executor Ordering](https://www.fastprep.io/problems/temporal-delayed-task-executor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/temporal-delayed-task-executor)|May 09, 2025|
+|**Scale AI**|[Design an LLM-Assisted Contributor Work Evaluation System](https://www.fastprep.io/system-design/llm-contributor-work-evaluation)|System design|[![Practice][p]](https://www.fastprep.io/system-design/llm-contributor-work-evaluation)|May 09, 2025|
 |**ElevenLabs**|[Dubbing Review Status Propagation](https://www.fastprep.io/problems/elevenlabs-dubbing-review-status)|Coding|[![Practice][p]](https://www.fastprep.io/problems/elevenlabs-dubbing-review-status)|May 01, 2025|
 |**ElevenLabs**|[Collaborative Dubbing Review Platform](https://www.fastprep.io/system-design/collaborative-dubbing-review-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/collaborative-dubbing-review-platform)|May 01, 2025|
 |**Clay**|[Minesweeper Board Update](https://www.fastprep.io/problems/clay-minesweeper-board-update)|Coding|[![Practice][p]](https://www.fastprep.io/problems/clay-minesweeper-board-update)|Apr 30, 2025|
@@ -1861,5 +1862,4 @@
 |**Amazon**|[Count Games Won By Group1 (AMZ CN)](https://www.fastprep.io/problems/amazon-how-many-games-did-the-team-win)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-how-many-games-did-the-team-win)|Dec 27, 2023|
 |**Amazon**|[Get Min Distance (AMZ CN)](https://www.fastprep.io/problems/amazon-find-minimum-dist)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-dist)|Dec 27, 2023|
 |**Amazon**|[Check Similar Passwords](https://www.fastprep.io/problems/check-similar-passwords)|Coding|[![Practice][p]](https://www.fastprep.io/problems/check-similar-passwords)|Dec 23, 2023|
-|**Amazon**|[Maximum Score in Balanced String](https://www.fastprep.io/problems/maximum-score-in-balanced-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/maximum-score-in-balanced-string)|Dec 23, 2023|
 <a id="bottom"></a>

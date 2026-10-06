@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Maximum Score in Balanced String](https://www.fastprep.io/problems/maximum-score-in-balanced-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/maximum-score-in-balanced-string)|Dec 23, 2023|
 |**Amazon**|[Location of Data After Transfers](https://www.fastprep.io/problems/location-of-data-after-transfers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/location-of-data-after-transfers)|Dec 23, 2023|
 |**Stripe**|[Parse and Enrich Imported Card Data](https://www.fastprep.io/problems/stripe-card-data-import-enrichment)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-card-data-import-enrichment)|Dec 21, 2023|
 |**Amazon**|[Get Success Value](https://www.fastprep.io/problems/get-success-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/get-success-value)|Dec 19, 2023|
@@ -357,6 +358,7 @@
 |**Bloomberg LP**|[Target Sum Across Two Sorted Arrays](https://www.fastprep.io/problems/bloomberg-target-sum-across-two-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-target-sum-across-two-arrays)|Jan 17, 2021|
 |**Bloomberg LP**|[Coin Change II](https://www.fastprep.io/problems/bloomberg-coin-change-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-coin-change-ii)|Jan 12, 2021|
 |**Scale AI**|[Adjacent Order-Statistic Gap Distributions](https://www.fastprep.io/problems/scale-ai-adjacent-order-statistic-gaps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-adjacent-order-statistic-gaps)|Jan 08, 2021|
+|**Scale AI**|[Complete a Small CNN Oriented-Box Regression Pipeline](https://www.fastprep.io/project-coding/scale-ai-small-cnn-oriented-box-regression)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-small-cnn-oriented-box-regression)|Jan 08, 2021|
 |**Figma**|[Design Search Result Highlighting](https://www.fastprep.io/system-design/search-result-highlighting)|System design|[![Practice][p]](https://www.fastprep.io/system-design/search-result-highlighting)|Jan 01, 2021|
 |**Figma**|[Design Workspace File Organization](https://www.fastprep.io/system-design/workspace-file-organization)|System design|[![Practice][p]](https://www.fastprep.io/system-design/workspace-file-organization)|Jan 01, 2021|
 |**Bloomberg LP**|[Decode a Binary Tree by Vertical Traversal](https://www.fastprep.io/problems/bloomberg-vertical-tree-decoding)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-vertical-tree-decoding)|Dec 23, 2020|
