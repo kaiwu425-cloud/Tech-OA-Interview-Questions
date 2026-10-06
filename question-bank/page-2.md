@@ -522,6 +522,7 @@
 |**Google**|[Find All People With the Secret](https://www.fastprep.io/problems/google-find-all-people-with-secret)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-find-all-people-with-secret)|Feb 14, 2026|
 |**Google**|[House Robber with Selected Indices](https://www.fastprep.io/problems/google-house-robber-with-selected-indices)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-house-robber-with-selected-indices)|Feb 14, 2026|
 |**Figma**|[Design a Browser-Based Graphics Editor](https://www.fastprep.io/system-design/browser-graphics-editor)|System design|[![Practice][p]](https://www.fastprep.io/system-design/browser-graphics-editor)|Feb 12, 2026|
+|**SpaceX**|[Button Combination Detector](https://www.fastprep.io/problems/spacex-button-combination-detector)|Coding|[![Practice][p]](https://www.fastprep.io/problems/spacex-button-combination-detector)|Feb 11, 2026|
 |**Temporal**|[Normalize and Aggregate Error Logs](https://www.fastprep.io/problems/temporal-log-error-aggregation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/temporal-log-error-aggregation)|Feb 11, 2026|
 |**Wells Fargo**|[Count Server Replacements](https://www.fastprep.io/problems/wellsfargo-count-server-replacements)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-count-server-replacements)|Feb 08, 2026|
 |**Wells Fargo**|[Minimum Remaining Length](https://www.fastprep.io/problems/wellsfargo-minimum-remaining-length)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-minimum-remaining-length)|Feb 08, 2026|
@@ -867,6 +868,7 @@
 |**Modular**|[Design a Machine Learning Feature Store](https://www.fastprep.io/system-design/machine-learning-feature-store)|System design|[![Practice][p]](https://www.fastprep.io/system-design/machine-learning-feature-store)|Apr 10, 2025|
 |**Roku**|[Design a Recurring Grocery Subscription Domain](https://www.fastprep.io/low-level-design/recurring-grocery-subscription-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/recurring-grocery-subscription-domain)|Apr 08, 2025|
 |**Character.AI**|[Time-Based Key-Value Map With Floor and Ceiling Queries](https://www.fastprep.io/problems/character-ai-time-based-key-value-map)|Coding|[![Practice][p]](https://www.fastprep.io/problems/character-ai-time-based-key-value-map)|Apr 07, 2025|
+|**SpaceX**|[DNA Sequence Match](https://www.fastprep.io/problems/spacex-dna-sequence-match)|Coding|[![Practice][p]](https://www.fastprep.io/problems/spacex-dna-sequence-match)|Apr 05, 2025|
 |**Amazon**|[Optimal Utilization](https://www.fastprep.io/problems/amazon-optimal-utilization)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-optimal-utilization)|Apr 05, 2025|
 |**Amazon**|[Buy Servers](https://www.fastprep.io/problems/amazon-purchase-servers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-purchase-servers)|Apr 05, 2025|
 |**Motive**|[Lowest Common Ancestor in a Binary Tree](https://www.fastprep.io/problems/motive-lowest-common-ancestor-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-lowest-common-ancestor-binary-tree)|Apr 02, 2025|
@@ -1860,6 +1862,4 @@
 |**Amazon**|[Get Min Distance (AMZ CN)](https://www.fastprep.io/problems/amazon-find-minimum-dist)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-dist)|Dec 27, 2023|
 |**Amazon**|[Check Similar Passwords](https://www.fastprep.io/problems/check-similar-passwords)|Coding|[![Practice][p]](https://www.fastprep.io/problems/check-similar-passwords)|Dec 23, 2023|
 |**Amazon**|[Maximum Score in Balanced String](https://www.fastprep.io/problems/maximum-score-in-balanced-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/maximum-score-in-balanced-string)|Dec 23, 2023|
-|**Amazon**|[Location of Data After Transfers](https://www.fastprep.io/problems/location-of-data-after-transfers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/location-of-data-after-transfers)|Dec 23, 2023|
-|**Stripe**|[Parse and Enrich Imported Card Data](https://www.fastprep.io/problems/stripe-card-data-import-enrichment)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-card-data-import-enrichment)|Dec 21, 2023|
 <a id="bottom"></a>

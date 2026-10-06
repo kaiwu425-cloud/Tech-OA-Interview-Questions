@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,214 questions**
+**3,217 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Dell**|[Count Binary Substrings](https://www.fastprep.io/problems/dell-get-substring-count)|[![Practice][p]](https://www.fastprep.io/problems/dell-get-substring-count)|May 25, 2025|
+|**Epify**|[Request Redirection](https://www.fastprep.io/problems/epifi-get-min-latency)|[![Practice][p]](https://www.fastprep.io/problems/epifi-get-min-latency)|May 25, 2025|
 |**Juspay**|[Converging Maze: Largest Sum Cycle](https://www.fastprep.io/problems/juspay-converging-maze-largest-sum-cycle)|[![Practice][p]](https://www.fastprep.io/problems/juspay-converging-maze-largest-sum-cycle)|May 25, 2025|
 |**Juspay**|[Converging Maze: Nearest meeting cell](https://www.fastprep.io/problems/juspay-nearest-meeting-cell)|[![Practice][p]](https://www.fastprep.io/problems/juspay-nearest-meeting-cell)|May 25, 2025|
 |**Old Mission**|[Restricted JSON Parser](https://www.fastprep.io/problems/old-mission-restricted-json-parser)|[![Practice][p]](https://www.fastprep.io/problems/old-mission-restricted-json-parser)|May 12, 2025|
@@ -30,6 +32,7 @@
 |**Amazon**|[Remove Characters in Frequency Order](https://www.fastprep.io/problems/amazon-remove-characters-in-frequency-order)|[![Practice][p]](https://www.fastprep.io/problems/amazon-remove-characters-in-frequency-order)|Apr 10, 2025|
 |**Microsoft**|[Min Cars to Remove](https://www.fastprep.io/problems/microsoft-minimum-cars-to-remove)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-cars-to-remove)|Apr 10, 2025|
 |**Character.AI**|[Time-Based Key-Value Map With Floor and Ceiling Queries](https://www.fastprep.io/problems/character-ai-time-based-key-value-map)|[![Practice][p]](https://www.fastprep.io/problems/character-ai-time-based-key-value-map)|Apr 07, 2025|
+|**SpaceX**|[DNA Sequence Match](https://www.fastprep.io/problems/spacex-dna-sequence-match)|[![Practice][p]](https://www.fastprep.io/problems/spacex-dna-sequence-match)|Apr 05, 2025|
 |**Amazon**|[Optimal Utilization](https://www.fastprep.io/problems/amazon-optimal-utilization)|[![Practice][p]](https://www.fastprep.io/problems/amazon-optimal-utilization)|Apr 05, 2025|
 |**Amazon**|[Buy Servers](https://www.fastprep.io/problems/amazon-purchase-servers)|[![Practice][p]](https://www.fastprep.io/problems/amazon-purchase-servers)|Apr 05, 2025|
 |**Motive**|[Lowest Common Ancestor in a Binary Tree](https://www.fastprep.io/problems/motive-lowest-common-ancestor-binary-tree)|[![Practice][p]](https://www.fastprep.io/problems/motive-lowest-common-ancestor-binary-tree)|Apr 02, 2025|
@@ -1271,6 +1274,7 @@
 |**Bloomberg LP**|[LFU Cache](https://www.fastprep.io/problems/bloomberg-lfu-cache)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-lfu-cache)|Jan 28, 2021|
 |**Bloomberg LP**|[Minimum-Step Right-Down Grid Path](https://www.fastprep.io/problems/bloomberg-minimum-step-right-down-grid-path)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-minimum-step-right-down-grid-path)|Jan 28, 2021|
 |**Bloomberg LP**|[Rotate List](https://www.fastprep.io/problems/bloomberg-rotate-list)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-rotate-list)|Jan 28, 2021|
+|**SpaceX**|[Find the Duplicate Number](https://www.fastprep.io/problems/spacex-duplicate-number)|[![Practice][p]](https://www.fastprep.io/problems/spacex-duplicate-number)|Jan 27, 2021|
 |**Bloomberg LP**|[Lowest Common Ancestor in a Binary Tree](https://www.fastprep.io/problems/bloomberg-lowest-common-ancestor-of-a-binary-tree)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-lowest-common-ancestor-of-a-binary-tree)|Jan 20, 2021|
 |**Bloomberg LP**|[Number of Distinct Islands](https://www.fastprep.io/problems/bloomberg-number-of-distinct-islands)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-number-of-distinct-islands)|Jan 20, 2021|
 |**Bloomberg LP**|[Target Sum Across Two Sorted Arrays](https://www.fastprep.io/problems/bloomberg-target-sum-across-two-arrays)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-target-sum-across-two-arrays)|Jan 17, 2021|

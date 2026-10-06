@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Location of Data After Transfers](https://www.fastprep.io/problems/location-of-data-after-transfers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/location-of-data-after-transfers)|Dec 23, 2023|
+|**Stripe**|[Parse and Enrich Imported Card Data](https://www.fastprep.io/problems/stripe-card-data-import-enrichment)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-card-data-import-enrichment)|Dec 21, 2023|
 |**Amazon**|[Get Success Value](https://www.fastprep.io/problems/get-success-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/get-success-value)|Dec 19, 2023|
 |**Amazon**|[Warehouse Distribution](https://www.fastprep.io/problems/warehouse-allocation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/warehouse-allocation)|Dec 15, 2023|
 |**Amazon**|[Erase Pairs](https://www.fastprep.io/problems/erase-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/erase-pairs)|Dec 13, 2023|
@@ -349,6 +351,7 @@
 |**Bloomberg LP**|[LFU Cache](https://www.fastprep.io/problems/bloomberg-lfu-cache)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-lfu-cache)|Jan 28, 2021|
 |**Bloomberg LP**|[Minimum-Step Right-Down Grid Path](https://www.fastprep.io/problems/bloomberg-minimum-step-right-down-grid-path)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-minimum-step-right-down-grid-path)|Jan 28, 2021|
 |**Bloomberg LP**|[Rotate List](https://www.fastprep.io/problems/bloomberg-rotate-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-rotate-list)|Jan 28, 2021|
+|**SpaceX**|[Find the Duplicate Number](https://www.fastprep.io/problems/spacex-duplicate-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/spacex-duplicate-number)|Jan 27, 2021|
 |**Bloomberg LP**|[Lowest Common Ancestor in a Binary Tree](https://www.fastprep.io/problems/bloomberg-lowest-common-ancestor-of-a-binary-tree)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-lowest-common-ancestor-of-a-binary-tree)|Jan 20, 2021|
 |**Bloomberg LP**|[Number of Distinct Islands](https://www.fastprep.io/problems/bloomberg-number-of-distinct-islands)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-number-of-distinct-islands)|Jan 20, 2021|
 |**Bloomberg LP**|[Target Sum Across Two Sorted Arrays](https://www.fastprep.io/problems/bloomberg-target-sum-across-two-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-target-sum-across-two-arrays)|Jan 17, 2021|
