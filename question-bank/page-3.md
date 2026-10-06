@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Get Success Value](https://www.fastprep.io/problems/get-success-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/get-success-value)|Dec 19, 2023|
 |**Amazon**|[Warehouse Distribution](https://www.fastprep.io/problems/warehouse-allocation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/warehouse-allocation)|Dec 15, 2023|
 |**Amazon**|[Erase Pairs](https://www.fastprep.io/problems/erase-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/erase-pairs)|Dec 13, 2023|
 |**ZipRecruiter**|[Generate a Hollow Star Square](https://www.fastprep.io/problems/ziprecruiter-hollow-star-square)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-hollow-star-square)|Dec 12, 2023|
