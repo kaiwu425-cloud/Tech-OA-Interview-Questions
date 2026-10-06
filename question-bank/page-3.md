@@ -9,6 +9,12 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Goldman Sachs**|[Better Compression](https://www.fastprep.io/problems/better-compression)|Coding|[![Practice][p]](https://www.fastprep.io/problems/better-compression)|Jan 09, 2024|
+|**Goldman Sachs**|[Encircular](https://www.fastprep.io/problems/encircular)|Coding|[![Practice][p]](https://www.fastprep.io/problems/encircular)|Jan 09, 2024|
+|**Goldman Sachs**|[Project Estimates](https://www.fastprep.io/problems/project-estimates)|Coding|[![Practice][p]](https://www.fastprep.io/problems/project-estimates)|Jan 09, 2024|
+|**Goldman Sachs**|[Longest Subarray](https://www.fastprep.io/problems/longest-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/longest-subarray)|Jan 09, 2024|
+|**ZipRecruiter**|[Count Subarrays with K Disjoint Equal Pairs](https://www.fastprep.io/problems/ziprecruiter-count-subarrays-with-disjoint-equal-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-subarrays-with-disjoint-equal-pairs)|Jan 08, 2024|
+|**Amazon**|[Count Maximum Profitable Groups](https://www.fastprep.io/problems/count-maximum-profitable-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/count-maximum-profitable-groups)|Jan 07, 2024|
 |**Cisco**|[Maximum Chocolates from Jars](https://www.fastprep.io/problems/cisco-maximum-chocolates-from-jars)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-maximum-chocolates-from-jars)|Jan 02, 2024|
 |**Amazon**|[Count Games Won By Group1 (AMZ CN)](https://www.fastprep.io/problems/amazon-how-many-games-did-the-team-win)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-how-many-games-did-the-team-win)|Dec 27, 2023|
 |**Amazon**|[Get Min Distance (AMZ CN)](https://www.fastprep.io/problems/amazon-find-minimum-dist)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-dist)|Dec 27, 2023|
