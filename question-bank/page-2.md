@@ -886,6 +886,8 @@
 |**HSBC**|[Max House Area](https://www.fastprep.io/problems/hsbc-find-largest-house-area)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hsbc-find-largest-house-area)|Mar 28, 2025|
 |**Yahoo**|[Count Substring](https://www.fastprep.io/problems/yahoo-get-substring-count)|Coding|[![Practice][p]](https://www.fastprep.io/problems/yahoo-get-substring-count)|Mar 28, 2025|
 |**Yahoo**|[Get String](https://www.fastprep.io/problems/yahoo-get-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/yahoo-get-string)|Mar 28, 2025|
+|**Mastercard**|[Design a Grounded Bank Portal Information Assistant](https://www.fastprep.io/system-design/bank-portal-information-extraction)|System design|[![Practice][p]](https://www.fastprep.io/system-design/bank-portal-information-extraction)|Mar 28, 2025|
+|**Mastercard**|[Design an Account Health Scoring Platform](https://www.fastprep.io/system-design/account-health-scoring-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/account-health-scoring-platform)|Mar 28, 2025|
 |**Amazon**|[Max Sum of Non-overlapping Intervals](https://www.fastprep.io/problems/amazon-max-sum-of-non-overlapping-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-max-sum-of-non-overlapping-intervals)|Mar 27, 2025|
 |**Amazon**|[Find Min Max Difference](https://www.fastprep.io/problems/amazon-find-min-max-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-min-max-difference)|Mar 27, 2025|
 |**Amazon**|[Get Minimal Cost](https://www.fastprep.io/problems/amazon-get-minimal-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-minimal-cost)|Mar 26, 2025|
@@ -1859,6 +1861,4 @@
 |**Goldman Sachs**|[Longest Subarray](https://www.fastprep.io/problems/longest-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/longest-subarray)|Jan 09, 2024|
 |**ZipRecruiter**|[Count Subarrays with K Disjoint Equal Pairs](https://www.fastprep.io/problems/ziprecruiter-count-subarrays-with-disjoint-equal-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-subarrays-with-disjoint-equal-pairs)|Jan 08, 2024|
 |**Amazon**|[Count Maximum Profitable Groups](https://www.fastprep.io/problems/count-maximum-profitable-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/count-maximum-profitable-groups)|Jan 07, 2024|
-|**Cisco**|[Maximum Chocolates from Jars](https://www.fastprep.io/problems/cisco-maximum-chocolates-from-jars)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-maximum-chocolates-from-jars)|Jan 02, 2024|
-|**Amazon**|[Count Games Won By Group1 (AMZ CN)](https://www.fastprep.io/problems/amazon-how-many-games-did-the-team-win)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-how-many-games-did-the-team-win)|Dec 27, 2023|
 <a id="bottom"></a>
