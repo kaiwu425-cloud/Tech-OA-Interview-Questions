@@ -606,6 +606,7 @@
 |**Motive**|[Generate Palindromic Permutations](https://www.fastprep.io/problems/motive-palindromic-permutations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-palindromic-permutations)|Dec 18, 2025|
 |**Motive**|[Staircase Search In A Sorted Matrix](https://www.fastprep.io/problems/motive-search-row-column-sorted-matrix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/motive-search-row-column-sorted-matrix)|Dec 18, 2025|
 |**Motive / Meta**|[Design a Short-Video Sharing Platform](https://www.fastprep.io/system-design/short-video-sharing-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/short-video-sharing-platform)|Dec 18, 2025|
+|**IMC Trading**|[Design an In-Memory Hotel Reservation System](https://www.fastprep.io/low-level-design/in-memory-hotel-reservation)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-hotel-reservation)|Dec 18, 2025|
 |**HackerRank**|[Ball Passing at Time K](https://www.fastprep.io/problems/hackerrank-ball-passing-at-time-k)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hackerrank-ball-passing-at-time-k)|Dec 17, 2025|
 |**HackerRank**|[Longest Equal Binary Subarray](https://www.fastprep.io/problems/hackerrank-longest-equal-binary-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hackerrank-longest-equal-binary-subarray)|Dec 17, 2025|
 |**HackerRank**|[Longest Equal Binary Subarray After One Flip](https://www.fastprep.io/problems/hackerrank-longest-equal-binary-subarray-after-one-flip)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hackerrank-longest-equal-binary-subarray-after-one-flip)|Dec 17, 2025|
@@ -820,6 +821,7 @@
 |**Wells Fargo**|[Count Array Element Frequencies](https://www.fastprep.io/problems/wellsfargo-count-array-element-frequencies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-count-array-element-frequencies)|May 26, 2025|
 |**Wells Fargo**|[Floor Square Roots for an Array](https://www.fastprep.io/problems/wellsfargo-floor-square-roots)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-floor-square-roots)|May 26, 2025|
 |**Wells Fargo**|[Longest Common Prefix](https://www.fastprep.io/problems/wellsfargo-longest-common-prefix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-longest-common-prefix)|May 26, 2025|
+|**Scale AI**|[Optimize a Resort Driving Route](https://www.fastprep.io/project-coding/scale-ai-resort-route-optimizer-practical)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-resort-route-optimizer-practical)|May 26, 2025|
 |**Amazon**|[Determine the Best Skipping Strategy](https://www.fastprep.io/problems/amazon-determine-the-best-skipping-strategy)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-determine-the-best-skipping-strategy)|May 25, 2025|
 |**Meesho**|[Distinct Moves](https://www.fastprep.io/problems/meesho-distinct-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/meesho-distinct-moves)|May 25, 2025|
 |**Agoda**|[Unique Digits in Range](https://www.fastprep.io/problems/agoda-unique-digits-in-range)|Coding|[![Practice][p]](https://www.fastprep.io/problems/agoda-unique-digits-in-range)|May 25, 2025|
@@ -1860,7 +1862,4 @@
 |**Stripe**|[Parse and Enrich Imported Card Data](https://www.fastprep.io/problems/stripe-card-data-import-enrichment)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-card-data-import-enrichment)|Dec 21, 2023|
 |**Amazon**|[Get Success Value](https://www.fastprep.io/problems/get-success-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/get-success-value)|Dec 19, 2023|
 |**Amazon**|[Warehouse Distribution](https://www.fastprep.io/problems/warehouse-allocation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/warehouse-allocation)|Dec 15, 2023|
-|**Amazon**|[Erase Pairs](https://www.fastprep.io/problems/erase-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/erase-pairs)|Dec 13, 2023|
-|**ZipRecruiter**|[Generate a Hollow Star Square](https://www.fastprep.io/problems/ziprecruiter-hollow-star-square)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-hollow-star-square)|Dec 12, 2023|
-|**ZipRecruiter**|[Minutes since the Latest Departed Bus](https://www.fastprep.io/problems/ziprecruiter-minutes-since-latest-bus)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-minutes-since-latest-bus)|Dec 12, 2023|
 <a id="bottom"></a>

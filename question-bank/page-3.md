@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Erase Pairs](https://www.fastprep.io/problems/erase-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/erase-pairs)|Dec 13, 2023|
+|**ZipRecruiter**|[Generate a Hollow Star Square](https://www.fastprep.io/problems/ziprecruiter-hollow-star-square)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-hollow-star-square)|Dec 12, 2023|
+|**ZipRecruiter**|[Minutes since the Latest Departed Bus](https://www.fastprep.io/problems/ziprecruiter-minutes-since-latest-bus)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-minutes-since-latest-bus)|Dec 12, 2023|
 |**ZipRecruiter**|[Count Right-or-Down Word Paths with One Turn](https://www.fastprep.io/problems/ziprecruiter-one-turn-word-paths)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-one-turn-word-paths)|Dec 12, 2023|
 |**ZipRecruiter**|[Count Paired Subarrays Reaching a Target](https://www.fastprep.io/problems/ziprecruiter-paired-subarray-sums)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-paired-subarray-sums)|Dec 12, 2023|
 |**Navan**|[Design a Flight Booking Orchestrator](https://www.fastprep.io/low-level-design/flight-booking-orchestration)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/flight-booking-orchestration)|Dec 08, 2023|
