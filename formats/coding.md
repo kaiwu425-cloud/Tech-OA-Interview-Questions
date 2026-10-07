@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,235 questions**
+**3,236 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -1790,6 +1790,7 @@
 |**Arcesium**|[Product of Subset Maxima](https://www.fastprep.io/problems/arcesium-product-of-subset-maxima)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-product-of-subset-maxima)|Jul 23, 2025|
 |**Arcesium**|[Reconstruct the Root Stream](https://www.fastprep.io/problems/arcesium-reconstruct-root-stream)|[![Practice][p]](https://www.fastprep.io/problems/arcesium-reconstruct-root-stream)|Jul 23, 2025|
 |**Zip**|[In-Memory Database with TTL and Historical Queries](https://www.fastprep.io/problems/zip-in-memory-database-oa)|[![Practice][p]](https://www.fastprep.io/problems/zip-in-memory-database-oa)|Jul 22, 2025|
+|**Stripe**|[Indexed API Field Pattern Queries](https://www.fastprep.io/problems/stripe-indexed-api-field-pattern-queries)|[![Practice][p]](https://www.fastprep.io/problems/stripe-indexed-api-field-pattern-queries)|Jul 19, 2025|
 |**Abnormal Security**|[Find Duplicate Image Files](https://www.fastprep.io/problems/abnormal-security-duplicate-image-files)|[![Practice][p]](https://www.fastprep.io/problems/abnormal-security-duplicate-image-files)|Jul 15, 2025|
 |**Amazon**|[Maximize Pages Before Suspension](https://www.fastprep.io/problems/amazon-maximize-pages-before-suspension)|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-pages-before-suspension)|Jul 08, 2025|
 |**Salesforce**|[Minimum Operations to Zero](https://www.fastprep.io/problems/salesforce-minimum-operations-to-zero)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-minimum-operations-to-zero)|Jul 08, 2025|
@@ -1828,5 +1829,4 @@
 |**Amazon**|[Find Hash](https://www.fastprep.io/problems/amazon-find-hash)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-hash)|Jun 12, 2025|
 |**Fivetran**|[Aladdin and the Magic Carpet](https://www.fastprep.io/problems/fivetran-aladdin-and-the-magic-carpet)|[![Practice][p]](https://www.fastprep.io/problems/fivetran-aladdin-and-the-magic-carpet)|Jun 12, 2025|
 |**Amazon**|[Find Minimum Days](https://www.fastprep.io/problems/amazon-find-minimum-days)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-days)|May 31, 2025|
-|**Amazon**|[Split Prefix Suffix](https://www.fastprep.io/problems/amazon-split-prefix-suffix)|[![Practice][p]](https://www.fastprep.io/problems/amazon-split-prefix-suffix)|May 31, 2025|
 <a id="bottom"></a>

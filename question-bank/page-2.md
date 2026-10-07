@@ -797,6 +797,7 @@
 |**Arcesium**|[Product of Subset Maxima](https://www.fastprep.io/problems/arcesium-product-of-subset-maxima)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-product-of-subset-maxima)|Jul 23, 2025|
 |**Arcesium**|[Reconstruct the Root Stream](https://www.fastprep.io/problems/arcesium-reconstruct-root-stream)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-reconstruct-root-stream)|Jul 23, 2025|
 |**Zip**|[In-Memory Database with TTL and Historical Queries](https://www.fastprep.io/problems/zip-in-memory-database-oa)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zip-in-memory-database-oa)|Jul 22, 2025|
+|**Stripe**|[Indexed API Field Pattern Queries](https://www.fastprep.io/problems/stripe-indexed-api-field-pattern-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-indexed-api-field-pattern-queries)|Jul 19, 2025|
 |**Abnormal Security**|[Find Duplicate Image Files](https://www.fastprep.io/problems/abnormal-security-duplicate-image-files)|Coding|[![Practice][p]](https://www.fastprep.io/problems/abnormal-security-duplicate-image-files)|Jul 15, 2025|
 |**Amazon**|[Maximize Pages Before Suspension](https://www.fastprep.io/problems/amazon-maximize-pages-before-suspension)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-pages-before-suspension)|Jul 08, 2025|
 |**Salesforce**|[Minimum Operations to Zero](https://www.fastprep.io/problems/salesforce-minimum-operations-to-zero)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-minimum-operations-to-zero)|Jul 08, 2025|
@@ -1854,5 +1855,4 @@
 |**TikTok**|[Longest OR](https://www.fastprep.io/problems/tiktok-longest-or)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-longest-or)|Feb 02, 2024|
 |**TikTok**|[Get Server Index](https://www.fastprep.io/problems/tiktok-get-server-index)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-server-index)|Feb 02, 2024|
 |**Amazon**|[Dropped Requests](https://www.fastprep.io/problems/amazon-dropped-requests)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-dropped-requests)|Jan 27, 2024|
-|**Amazon**|[Find Unique Values](https://www.fastprep.io/problems/amazon-find-unique-values)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-unique-values)|Jan 27, 2024|
 <a id="bottom"></a>

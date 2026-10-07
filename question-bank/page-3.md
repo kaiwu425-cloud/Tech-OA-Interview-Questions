@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Find Unique Values](https://www.fastprep.io/problems/amazon-find-unique-values)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-unique-values)|Jan 27, 2024|
 |**Amazon**|[Execute Processes](https://www.fastprep.io/problems/amazon-execute-processes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-execute-processes)|Jan 27, 2024|
 |**Amazon**|[Number of Suitable Locations](https://www.fastprep.io/problems/amazon-num-of-suitable-places)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-num-of-suitable-places)|Jan 27, 2024|
 |**Amazon**|[Group Students](https://www.fastprep.io/problems/amazon-group-students)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-group-students)|Jan 27, 2024|
