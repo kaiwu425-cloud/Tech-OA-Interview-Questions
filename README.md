@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,248)](formats/coding.md) · [SQL (62)](formats/sql.md) · [System design (537)](formats/system-design.md) · [Low-level design (141)](formats/low-level-design.md) · [AI coding (73)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,248)](formats/coding.md) · [SQL (62)](formats/sql.md) · [System design (538)](formats/system-design.md) · [Low-level design (142)](formats/low-level-design.md) · [AI coding (73)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
