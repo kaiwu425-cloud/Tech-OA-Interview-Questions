@@ -9,6 +9,15 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Airbnb**|[Worker Management, Part 1: Office Registration](https://www.fastprep.io/problems/airbnb-worker-management-level-1)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-worker-management-level-1)|Jul 26, 2026|
+|**Airbnb**|[Worker Management, Part 2: Top Workers](https://www.fastprep.io/problems/airbnb-worker-management-level-2)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-worker-management-level-2)|Jul 26, 2026|
+|**Airbnb**|[Worker Management, Part 3: Promotions and Salary](https://www.fastprep.io/problems/airbnb-worker-management-level-3)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-worker-management-level-3)|Jul 26, 2026|
+|**Stripe**|[Merchant Fraud Risk Scoring](https://www.fastprep.io/problems/stripe-merchant-fraud-risk-scoring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-merchant-fraud-risk-scoring)|Jul 26, 2026|
+|**Boston Consulting Group**|[Dynamic Pair Sum Queries](https://www.fastprep.io/problems/bcg-dynamic-pair-sum-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bcg-dynamic-pair-sum-queries)|Jul 26, 2026|
+|**Boston Consulting Group**|[Find a Submatrix Matching a Pattern](https://www.fastprep.io/problems/bcg-find-submatrix-matching-pattern)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bcg-find-submatrix-matching-pattern)|Jul 26, 2026|
+|**Boston Consulting Group**|[Longest Contiguous Character Run](https://www.fastprep.io/problems/bcg-longest-contiguous-character-run)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bcg-longest-contiguous-character-run)|Jul 26, 2026|
+|**Boston Consulting Group**|[Even-Position Monotonicity](https://www.fastprep.io/problems/boston-consulting-group-even-position-monotonicity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-even-position-monotonicity)|Jul 26, 2026|
+|**Airbnb**|[Worker Management with Full-Shift Double Pay](https://www.fastprep.io/problems/airbnb-worker-management-full-shift-grants)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-worker-management-full-shift-grants)|Jul 26, 2026|
 |**Hudson River Trading**|[Count 2x2 Submatrices by Black Cells](https://www.fastprep.io/problems/hrt-count-black-blocks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hrt-count-black-blocks)|Jul 26, 2026|
 |**Hudson River Trading**|[Cumulative Unique Bytes](https://www.fastprep.io/problems/hrt-cumulative-unique-bytes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hrt-cumulative-unique-bytes)|Jul 26, 2026|
 |**Upstart**|[Minimum Absolute Pair Difference](https://www.fastprep.io/problems/upstart-minimum-absolute-pair-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/upstart-minimum-absolute-pair-difference)|Jul 26, 2026|
@@ -94,7 +103,6 @@
 |**Pinterest**|[Design a Real-Time Category Leaderboard](https://www.fastprep.io/system-design/real-time-category-leaderboard)|System design|[![Practice][p]](https://www.fastprep.io/system-design/real-time-category-leaderboard)|Jul 18, 2026|
 |**Cursor**|[Design and Implement a Pluggable Notification Rate Limiter](https://www.fastprep.io/low-level-design/pluggable-notification-rate-limiter)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/pluggable-notification-rate-limiter)|Jul 18, 2026|
 |**Goldman Sachs**|[Inherited Role Permissions](https://www.fastprep.io/problems/goldman-sachs-role-permissions)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-role-permissions)|Jul 17, 2026|
-|**Goldman Sachs**|[Root of the Largest Tree](https://www.fastprep.io/problems/goldman-sachs-largest-tree-root)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-largest-tree-root)|Jul 17, 2026|
 |**Uber**|[Design a Driver Payout System](https://www.fastprep.io/system-design/uber-driver-payout)|System design|[![Practice][p]](https://www.fastprep.io/system-design/uber-driver-payout)|Jul 17, 2026|
 |**Microsoft**|[Design a Real-Time Multiplayer Game](https://www.fastprep.io/system-design/real-time-multiplayer-game)|System design|[![Practice][p]](https://www.fastprep.io/system-design/real-time-multiplayer-game)|Jul 17, 2026|
 |**Amazon**|[Customer Package Delivery Report](https://www.fastprep.io/problems/amazon-customer-package-delivery-report)|SQL|[![Practice][p]](https://www.fastprep.io/problems/amazon-customer-package-delivery-report)|Jul 16, 2026|
@@ -1843,15 +1851,4 @@
 |**Twilio**|[Count Groups](https://www.fastprep.io/problems/twilio-count-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/twilio-count-groups)|Feb 06, 2024|
 |**Snowflake**|[Array Reduction Algorithm](https://www.fastprep.io/problems/snowflake-array-reduction-algorithm)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-array-reduction-algorithm)|Feb 05, 2024|
 |**Snowflake**|[Count Ways to Color Houses](https://www.fastprep.io/problems/snowflake-count-ways-to-color-houses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-count-ways-to-color-houses)|Feb 05, 2024|
-|**Snowflake**|[Count Min Characters](https://www.fastprep.io/problems/snowflake-count-minimum-characters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-count-minimum-characters)|Feb 05, 2024|
-|**IBM**|[Find Y Values](https://www.fastprep.io/problems/ibm-find-y-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-find-y-value)|Feb 05, 2024|
-|**IBM**|[Circles](https://www.fastprep.io/problems/ibm-circles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-circles)|Feb 05, 2024|
-|**IBM**|[Get Min Moves](https://www.fastprep.io/problems/ibm-get-minimum-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-minimum-moves)|Feb 05, 2024|
-|**Akuna**|[Min Cost (Akuna Shang Hai)](https://www.fastprep.io/problems/akuna-min-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-min-cost)|Feb 02, 2024|
-|**Akuna**|[Minimum Chunks Required (Akuna Shang Hai)](https://www.fastprep.io/problems/akuna-minimum-chunks-required)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-minimum-chunks-required)|Feb 02, 2024|
-|**Akuna**|[Diffierence Calculator (Akuna Shang Hai)](https://www.fastprep.io/problems/akuna-difference-calculator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-difference-calculator)|Feb 02, 2024|
-|**Snowflake**|[Get Max Upgraded Servers](https://www.fastprep.io/problems/snowflake-get-max-upgraded-servers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-get-max-upgraded-servers)|Feb 02, 2024|
-|**Snowflake**|[Efficient Cost](https://www.fastprep.io/problems/snowflake-efficient-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-efficient-cost)|Feb 02, 2024|
-|**TikTok**|[Segment Queries](https://www.fastprep.io/problems/tiktok-segment-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-segment-queries)|Feb 02, 2024|
-|**TikTok**|[Minimum Cycles](https://www.fastprep.io/problems/tiktok-minimum-cycles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-minimum-cycles)|Feb 02, 2024|
 <a id="bottom"></a>
