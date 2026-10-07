@@ -684,6 +684,7 @@
 |**Optiver**|[Design a Low-Latency Electronic Trading System](https://www.fastprep.io/system-design/low-latency-electronic-trading-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/low-latency-electronic-trading-system)|Oct 29, 2025|
 |**Bloomberg LP**|[Design Search Autocomplete System](https://www.fastprep.io/problems/bloomberg-search-autocomplete-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-search-autocomplete-system)|Oct 28, 2025|
 |**Bloomberg LP**|[Deep Copy a Random-Pointer List](https://www.fastprep.io/problems/bloomberg-copy-list-with-random-pointer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-copy-list-with-random-pointer)|Oct 28, 2025|
+|**Mastercard**|[Container With Most Water](https://www.fastprep.io/problems/mastercard-container-with-most-water)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mastercard-container-with-most-water)|Oct 27, 2025|
 |**Temporal**|[Concurrent Web Crawler Reachability](https://www.fastprep.io/problems/temporal-concurrent-web-crawler)|Coding|[![Practice][p]](https://www.fastprep.io/problems/temporal-concurrent-web-crawler)|Oct 19, 2025|
 |**Temporal**|[Game of Life Next Generation](https://www.fastprep.io/problems/temporal-game-of-life)|Coding|[![Practice][p]](https://www.fastprep.io/problems/temporal-game-of-life)|Oct 19, 2025|
 |**Temporal**|[Design Zero-Downtime Database Migration](https://www.fastprep.io/system-design/zero-downtime-database-migration-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/zero-downtime-database-migration-platform)|Oct 19, 2025|
@@ -1463,6 +1464,9 @@
 |**IBM**|[Min Insertion to Balance a Parentheses String](https://www.fastprep.io/problems/ibm-minimum-insertions-to-balance-a-parentheses-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-minimum-insertions-to-balance-a-parentheses-string)|Jul 25, 2024|
 |**Optiver**|[Customer Checkout Duration](https://www.fastprep.io/problems/optiver-customer-checkout-duration)|Coding|[![Practice][p]](https://www.fastprep.io/problems/optiver-customer-checkout-duration)|Jul 24, 2024|
 |**Samsara**|[Design a Fleet Fuel Payment Monitoring Platform](https://www.fastprep.io/system-design/fleet-fuel-payment-monitoring)|System design|[![Practice][p]](https://www.fastprep.io/system-design/fleet-fuel-payment-monitoring)|Jul 22, 2024|
+|**Mastercard**|[Brands With Continuously Increasing Sales](https://www.fastprep.io/problems/mastercard-brands-with-continuously-increasing-sales)|SQL|[![Practice][p]](https://www.fastprep.io/problems/mastercard-brands-with-continuously-increasing-sales)|Jul 22, 2024|
+|**Mastercard**|[Status Changes in Log Data](https://www.fastprep.io/problems/mastercard-log-status-change-events)|SQL|[![Practice][p]](https://www.fastprep.io/problems/mastercard-log-status-change-events)|Jul 22, 2024|
+|**Mastercard**|[Left and Right Join Results](https://www.fastprep.io/problems/mastercard-left-and-right-join-results)|SQL|[![Practice][p]](https://www.fastprep.io/problems/mastercard-left-and-right-join-results)|Jul 22, 2024|
 |**Alchemy**|[Count Class-C IPv4 Addresses](https://www.fastprep.io/problems/alchemy-count-class-c-ipv4-addresses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/alchemy-count-class-c-ipv4-addresses)|Jul 21, 2024|
 |**Clipboard Health**|[Prorated Monthly Subscription Charge](https://www.fastprep.io/problems/clipboard-health-prorated-monthly-charge)|Coding|[![Practice][p]](https://www.fastprep.io/problems/clipboard-health-prorated-monthly-charge)|Jul 21, 2024|
 |**Uber**|[Count L Shapes](https://www.fastprep.io/problems/uber-count-l-shapes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-count-l-shapes)|Jul 20, 2024|
@@ -1853,9 +1857,4 @@
 |**Snowflake**|[Unequal Elements](https://www.fastprep.io/problems/find-max-length)|Coding|[![Practice][p]](https://www.fastprep.io/problems/find-max-length)|Jan 13, 2024|
 |**Snowflake**|[Job Execution](https://www.fastprep.io/problems/get-minimum-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/get-minimum-operations)|Jan 12, 2024|
 |**Snowflake**|[Perfect Pairs](https://www.fastprep.io/problems/perfect-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/perfect-pairs)|Jan 12, 2024|
-|**Snowflake**|[Cross the Threshold](https://www.fastprep.io/problems/get-max-barrier)|Coding|[![Practice][p]](https://www.fastprep.io/problems/get-max-barrier)|Jan 12, 2024|
-|**Snowflake**|[Get Min Cost](https://www.fastprep.io/problems/hackerland-get-min-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hackerland-get-min-cost)|Jan 12, 2024|
-|**Snowflake**|[String Patterns](https://www.fastprep.io/problems/calculate-ways)|Coding|[![Practice][p]](https://www.fastprep.io/problems/calculate-ways)|Jan 12, 2024|
-|**Amazon**|[Get Discount Pairs](https://www.fastprep.io/problems/get-discount-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/get-discount-pairs)|Jan 11, 2024|
-|**Amazon**|[Get Min Cost Data](https://www.fastprep.io/problems/get-min-cost-data)|Coding|[![Practice][p]](https://www.fastprep.io/problems/get-min-cost-data)|Jan 10, 2024|
 <a id="bottom"></a>

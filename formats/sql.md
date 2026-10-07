@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**57 questions**
+**60 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -59,6 +59,9 @@
 |**Chainalysis**|[Block Transaction Count Trends](https://www.fastprep.io/problems/chainalysis-block-transaction-count-trends)|[![Practice][p]](https://www.fastprep.io/problems/chainalysis-block-transaction-count-trends)|Mar 06, 2025|
 |**AT&T**|[Advertising System Failures Report](https://www.fastprep.io/problems/att-advertising-system-failures-report)|[![Practice][p]](https://www.fastprep.io/problems/att-advertising-system-failures-report)|Nov 08, 2024|
 |**Odoo**|[Employees Joined per Month](https://www.fastprep.io/problems/odoo-employees-joined-per-month)|[![Practice][p]](https://www.fastprep.io/problems/odoo-employees-joined-per-month)|Sep 17, 2024|
+|**Mastercard**|[Brands With Continuously Increasing Sales](https://www.fastprep.io/problems/mastercard-brands-with-continuously-increasing-sales)|[![Practice][p]](https://www.fastprep.io/problems/mastercard-brands-with-continuously-increasing-sales)|Jul 22, 2024|
+|**Mastercard**|[Status Changes in Log Data](https://www.fastprep.io/problems/mastercard-log-status-change-events)|[![Practice][p]](https://www.fastprep.io/problems/mastercard-log-status-change-events)|Jul 22, 2024|
+|**Mastercard**|[Left and Right Join Results](https://www.fastprep.io/problems/mastercard-left-and-right-join-results)|[![Practice][p]](https://www.fastprep.io/problems/mastercard-left-and-right-join-results)|Jul 22, 2024|
 |**Agoda**|[Process Airline Seat Requests](https://www.fastprep.io/problems/agoda-airline-seat-requests)|[![Practice][p]](https://www.fastprep.io/problems/agoda-airline-seat-requests)|Oct 27, 2023|
 |**Agoda**|[Convert a Purchase at Its Historical Exchange Rate](https://www.fastprep.io/problems/agoda-historical-purchase-exchange-rate)|[![Practice][p]](https://www.fastprep.io/problems/agoda-historical-purchase-exchange-rate)|Oct 27, 2023|
 |**Agoda**|[Summarize Customer Records](https://www.fastprep.io/problems/agoda-customer-csv-summary)|[![Practice][p]](https://www.fastprep.io/problems/agoda-customer-csv-summary)|Oct 27, 2023|

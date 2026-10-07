@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,227 questions**
+**3,228 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -1698,6 +1698,7 @@
 |**ZipRecruiter**|[Four-Level Banking System with Scheduled Payments](https://www.fastprep.io/problems/ziprecruiter-scheduled-banking-system)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-scheduled-banking-system)|Oct 29, 2025|
 |**Bloomberg LP**|[Design Search Autocomplete System](https://www.fastprep.io/problems/bloomberg-search-autocomplete-system)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-search-autocomplete-system)|Oct 28, 2025|
 |**Bloomberg LP**|[Deep Copy a Random-Pointer List](https://www.fastprep.io/problems/bloomberg-copy-list-with-random-pointer)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-copy-list-with-random-pointer)|Oct 28, 2025|
+|**Mastercard**|[Container With Most Water](https://www.fastprep.io/problems/mastercard-container-with-most-water)|[![Practice][p]](https://www.fastprep.io/problems/mastercard-container-with-most-water)|Oct 27, 2025|
 |**Temporal**|[Concurrent Web Crawler Reachability](https://www.fastprep.io/problems/temporal-concurrent-web-crawler)|[![Practice][p]](https://www.fastprep.io/problems/temporal-concurrent-web-crawler)|Oct 19, 2025|
 |**Temporal**|[Game of Life Next Generation](https://www.fastprep.io/problems/temporal-game-of-life)|[![Practice][p]](https://www.fastprep.io/problems/temporal-game-of-life)|Oct 19, 2025|
 |**Scale AI**|[Party Windows and Dead Zone Time](https://www.fastprep.io/problems/scale-ai-party-windows-dead-zone-time)|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-party-windows-dead-zone-time)|Oct 17, 2025|
@@ -1829,5 +1830,4 @@
 |**Wells Fargo**|[Count Array Element Frequencies](https://www.fastprep.io/problems/wellsfargo-count-array-element-frequencies)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-count-array-element-frequencies)|May 26, 2025|
 |**Wells Fargo**|[Floor Square Roots for an Array](https://www.fastprep.io/problems/wellsfargo-floor-square-roots)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-floor-square-roots)|May 26, 2025|
 |**Wells Fargo**|[Longest Common Prefix](https://www.fastprep.io/problems/wellsfargo-longest-common-prefix)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-longest-common-prefix)|May 26, 2025|
-|**Amazon**|[Determine the Best Skipping Strategy](https://www.fastprep.io/problems/amazon-determine-the-best-skipping-strategy)|[![Practice][p]](https://www.fastprep.io/problems/amazon-determine-the-best-skipping-strategy)|May 25, 2025|
 <a id="bottom"></a>

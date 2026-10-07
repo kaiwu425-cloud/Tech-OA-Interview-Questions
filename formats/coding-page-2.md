@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,227 questions**
+**3,228 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Amazon**|[Determine the Best Skipping Strategy](https://www.fastprep.io/problems/amazon-determine-the-best-skipping-strategy)|[![Practice][p]](https://www.fastprep.io/problems/amazon-determine-the-best-skipping-strategy)|May 25, 2025|
 |**Meesho**|[Distinct Moves](https://www.fastprep.io/problems/meesho-distinct-moves)|[![Practice][p]](https://www.fastprep.io/problems/meesho-distinct-moves)|May 25, 2025|
 |**Agoda**|[Unique Digits in Range](https://www.fastprep.io/problems/agoda-unique-digits-in-range)|[![Practice][p]](https://www.fastprep.io/problems/agoda-unique-digits-in-range)|May 25, 2025|
 |**Agoda**|[Two-Core Process Assignment](https://www.fastprep.io/problems/agoda-two-core-process-assignment)|[![Practice][p]](https://www.fastprep.io/problems/agoda-two-core-process-assignment)|May 25, 2025|

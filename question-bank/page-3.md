@@ -9,6 +9,11 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Snowflake**|[Cross the Threshold](https://www.fastprep.io/problems/get-max-barrier)|Coding|[![Practice][p]](https://www.fastprep.io/problems/get-max-barrier)|Jan 12, 2024|
+|**Snowflake**|[Get Min Cost](https://www.fastprep.io/problems/hackerland-get-min-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hackerland-get-min-cost)|Jan 12, 2024|
+|**Snowflake**|[String Patterns](https://www.fastprep.io/problems/calculate-ways)|Coding|[![Practice][p]](https://www.fastprep.io/problems/calculate-ways)|Jan 12, 2024|
+|**Amazon**|[Get Discount Pairs](https://www.fastprep.io/problems/get-discount-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/get-discount-pairs)|Jan 11, 2024|
+|**Amazon**|[Get Min Cost Data](https://www.fastprep.io/problems/get-min-cost-data)|Coding|[![Practice][p]](https://www.fastprep.io/problems/get-min-cost-data)|Jan 10, 2024|
 |**Goldman Sachs**|[Compute Parameter Value](https://www.fastprep.io/problems/compute-parameter-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/compute-parameter-value)|Jan 09, 2024|
 |**Goldman Sachs**|[Max Min](https://www.fastprep.io/problems/max-min)|Coding|[![Practice][p]](https://www.fastprep.io/problems/max-min)|Jan 09, 2024|
 |**Goldman Sachs**|[Chair Requirements](https://www.fastprep.io/problems/goldman-min-chair)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-min-chair)|Jan 09, 2024|
