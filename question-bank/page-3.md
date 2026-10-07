@@ -9,6 +9,11 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**IBM**|[Circles](https://www.fastprep.io/problems/ibm-circles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-circles)|Feb 05, 2024|
+|**IBM**|[Get Min Moves](https://www.fastprep.io/problems/ibm-get-minimum-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-minimum-moves)|Feb 05, 2024|
+|**Akuna**|[Min Cost (Akuna Shang Hai)](https://www.fastprep.io/problems/akuna-min-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-min-cost)|Feb 02, 2024|
+|**Akuna**|[Minimum Chunks Required (Akuna Shang Hai)](https://www.fastprep.io/problems/akuna-minimum-chunks-required)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-minimum-chunks-required)|Feb 02, 2024|
+|**Akuna**|[Diffierence Calculator (Akuna Shang Hai)](https://www.fastprep.io/problems/akuna-difference-calculator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-difference-calculator)|Feb 02, 2024|
 |**Snowflake**|[Get Max Upgraded Servers](https://www.fastprep.io/problems/snowflake-get-max-upgraded-servers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-get-max-upgraded-servers)|Feb 02, 2024|
 |**Snowflake**|[Efficient Cost](https://www.fastprep.io/problems/snowflake-efficient-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-efficient-cost)|Feb 02, 2024|
 |**TikTok**|[Segment Queries](https://www.fastprep.io/problems/tiktok-segment-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-segment-queries)|Feb 02, 2024|
@@ -239,6 +244,7 @@
 |**ZipRecruiter**|[Maximum Common Decimal Prefix Across Arrays](https://www.fastprep.io/problems/ziprecruiter-maximum-common-decimal-prefix)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-maximum-common-decimal-prefix)|Sep 18, 2022|
 |**ZipRecruiter**|[Recursively Sum Identical Digit Runs](https://www.fastprep.io/problems/ziprecruiter-recursive-digit-run-sums)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-recursive-digit-run-sums)|Sep 16, 2022|
 |**ZipRecruiter**|[Remove Equal Components and Apply Gravity](https://www.fastprep.io/problems/ziprecruiter-remove-components-with-gravity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-remove-components-with-gravity)|Sep 16, 2022|
+|**Scale AI**|[Design and Implement a Task and Worker Assignment Model](https://www.fastprep.io/low-level-design/task-worker-assignment-model)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/task-worker-assignment-model)|Sep 09, 2022|
 |**Bloomberg LP**|[Find the Root Process](https://www.fastprep.io/problems/bloomberg-find-root-process)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-find-root-process)|Sep 08, 2022|
 |**Bloomberg LP**|[Move Zeroes with Sorted Nonzero Values](https://www.fastprep.io/problems/bloomberg-move-zeroes-with-sorted-nonzero-values)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-move-zeroes-with-sorted-nonzero-values)|Sep 08, 2022|
 |**Bloomberg LP**|[Top K Frequent Words](https://www.fastprep.io/problems/bloomberg-top-k-frequent-words)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-top-k-frequent-words)|Sep 08, 2022|

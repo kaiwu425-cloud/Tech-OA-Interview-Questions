@@ -2,12 +2,16 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,242 questions**
+**3,246 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**PayPay**|[Sum Consecutive Identical Digits](https://www.fastprep.io/problems/paypay-sum-consecutive-identical-digits)|[![Practice][p]](https://www.fastprep.io/problems/paypay-sum-consecutive-identical-digits)|Jun 18, 2025|
+|**PayPay**|[Board Coloring and Query Processing](https://www.fastprep.io/problems/paypay-board-coloring-and-query-processing)|[![Practice][p]](https://www.fastprep.io/problems/paypay-board-coloring-and-query-processing)|Jun 18, 2025|
+|**PayPay**|[Palindromic Array Transformation](https://www.fastprep.io/problems/paypay-palindromic-array-transformation)|[![Practice][p]](https://www.fastprep.io/problems/paypay-palindromic-array-transformation)|Jun 18, 2025|
+|**PayPay**|[Calculate Change](https://www.fastprep.io/problems/paypay-calculate-change)|[![Practice][p]](https://www.fastprep.io/problems/paypay-calculate-change)|Jun 18, 2025|
 |**PayPay**|[Find Maximum Two-Digit Fragment](https://www.fastprep.io/problems/paypay-find-maximum-two-digit-fragment)|[![Practice][p]](https://www.fastprep.io/problems/paypay-find-maximum-two-digit-fragment)|Jun 18, 2025|
 |**Agoda**|[Highest-Ranked University by Country](https://www.fastprep.io/problems/agoda-highest-ranked-university-by-country)|[![Practice][p]](https://www.fastprep.io/problems/agoda-highest-ranked-university-by-country)|Jun 17, 2025|
 |**Agoda**|[Jump Game with Prime-3 Steps](https://www.fastprep.io/problems/agoda-jump-game-prime-3-steps)|[![Practice][p]](https://www.fastprep.io/problems/agoda-jump-game-prime-3-steps)|Jun 17, 2025|

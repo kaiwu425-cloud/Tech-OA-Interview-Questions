@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Airbnb**|[Worker Management, Part 1: Office Registration](https://www.fastprep.io/problems/airbnb-worker-management-level-1)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-worker-management-level-1)|Jul 26, 2026|
 |**Airbnb**|[Worker Management, Part 2: Top Workers](https://www.fastprep.io/problems/airbnb-worker-management-level-2)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-worker-management-level-2)|Jul 26, 2026|
 |**Airbnb**|[Worker Management, Part 3: Promotions and Salary](https://www.fastprep.io/problems/airbnb-worker-management-level-3)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-worker-management-level-3)|Jul 26, 2026|
 |**Stripe**|[Merchant Fraud Risk Scoring](https://www.fastprep.io/problems/stripe-merchant-fraud-risk-scoring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-merchant-fraud-risk-scoring)|Jul 26, 2026|
@@ -331,6 +332,7 @@
 |**Rippling**|[In-Memory Fixed-Window Rate Limiter](https://www.fastprep.io/problems/rippling-in-memory-rate-limiter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-in-memory-rate-limiter)|Jun 10, 2026|
 |**Salesforce**|[Count Prime Strings](https://www.fastprep.io/problems/salesforce-count-prime-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-count-prime-strings)|Jun 10, 2026|
 |**Onehouse**|[Design a Thread-Safe In-Memory Workflow Orchestrator](https://www.fastprep.io/low-level-design/thread-safe-in-memory-workflow-orchestrator)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-in-memory-workflow-orchestrator)|Jun 10, 2026|
+|**IMC Trading**|[Matching Engine with Order Cancellation](https://www.fastprep.io/problems/imc-matching-engine-with-order-cancellation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-matching-engine-with-order-cancellation)|Jun 10, 2026|
 |**Amazon**|[Select Least Resource Tasks](https://www.fastprep.io/problems/amazon-select-least-resource-tasks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-select-least-resource-tasks)|Jun 09, 2026|
 |**Amazon**|[Get Smallest Base Segment](https://www.fastprep.io/problems/amazon-get-smallest-base-segment)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-smallest-base-segment)|Jun 09, 2026|
 |**Amazon**|[Count Promotional Periods](https://www.fastprep.io/problems/amazon-count-promotional-periods)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-promotional-periods)|Jun 09, 2026|
@@ -495,6 +497,7 @@
 |**Rippling**|[Merge Overlapping Intervals](https://www.fastprep.io/problems/rippling-merge-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-merge-intervals)|Apr 01, 2026|
 |**Snowflake**|[Max Element Indexes After Rotations](https://www.fastprep.io/problems/snowflake-max-element-indexes-after-rotations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-max-element-indexes-after-rotations)|Mar 31, 2026|
 |**HackerRank**|[Check Permutation Divisible by Eight](https://www.fastprep.io/problems/hackerrank-check-permutation-divisible-by-eight)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hackerrank-check-permutation-divisible-by-eight)|Mar 31, 2026|
+|**Stripe**|[Order Manager with Partial Cancellations and Indexed Queries](https://www.fastprep.io/problems/stripe-order-manager-cancellations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-order-manager-cancellations)|Mar 31, 2026|
 |**Microsoft**|[Maximum Data Transfer Time](https://www.fastprep.io/problems/microsoft-maximum-data-transfer-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximum-data-transfer-time)|Mar 28, 2026|
 |**Notion**|[Page Permission Inheritance](https://www.fastprep.io/problems/notion-page-permission-inheritance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/notion-page-permission-inheritance)|Mar 26, 2026|
 |**Notion**|[Block Type with the Most Children](https://www.fastprep.io/problems/notion-block-type-with-most-children)|SQL|[![Practice][p]](https://www.fastprep.io/problems/notion-block-type-with-most-children)|Mar 26, 2026|
@@ -804,6 +807,7 @@
 |**Arcesium**|[Product of Subset Maxima](https://www.fastprep.io/problems/arcesium-product-of-subset-maxima)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-product-of-subset-maxima)|Jul 23, 2025|
 |**Arcesium**|[Reconstruct the Root Stream](https://www.fastprep.io/problems/arcesium-reconstruct-root-stream)|Coding|[![Practice][p]](https://www.fastprep.io/problems/arcesium-reconstruct-root-stream)|Jul 23, 2025|
 |**Zip**|[In-Memory Database with TTL and Historical Queries](https://www.fastprep.io/problems/zip-in-memory-database-oa)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zip-in-memory-database-oa)|Jul 22, 2025|
+|**Stripe**|[Indexed API Field Pattern Queries](https://www.fastprep.io/problems/stripe-indexed-api-field-pattern-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-indexed-api-field-pattern-queries)|Jul 19, 2025|
 |**Abnormal Security**|[Find Duplicate Image Files](https://www.fastprep.io/problems/abnormal-security-duplicate-image-files)|Coding|[![Practice][p]](https://www.fastprep.io/problems/abnormal-security-duplicate-image-files)|Jul 15, 2025|
 |**Amazon**|[Maximize Pages Before Suspension](https://www.fastprep.io/problems/amazon-maximize-pages-before-suspension)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-pages-before-suspension)|Jul 08, 2025|
 |**Salesforce**|[Minimum Operations to Zero](https://www.fastprep.io/problems/salesforce-minimum-operations-to-zero)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-minimum-operations-to-zero)|Jul 08, 2025|
@@ -1848,9 +1852,4 @@
 |**Snowflake**|[Count Ways to Color Houses](https://www.fastprep.io/problems/snowflake-count-ways-to-color-houses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-count-ways-to-color-houses)|Feb 05, 2024|
 |**Snowflake**|[Count Min Characters](https://www.fastprep.io/problems/snowflake-count-minimum-characters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-count-minimum-characters)|Feb 05, 2024|
 |**IBM**|[Find Y Values](https://www.fastprep.io/problems/ibm-find-y-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-find-y-value)|Feb 05, 2024|
-|**IBM**|[Circles](https://www.fastprep.io/problems/ibm-circles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-circles)|Feb 05, 2024|
-|**IBM**|[Get Min Moves](https://www.fastprep.io/problems/ibm-get-minimum-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-minimum-moves)|Feb 05, 2024|
-|**Akuna**|[Min Cost (Akuna Shang Hai)](https://www.fastprep.io/problems/akuna-min-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-min-cost)|Feb 02, 2024|
-|**Akuna**|[Minimum Chunks Required (Akuna Shang Hai)](https://www.fastprep.io/problems/akuna-minimum-chunks-required)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-minimum-chunks-required)|Feb 02, 2024|
-|**Akuna**|[Diffierence Calculator (Akuna Shang Hai)](https://www.fastprep.io/problems/akuna-difference-calculator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-difference-calculator)|Feb 02, 2024|
 <a id="bottom"></a>
