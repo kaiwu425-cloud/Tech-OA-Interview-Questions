@@ -454,6 +454,7 @@
 |**Meta**|[Design an Event Attendance Prediction Service](https://www.fastprep.io/system-design/event-attendance-prediction-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/event-attendance-prediction-service)|Apr 24, 2026|
 |**Meta**|[Repair and Extend a Maze Solver](https://www.fastprep.io/project-coding/meta-maze-solver)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/meta-maze-solver)|Apr 24, 2026|
 |**Duolingo**|[Rank Word-Translation Hints from Sentence Translations](https://www.fastprep.io/problems/duolingo-rank-translation-hints)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-rank-translation-hints)|Apr 21, 2026|
+|**Scale AI**|[Repair Contractor Project Assignment](https://www.fastprep.io/project-coding/scale-ai-contractor-course-project-assignment-debugging)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-contractor-course-project-assignment-debugging)|Apr 21, 2026|
 |**Point72**|[Initial Public Offering](https://www.fastprep.io/problems/point72-initial-public-offering)|Coding|[![Practice][p]](https://www.fastprep.io/problems/point72-initial-public-offering)|Apr 19, 2026|
 |**Duolingo**|[Encrypt and Decrypt Strings](https://www.fastprep.io/problems/duolingo-encrypt-and-decrypt-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/duolingo-encrypt-and-decrypt-strings)|Apr 17, 2026|
 |**Mistral AI**|[GPU Capacity With Limited Cluster Switching](https://www.fastprep.io/problems/mistral-ai-gpu-cluster-switching)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mistral-ai-gpu-cluster-switching)|Apr 16, 2026|
@@ -590,6 +591,7 @@
 |**Bloomberg LP**|[Design Underground System](https://www.fastprep.io/problems/bloomberg-design-underground-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-design-underground-system)|Jan 28, 2026|
 |**ZipRecruiter**|[In-Memory Database with TTL and Historical Lookup](https://www.fastprep.io/problems/ziprecruiter-in-memory-database-historical-lookup)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-in-memory-database-historical-lookup)|Jan 28, 2026|
 |**Google**|[Reservoir Sampling with Recorded Draws](https://www.fastprep.io/problems/google-reservoir-sampling-with-recorded-draws)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-reservoir-sampling-with-recorded-draws)|Jan 27, 2026|
+|**Stripe**|[Transaction Fee Calculator — Channel Volume Tiers](https://www.fastprep.io/problems/stripe-transaction-fee-calculator-channel-tiers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-transaction-fee-calculator-channel-tiers)|Jan 26, 2026|
 |**Amazon**|[Package Delivery System](https://www.fastprep.io/problems/amazon-package-delivery-system)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-package-delivery-system)|Jan 24, 2026|
 |**Amazon**|[VM Rental Revenue](https://www.fastprep.io/problems/amazon-vm-rental-revenue)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-vm-rental-revenue)|Jan 24, 2026|
 |**Amazon**|[Lexicographically Maximum Final Sequence](https://www.fastprep.io/problems/amazon-lexicographically-maximum-final-sequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-lexicographically-maximum-final-sequence)|Jan 24, 2026|
@@ -1735,6 +1737,7 @@
 |**Airbnb**|[Minimum Eating Speed](https://www.fastprep.io/problems/airbnb-minimum-eating-speed)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-minimum-eating-speed)|Mar 06, 2024|
 |**Google**|[Largest Lexicographical Substring](https://www.fastprep.io/problems/google-largest-lexicographical-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-largest-lexicographical-substring)|Mar 05, 2024|
 |**Google**|[Maximize Power Values Sum](https://www.fastprep.io/problems/google-maximize-power-values-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-maximize-power-values-sum)|Mar 05, 2024|
+|**Scale AI**|[Training Data And Model Error Debugging](https://www.fastprep.io/project-coding/scale-ai-json-csv-model-error-debugging)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-json-csv-model-error-debugging)|Mar 05, 2024|
 |**Amazon**|[Ways to Group Parcels](https://www.fastprep.io/problems/amazon-find-number-of-ways-to-group-parcels)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-number-of-ways-to-group-parcels)|Mar 04, 2024|
 |**IBM**|[Find Max Distinct Items](https://www.fastprep.io/problems/ibm-find-max-distinct-items)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-find-max-distinct-items)|Mar 04, 2024|
 |**Amazon**|[Maxmimum Times Word Removed](https://www.fastprep.io/problems/amazon-maximum-times-word-removed)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-times-word-removed)|Mar 03, 2024|
@@ -1847,8 +1850,4 @@
 |**IBM**|[Merge Arrays](https://www.fastprep.io/problems/ibm-merge-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-merge-arrays)|Feb 08, 2024|
 |**Amazon**|[Find Largest Set of Onion Bags](https://www.fastprep.io/problems/amazon-find-largest-set-of-onion-bags)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-largest-set-of-onion-bags)|Feb 06, 2024|
 |**Amazon**|[Minimum Total Errors](https://www.fastprep.io/problems/amazon-min-errors)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-min-errors)|Feb 06, 2024|
-|**Adobe**|[Get Minimum Operations](https://www.fastprep.io/problems/get-minimum-operations-adobe)|Coding|[![Practice][p]](https://www.fastprep.io/problems/get-minimum-operations-adobe)|Feb 06, 2024|
-|**Twilio**|[Find Maximum Greatness](https://www.fastprep.io/problems/twilio-find-maximum-greatness)|Coding|[![Practice][p]](https://www.fastprep.io/problems/twilio-find-maximum-greatness)|Feb 06, 2024|
-|**Twilio**|[Count Groups](https://www.fastprep.io/problems/twilio-count-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/twilio-count-groups)|Feb 06, 2024|
-|**Snowflake**|[Array Reduction Algorithm](https://www.fastprep.io/problems/snowflake-array-reduction-algorithm)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-array-reduction-algorithm)|Feb 05, 2024|
 <a id="bottom"></a>

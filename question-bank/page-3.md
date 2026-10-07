@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Adobe**|[Get Minimum Operations](https://www.fastprep.io/problems/get-minimum-operations-adobe)|Coding|[![Practice][p]](https://www.fastprep.io/problems/get-minimum-operations-adobe)|Feb 06, 2024|
+|**Twilio**|[Find Maximum Greatness](https://www.fastprep.io/problems/twilio-find-maximum-greatness)|Coding|[![Practice][p]](https://www.fastprep.io/problems/twilio-find-maximum-greatness)|Feb 06, 2024|
+|**Twilio**|[Count Groups](https://www.fastprep.io/problems/twilio-count-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/twilio-count-groups)|Feb 06, 2024|
+|**Snowflake**|[Array Reduction Algorithm](https://www.fastprep.io/problems/snowflake-array-reduction-algorithm)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-array-reduction-algorithm)|Feb 05, 2024|
 |**Snowflake**|[Count Ways to Color Houses](https://www.fastprep.io/problems/snowflake-count-ways-to-color-houses)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-count-ways-to-color-houses)|Feb 05, 2024|
 |**Snowflake**|[Count Min Characters](https://www.fastprep.io/problems/snowflake-count-minimum-characters)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-count-minimum-characters)|Feb 05, 2024|
 |**IBM**|[Find Y Values](https://www.fastprep.io/problems/ibm-find-y-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-find-y-value)|Feb 05, 2024|

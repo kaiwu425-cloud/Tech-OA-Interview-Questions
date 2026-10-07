@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,247 questions**
+**3,248 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -1632,6 +1632,7 @@
 |**Bloomberg LP**|[Design Underground System](https://www.fastprep.io/problems/bloomberg-design-underground-system)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-design-underground-system)|Jan 28, 2026|
 |**ZipRecruiter**|[In-Memory Database with TTL and Historical Lookup](https://www.fastprep.io/problems/ziprecruiter-in-memory-database-historical-lookup)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-in-memory-database-historical-lookup)|Jan 28, 2026|
 |**Google**|[Reservoir Sampling with Recorded Draws](https://www.fastprep.io/problems/google-reservoir-sampling-with-recorded-draws)|[![Practice][p]](https://www.fastprep.io/problems/google-reservoir-sampling-with-recorded-draws)|Jan 27, 2026|
+|**Stripe**|[Transaction Fee Calculator — Channel Volume Tiers](https://www.fastprep.io/problems/stripe-transaction-fee-calculator-channel-tiers)|[![Practice][p]](https://www.fastprep.io/problems/stripe-transaction-fee-calculator-channel-tiers)|Jan 26, 2026|
 |**Amazon**|[Package Delivery System](https://www.fastprep.io/problems/amazon-package-delivery-system)|[![Practice][p]](https://www.fastprep.io/problems/amazon-package-delivery-system)|Jan 24, 2026|
 |**Amazon**|[VM Rental Revenue](https://www.fastprep.io/problems/amazon-vm-rental-revenue)|[![Practice][p]](https://www.fastprep.io/problems/amazon-vm-rental-revenue)|Jan 24, 2026|
 |**Amazon**|[Lexicographically Maximum Final Sequence](https://www.fastprep.io/problems/amazon-lexicographically-maximum-final-sequence)|[![Practice][p]](https://www.fastprep.io/problems/amazon-lexicographically-maximum-final-sequence)|Jan 24, 2026|
@@ -1827,5 +1828,4 @@
 |**JP Morgan**|[Balanced Sum](https://www.fastprep.io/problems/jpmorgan-balanced-sum)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-balanced-sum)|Jun 18, 2025|
 |**JP Morgan**|[Get Min Operations](https://www.fastprep.io/problems/jpmorgan-get-min-operations)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-min-operations)|Jun 18, 2025|
 |**JP Morgan**|[Get Search Result](https://www.fastprep.io/problems/jpmorgan-get-search-results)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-search-results)|Jun 18, 2025|
-|**JP Morgan**|[One Substring Count](https://www.fastprep.io/problems/jpmorgan-one-substring-count)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-one-substring-count)|Jun 18, 2025|
 <a id="bottom"></a>

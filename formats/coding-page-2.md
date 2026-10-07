@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,247 questions**
+**3,248 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**JP Morgan**|[One Substring Count](https://www.fastprep.io/problems/jpmorgan-one-substring-count)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-one-substring-count)|Jun 18, 2025|
 |**JP Morgan**|[Find Total Weight](https://www.fastprep.io/problems/jpmorgan-find-total-weight)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-find-total-weight)|Jun 18, 2025|
 |**PayPay**|[Sum Consecutive Identical Digits](https://www.fastprep.io/problems/paypay-sum-consecutive-identical-digits)|[![Practice][p]](https://www.fastprep.io/problems/paypay-sum-consecutive-identical-digits)|Jun 18, 2025|
 |**PayPay**|[Board Coloring and Query Processing](https://www.fastprep.io/problems/paypay-board-coloring-and-query-processing)|[![Practice][p]](https://www.fastprep.io/problems/paypay-board-coloring-and-query-processing)|Jun 18, 2025|
