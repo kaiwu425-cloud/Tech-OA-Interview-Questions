@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,228 questions**
+**3,230 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Wells Fargo**|[Floor Square Roots for an Array](https://www.fastprep.io/problems/wellsfargo-floor-square-roots)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-floor-square-roots)|May 26, 2025|
+|**Wells Fargo**|[Longest Common Prefix](https://www.fastprep.io/problems/wellsfargo-longest-common-prefix)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-longest-common-prefix)|May 26, 2025|
 |**Amazon**|[Determine the Best Skipping Strategy](https://www.fastprep.io/problems/amazon-determine-the-best-skipping-strategy)|[![Practice][p]](https://www.fastprep.io/problems/amazon-determine-the-best-skipping-strategy)|May 25, 2025|
 |**Meesho**|[Distinct Moves](https://www.fastprep.io/problems/meesho-distinct-moves)|[![Practice][p]](https://www.fastprep.io/problems/meesho-distinct-moves)|May 25, 2025|
 |**Agoda**|[Unique Digits in Range](https://www.fastprep.io/problems/agoda-unique-digits-in-range)|[![Practice][p]](https://www.fastprep.io/problems/agoda-unique-digits-in-range)|May 25, 2025|

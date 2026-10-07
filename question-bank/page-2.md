@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Airbnb**|[Nested List Iterator with Remove](https://www.fastprep.io/problems/airbnb-nested-list-iterator-with-remove)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-nested-list-iterator-with-remove)|Jul 26, 2026|
+|**Citadel**|[Limit Order Book Matching Engine](https://www.fastprep.io/problems/citadel-limit-order-book-matching-engine)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-limit-order-book-matching-engine)|Jul 26, 2026|
+|**Hudson River Trading**|[Market Data Signal Watcher](https://www.fastprep.io/problems/hudson-river-market-data-signal-watcher)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hudson-river-market-data-signal-watcher)|Jul 26, 2026|
 |**Amazon**|[Shortest Distance on a Circular Bus Route](https://www.fastprep.io/problems/amazon-shortest-distance-circular-bus-route)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-shortest-distance-circular-bus-route)|Jul 26, 2026|
 |**Databricks**|[Design a Durable Local Event Writer](https://www.fastprep.io/system-design/durable-local-event-writer)|System design|[![Practice][p]](https://www.fastprep.io/system-design/durable-local-event-writer)|Jul 26, 2026|
 |**Databricks**|[Design a Chat Application Cache Architecture](https://www.fastprep.io/system-design/chat-application-cache-architecture)|System design|[![Practice][p]](https://www.fastprep.io/system-design/chat-application-cache-architecture)|Jul 25, 2026|
@@ -87,7 +90,6 @@
 |**Goldman Sachs**|[Root of the Largest Tree](https://www.fastprep.io/problems/goldman-sachs-largest-tree-root)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-largest-tree-root)|Jul 17, 2026|
 |**Uber**|[Design a Driver Payout System](https://www.fastprep.io/system-design/uber-driver-payout)|System design|[![Practice][p]](https://www.fastprep.io/system-design/uber-driver-payout)|Jul 17, 2026|
 |**Microsoft**|[Design a Real-Time Multiplayer Game](https://www.fastprep.io/system-design/real-time-multiplayer-game)|System design|[![Practice][p]](https://www.fastprep.io/system-design/real-time-multiplayer-game)|Jul 17, 2026|
-|**Adobe**|[Design Network-Backed Search Suggestions](https://www.fastprep.io/low-level-design/adobe-network-search-suggestions)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/adobe-network-search-suggestions)|Jul 17, 2026|
 |**Amazon**|[Customer Package Delivery Report](https://www.fastprep.io/problems/amazon-customer-package-delivery-report)|SQL|[![Practice][p]](https://www.fastprep.io/problems/amazon-customer-package-delivery-report)|Jul 16, 2026|
 |**Microsoft**|[Alphabetically Smallest Palindrome](https://www.fastprep.io/problems/microsoft-alphabetically-smallest-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-alphabetically-smallest-palindrome)|Jul 16, 2026|
 |**Zomato / Eternal**|[Robot Warehouse Optimization](https://www.fastprep.io/problems/zomato-robot-warehouse-optimization)|Coding|[![Practice][p]](https://www.fastprep.io/problems/zomato-robot-warehouse-optimization)|Jul 16, 2026|
@@ -447,6 +449,7 @@
 |**Temporal**|[Concurrent Volley Shot](https://www.fastprep.io/problems/temporal-concurrent-volley-shot)|Coding|[![Practice][p]](https://www.fastprep.io/problems/temporal-concurrent-volley-shot)|Apr 14, 2026|
 |**Amazon**|[Maximum Score With Non-Adjacent Values](https://www.fastprep.io/problems/amazon-maximum-score-with-non-adjacent-values)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-score-with-non-adjacent-values)|Apr 14, 2026|
 |**Amazon**|[Make Value Groups Contiguous](https://www.fastprep.io/problems/amazon-make-value-groups-contiguous)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-make-value-groups-contiguous)|Apr 13, 2026|
+|**Scale AI**|[Design an Insurance Claims RAG Agent](https://www.fastprep.io/system-design/insurance-claims-rag-agent)|System design|[![Practice][p]](https://www.fastprep.io/system-design/insurance-claims-rag-agent)|Apr 13, 2026|
 |**Superhuman**|[Lost Messages](https://www.fastprep.io/problems/superhuman-lost-messages)|Coding|[![Practice][p]](https://www.fastprep.io/problems/superhuman-lost-messages)|Apr 10, 2026|
 |**Superhuman**|[Optimal Transfer](https://www.fastprep.io/problems/superhuman-optimal-transfer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/superhuman-optimal-transfer)|Apr 10, 2026|
 |**Superhuman**|[Math Homework](https://www.fastprep.io/problems/superhuman-math-homework)|Coding|[![Practice][p]](https://www.fastprep.io/problems/superhuman-math-homework)|Apr 10, 2026|
@@ -1853,8 +1856,4 @@
 |**Navan**|[Shortest Substring with at Least K Distinct Characters](https://www.fastprep.io/problems/navan-shortest-substring-at-least-k-distinct)|Coding|[![Practice][p]](https://www.fastprep.io/problems/navan-shortest-substring-at-least-k-distinct)|Jan 24, 2024|
 |**Amazon**|[Rice Bags](https://www.fastprep.io/problems/max-set-size)|Coding|[![Practice][p]](https://www.fastprep.io/problems/max-set-size)|Jan 13, 2024|
 |**Snowflake**|[Smallest Set Covering Intervals](https://www.fastprep.io/problems/smallest-set-covering-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/smallest-set-covering-intervals)|Jan 13, 2024|
-|**Snowflake**|[Maximum Order Volume](https://www.fastprep.io/problems/phone-calls)|Coding|[![Practice][p]](https://www.fastprep.io/problems/phone-calls)|Jan 13, 2024|
-|**Snowflake**|[Unequal Elements](https://www.fastprep.io/problems/find-max-length)|Coding|[![Practice][p]](https://www.fastprep.io/problems/find-max-length)|Jan 13, 2024|
-|**Snowflake**|[Job Execution](https://www.fastprep.io/problems/get-minimum-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/get-minimum-operations)|Jan 12, 2024|
-|**Snowflake**|[Perfect Pairs](https://www.fastprep.io/problems/perfect-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/perfect-pairs)|Jan 12, 2024|
 <a id="bottom"></a>
