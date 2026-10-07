@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Goldman Sachs**|[Compute Parameter Value](https://www.fastprep.io/problems/compute-parameter-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/compute-parameter-value)|Jan 09, 2024|
+|**Goldman Sachs**|[Max Min](https://www.fastprep.io/problems/max-min)|Coding|[![Practice][p]](https://www.fastprep.io/problems/max-min)|Jan 09, 2024|
+|**Goldman Sachs**|[Chair Requirements](https://www.fastprep.io/problems/goldman-min-chair)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-min-chair)|Jan 09, 2024|
 |**Goldman Sachs**|[Autocorrect Prototype](https://www.fastprep.io/problems/autocorrect-prototype)|Coding|[![Practice][p]](https://www.fastprep.io/problems/autocorrect-prototype)|Jan 09, 2024|
 |**Goldman Sachs**|[Do They Belong?](https://www.fastprep.io/problems/points-belong)|Coding|[![Practice][p]](https://www.fastprep.io/problems/points-belong)|Jan 09, 2024|
 |**Goldman Sachs**|[Preprocess Dates](https://www.fastprep.io/problems/preprocess-date)|Coding|[![Practice][p]](https://www.fastprep.io/problems/preprocess-date)|Jan 09, 2024|
@@ -372,6 +375,7 @@
 |**Bloomberg LP**|[Number of Distinct Islands](https://www.fastprep.io/problems/bloomberg-number-of-distinct-islands)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-number-of-distinct-islands)|Jan 20, 2021|
 |**Bloomberg LP**|[Target Sum Across Two Sorted Arrays](https://www.fastprep.io/problems/bloomberg-target-sum-across-two-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-target-sum-across-two-arrays)|Jan 17, 2021|
 |**Bloomberg LP**|[Coin Change II](https://www.fastprep.io/problems/bloomberg-coin-change-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-coin-change-ii)|Jan 12, 2021|
+|**SpaceX**|[Design a Managed User-Script Execution Platform](https://www.fastprep.io/system-design/managed-user-script-execution-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/managed-user-script-execution-platform)|Jan 12, 2021|
 |**Scale AI**|[Adjacent Order-Statistic Gap Distributions](https://www.fastprep.io/problems/scale-ai-adjacent-order-statistic-gaps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-adjacent-order-statistic-gaps)|Jan 08, 2021|
 |**Scale AI**|[Complete a Small CNN Oriented-Box Regression Pipeline](https://www.fastprep.io/project-coding/scale-ai-small-cnn-oriented-box-regression)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/scale-ai-small-cnn-oriented-box-regression)|Jan 08, 2021|
 |**Figma**|[Design Search Result Highlighting](https://www.fastprep.io/system-design/search-result-highlighting)|System design|[![Practice][p]](https://www.fastprep.io/system-design/search-result-highlighting)|Jan 01, 2021|
