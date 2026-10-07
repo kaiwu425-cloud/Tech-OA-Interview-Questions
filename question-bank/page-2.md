@@ -9,6 +9,11 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Optiver**|[Design a News Subscription Processing Engine](https://www.fastprep.io/system-design/news-subscription-processing-engine)|System design|[![Practice][p]](https://www.fastprep.io/system-design/news-subscription-processing-engine)|Jul 27, 2026|
+|**Brex**|[Design a Peer-to-Peer Money Transfer System](https://www.fastprep.io/system-design/peer-to-peer-money-transfer-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/peer-to-peer-money-transfer-system)|Jul 27, 2026|
+|**Distyl AI**|[Design an Iterative Compound-LLM Defense Generator](https://www.fastprep.io/system-design/iterative-compound-llm-defense-generator)|System design|[![Practice][p]](https://www.fastprep.io/system-design/iterative-compound-llm-defense-generator)|Jul 27, 2026|
+|**Hudson River Trading**|[Design Shared NFS Read Acceleration](https://www.fastprep.io/system-design/shared-nfs-read-acceleration)|System design|[![Practice][p]](https://www.fastprep.io/system-design/shared-nfs-read-acceleration)|Jul 27, 2026|
+|**Coinbase / Airbnb**|[In-Memory Database](https://www.fastprep.io/project-coding/in-memory-database)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/in-memory-database)|Jul 27, 2026|
 |**Airbnb**|[Worker Management, Part 1: Office Registration](https://www.fastprep.io/problems/airbnb-worker-management-level-1)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-worker-management-level-1)|Jul 26, 2026|
 |**Airbnb**|[Worker Management, Part 2: Top Workers](https://www.fastprep.io/problems/airbnb-worker-management-level-2)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-worker-management-level-2)|Jul 26, 2026|
 |**Airbnb**|[Worker Management, Part 3: Promotions and Salary](https://www.fastprep.io/problems/airbnb-worker-management-level-3)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-worker-management-level-3)|Jul 26, 2026|
@@ -79,7 +84,6 @@
 |**Amazon**|[Loyal Customers Across Two Days](https://www.fastprep.io/problems/amazon-loyal-customers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-loyal-customers)|Jul 21, 2026|
 |**Amazon**|[Smallest Number With a Given Digit Sum](https://www.fastprep.io/problems/amazon-smallest-number-with-digit-sum)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-smallest-number-with-digit-sum)|Jul 21, 2026|
 |**Oracle**|[Merge k Sorted Lists](https://www.fastprep.io/problems/oracle-merge-k-sorted-lists)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-merge-k-sorted-lists)|Jul 21, 2026|
-|**Amazon**|[Design a Distributed Recurring Workflow Scheduler](https://www.fastprep.io/system-design/distributed-recurring-workflow-scheduler)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-recurring-workflow-scheduler)|Jul 21, 2026|
 |**Amazon**|[Design Music Search, Playlists, and Playback](https://www.fastprep.io/low-level-design/amazon-music-search-and-playback)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/amazon-music-search-and-playback)|Jul 21, 2026|
 |**Airbnb**|[Most Frequent Reduced Digit](https://www.fastprep.io/problems/airbnb-most-frequent-reduced-digit)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-most-frequent-reduced-digit)|Jul 20, 2026|
 |**Airbnb**|[Rectangle Fit Queries](https://www.fastprep.io/problems/airbnb-rectangle-fit-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-rectangle-fit-queries)|Jul 20, 2026|
@@ -581,7 +585,6 @@
 |**Uber**|[Binary Tree: Subtree Sum, Maximum Path Sum, and Path Nodes](https://www.fastprep.io/problems/uber-binary-tree-subtree-sum-maximum-path-and-path-nodes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/uber-binary-tree-subtree-sum-maximum-path-and-path-nodes)|Feb 04, 2026|
 |**IBM**|[Count Unstable Processes](https://www.fastprep.io/problems/ibm-count-unstable-processes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-unstable-processes)|Feb 03, 2026|
 |**IBM**|[Longest Balanced Binary Subarray](https://www.fastprep.io/problems/ibm-longest-balanced-binary-subarray)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-longest-balanced-binary-subarray)|Feb 03, 2026|
-|**Bloomberg LP**|[Design a To-do List with External Completion Status](https://www.fastprep.io/low-level-design/to-do-list-with-completion-checker)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/to-do-list-with-completion-checker)|Feb 03, 2026|
 |**Bloomberg LP**|[Binary Tree Vertical Order Traversal](https://www.fastprep.io/problems/bloomberg-binary-tree-vertical-order-traversal)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-binary-tree-vertical-order-traversal)|Feb 03, 2026|
 |**Bloomberg LP**|[Word Search](https://www.fastprep.io/problems/bloomberg-word-search)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-word-search)|Feb 03, 2026|
 |**Razorpay**|[Design and Implement an ATM Machine](https://www.fastprep.io/low-level-design/atm-machine-domain)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/atm-machine-domain)|Feb 02, 2026|
@@ -717,7 +720,6 @@
 |**Mastercard**|[Container With Most Water](https://www.fastprep.io/problems/mastercard-container-with-most-water)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mastercard-container-with-most-water)|Oct 27, 2025|
 |**Temporal**|[Concurrent Web Crawler Reachability](https://www.fastprep.io/problems/temporal-concurrent-web-crawler)|Coding|[![Practice][p]](https://www.fastprep.io/problems/temporal-concurrent-web-crawler)|Oct 19, 2025|
 |**Temporal**|[Game of Life Next Generation](https://www.fastprep.io/problems/temporal-game-of-life)|Coding|[![Practice][p]](https://www.fastprep.io/problems/temporal-game-of-life)|Oct 19, 2025|
-|**Temporal**|[Design Zero-Downtime Database Migration](https://www.fastprep.io/system-design/zero-downtime-database-migration-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/zero-downtime-database-migration-platform)|Oct 19, 2025|
 |**Google**|[Design Cost-Aware Content Integrity Decisions](https://www.fastprep.io/system-design/cost-aware-content-integrity-decisions)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cost-aware-content-integrity-decisions)|Oct 18, 2025|
 |**Scale AI**|[Party Windows and Dead Zone Time](https://www.fastprep.io/problems/scale-ai-party-windows-dead-zone-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-party-windows-dead-zone-time)|Oct 17, 2025|
 |**Google**|[Minimize the Maximum Pages Allocated](https://www.fastprep.io/problems/google-minimize-maximum-pages-allocation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimize-maximum-pages-allocation)|Oct 16, 2025|
@@ -1847,6 +1849,4 @@
 |**IBM**|[Validate Requests](https://www.fastprep.io/problems/ibm-request-parser)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-request-parser)|Feb 14, 2024|
 |**Oracle**|[Get Discounted Price](https://www.fastprep.io/problems/oracle-get-discounted-price)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-get-discounted-price)|Feb 14, 2024|
 |**Oracle**|[Cardinality Sort](https://www.fastprep.io/problems/oracle-cardinality-sort)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-cardinality-sort)|Feb 14, 2024|
-|**SpaceX**|[Design High-Demand Commerce and Fulfillment](https://www.fastprep.io/system-design/high-demand-commerce-fulfillment)|System design|[![Practice][p]](https://www.fastprep.io/system-design/high-demand-commerce-fulfillment)|Feb 13, 2024|
-|**Navan**|[Snake-Case Iterator to Camel Case](https://www.fastprep.io/problems/navan-snake-case-iterator-to-camel-case)|Coding|[![Practice][p]](https://www.fastprep.io/problems/navan-snake-case-iterator-to-camel-case)|Feb 10, 2024|
 <a id="bottom"></a>

@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**SpaceX**|[Design High-Demand Commerce and Fulfillment](https://www.fastprep.io/system-design/high-demand-commerce-fulfillment)|System design|[![Practice][p]](https://www.fastprep.io/system-design/high-demand-commerce-fulfillment)|Feb 13, 2024|
+|**Navan**|[Snake-Case Iterator to Camel Case](https://www.fastprep.io/problems/navan-snake-case-iterator-to-camel-case)|Coding|[![Practice][p]](https://www.fastprep.io/problems/navan-snake-case-iterator-to-camel-case)|Feb 10, 2024|
 |**IBM**|[Find Missing Integers](https://www.fastprep.io/problems/ibm-find-missing-integer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-find-missing-integer)|Feb 08, 2024|
 |**IBM**|[Merge Arrays](https://www.fastprep.io/problems/ibm-merge-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-merge-arrays)|Feb 08, 2024|
 |**Amazon**|[Find Largest Set of Onion Bags](https://www.fastprep.io/problems/amazon-find-largest-set-of-onion-bags)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-largest-set-of-onion-bags)|Feb 06, 2024|
@@ -181,7 +183,6 @@
 |**Airbyte**|[Minesweeper Board Update](https://www.fastprep.io/problems/airbyte-minesweeper-board-update)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbyte-minesweeper-board-update)|Mar 29, 2023|
 |**IMC**|[Busy Intersection](https://www.fastprep.io/problems/imc-busy-intersection)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-busy-intersection)|Mar 27, 2023|
 |**Coalition**|[Evaluate Reverse Polish Notation](https://www.fastprep.io/problems/coalition-evaluate-reverse-polish-notation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/coalition-evaluate-reverse-polish-notation)|Mar 17, 2023|
-|**Bloomberg LP**|[Design a Real-Time Stock Alert System](https://www.fastprep.io/system-design/configurable-real-time-stock-alerts)|System design|[![Practice][p]](https://www.fastprep.io/system-design/configurable-real-time-stock-alerts)|Feb 22, 2023|
 |**Bloomberg LP**|[Bank Operating-Hours Coverage](https://www.fastprep.io/problems/bloomberg-bank-interval-coverage)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-bank-interval-coverage)|Feb 22, 2023|
 |**Bloomberg LP**|[Count Teams Outscoring a Target Team](https://www.fastprep.io/problems/bloomberg-count-teams-outscoring-target)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-count-teams-outscoring-target)|Feb 22, 2023|
 |**Bloomberg LP**|[Number of Islands](https://www.fastprep.io/problems/bloomberg-number-of-islands)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-number-of-islands)|Feb 22, 2023|
