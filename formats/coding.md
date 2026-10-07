@@ -864,6 +864,7 @@
 |**Visa**|[Planning Production](https://www.fastprep.io/problems/visa-planning-production)|[![Practice][p]](https://www.fastprep.io/problems/visa-planning-production)|🆕 Sep 08, 2026|
 |**Visa**|[Subarray Sum](https://www.fastprep.io/problems/visa-subarray-sum)|[![Practice][p]](https://www.fastprep.io/problems/visa-subarray-sum)|🆕 Sep 08, 2026|
 |**Visa**|[Minimum Anagram Period](https://www.fastprep.io/problems/visa-minimum-anagram-period)|[![Practice][p]](https://www.fastprep.io/problems/visa-minimum-anagram-period)|🆕 Sep 08, 2026|
+|**Google**|[Divide Tree Nodes](https://www.fastprep.io/problems/divide-tree-nodes-google)|[![Practice][p]](https://www.fastprep.io/problems/divide-tree-nodes-google)|🆕 Sep 08, 2026|
 |**Snowflake**|[Generating Login Codes](https://www.fastprep.io/problems/snowflake-generating-login-codes)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-generating-login-codes)|🆕 Sep 07, 2026|
 |**Snowflake**|[String Formation (Also for AI/ML Software Engineer Intern :)](https://www.fastprep.io/problems/num-ways)|[![Practice][p]](https://www.fastprep.io/problems/num-ways)|🆕 Sep 07, 2026|
 |**Wells Fargo**|[Event Statistics Aggregator](https://www.fastprep.io/problems/wellsfargo-event-statistics-aggregator)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-event-statistics-aggregator)|🆕 Sep 07, 2026|
