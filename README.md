@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,233)](formats/coding.md) · [SQL (60)](formats/sql.md) · [System design (535)](formats/system-design.md) · [Low-level design (140)](formats/low-level-design.md) · [AI coding (67)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,233)](formats/coding.md) · [SQL (60)](formats/sql.md) · [System design (535)](formats/system-design.md) · [Low-level design (140)](formats/low-level-design.md) · [AI coding (69)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -43,6 +43,9 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Microsoft**|[Maximum Interactive Team Size](https://www.fastprep.io/problems/microsoft-maximum-interactive-team-size)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximum-interactive-team-size)|🔥 Oct 06, 2026|
 |**OpenAI / Baseten / Amazon**|[Design a Stateless Generative AI Chat Service](https://www.fastprep.io/system-design/stateless-generative-ai-chat-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/stateless-generative-ai-chat-service)|🔥 Oct 06, 2026|
 |**Databricks**|[Online Bookseller Platform](https://www.fastprep.io/system-design/online-bookseller-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/online-bookseller-platform)|🔥 Oct 06, 2026|
+|**Microsoft**|[Maximum Valid Substring Frequency](https://www.fastprep.io/problems/microsoft-maximum-valid-substring-frequency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximum-valid-substring-frequency)|🔥 Oct 06, 2026|
+|**Microsoft**|[Minimum Non-Adjacent Selection Capability](https://www.fastprep.io/problems/microsoft-minimum-nonadjacent-capability)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-nonadjacent-capability)|🔥 Oct 06, 2026|
+|**Persona**|[Build an Internal Go-Link Service](https://www.fastprep.io/project-coding/persona-internal-go-links)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/persona-internal-go-links)|🔥 Oct 06, 2026|
 |**Tekion / Autodesk**|[Design a Continuous Table Merge into NoSQL](https://www.fastprep.io/system-design/continuous-table-merge-to-nosql)|System design|[![Practice][p]](https://www.fastprep.io/system-design/continuous-table-merge-to-nosql)|🔥 Oct 05, 2026|
 |**Bloomberg LP**|[Design a Deck, Hand, and Dealer](https://www.fastprep.io/low-level-design/card-game-deck-hand-dealer)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/card-game-deck-hand-dealer)|🔥 Oct 05, 2026|
 |**Amazon / Airwallex / Apple / Wex / Confluent / Oracle / Motive / Grab / Optiver / Scale AI / ByteDance**|[Design a Ticket Booking System](https://www.fastprep.io/system-design/ticket-booking-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/ticket-booking-system)|🔥 Oct 05, 2026|
@@ -50,8 +53,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Okta**|[Design Cross-Domain Single Sign-On](https://www.fastprep.io/system-design/cross-domain-single-sign-on)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cross-domain-single-sign-on)|🔥 Oct 05, 2026|
 |**Okta**|[Design OIDC Login and Third-Party Tool Authorization](https://www.fastprep.io/system-design/oidc-third-party-tool-authorization)|System design|[![Practice][p]](https://www.fastprep.io/system-design/oidc-third-party-tool-authorization)|🔥 Oct 05, 2026|
 |**Adobe / Airwallex**|[Design Network-Backed Search Suggestions](https://www.fastprep.io/low-level-design/adobe-network-search-suggestions)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/adobe-network-search-suggestions)|🔥 Oct 05, 2026|
-|**Microsoft**|[Maximum Valid Substring Frequency](https://www.fastprep.io/problems/microsoft-maximum-valid-substring-frequency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximum-valid-substring-frequency)|🔥 Oct 05, 2026|
-|**Microsoft**|[Minimum Non-Adjacent Selection Capability](https://www.fastprep.io/problems/microsoft-minimum-nonadjacent-capability)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-nonadjacent-capability)|🔥 Oct 05, 2026|
+|**Netflix**|[Review and Repair an ML Feature Pipeline PR](https://www.fastprep.io/project-coding/netflix-feature-pipeline-pr-review)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/netflix-feature-pipeline-pr-review)|🔥 Oct 05, 2026|
 |**Stripe**|[Business Account KYC Verification — Parts 1–5](https://www.fastprep.io/problems/stripe-kyc-business-verification)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-kyc-business-verification)|🔥 Oct 04, 2026|
 |**Google**|[Minimum Cars for Rental Requests](https://www.fastprep.io/problems/google-minimum-cars-for-rental-requests)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-cars-for-rental-requests)|🔥 Oct 04, 2026|
 |**OpenAI**|[Design a Cloud Coding Workspace](https://www.fastprep.io/system-design/cloud-coding-workspace)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cloud-coding-workspace)|🔥 Oct 04, 2026|
@@ -1690,6 +1692,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Hudson River Trading**|[Cumulative Unique Bytes](https://www.fastprep.io/problems/hrt-cumulative-unique-bytes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hrt-cumulative-unique-bytes)|Jul 26, 2026|
 |**Upstart**|[Minimum Absolute Pair Difference](https://www.fastprep.io/problems/upstart-minimum-absolute-pair-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/upstart-minimum-absolute-pair-difference)|Jul 26, 2026|
 |**Upstart**|[Lexicographic Word Frequencies](https://www.fastprep.io/problems/upstart-lexicographic-word-frequencies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/upstart-lexicographic-word-frequencies)|Jul 26, 2026|
-|**Upstart**|[Sum Multiples of 3, 5, or 7 Below N](https://www.fastprep.io/problems/upstart-sum-multiples-of-three-five-seven)|Coding|[![Practice][p]](https://www.fastprep.io/problems/upstart-sum-multiples-of-three-five-seven)|Jul 26, 2026|
-|**Upstart**|[Add Drama to Text Groups](https://www.fastprep.io/problems/upstart-add-drama-punctuation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/upstart-add-drama-punctuation)|Jul 26, 2026|
 <a id="bottom"></a>

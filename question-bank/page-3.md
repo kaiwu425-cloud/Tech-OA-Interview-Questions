@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Navan**|[Design a Calendar Availability Scheduler](https://www.fastprep.io/low-level-design/calendar-availability-scheduler)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/calendar-availability-scheduler)|Jan 24, 2024|
+|**Navan**|[Minimum Steps on a Circular Character Dial](https://www.fastprep.io/problems/navan-circular-dial-minimum-steps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/navan-circular-dial-minimum-steps)|Jan 24, 2024|
 |**Navan**|[Minimum Stick Connection Cost](https://www.fastprep.io/problems/navan-minimum-cost-to-connect-sticks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/navan-minimum-cost-to-connect-sticks)|Jan 24, 2024|
 |**Navan**|[Shortest Substring with at Least K Distinct Characters](https://www.fastprep.io/problems/navan-shortest-substring-at-least-k-distinct)|Coding|[![Practice][p]](https://www.fastprep.io/problems/navan-shortest-substring-at-least-k-distinct)|Jan 24, 2024|
 |**Amazon**|[Rice Bags](https://www.fastprep.io/problems/max-set-size)|Coding|[![Practice][p]](https://www.fastprep.io/problems/max-set-size)|Jan 13, 2024|
