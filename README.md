@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,233)](formats/coding.md) · [SQL (60)](formats/sql.md) · [System design (535)](formats/system-design.md) · [Low-level design (140)](formats/low-level-design.md) · [AI coding (70)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,233)](formats/coding.md) · [SQL (62)](formats/sql.md) · [System design (535)](formats/system-design.md) · [Low-level design (140)](formats/low-level-design.md) · [AI coding (70)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -33,6 +33,8 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <!-- question-pages:end -->
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Boston Consulting Group**|[Summarize Taxi Drivers and Rides](https://www.fastprep.io/problems/boston-consulting-group-driver-and-ride-summary)|SQL|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-driver-and-ride-summary)|🔥 Oct 06, 2026|
+|**Boston Consulting Group**|[Predict Taxi Driver Classes](https://www.fastprep.io/problems/boston-consulting-group-predict-driver-classes)|SQL|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-predict-driver-classes)|🔥 Oct 06, 2026|
 |**Google**|[Peak Task Concurrency Intervals](https://www.fastprep.io/problems/google-peak-task-concurrency-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-peak-task-concurrency-intervals)|🔥 Oct 06, 2026|
 |**Google**|[Priority-Aware Dependent Task Order](https://www.fastprep.io/problems/google-priority-dependent-task-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-priority-dependent-task-order)|🔥 Oct 06, 2026|
 |**Google**|[Shortest Path Between BST Nodes](https://www.fastprep.io/problems/google-shortest-path-between-bst-nodes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-shortest-path-between-bst-nodes)|🔥 Oct 06, 2026|
@@ -1690,6 +1692,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Boston Consulting Group**|[Even-Position Monotonicity](https://www.fastprep.io/problems/boston-consulting-group-even-position-monotonicity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/boston-consulting-group-even-position-monotonicity)|Jul 26, 2026|
 |**Airbnb**|[Worker Management with Full-Shift Double Pay](https://www.fastprep.io/problems/airbnb-worker-management-full-shift-grants)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-worker-management-full-shift-grants)|Jul 26, 2026|
 |**Hudson River Trading**|[Count 2x2 Submatrices by Black Cells](https://www.fastprep.io/problems/hrt-count-black-blocks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hrt-count-black-blocks)|Jul 26, 2026|
-|**Hudson River Trading**|[Cumulative Unique Bytes](https://www.fastprep.io/problems/hrt-cumulative-unique-bytes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hrt-cumulative-unique-bytes)|Jul 26, 2026|
-|**Upstart**|[Minimum Absolute Pair Difference](https://www.fastprep.io/problems/upstart-minimum-absolute-pair-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/upstart-minimum-absolute-pair-difference)|Jul 26, 2026|
 <a id="bottom"></a>

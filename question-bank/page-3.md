@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Group Students](https://www.fastprep.io/problems/amazon-group-students)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-group-students)|Jan 27, 2024|
+|**Clio**|[Append Deranged CSV Rows](https://www.fastprep.io/problems/clio-append-deranged-csv-rows)|Coding|[![Practice][p]](https://www.fastprep.io/problems/clio-append-deranged-csv-rows)|Jan 24, 2024|
 |**Navan**|[Design a Credit-Card Spending Report Platform](https://www.fastprep.io/system-design/credit-card-spending-report-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/credit-card-spending-report-platform)|Jan 24, 2024|
 |**Navan**|[Design a Calendar Availability Scheduler](https://www.fastprep.io/low-level-design/calendar-availability-scheduler)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/calendar-availability-scheduler)|Jan 24, 2024|
 |**Navan**|[Minimum Steps on a Circular Character Dial](https://www.fastprep.io/problems/navan-circular-dial-minimum-steps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/navan-circular-dial-minimum-steps)|Jan 24, 2024|
