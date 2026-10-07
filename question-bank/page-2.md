@@ -487,6 +487,7 @@
 |**Rippling**|[Merge Overlapping Intervals](https://www.fastprep.io/problems/rippling-merge-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-merge-intervals)|Apr 01, 2026|
 |**Snowflake**|[Max Element Indexes After Rotations](https://www.fastprep.io/problems/snowflake-max-element-indexes-after-rotations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-max-element-indexes-after-rotations)|Mar 31, 2026|
 |**HackerRank**|[Check Permutation Divisible by Eight](https://www.fastprep.io/problems/hackerrank-check-permutation-divisible-by-eight)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hackerrank-check-permutation-divisible-by-eight)|Mar 31, 2026|
+|**Stripe**|[Order Manager with Partial Cancellations and Indexed Queries](https://www.fastprep.io/problems/stripe-order-manager-cancellations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-order-manager-cancellations)|Mar 31, 2026|
 |**Microsoft**|[Maximum Data Transfer Time](https://www.fastprep.io/problems/microsoft-maximum-data-transfer-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximum-data-transfer-time)|Mar 28, 2026|
 |**Notion**|[Page Permission Inheritance](https://www.fastprep.io/problems/notion-page-permission-inheritance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/notion-page-permission-inheritance)|Mar 26, 2026|
 |**Notion**|[Block Type with the Most Children](https://www.fastprep.io/problems/notion-block-type-with-most-children)|SQL|[![Practice][p]](https://www.fastprep.io/problems/notion-block-type-with-most-children)|Mar 26, 2026|
@@ -1854,5 +1855,4 @@
 |**TikTok**|[Get Server Index](https://www.fastprep.io/problems/tiktok-get-server-index)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-server-index)|Feb 02, 2024|
 |**Amazon**|[Dropped Requests](https://www.fastprep.io/problems/amazon-dropped-requests)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-dropped-requests)|Jan 27, 2024|
 |**Amazon**|[Find Unique Values](https://www.fastprep.io/problems/amazon-find-unique-values)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-unique-values)|Jan 27, 2024|
-|**Amazon**|[Execute Processes](https://www.fastprep.io/problems/amazon-execute-processes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-execute-processes)|Jan 27, 2024|
 <a id="bottom"></a>

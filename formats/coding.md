@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,234 questions**
+**3,235 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -1544,6 +1544,7 @@
 |**Rippling**|[Merge Overlapping Intervals](https://www.fastprep.io/problems/rippling-merge-intervals)|[![Practice][p]](https://www.fastprep.io/problems/rippling-merge-intervals)|Apr 01, 2026|
 |**Snowflake**|[Max Element Indexes After Rotations](https://www.fastprep.io/problems/snowflake-max-element-indexes-after-rotations)|[![Practice][p]](https://www.fastprep.io/problems/snowflake-max-element-indexes-after-rotations)|Mar 31, 2026|
 |**HackerRank**|[Check Permutation Divisible by Eight](https://www.fastprep.io/problems/hackerrank-check-permutation-divisible-by-eight)|[![Practice][p]](https://www.fastprep.io/problems/hackerrank-check-permutation-divisible-by-eight)|Mar 31, 2026|
+|**Stripe**|[Order Manager with Partial Cancellations and Indexed Queries](https://www.fastprep.io/problems/stripe-order-manager-cancellations)|[![Practice][p]](https://www.fastprep.io/problems/stripe-order-manager-cancellations)|Mar 31, 2026|
 |**Microsoft**|[Maximum Data Transfer Time](https://www.fastprep.io/problems/microsoft-maximum-data-transfer-time)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximum-data-transfer-time)|Mar 28, 2026|
 |**Notion**|[Page Permission Inheritance](https://www.fastprep.io/problems/notion-page-permission-inheritance)|[![Practice][p]](https://www.fastprep.io/problems/notion-page-permission-inheritance)|Mar 26, 2026|
 |**Amazon**|[Sum Max Plus Min After Decrement Operations](https://www.fastprep.io/problems/amazon-sum-max-plus-min-after-decrement-operations)|[![Practice][p]](https://www.fastprep.io/problems/amazon-sum-max-plus-min-after-decrement-operations)|Mar 25, 2026|
@@ -1828,6 +1829,4 @@
 |**Fivetran**|[Aladdin and the Magic Carpet](https://www.fastprep.io/problems/fivetran-aladdin-and-the-magic-carpet)|[![Practice][p]](https://www.fastprep.io/problems/fivetran-aladdin-and-the-magic-carpet)|Jun 12, 2025|
 |**Amazon**|[Find Minimum Days](https://www.fastprep.io/problems/amazon-find-minimum-days)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-days)|May 31, 2025|
 |**Amazon**|[Split Prefix Suffix](https://www.fastprep.io/problems/amazon-split-prefix-suffix)|[![Practice][p]](https://www.fastprep.io/problems/amazon-split-prefix-suffix)|May 31, 2025|
-|**Amazon**|[Find Minimum Machine Sizes](https://www.fastprep.io/problems/amazon-find-minimum-machines-size)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-machines-size)|May 31, 2025|
-|**Amazon**|[Count Special Substrings](https://www.fastprep.io/problems/amazon-count-special-substrs)|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-special-substrs)|May 31, 2025|
 <a id="bottom"></a>
