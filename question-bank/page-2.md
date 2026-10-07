@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Google**|[Ad Score Scheduler With Delay](https://www.fastprep.io/problems/google-ad-score-scheduler-with-delay)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-ad-score-scheduler-with-delay)|Jul 27, 2026|
+|**Google**|[Alternating-Color Binary Tree Roots](https://www.fastprep.io/problems/google-alternating-binary-tree-roots)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-alternating-binary-tree-roots)|Jul 27, 2026|
+|**Spotnana**|[Minimize Maximum Pilot Workload](https://www.fastprep.io/problems/spotnana-minimize-maximum-pilot-workload)|Coding|[![Practice][p]](https://www.fastprep.io/problems/spotnana-minimize-maximum-pilot-workload)|Jul 27, 2026|
+|**Amazon**|[Resolve Task Dependencies](https://www.fastprep.io/problems/amazon-resolve-task-dependencies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-resolve-task-dependencies)|Jul 27, 2026|
 |**Optiver**|[Design a News Subscription Processing Engine](https://www.fastprep.io/system-design/news-subscription-processing-engine)|System design|[![Practice][p]](https://www.fastprep.io/system-design/news-subscription-processing-engine)|Jul 27, 2026|
 |**Brex**|[Design a Peer-to-Peer Money Transfer System](https://www.fastprep.io/system-design/peer-to-peer-money-transfer-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/peer-to-peer-money-transfer-system)|Jul 27, 2026|
 |**Distyl AI**|[Design an Iterative Compound-LLM Defense Generator](https://www.fastprep.io/system-design/iterative-compound-llm-defense-generator)|System design|[![Practice][p]](https://www.fastprep.io/system-design/iterative-compound-llm-defense-generator)|Jul 27, 2026|
@@ -1148,7 +1152,6 @@
 |**Amazon**|[Min Time to Create Beautiful Canvas](https://www.fastprep.io/problems/amazon-find-minimum-time-to-create-beautiful-canvas)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-time-to-create-beautiful-canvas)|Oct 11, 2024|
 |**Amazon**|[Rearrange Binary String](https://www.fastprep.io/problems/amazon-rearrange-binary-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-rearrange-binary-string)|Oct 11, 2024|
 |**Amazon**|[Sort Permutation](https://www.fastprep.io/problems/amazon-can-sort-permutation-in-given-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-can-sort-permutation-in-given-moves)|Oct 11, 2024|
-|**SpaceX**|[Design a Distributed Real-Time Data Processing Platform](https://www.fastprep.io/system-design/distributed-real-time-data-processing-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/distributed-real-time-data-processing-platform)|Oct 10, 2024|
 |**Wells Fargo**|[Allocate Wells](https://www.fastprep.io/problems/wellsfargo-fair-distribution)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-fair-distribution)|Oct 09, 2024|
 |**Wells Fargo**|[Find Affected Systems](https://www.fastprep.io/problems/wellsfargo-shot-on-mi-a3-ai-triple-camera)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-shot-on-mi-a3-ai-triple-camera)|Oct 09, 2024|
 |**Wells Fargo**|[Max Distance](https://www.fastprep.io/problems/wellsfargo-find-maximum-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-find-maximum-distance)|Oct 09, 2024|
@@ -1846,7 +1849,4 @@
 |**TikTok**|[Maximum Value](https://www.fastprep.io/problems/tiktok-maximum-value)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-maximum-value)|Feb 14, 2024|
 |**TikTok**|[Count Purchases](https://www.fastprep.io/problems/tiktok-count-purchases)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-purchases)|Feb 14, 2024|
 |**TikTok**|[Calculate Validity](https://www.fastprep.io/problems/tiktok-calculate-validity)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-calculate-validity)|Feb 14, 2024|
-|**IBM**|[Validate Requests](https://www.fastprep.io/problems/ibm-request-parser)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-request-parser)|Feb 14, 2024|
-|**Oracle**|[Get Discounted Price](https://www.fastprep.io/problems/oracle-get-discounted-price)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-get-discounted-price)|Feb 14, 2024|
-|**Oracle**|[Cardinality Sort](https://www.fastprep.io/problems/oracle-cardinality-sort)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-cardinality-sort)|Feb 14, 2024|
 <a id="bottom"></a>

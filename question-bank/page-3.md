@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**IBM**|[Validate Requests](https://www.fastprep.io/problems/ibm-request-parser)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-request-parser)|Feb 14, 2024|
+|**Oracle**|[Get Discounted Price](https://www.fastprep.io/problems/oracle-get-discounted-price)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-get-discounted-price)|Feb 14, 2024|
+|**Oracle**|[Cardinality Sort](https://www.fastprep.io/problems/oracle-cardinality-sort)|Coding|[![Practice][p]](https://www.fastprep.io/problems/oracle-cardinality-sort)|Feb 14, 2024|
 |**SpaceX**|[Design High-Demand Commerce and Fulfillment](https://www.fastprep.io/system-design/high-demand-commerce-fulfillment)|System design|[![Practice][p]](https://www.fastprep.io/system-design/high-demand-commerce-fulfillment)|Feb 13, 2024|
 |**Navan**|[Snake-Case Iterator to Camel Case](https://www.fastprep.io/problems/navan-snake-case-iterator-to-camel-case)|Coding|[![Practice][p]](https://www.fastprep.io/problems/navan-snake-case-iterator-to-camel-case)|Feb 10, 2024|
 |**IBM**|[Find Missing Integers](https://www.fastprep.io/problems/ibm-find-missing-integer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-find-missing-integer)|Feb 08, 2024|
@@ -409,7 +412,6 @@
 |**Bloomberg LP**|[Remove Adjacent Duplicates in String II](https://www.fastprep.io/problems/bloomberg-remove-adjacent-duplicates-in-string-ii)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-remove-adjacent-duplicates-in-string-ii)|Feb 23, 2021|
 |**ZipRecruiter**|[Missing Ranges within Inclusive Bounds](https://www.fastprep.io/problems/ziprecruiter-inclusive-missing-ranges)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-inclusive-missing-ranges)|Feb 20, 2021|
 |**Bloomberg LP**|[Count Target Occurrences in a Sorted Array](https://www.fastprep.io/problems/bloomberg-count-target-in-sorted-array)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-count-target-in-sorted-array)|Feb 19, 2021|
-|**Bloomberg LP**|[Design Daily Database Query and Email Delivery](https://www.fastprep.io/system-design/daily-database-query-email-delivery)|System design|[![Practice][p]](https://www.fastprep.io/system-design/daily-database-query-email-delivery)|Feb 18, 2021|
 |**Bloomberg LP**|[Fibonacci Number](https://www.fastprep.io/problems/bloomberg-fibonacci-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-fibonacci-number)|Feb 03, 2021|
 |**Bloomberg LP**|[Coin Change](https://www.fastprep.io/problems/bloomberg-coin-change)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-coin-change)|Feb 02, 2021|
 |**Bloomberg LP**|[Path Existence in an Undirected Graph](https://www.fastprep.io/problems/bloomberg-graph-path-existence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-graph-path-existence)|Feb 02, 2021|
