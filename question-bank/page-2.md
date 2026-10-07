@@ -450,6 +450,9 @@
 |**Amazon**|[Maximum Score With Non-Adjacent Values](https://www.fastprep.io/problems/amazon-maximum-score-with-non-adjacent-values)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-score-with-non-adjacent-values)|Apr 14, 2026|
 |**Amazon**|[Make Value Groups Contiguous](https://www.fastprep.io/problems/amazon-make-value-groups-contiguous)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-make-value-groups-contiguous)|Apr 13, 2026|
 |**Scale AI**|[Design an Insurance Claims RAG Agent](https://www.fastprep.io/system-design/insurance-claims-rag-agent)|System design|[![Practice][p]](https://www.fastprep.io/system-design/insurance-claims-rag-agent)|Apr 13, 2026|
+|**Scale AI**|[Free Windows Between Busy Intervals](https://www.fastprep.io/problems/scale-ai-free-windows-between-busy-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-free-windows-between-busy-intervals)|Apr 13, 2026|
+|**Scale AI**|[Free Time for Every Meeting Room](https://www.fastprep.io/problems/scale-ai-meeting-room-free-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-meeting-room-free-intervals)|Apr 13, 2026|
+|**Scale AI**|[Order Queries by Shortest Processing Time](https://www.fastprep.io/problems/scale-ai-shortest-query-processing-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-shortest-query-processing-order)|Apr 13, 2026|
 |**Superhuman**|[Lost Messages](https://www.fastprep.io/problems/superhuman-lost-messages)|Coding|[![Practice][p]](https://www.fastprep.io/problems/superhuman-lost-messages)|Apr 10, 2026|
 |**Superhuman**|[Optimal Transfer](https://www.fastprep.io/problems/superhuman-optimal-transfer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/superhuman-optimal-transfer)|Apr 10, 2026|
 |**Superhuman**|[Math Homework](https://www.fastprep.io/problems/superhuman-math-homework)|Coding|[![Practice][p]](https://www.fastprep.io/problems/superhuman-math-homework)|Apr 10, 2026|
@@ -1853,7 +1856,4 @@
 |**Navan**|[Design a Calendar Availability Scheduler](https://www.fastprep.io/low-level-design/calendar-availability-scheduler)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/calendar-availability-scheduler)|Jan 24, 2024|
 |**Navan**|[Minimum Steps on a Circular Character Dial](https://www.fastprep.io/problems/navan-circular-dial-minimum-steps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/navan-circular-dial-minimum-steps)|Jan 24, 2024|
 |**Navan**|[Minimum Stick Connection Cost](https://www.fastprep.io/problems/navan-minimum-cost-to-connect-sticks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/navan-minimum-cost-to-connect-sticks)|Jan 24, 2024|
-|**Navan**|[Shortest Substring with at Least K Distinct Characters](https://www.fastprep.io/problems/navan-shortest-substring-at-least-k-distinct)|Coding|[![Practice][p]](https://www.fastprep.io/problems/navan-shortest-substring-at-least-k-distinct)|Jan 24, 2024|
-|**Amazon**|[Rice Bags](https://www.fastprep.io/problems/max-set-size)|Coding|[![Practice][p]](https://www.fastprep.io/problems/max-set-size)|Jan 13, 2024|
-|**Snowflake**|[Smallest Set Covering Intervals](https://www.fastprep.io/problems/smallest-set-covering-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/smallest-set-covering-intervals)|Jan 13, 2024|
 <a id="bottom"></a>
