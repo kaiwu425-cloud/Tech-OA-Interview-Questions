@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,228 questions**
+**3,230 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -14,6 +14,8 @@
 |**Google**|[Find the Town Judge](https://www.fastprep.io/problems/google-find-the-town-judge)|[![Practice][p]](https://www.fastprep.io/problems/google-find-the-town-judge)|🔥 Oct 06, 2026|
 |**Google**|[Five-Minute Hit Counter](https://www.fastprep.io/problems/google-five-minute-hit-counter)|[![Practice][p]](https://www.fastprep.io/problems/google-five-minute-hit-counter)|🔥 Oct 06, 2026|
 |**Google**|[Top K Video View Counts](https://www.fastprep.io/problems/google-top-k-video-view-counts)|[![Practice][p]](https://www.fastprep.io/problems/google-top-k-video-view-counts)|🔥 Oct 06, 2026|
+|**Microsoft**|[Maximum Alloy Production Within Budget](https://www.fastprep.io/problems/microsoft-maximum-alloy-production)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximum-alloy-production)|🔥 Oct 06, 2026|
+|**Microsoft**|[Maximum Interactive Team Size](https://www.fastprep.io/problems/microsoft-maximum-interactive-team-size)|[![Practice][p]](https://www.fastprep.io/problems/microsoft-maximum-interactive-team-size)|🔥 Oct 06, 2026|
 |**Stripe**|[Business Account KYC Verification — Parts 1–5](https://www.fastprep.io/problems/stripe-kyc-business-verification)|[![Practice][p]](https://www.fastprep.io/problems/stripe-kyc-business-verification)|🔥 Oct 04, 2026|
 |**Google**|[Minimum Cars for Rental Requests](https://www.fastprep.io/problems/google-minimum-cars-for-rental-requests)|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-cars-for-rental-requests)|🔥 Oct 04, 2026|
 |**Google**|[Minimum Union of Two Routes](https://www.fastprep.io/problems/google-minimum-union-route-edges)|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-union-route-edges)|🔥 Oct 03, 2026|
@@ -1828,6 +1830,4 @@
 |**Wells Fargo**|[Canonical Euler Trail](https://www.fastprep.io/problems/wellsfargo-canonical-euler-trail)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-canonical-euler-trail)|May 26, 2025|
 |**Wells Fargo**|[Compare Calendar Dates](https://www.fastprep.io/problems/wellsfargo-compare-calendar-dates)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-compare-calendar-dates)|May 26, 2025|
 |**Wells Fargo**|[Count Array Element Frequencies](https://www.fastprep.io/problems/wellsfargo-count-array-element-frequencies)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-count-array-element-frequencies)|May 26, 2025|
-|**Wells Fargo**|[Floor Square Roots for an Array](https://www.fastprep.io/problems/wellsfargo-floor-square-roots)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-floor-square-roots)|May 26, 2025|
-|**Wells Fargo**|[Longest Common Prefix](https://www.fastprep.io/problems/wellsfargo-longest-common-prefix)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-longest-common-prefix)|May 26, 2025|
 <a id="bottom"></a>

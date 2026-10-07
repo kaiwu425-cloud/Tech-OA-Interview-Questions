@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Snowflake**|[Maximum Order Volume](https://www.fastprep.io/problems/phone-calls)|Coding|[![Practice][p]](https://www.fastprep.io/problems/phone-calls)|Jan 13, 2024|
+|**Snowflake**|[Unequal Elements](https://www.fastprep.io/problems/find-max-length)|Coding|[![Practice][p]](https://www.fastprep.io/problems/find-max-length)|Jan 13, 2024|
+|**Snowflake**|[Job Execution](https://www.fastprep.io/problems/get-minimum-operations)|Coding|[![Practice][p]](https://www.fastprep.io/problems/get-minimum-operations)|Jan 12, 2024|
+|**Snowflake**|[Perfect Pairs](https://www.fastprep.io/problems/perfect-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/perfect-pairs)|Jan 12, 2024|
 |**Snowflake**|[Cross the Threshold](https://www.fastprep.io/problems/get-max-barrier)|Coding|[![Practice][p]](https://www.fastprep.io/problems/get-max-barrier)|Jan 12, 2024|
 |**Snowflake**|[Get Min Cost](https://www.fastprep.io/problems/hackerland-get-min-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hackerland-get-min-cost)|Jan 12, 2024|
 |**Snowflake**|[String Patterns](https://www.fastprep.io/problems/calculate-ways)|Coding|[![Practice][p]](https://www.fastprep.io/problems/calculate-ways)|Jan 12, 2024|
