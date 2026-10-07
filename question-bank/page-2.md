@@ -9,6 +9,8 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Upstart**|[Sum Multiples of 3, 5, or 7 Below N](https://www.fastprep.io/problems/upstart-sum-multiples-of-three-five-seven)|Coding|[![Practice][p]](https://www.fastprep.io/problems/upstart-sum-multiples-of-three-five-seven)|Jul 26, 2026|
+|**Upstart**|[Add Drama to Text Groups](https://www.fastprep.io/problems/upstart-add-drama-punctuation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/upstart-add-drama-punctuation)|Jul 26, 2026|
 |**DE Shaw**|[Maximum L1 Distance Between Equal-Length Subarrays](https://www.fastprep.io/problems/deshaw-maximum-l1-distance-equal-length-subarrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/deshaw-maximum-l1-distance-equal-length-subarrays)|Jul 26, 2026|
 |**Airbnb**|[Nested List Iterator with Remove](https://www.fastprep.io/problems/airbnb-nested-list-iterator-with-remove)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-nested-list-iterator-with-remove)|Jul 26, 2026|
 |**Citadel**|[Limit Order Book Matching Engine](https://www.fastprep.io/problems/citadel-limit-order-book-matching-engine)|Coding|[![Practice][p]](https://www.fastprep.io/problems/citadel-limit-order-book-matching-engine)|Jul 26, 2026|
@@ -1853,6 +1855,4 @@
 |**Amazon**|[Group Students](https://www.fastprep.io/problems/amazon-group-students)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-group-students)|Jan 27, 2024|
 |**Clio**|[Append Deranged CSV Rows](https://www.fastprep.io/problems/clio-append-deranged-csv-rows)|Coding|[![Practice][p]](https://www.fastprep.io/problems/clio-append-deranged-csv-rows)|Jan 24, 2024|
 |**Navan**|[Design a Credit-Card Spending Report Platform](https://www.fastprep.io/system-design/credit-card-spending-report-platform)|System design|[![Practice][p]](https://www.fastprep.io/system-design/credit-card-spending-report-platform)|Jan 24, 2024|
-|**Navan**|[Design a Calendar Availability Scheduler](https://www.fastprep.io/low-level-design/calendar-availability-scheduler)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/calendar-availability-scheduler)|Jan 24, 2024|
-|**Navan**|[Minimum Steps on a Circular Character Dial](https://www.fastprep.io/problems/navan-circular-dial-minimum-steps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/navan-circular-dial-minimum-steps)|Jan 24, 2024|
 <a id="bottom"></a>
