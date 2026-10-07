@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,238 questions**
+**3,239 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Amazon**|[Find Hash](https://www.fastprep.io/problems/amazon-find-hash)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-hash)|Jun 12, 2025|
 |**Fivetran**|[Aladdin and the Magic Carpet](https://www.fastprep.io/problems/fivetran-aladdin-and-the-magic-carpet)|[![Practice][p]](https://www.fastprep.io/problems/fivetran-aladdin-and-the-magic-carpet)|Jun 12, 2025|
 |**Amazon**|[Find Minimum Days](https://www.fastprep.io/problems/amazon-find-minimum-days)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-days)|May 31, 2025|
 |**Amazon**|[Split Prefix Suffix](https://www.fastprep.io/problems/amazon-split-prefix-suffix)|[![Practice][p]](https://www.fastprep.io/problems/amazon-split-prefix-suffix)|May 31, 2025|

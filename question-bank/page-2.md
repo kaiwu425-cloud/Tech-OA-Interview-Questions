@@ -461,6 +461,7 @@
 |**Scale AI**|[Free Windows Between Busy Intervals](https://www.fastprep.io/problems/scale-ai-free-windows-between-busy-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-free-windows-between-busy-intervals)|Apr 13, 2026|
 |**Scale AI**|[Free Time for Every Meeting Room](https://www.fastprep.io/problems/scale-ai-meeting-room-free-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-meeting-room-free-intervals)|Apr 13, 2026|
 |**Scale AI**|[Order Queries by Shortest Processing Time](https://www.fastprep.io/problems/scale-ai-shortest-query-processing-order)|Coding|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-shortest-query-processing-order)|Apr 13, 2026|
+|**Stripe**|[Merge and Filter Prioritized Configurations](https://www.fastprep.io/problems/stripe-prioritized-configuration-merger)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-prioritized-configuration-merger)|Apr 11, 2026|
 |**Superhuman**|[Lost Messages](https://www.fastprep.io/problems/superhuman-lost-messages)|Coding|[![Practice][p]](https://www.fastprep.io/problems/superhuman-lost-messages)|Apr 10, 2026|
 |**Superhuman**|[Optimal Transfer](https://www.fastprep.io/problems/superhuman-optimal-transfer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/superhuman-optimal-transfer)|Apr 10, 2026|
 |**Superhuman**|[Math Homework](https://www.fastprep.io/problems/superhuman-math-homework)|Coding|[![Practice][p]](https://www.fastprep.io/problems/superhuman-math-homework)|Apr 10, 2026|
@@ -1853,5 +1854,4 @@
 |**Snowflake**|[Efficient Cost](https://www.fastprep.io/problems/snowflake-efficient-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-efficient-cost)|Feb 02, 2024|
 |**TikTok**|[Segment Queries](https://www.fastprep.io/problems/tiktok-segment-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-segment-queries)|Feb 02, 2024|
 |**TikTok**|[Minimum Cycles](https://www.fastprep.io/problems/tiktok-minimum-cycles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-minimum-cycles)|Feb 02, 2024|
-|**TikTok**|[Stars and Bars](https://www.fastprep.io/problems/tiktok-stars-and-bars)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-stars-and-bars)|Feb 02, 2024|
 <a id="bottom"></a>

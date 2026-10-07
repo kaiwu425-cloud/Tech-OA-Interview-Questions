@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,238 questions**
+**3,239 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -1520,6 +1520,7 @@
 |**Scale AI**|[Free Windows Between Busy Intervals](https://www.fastprep.io/problems/scale-ai-free-windows-between-busy-intervals)|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-free-windows-between-busy-intervals)|Apr 13, 2026|
 |**Scale AI**|[Free Time for Every Meeting Room](https://www.fastprep.io/problems/scale-ai-meeting-room-free-intervals)|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-meeting-room-free-intervals)|Apr 13, 2026|
 |**Scale AI**|[Order Queries by Shortest Processing Time](https://www.fastprep.io/problems/scale-ai-shortest-query-processing-order)|[![Practice][p]](https://www.fastprep.io/problems/scale-ai-shortest-query-processing-order)|Apr 13, 2026|
+|**Stripe**|[Merge and Filter Prioritized Configurations](https://www.fastprep.io/problems/stripe-prioritized-configuration-merger)|[![Practice][p]](https://www.fastprep.io/problems/stripe-prioritized-configuration-merger)|Apr 11, 2026|
 |**Superhuman**|[Lost Messages](https://www.fastprep.io/problems/superhuman-lost-messages)|[![Practice][p]](https://www.fastprep.io/problems/superhuman-lost-messages)|Apr 10, 2026|
 |**Superhuman**|[Optimal Transfer](https://www.fastprep.io/problems/superhuman-optimal-transfer)|[![Practice][p]](https://www.fastprep.io/problems/superhuman-optimal-transfer)|Apr 10, 2026|
 |**Superhuman**|[Math Homework](https://www.fastprep.io/problems/superhuman-math-homework)|[![Practice][p]](https://www.fastprep.io/problems/superhuman-math-homework)|Apr 10, 2026|
@@ -1828,5 +1829,4 @@
 |**Agoda**|[Highest-Ranked University by Country](https://www.fastprep.io/problems/agoda-highest-ranked-university-by-country)|[![Practice][p]](https://www.fastprep.io/problems/agoda-highest-ranked-university-by-country)|Jun 17, 2025|
 |**Agoda**|[Jump Game with Prime-3 Steps](https://www.fastprep.io/problems/agoda-jump-game-prime-3-steps)|[![Practice][p]](https://www.fastprep.io/problems/agoda-jump-game-prime-3-steps)|Jun 17, 2025|
 |**Kalshi**|[Maximum Frequency Stack](https://www.fastprep.io/problems/kalshi-maximum-frequency-stack)|[![Practice][p]](https://www.fastprep.io/problems/kalshi-maximum-frequency-stack)|Jun 14, 2025|
-|**Amazon**|[Find Hash](https://www.fastprep.io/problems/amazon-find-hash)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-hash)|Jun 12, 2025|
 <a id="bottom"></a>

@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**TikTok**|[Stars and Bars](https://www.fastprep.io/problems/tiktok-stars-and-bars)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-stars-and-bars)|Feb 02, 2024|
 |**TikTok**|[Longest OR](https://www.fastprep.io/problems/tiktok-longest-or)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-longest-or)|Feb 02, 2024|
 |**TikTok**|[Get Server Index](https://www.fastprep.io/problems/tiktok-get-server-index)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-server-index)|Feb 02, 2024|
 |**Amazon**|[Dropped Requests](https://www.fastprep.io/problems/amazon-dropped-requests)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-dropped-requests)|Jan 27, 2024|
