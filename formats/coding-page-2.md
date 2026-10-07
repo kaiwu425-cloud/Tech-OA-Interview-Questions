@@ -2,12 +2,16 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,230 questions**
+**3,233 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Cloudflare**|[Determine Min Partitions Required](https://www.fastprep.io/problems/cloudflare-determine-min-partitions-required)|[![Practice][p]](https://www.fastprep.io/problems/cloudflare-determine-min-partitions-required)|May 31, 2025|
+|**Wells Fargo**|[Canonical Euler Trail](https://www.fastprep.io/problems/wellsfargo-canonical-euler-trail)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-canonical-euler-trail)|May 26, 2025|
+|**Wells Fargo**|[Compare Calendar Dates](https://www.fastprep.io/problems/wellsfargo-compare-calendar-dates)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-compare-calendar-dates)|May 26, 2025|
+|**Wells Fargo**|[Count Array Element Frequencies](https://www.fastprep.io/problems/wellsfargo-count-array-element-frequencies)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-count-array-element-frequencies)|May 26, 2025|
 |**Wells Fargo**|[Floor Square Roots for an Array](https://www.fastprep.io/problems/wellsfargo-floor-square-roots)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-floor-square-roots)|May 26, 2025|
 |**Wells Fargo**|[Longest Common Prefix](https://www.fastprep.io/problems/wellsfargo-longest-common-prefix)|[![Practice][p]](https://www.fastprep.io/problems/wellsfargo-longest-common-prefix)|May 26, 2025|
 |**Amazon**|[Determine the Best Skipping Strategy](https://www.fastprep.io/problems/amazon-determine-the-best-skipping-strategy)|[![Practice][p]](https://www.fastprep.io/problems/amazon-determine-the-best-skipping-strategy)|May 25, 2025|
@@ -573,7 +577,6 @@
 |**Google**|[Find Palindromes](https://www.fastprep.io/problems/google-find-palindromes)|[![Practice][p]](https://www.fastprep.io/problems/google-find-palindromes)|Aug 05, 2024|
 |**Google**|[Binary Palindromic](https://www.fastprep.io/problems/google-minimum-operations-to-make-binary-palindromic)|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-operations-to-make-binary-palindromic)|Aug 05, 2024|
 |**Google**|[Max Num of Moves with Same Result Sum](https://www.fastprep.io/problems/google-maximum-number-of-moves-with-same-result-sum)|[![Practice][p]](https://www.fastprep.io/problems/google-maximum-number-of-moves-with-same-result-sum)|Aug 05, 2024|
-|**Google**|[Divide Tree Nodes](https://www.fastprep.io/problems/divide-tree-nodes-google)|[![Practice][p]](https://www.fastprep.io/problems/divide-tree-nodes-google)|Aug 05, 2024|
 |**Google**|[Find Consistent Logs](https://www.fastprep.io/problems/google-find-consistent-logs)|[![Practice][p]](https://www.fastprep.io/problems/google-find-consistent-logs)|Aug 05, 2024|
 |**Google**|[Social Meida Friend Recommendation](https://www.fastprep.io/problems/google-social-media-friend-recommendation)|[![Practice][p]](https://www.fastprep.io/problems/google-social-media-friend-recommendation)|Aug 05, 2024|
 |**Uber**|[Calculate Visited Countries](https://www.fastprep.io/problems/uber-calculate-visited-countries)|[![Practice][p]](https://www.fastprep.io/problems/uber-calculate-visited-countries)|Aug 05, 2024|
