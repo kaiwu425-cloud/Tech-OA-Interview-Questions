@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Upstart**|[Minimum Absolute Pair Difference](https://www.fastprep.io/problems/upstart-minimum-absolute-pair-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/upstart-minimum-absolute-pair-difference)|Jul 26, 2026|
 |**Upstart**|[Lexicographic Word Frequencies](https://www.fastprep.io/problems/upstart-lexicographic-word-frequencies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/upstart-lexicographic-word-frequencies)|Jul 26, 2026|
 |**Upstart**|[Sum Multiples of 3, 5, or 7 Below N](https://www.fastprep.io/problems/upstart-sum-multiples-of-three-five-seven)|Coding|[![Practice][p]](https://www.fastprep.io/problems/upstart-sum-multiples-of-three-five-seven)|Jul 26, 2026|
 |**Upstart**|[Add Drama to Text Groups](https://www.fastprep.io/problems/upstart-add-drama-punctuation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/upstart-add-drama-punctuation)|Jul 26, 2026|
@@ -318,6 +319,7 @@
 |**Luma AI**|[Minimum Euclidean Distance Between Points](https://www.fastprep.io/problems/luma-ai-minimum-euclidean-distance)|Coding|[![Practice][p]](https://www.fastprep.io/problems/luma-ai-minimum-euclidean-distance)|Jun 12, 2026|
 |**Luma AI**|[Impute Missing Values and Normalize Columns](https://www.fastprep.io/problems/luma-ai-impute-and-normalize-columns)|Coding|[![Practice][p]](https://www.fastprep.io/problems/luma-ai-impute-and-normalize-columns)|Jun 12, 2026|
 |**Amazon**|[Design an Advertising Campaign Metrics Tracker](https://www.fastprep.io/low-level-design/advertising-campaign-metrics-tracker)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/advertising-campaign-metrics-tracker)|Jun 12, 2026|
+|**IMC Trading**|[Matching Engine with Order Cancellation](https://www.fastprep.io/problems/imc-matching-engine-with-order-cancellation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-matching-engine-with-order-cancellation)|Jun 10, 2026|
 |**Rippling**|[In-Memory Fixed-Window Rate Limiter](https://www.fastprep.io/problems/rippling-in-memory-rate-limiter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-in-memory-rate-limiter)|Jun 10, 2026|
 |**Salesforce**|[Count Prime Strings](https://www.fastprep.io/problems/salesforce-count-prime-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-count-prime-strings)|Jun 10, 2026|
 |**Onehouse**|[Design a Thread-Safe In-Memory Workflow Orchestrator](https://www.fastprep.io/low-level-design/thread-safe-in-memory-workflow-orchestrator)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-in-memory-workflow-orchestrator)|Jun 10, 2026|
@@ -1853,6 +1855,4 @@
 |**Amazon**|[Find Unique Values](https://www.fastprep.io/problems/amazon-find-unique-values)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-unique-values)|Jan 27, 2024|
 |**Amazon**|[Execute Processes](https://www.fastprep.io/problems/amazon-execute-processes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-execute-processes)|Jan 27, 2024|
 |**Amazon**|[Number of Suitable Locations](https://www.fastprep.io/problems/amazon-num-of-suitable-places)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-num-of-suitable-places)|Jan 27, 2024|
-|**Amazon**|[Group Students](https://www.fastprep.io/problems/amazon-group-students)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-group-students)|Jan 27, 2024|
-|**Clio**|[Append Deranged CSV Rows](https://www.fastprep.io/problems/clio-append-deranged-csv-rows)|Coding|[![Practice][p]](https://www.fastprep.io/problems/clio-append-deranged-csv-rows)|Jan 24, 2024|
 <a id="bottom"></a>
