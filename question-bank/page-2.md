@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Hudson River Trading**|[Count 2x2 Submatrices by Black Cells](https://www.fastprep.io/problems/hrt-count-black-blocks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hrt-count-black-blocks)|Jul 26, 2026|
 |**Hudson River Trading**|[Cumulative Unique Bytes](https://www.fastprep.io/problems/hrt-cumulative-unique-bytes)|Coding|[![Practice][p]](https://www.fastprep.io/problems/hrt-cumulative-unique-bytes)|Jul 26, 2026|
 |**Upstart**|[Minimum Absolute Pair Difference](https://www.fastprep.io/problems/upstart-minimum-absolute-pair-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/upstart-minimum-absolute-pair-difference)|Jul 26, 2026|
 |**Upstart**|[Lexicographic Word Frequencies](https://www.fastprep.io/problems/upstart-lexicographic-word-frequencies)|Coding|[![Practice][p]](https://www.fastprep.io/problems/upstart-lexicographic-word-frequencies)|Jul 26, 2026|
@@ -323,6 +324,7 @@
 |**Rippling**|[In-Memory Fixed-Window Rate Limiter](https://www.fastprep.io/problems/rippling-in-memory-rate-limiter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/rippling-in-memory-rate-limiter)|Jun 10, 2026|
 |**Salesforce**|[Count Prime Strings](https://www.fastprep.io/problems/salesforce-count-prime-strings)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-count-prime-strings)|Jun 10, 2026|
 |**Onehouse**|[Design a Thread-Safe In-Memory Workflow Orchestrator](https://www.fastprep.io/low-level-design/thread-safe-in-memory-workflow-orchestrator)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-in-memory-workflow-orchestrator)|Jun 10, 2026|
+|**IMC Trading**|[Matching Engine with Order Cancellation](https://www.fastprep.io/problems/imc-matching-engine-with-order-cancellation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/imc-matching-engine-with-order-cancellation)|Jun 10, 2026|
 |**Amazon**|[Select Least Resource Tasks](https://www.fastprep.io/problems/amazon-select-least-resource-tasks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-select-least-resource-tasks)|Jun 09, 2026|
 |**Amazon**|[Get Smallest Base Segment](https://www.fastprep.io/problems/amazon-get-smallest-base-segment)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-smallest-base-segment)|Jun 09, 2026|
 |**Amazon**|[Count Promotional Periods](https://www.fastprep.io/problems/amazon-count-promotional-periods)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-count-promotional-periods)|Jun 09, 2026|
@@ -1852,7 +1854,4 @@
 |**TikTok**|[Segment Queries](https://www.fastprep.io/problems/tiktok-segment-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-segment-queries)|Feb 02, 2024|
 |**TikTok**|[Minimum Cycles](https://www.fastprep.io/problems/tiktok-minimum-cycles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-minimum-cycles)|Feb 02, 2024|
 |**TikTok**|[Stars and Bars](https://www.fastprep.io/problems/tiktok-stars-and-bars)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-stars-and-bars)|Feb 02, 2024|
-|**TikTok**|[Longest OR](https://www.fastprep.io/problems/tiktok-longest-or)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-longest-or)|Feb 02, 2024|
-|**TikTok**|[Get Server Index](https://www.fastprep.io/problems/tiktok-get-server-index)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-server-index)|Feb 02, 2024|
-|**Amazon**|[Dropped Requests](https://www.fastprep.io/problems/amazon-dropped-requests)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-dropped-requests)|Jan 27, 2024|
 <a id="bottom"></a>
