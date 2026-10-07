@@ -9,6 +9,16 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**IBM**|[Circles](https://www.fastprep.io/problems/ibm-circles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-circles)|Feb 05, 2024|
+|**IBM**|[Get Min Moves](https://www.fastprep.io/problems/ibm-get-minimum-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ibm-get-minimum-moves)|Feb 05, 2024|
+|**Akuna**|[Min Cost (Akuna Shang Hai)](https://www.fastprep.io/problems/akuna-min-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-min-cost)|Feb 02, 2024|
+|**Akuna**|[Minimum Chunks Required (Akuna Shang Hai)](https://www.fastprep.io/problems/akuna-minimum-chunks-required)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-minimum-chunks-required)|Feb 02, 2024|
+|**Akuna**|[Diffierence Calculator (Akuna Shang Hai)](https://www.fastprep.io/problems/akuna-difference-calculator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-difference-calculator)|Feb 02, 2024|
+|**Snowflake**|[Get Max Upgraded Servers](https://www.fastprep.io/problems/snowflake-get-max-upgraded-servers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-get-max-upgraded-servers)|Feb 02, 2024|
+|**Snowflake**|[Efficient Cost](https://www.fastprep.io/problems/snowflake-efficient-cost)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-efficient-cost)|Feb 02, 2024|
+|**TikTok**|[Segment Queries](https://www.fastprep.io/problems/tiktok-segment-queries)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-segment-queries)|Feb 02, 2024|
+|**TikTok**|[Minimum Cycles](https://www.fastprep.io/problems/tiktok-minimum-cycles)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-minimum-cycles)|Feb 02, 2024|
+|**TikTok**|[Stars and Bars](https://www.fastprep.io/problems/tiktok-stars-and-bars)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-stars-and-bars)|Feb 02, 2024|
 |**TikTok**|[Longest OR](https://www.fastprep.io/problems/tiktok-longest-or)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-longest-or)|Feb 02, 2024|
 |**TikTok**|[Get Server Index](https://www.fastprep.io/problems/tiktok-get-server-index)|Coding|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-server-index)|Feb 02, 2024|
 |**Amazon**|[Dropped Requests](https://www.fastprep.io/problems/amazon-dropped-requests)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-dropped-requests)|Jan 27, 2024|
