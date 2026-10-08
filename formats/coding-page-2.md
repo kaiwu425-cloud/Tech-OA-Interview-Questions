@@ -2,12 +2,15 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md)
 
-**3,248 questions**
+**3,263 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**JP Morgan**|[Balanced Sum](https://www.fastprep.io/problems/jpmorgan-balanced-sum)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-balanced-sum)|Jun 18, 2025|
+|**JP Morgan**|[Get Min Operations](https://www.fastprep.io/problems/jpmorgan-get-min-operations)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-min-operations)|Jun 18, 2025|
+|**JP Morgan**|[Get Search Result](https://www.fastprep.io/problems/jpmorgan-get-search-results)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-search-results)|Jun 18, 2025|
 |**JP Morgan**|[One Substring Count](https://www.fastprep.io/problems/jpmorgan-one-substring-count)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-one-substring-count)|Jun 18, 2025|
 |**JP Morgan**|[Find Total Weight](https://www.fastprep.io/problems/jpmorgan-find-total-weight)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-find-total-weight)|Jun 18, 2025|
 |**PayPay**|[Sum Consecutive Identical Digits](https://www.fastprep.io/problems/paypay-sum-consecutive-identical-digits)|[![Practice][p]](https://www.fastprep.io/problems/paypay-sum-consecutive-identical-digits)|Jun 18, 2025|
@@ -141,6 +144,9 @@
 |**Amazon**|[Min Energy Cost](https://www.fastprep.io/problems/amazon-minimum-energy-cost)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-energy-cost)|Jan 09, 2025|
 |**Amazon**|[Calculate Max Salary](https://www.fastprep.io/problems/amazon-calculate-max-salary)|[![Practice][p]](https://www.fastprep.io/problems/amazon-calculate-max-salary)|Jan 09, 2025|
 |**Amazon**|[Optimal Interval Difference](https://www.fastprep.io/problems/amazon-optimal-interval-difference)|[![Practice][p]](https://www.fastprep.io/problems/amazon-optimal-interval-difference)|Jan 08, 2025|
+|**Mygate**|[Frog Jump: Minimum Energy](https://www.fastprep.io/problems/mygate-frog-jump)|[![Practice][p]](https://www.fastprep.io/problems/mygate-frog-jump)|Jan 07, 2025|
+|**Mygate**|[Left View of a Binary Tree](https://www.fastprep.io/problems/mygate-left-view-binary-tree)|[![Practice][p]](https://www.fastprep.io/problems/mygate-left-view-binary-tree)|Jan 07, 2025|
+|**Mygate**|[Elements Occurring More Than n/3 Times](https://www.fastprep.io/problems/mygate-majority-over-n-third)|[![Practice][p]](https://www.fastprep.io/problems/mygate-majority-over-n-third)|Jan 07, 2025|
 |**Amazon**|[Find Max Value](https://www.fastprep.io/problems/amazon-find-max-value)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-max-value)|Jan 05, 2025|
 |**Amazon**|[Get Max Events](https://www.fastprep.io/problems/amazon-get-maximum-events)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-maximum-events)|Jan 05, 2025|
 |**TikTok**|[TikTok Spam Filter](https://www.fastprep.io/problems/tiktok-get-spam-comments)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-get-spam-comments)|Jan 04, 2025|
@@ -566,6 +572,7 @@
 |**Databricks**|[Check Pattern Presence](https://www.fastprep.io/problems/databricks-check-pattern-presence)|[![Practice][p]](https://www.fastprep.io/problems/databricks-check-pattern-presence)|Aug 12, 2024|
 |**GE Vernova**|[Find Min Special Value](https://www.fastprep.io/problems/ge-vernova-find-minimum-special-value)|[![Practice][p]](https://www.fastprep.io/problems/ge-vernova-find-minimum-special-value)|Aug 12, 2024|
 |**Google**|[Happy Neighbor](https://www.fastprep.io/problems/google-happy-neighbor)|[![Practice][p]](https://www.fastprep.io/problems/google-happy-neighbor)|Aug 11, 2024|
+|**Mygate**|[Two Sum](https://www.fastprep.io/problems/mygate-two-sum)|[![Practice][p]](https://www.fastprep.io/problems/mygate-two-sum)|Aug 11, 2024|
 |**Amazon**|[Get Maximum Sum](https://www.fastprep.io/problems/amazon-get-maximum-sum)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-maximum-sum)|Aug 10, 2024|
 |**TikTok**|[Exchange Cups](https://www.fastprep.io/problems/tiktok-exchange-cups)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-exchange-cups)|Aug 10, 2024|
 |**TikTok**|[Eating Candies](https://www.fastprep.io/problems/tiktok-eating-candies)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-eating-candies)|Aug 10, 2024|
@@ -637,6 +644,7 @@
 |**Amazon**|[Get Redundant Substrings](https://www.fastprep.io/problems/amazon-get-redundant-substrings)|[![Practice][p]](https://www.fastprep.io/problems/amazon-get-redundant-substrings)|Jul 15, 2024|
 |**Blackrock**|[Count Levels](https://www.fastprep.io/problems/blackrock-count-levels)|[![Practice][p]](https://www.fastprep.io/problems/blackrock-count-levels)|Jul 15, 2024|
 |**Pure Storage**|[Shopping and Billing](https://www.fastprep.io/problems/purestorage-count-palindromic-substrings)|[![Practice][p]](https://www.fastprep.io/problems/purestorage-count-palindromic-substrings)|Jul 15, 2024|
+|**Mygate**|[Minimum in a Rotated Sorted Array](https://www.fastprep.io/problems/mygate-minimum-rotated-array)|[![Practice][p]](https://www.fastprep.io/problems/mygate-minimum-rotated-array)|Jul 15, 2024|
 |**Salesforce**|[Least Stressful Path](https://www.fastprep.io/problems/salesforce-least-stressful-path)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-least-stressful-path)|Jul 12, 2024|
 |**Salesforce**|[Same Substring](https://www.fastprep.io/problems/salesforce-same-substring)|[![Practice][p]](https://www.fastprep.io/problems/salesforce-same-substring)|Jul 12, 2024|
 |**Citadel**|[Get Min Operations](https://www.fastprep.io/problems/citadel-get-min-operations)|[![Practice][p]](https://www.fastprep.io/problems/citadel-get-min-operations)|Jul 11, 2024|
@@ -1077,6 +1085,10 @@
 |**ZipRecruiter**|[Left Rotation to a Strictly Increasing Array](https://www.fastprep.io/problems/ziprecruiter-left-rotation-to-strictly-increasing)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-left-rotation-to-strictly-increasing)|Oct 02, 2023|
 |**ZipRecruiter**|[Swap Adjacent Inversions in One Pass](https://www.fastprep.io/problems/ziprecruiter-one-pass-adjacent-inversion-swaps)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-one-pass-adjacent-inversion-swaps)|Oct 02, 2023|
 |**ZipRecruiter**|[Rectangle Fit Queries](https://www.fastprep.io/problems/ziprecruiter-saved-rectangle-fit-queries)|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-saved-rectangle-fit-queries)|Sep 27, 2023|
+|**Mygate**|[Minimum Subarray Sum](https://www.fastprep.io/problems/mygate-minimum-subarray-sum)|[![Practice][p]](https://www.fastprep.io/problems/mygate-minimum-subarray-sum)|Sep 27, 2023|
+|**Mygate**|[The Only Nonrepeating Array Element](https://www.fastprep.io/problems/mygate-only-nonrepeating-array-element)|[![Practice][p]](https://www.fastprep.io/problems/mygate-only-nonrepeating-array-element)|Sep 27, 2023|
+|**Mygate**|[Remove the Nth Node from the End](https://www.fastprep.io/problems/mygate-remove-nth-node-from-end)|[![Practice][p]](https://www.fastprep.io/problems/mygate-remove-nth-node-from-end)|Sep 27, 2023|
+|**Mygate**|[Rotate a Matrix by 90 Degrees](https://www.fastprep.io/problems/mygate-rotate-matrix-90)|[![Practice][p]](https://www.fastprep.io/problems/mygate-rotate-matrix-90)|Sep 27, 2023|
 |**Gecko Robotics**|[Maximum Damage Patch](https://www.fastprep.io/problems/gecko-robotics-maximum-damage-patch)|[![Practice][p]](https://www.fastprep.io/problems/gecko-robotics-maximum-damage-patch)|Sep 25, 2023|
 |**Gecko Robotics**|[Generate Parameter Combinations](https://www.fastprep.io/problems/gecko-robotics-parameter-combinations)|[![Practice][p]](https://www.fastprep.io/problems/gecko-robotics-parameter-combinations)|Sep 25, 2023|
 |**Amazon**|[Get Average Standing](https://www.fastprep.io/problems/get-average-standing)|[![Practice][p]](https://www.fastprep.io/problems/get-average-standing)|Sep 24, 2023|
@@ -1413,6 +1425,7 @@
 |**Postman**|[Without Whitespaces](https://www.fastprep.io/problems/postman-without-whitespaces)|[![Practice][p]](https://www.fastprep.io/problems/postman-without-whitespaces)|Sep 26, 2019|
 |**Postman**|[Maximum Laptop Rating in a Price Range](https://www.fastprep.io/problems/postman-maximum-laptop-rating)|[![Practice][p]](https://www.fastprep.io/problems/postman-maximum-laptop-rating)|Aug 30, 2019|
 |**Motive**|[Parse a Valid Roman Numeral](https://www.fastprep.io/problems/motive-valid-roman-numeral)|[![Practice][p]](https://www.fastprep.io/problems/motive-valid-roman-numeral)|Aug 17, 2019|
+|**Mygate**|[Issue Non-repeating OTPs in a Time Window](https://www.fastprep.io/problems/mygate-nonrepeating-otp-window)|[![Practice][p]](https://www.fastprep.io/problems/mygate-nonrepeating-otp-window)|Aug 03, 2019|
 |**Motive**|[Smallest Common Integer in Sorted Lists](https://www.fastprep.io/problems/motive-smallest-common-integer-in-sorted-lists)|[![Practice][p]](https://www.fastprep.io/problems/motive-smallest-common-integer-in-sorted-lists)|Jul 17, 2019|
 |**Bloomberg LP**|[Collapse Extra Spaces In Place](https://www.fastprep.io/problems/bloomberg-collapse-extra-spaces)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-collapse-extra-spaces)|Jul 12, 2019|
 |**Bloomberg LP**|[Generate Rand7 from Rand5](https://www.fastprep.io/problems/bloomberg-rand7-from-rand5)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-rand7-from-rand5)|Jul 12, 2019|
@@ -1428,6 +1441,8 @@
 |**Deloitte**|[Top N Longest Sentences](https://www.fastprep.io/problems/deloitte-top-n-longest-sentences)|[![Practice][p]](https://www.fastprep.io/problems/deloitte-top-n-longest-sentences)|Feb 12, 2019|
 |**Benchling**|[2048 Move Simulator](https://www.fastprep.io/problems/benchling-2048-game-simulator)|[![Practice][p]](https://www.fastprep.io/problems/benchling-2048-game-simulator)|Feb 03, 2019|
 |**Benchling**|[Minimum Genetic Mutation](https://www.fastprep.io/problems/benchling-minimum-genetic-mutation)|[![Practice][p]](https://www.fastprep.io/problems/benchling-minimum-genetic-mutation)|Feb 03, 2019|
+|**Mygate**|[Count Vowels and Consonants](https://www.fastprep.io/problems/mygate-count-vowels-consonants)|[![Practice][p]](https://www.fastprep.io/problems/mygate-count-vowels-consonants)|Jan 19, 2019|
+|**Mygate**|[Merge Sorted Arrays with Duplicates](https://www.fastprep.io/problems/mygate-merge-arrays-duplicates)|[![Practice][p]](https://www.fastprep.io/problems/mygate-merge-arrays-duplicates)|Jan 19, 2019|
 |**Bloomberg LP**|[Group Values into Equivalence Classes](https://www.fastprep.io/problems/bloomberg-group-equivalence-classes)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-group-equivalence-classes)|May 16, 2018|
 |**Bloomberg LP**|[Implement a Dynamic Array Vector](https://www.fastprep.io/problems/bloomberg-implement-dynamic-array-vector)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-implement-dynamic-array-vector)|May 16, 2018|
 |**Bloomberg LP**|[Longest Palindromic Substring](https://www.fastprep.io/problems/bloomberg-longest-palindromic-substring)|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-longest-palindromic-substring)|May 16, 2018|
