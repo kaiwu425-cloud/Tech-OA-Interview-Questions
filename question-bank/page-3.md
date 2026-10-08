@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**MathWorks**|[Get Maximum Reward Points](https://www.fastprep.io/problems/mathwork-get-maximum-reward-points)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathwork-get-maximum-reward-points)|Feb 15, 2024|
+|**ZipRecruiter**|[Count Distinct Swappable Digit Pairs](https://www.fastprep.io/problems/ziprecruiter-count-distinct-swappable-digit-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-distinct-swappable-digit-pairs)|Feb 15, 2024|
+|**ZipRecruiter**|[Time Travel](https://www.fastprep.io/problems/ziprecruiter-time-travel)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-time-travel)|Feb 15, 2024|
+|**ZipRecruiter**|[Exclusive Event Entry](https://www.fastprep.io/problems/ziprecruiter-exclusive-event-entry)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-exclusive-event-entry)|Feb 15, 2024|
 |**ZipRecruiter**|[Distribute Integers Between Arrays](https://www.fastprep.io/problems/ziprecruiter-disctribute-integers-between-arrays)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-disctribute-integers-between-arrays)|Feb 15, 2024|
 |**ZipRecruiter**|[Event Time](https://www.fastprep.io/problems/ziprecruiter-event-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-event-time)|Feb 15, 2024|
 |**Amazon**|[Find Recurring Name](https://www.fastprep.io/problems/amazon-find-recurring-names)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-recurring-names)|Feb 14, 2024|

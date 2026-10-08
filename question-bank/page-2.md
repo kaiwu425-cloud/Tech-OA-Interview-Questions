@@ -9,6 +9,10 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Kikoff**|[JSON Identity Verification](https://www.fastprep.io/problems/kikoff-json-identity-verification)|Coding|[![Practice][p]](https://www.fastprep.io/problems/kikoff-json-identity-verification)|Jul 27, 2026|
+|**The Allen Institute for AI**|[Streaming Step Progress Hierarchy](https://www.fastprep.io/problems/ai2-streaming-step-progress-hierarchy)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ai2-streaming-step-progress-hierarchy)|Jul 27, 2026|
+|**Airbnb**|[Parcel Event Tracking](https://www.fastprep.io/problems/airbnb-parcel-event-tracking)|Coding|[![Practice][p]](https://www.fastprep.io/problems/airbnb-parcel-event-tracking)|Jul 27, 2026|
+|**Apple**|[Group Transitive String Aliases](https://www.fastprep.io/problems/apple-transitive-alias-groups)|Coding|[![Practice][p]](https://www.fastprep.io/problems/apple-transitive-alias-groups)|Jul 27, 2026|
 |**Nooks**|[Majority Labels over Audio Intervals](https://www.fastprep.io/problems/nooks-majority-label-audio-intervals)|Coding|[![Practice][p]](https://www.fastprep.io/problems/nooks-majority-label-audio-intervals)|Jul 27, 2026|
 |**Coinbase**|[In-Memory Database](https://www.fastprep.io/problems/coinbase-in-memory-database)|Coding|[![Practice][p]](https://www.fastprep.io/problems/coinbase-in-memory-database)|Jul 27, 2026|
 |**Shopify**|[Deterministic Secret Santa Assignment](https://www.fastprep.io/problems/shopify-deterministic-secret-santa-assignment)|Coding|[![Practice][p]](https://www.fastprep.io/problems/shopify-deterministic-secret-santa-assignment)|Jul 27, 2026|
@@ -1845,8 +1849,4 @@
 |**Google**|[Relative Sort (Google Singapore)](https://www.fastprep.io/problems/google-minimum-swaps-to-make-sequences-increasing)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-minimum-swaps-to-make-sequences-increasing)|Feb 16, 2024|
 |**Snowflake**|[Radio waves](https://www.fastprep.io/problems/snowflake-radio-waves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/snowflake-radio-waves)|Feb 15, 2024|
 |**MathWorks**|[Count Valid Passwords](https://www.fastprep.io/problems/mathwork-count-valid-passwords)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathwork-count-valid-passwords)|Feb 15, 2024|
-|**MathWorks**|[Get Maximum Reward Points](https://www.fastprep.io/problems/mathwork-get-maximum-reward-points)|Coding|[![Practice][p]](https://www.fastprep.io/problems/mathwork-get-maximum-reward-points)|Feb 15, 2024|
-|**ZipRecruiter**|[Count Distinct Swappable Digit Pairs](https://www.fastprep.io/problems/ziprecruiter-count-distinct-swappable-digit-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-count-distinct-swappable-digit-pairs)|Feb 15, 2024|
-|**ZipRecruiter**|[Time Travel](https://www.fastprep.io/problems/ziprecruiter-time-travel)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-time-travel)|Feb 15, 2024|
-|**ZipRecruiter**|[Exclusive Event Entry](https://www.fastprep.io/problems/ziprecruiter-exclusive-event-entry)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ziprecruiter-exclusive-event-entry)|Feb 15, 2024|
 <a id="bottom"></a>

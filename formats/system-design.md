@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**538 questions**
+**541 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -12,9 +12,12 @@
 |**OpenAI**|[Design a Cloud Coding Workspace](https://www.fastprep.io/system-design/cloud-coding-workspace)|[![Practice][p]](https://www.fastprep.io/system-design/cloud-coding-workspace)|🔥 Oct 07, 2026|
 |**Pinterest / OpenAI / Axon / Tesla**|[Design a Blob Storage Service](https://www.fastprep.io/system-design/blob-storage-service)|[![Practice][p]](https://www.fastprep.io/system-design/blob-storage-service)|🔥 Oct 07, 2026|
 |**Bloomberg LP / Apple**|[Design Top-K News Articles in a Time Window](https://www.fastprep.io/system-design/top-k-news-arbitrary-window)|[![Practice][p]](https://www.fastprep.io/system-design/top-k-news-arbitrary-window)|🔥 Oct 07, 2026|
+|**ClickUp**|[Design an AI-Powered Search Index](https://www.fastprep.io/system-design/ai-powered-search-index)|[![Practice][p]](https://www.fastprep.io/system-design/ai-powered-search-index)|🔥 Oct 07, 2026|
 |**OpenAI / Baseten / Amazon**|[Design a Stateless Generative AI Chat Service](https://www.fastprep.io/system-design/stateless-generative-ai-chat-service)|[![Practice][p]](https://www.fastprep.io/system-design/stateless-generative-ai-chat-service)|🔥 Oct 06, 2026|
 |**Databricks**|[Online Bookseller Platform](https://www.fastprep.io/system-design/online-bookseller-platform)|[![Practice][p]](https://www.fastprep.io/system-design/online-bookseller-platform)|🔥 Oct 06, 2026|
 |**SpaceX / Teradata**|[Design a Distributed Real-Time Data Processing Platform](https://www.fastprep.io/system-design/distributed-real-time-data-processing-platform)|[![Practice][p]](https://www.fastprep.io/system-design/distributed-real-time-data-processing-platform)|🔥 Oct 06, 2026|
+|**Uber**|[Design an ML-Assisted Field-Service Evidence Workflow](https://www.fastprep.io/system-design/field-service-evidence-ml-workflow)|[![Practice][p]](https://www.fastprep.io/system-design/field-service-evidence-ml-workflow)|🔥 Oct 06, 2026|
+|**Teradata**|[Design an Organization Knowledge Assistant with Tool Use](https://www.fastprep.io/system-design/organization-knowledge-rag-with-tools)|[![Practice][p]](https://www.fastprep.io/system-design/organization-knowledge-rag-with-tools)|🔥 Oct 06, 2026|
 |**Tekion / Autodesk**|[Design a Continuous Table Merge into NoSQL](https://www.fastprep.io/system-design/continuous-table-merge-to-nosql)|[![Practice][p]](https://www.fastprep.io/system-design/continuous-table-merge-to-nosql)|🔥 Oct 05, 2026|
 |**Amazon / Airwallex / Apple / Wex / Confluent / Oracle / Motive / Grab / Optiver / Scale AI / ByteDance / Navi**|[Design a Ticket Booking System](https://www.fastprep.io/system-design/ticket-booking-system)|[![Practice][p]](https://www.fastprep.io/system-design/ticket-booking-system)|🔥 Oct 05, 2026|
 |**Walmart**|[Design an Agent-Assisted Search Experience](https://www.fastprep.io/system-design/agentic-search-experience)|[![Practice][p]](https://www.fastprep.io/system-design/agentic-search-experience)|🔥 Oct 05, 2026|
@@ -57,7 +60,7 @@
 |**Wells Fargo / Okta**|[Cursor-Paginated Records Service](https://www.fastprep.io/system-design/cursor-paginated-records-service)|[![Practice][p]](https://www.fastprep.io/system-design/cursor-paginated-records-service)|🔥 Sep 30, 2026|
 |**Okta**|[Design a Production Paginated Record API](https://www.fastprep.io/system-design/production-paginated-record-api)|[![Practice][p]](https://www.fastprep.io/system-design/production-paginated-record-api)|🔥 Sep 30, 2026|
 |**General Motors**|[Design a Resilient Dependency-Orchestrating Service](https://www.fastprep.io/system-design/resilient-dependency-orchestrating-service)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-dependency-orchestrating-service)|🔥 Sep 30, 2026|
-|**BNSF Railway**|[Design a Resilient High-Traffic Quote API](https://www.fastprep.io/system-design/resilient-high-traffic-quote-api)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-high-traffic-quote-api)|🔥 Sep 30, 2026|
+|**BNSF Railway / Hartford Financial Services**|[Design a Resilient High-Traffic Quote API](https://www.fastprep.io/system-design/resilient-high-traffic-quote-api)|[![Practice][p]](https://www.fastprep.io/system-design/resilient-high-traffic-quote-api)|🔥 Sep 30, 2026|
 |**Bloomberg LP / amo**|[Design Daily Database Query and Email Delivery](https://www.fastprep.io/system-design/daily-database-query-email-delivery)|[![Practice][p]](https://www.fastprep.io/system-design/daily-database-query-email-delivery)|🔥 Sep 30, 2026|
 |**Moveworks / Atlassian**|[Design Cloud Usage Billing Infrastructure](https://www.fastprep.io/system-design/cloud-usage-billing-infrastructure)|[![Practice][p]](https://www.fastprep.io/system-design/cloud-usage-billing-infrastructure)|🔥 Sep 29, 2026|
 |**Amazon / Instacart / Zip / Nykaa**|[Design a Last-Unit Inventory Reservation Service](https://www.fastprep.io/system-design/last-unit-inventory-reservation)|[![Practice][p]](https://www.fastprep.io/system-design/last-unit-inventory-reservation)|🔥 Sep 29, 2026|
