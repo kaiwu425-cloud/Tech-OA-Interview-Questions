@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,248 questions**
+**3,263 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -267,6 +267,9 @@
 |**Goldman Sachs**|[Merge Overlapping Intervals](https://www.fastprep.io/problems/goldman-sachs-merge-overlapping-intervals)|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-merge-overlapping-intervals)|🔥 Sep 26, 2026|
 |**Goldman Sachs**|[Subset Sum to Target](https://www.fastprep.io/problems/goldman-sachs-subset-sum-target)|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-subset-sum-target)|🔥 Sep 26, 2026|
 |**Goldman Sachs**|[Trapping Rain Water](https://www.fastprep.io/problems/goldman-sachs-trapping-rain-water)|[![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-trapping-rain-water)|🔥 Sep 26, 2026|
+|**Mygate**|[Maximum Subarray Sum](https://www.fastprep.io/problems/mygate-maximum-subarray-sum)|[![Practice][p]](https://www.fastprep.io/problems/mygate-maximum-subarray-sum)|🔥 Sep 26, 2026|
+|**Mygate**|[Remove Invalid Parentheses](https://www.fastprep.io/problems/mygate-remove-invalid-parentheses)|[![Practice][p]](https://www.fastprep.io/problems/mygate-remove-invalid-parentheses)|🔥 Sep 26, 2026|
+|**Mygate**|[Reverse a Linked List](https://www.fastprep.io/problems/mygate-reverse-linked-list)|[![Practice][p]](https://www.fastprep.io/problems/mygate-reverse-linked-list)|🔥 Sep 26, 2026|
 |**TikTok**|[Count Subarrays Matching a Comparison Pattern](https://www.fastprep.io/problems/tiktok-count-subarrays-matching-comparison-pattern)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-subarrays-matching-comparison-pattern)|🔥 Sep 25, 2026|
 |**TikTok**|[Partition Matrix by Nonnegative Averages](https://www.fastprep.io/problems/tiktok-partition-matrix-by-nonnegative-averages)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-partition-matrix-by-nonnegative-averages)|🔥 Sep 25, 2026|
 |**TikTok**|[Count Subarrays with at Least K Equal-Fruit Pairs](https://www.fastprep.io/problems/tiktok-count-subarrays-with-k-fruit-pairs)|[![Practice][p]](https://www.fastprep.io/problems/tiktok-count-subarrays-with-k-fruit-pairs)|🔥 Sep 25, 2026|
@@ -1825,7 +1828,4 @@
 |**Amazon**|[Find Security Level](https://www.fastprep.io/problems/amazon-find-security-level)|[![Practice][p]](https://www.fastprep.io/problems/amazon-find-security-level)|Jun 18, 2025|
 |**Amazon**|[Minimize Variation](https://www.fastprep.io/problems/amazon-minimize-variation)|[![Practice][p]](https://www.fastprep.io/problems/amazon-minimize-variation)|Jun 18, 2025|
 |**JP Morgan**|[Calculate Net Profit](https://www.fastprep.io/problems/jpmorgan-calculate-net-profit)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-calculate-net-profit)|Jun 18, 2025|
-|**JP Morgan**|[Balanced Sum](https://www.fastprep.io/problems/jpmorgan-balanced-sum)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-balanced-sum)|Jun 18, 2025|
-|**JP Morgan**|[Get Min Operations](https://www.fastprep.io/problems/jpmorgan-get-min-operations)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-min-operations)|Jun 18, 2025|
-|**JP Morgan**|[Get Search Result](https://www.fastprep.io/problems/jpmorgan-get-search-results)|[![Practice][p]](https://www.fastprep.io/problems/jpmorgan-get-search-results)|Jun 18, 2025|
 <a id="bottom"></a>
