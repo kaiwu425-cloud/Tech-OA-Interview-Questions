@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**80 questions**
+**81 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -67,6 +67,7 @@
 |**Amazon**|[Customer Package Delivery Report](https://www.fastprep.io/problems/amazon-customer-package-delivery-report)|[![Practice][p]](https://www.fastprep.io/problems/amazon-customer-package-delivery-report)|Jul 16, 2026|
 |**Clickhouse**|[Top Three Sales per County and Year](https://www.fastprep.io/problems/clickhouse-top-three-sales-per-county-and-year)|[![Practice][p]](https://www.fastprep.io/problems/clickhouse-top-three-sales-per-county-and-year)|Jul 07, 2026|
 |**Point72**|[Internet Service Provider Monthly Report](https://www.fastprep.io/problems/point72-internet-service-provider-monthly-report)|[![Practice][p]](https://www.fastprep.io/problems/point72-internet-service-provider-monthly-report)|Jul 02, 2026|
+|**Stripe**|[Conditional Group Aggregation](https://www.fastprep.io/problems/stripe-conditional-group-aggregation)|[![Practice][p]](https://www.fastprep.io/problems/stripe-conditional-group-aggregation)|May 06, 2026|
 |**Notion**|[Block Type with the Most Children](https://www.fastprep.io/problems/notion-block-type-with-most-children)|[![Practice][p]](https://www.fastprep.io/problems/notion-block-type-with-most-children)|Mar 26, 2026|
 |**Notion**|[Country with the Most Events](https://www.fastprep.io/problems/notion-country-with-most-events)|[![Practice][p]](https://www.fastprep.io/problems/notion-country-with-most-events)|Mar 26, 2026|
 |**Notion**|[Event Type with the Most Events](https://www.fastprep.io/problems/notion-event-type-with-most-events)|[![Practice][p]](https://www.fastprep.io/problems/notion-event-type-with-most-events)|Mar 26, 2026|

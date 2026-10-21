@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,750)](formats/coding.md) · [SQL (80)](formats/sql.md) · [System design (608)](formats/system-design.md) · [Low-level design (180)](formats/low-level-design.md) · [AI coding (92)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,752)](formats/coding.md) · [SQL (81)](formats/sql.md) · [System design (608)](formats/system-design.md) · [Low-level design (180)](formats/low-level-design.md) · [AI coding (92)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -1130,6 +1130,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Google**|[Reach a Meeting by Scheduled Trains](https://www.fastprep.io/problems/google-scheduled-train-meeting-reachability)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-scheduled-train-meeting-reachability)|🆕 Sep 20, 2026|
 |**Google**|[Reverse Vowels of a String](https://www.fastprep.io/problems/google-reverse-vowels-of-string)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-reverse-vowels-of-string)|🆕 Sep 20, 2026|
 |**Google**|[Random Picks Excluding Recent Values](https://www.fastprep.io/problems/google-random-pick-excluding-recent)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-random-pick-excluding-recent)|🆕 Sep 20, 2026|
+|**Stripe**|[WebSocket Load Balancer — Parts 1–5](https://www.fastprep.io/problems/stripe-websocket-load-balancer)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-websocket-load-balancer)|🆕 Sep 20, 2026|
 |**GoodScore**|[Count Divisible Power Sums](https://www.fastprep.io/problems/goodscore-count-divisible-power-sums)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goodscore-count-divisible-power-sums)|🆕 Sep 19, 2026|
 |**Stripe**|[Incident Monitor](https://www.fastprep.io/problems/stripe-incident-monitor)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-incident-monitor)|🆕 Sep 19, 2026|
 |**Databricks**|[Chat API and Database System](https://www.fastprep.io/system-design/chat-api-and-database-system)|System design|[![Practice][p]](https://www.fastprep.io/system-design/chat-api-and-database-system)|🆕 Sep 19, 2026|
@@ -1691,5 +1692,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Astrotalk**|[Design a Cached Astrologer Listing Service](https://www.fastprep.io/system-design/cached-astrologer-listing-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cached-astrologer-listing-service)|Sep 03, 2026|
 |**Verkada**|[Design a Live A-or-B Survey](https://www.fastprep.io/system-design/live-binary-survey)|System design|[![Practice][p]](https://www.fastprep.io/system-design/live-binary-survey)|Sep 03, 2026|
 |**eBay**|[Design a Shopping Search Bar](https://www.fastprep.io/system-design/shopping-search-bar)|System design|[![Practice][p]](https://www.fastprep.io/system-design/shopping-search-bar)|Sep 03, 2026|
-|**Astrotalk**|[Design an Idempotent Action API](https://www.fastprep.io/system-design/idempotent-button-action-api)|System design|[![Practice][p]](https://www.fastprep.io/system-design/idempotent-button-action-api)|Sep 03, 2026|
 <a id="bottom"></a>
