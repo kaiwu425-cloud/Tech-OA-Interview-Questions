@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding.md) · [Next →](coding-page-3.md)
 
-**3,755 questions**
+**3,756 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Databricks**|[Find First Anagram Index](https://www.fastprep.io/problems/databricks-find-first-anagram-index)|[![Practice][p]](https://www.fastprep.io/problems/databricks-find-first-anagram-index)|Apr 27, 2026|
 |**Gemini**|[Minimum Fence Painting Operations](https://www.fastprep.io/problems/gemini-minimum-fence-painting-operations)|[![Practice][p]](https://www.fastprep.io/problems/gemini-minimum-fence-painting-operations)|Apr 27, 2026|
 |**IBM**|[Count Power Products in Range](https://www.fastprep.io/problems/ibm-count-power-products-in-range)|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-power-products-in-range)|Apr 26, 2026|
 |**IBM**|[Count Descending Subarrays](https://www.fastprep.io/problems/ibm-count-descending-subarrays)|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-descending-subarrays)|Apr 26, 2026|
@@ -1930,5 +1931,4 @@
 |**Airbnb**|[Minimum Wizard Referral Cost](https://www.fastprep.io/problems/airbnb-minimum-wizard-referral-cost)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-minimum-wizard-referral-cost)|Mar 11, 2019|
 |**Airbnb**|[Count Decreasing Triplets](https://www.fastprep.io/problems/airbnb-count-decreasing-triplets)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-count-decreasing-triplets)|Mar 05, 2019|
 |**Airbnb**|[Missing Words](https://www.fastprep.io/problems/airbnb-missing-words)|[![Practice][p]](https://www.fastprep.io/problems/airbnb-missing-words)|Mar 05, 2019|
-|**Benchling**|[Apply Overlapping HTML Formatting Ranges](https://www.fastprep.io/problems/benchling-html-formatting-ranges)|[![Practice][p]](https://www.fastprep.io/problems/benchling-html-formatting-ranges)|Feb 28, 2019|
 <a id="bottom"></a>

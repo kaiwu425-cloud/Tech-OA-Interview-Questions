@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Abridge**|[Clone a Connected Graph](https://www.fastprep.io/problems/abridge-clone-graph)|Coding|[![Practice][p]](https://www.fastprep.io/problems/abridge-clone-graph)|Sep 03, 2026|
 |**Astrotalk**|[Design a Cached Astrologer Listing Service](https://www.fastprep.io/system-design/cached-astrologer-listing-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cached-astrologer-listing-service)|Sep 03, 2026|
 |**Verkada**|[Design a Live A-or-B Survey](https://www.fastprep.io/system-design/live-binary-survey)|System design|[![Practice][p]](https://www.fastprep.io/system-design/live-binary-survey)|Sep 03, 2026|
 |**eBay**|[Design a Shopping Search Bar](https://www.fastprep.io/system-design/shopping-search-bar)|System design|[![Practice][p]](https://www.fastprep.io/system-design/shopping-search-bar)|Sep 03, 2026|

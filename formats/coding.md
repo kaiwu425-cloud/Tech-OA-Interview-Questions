@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,755 questions**
+**3,756 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -11,6 +11,7 @@
 |**Pinterest**|[Find Local Maxima in Sensor Data](https://www.fastprep.io/problems/pinterest-find-local-maxima)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-find-local-maxima)|🔥 Oct 21, 2026|
 |**Pinterest**|[Gradient Descent Linear Regression Predictions](https://www.fastprep.io/problems/pinterest-gradient-descent-linear-regression)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-gradient-descent-linear-regression)|🔥 Oct 21, 2026|
 |**Pinterest**|[Decision Tree Classifier from Scratch](https://www.fastprep.io/problems/pinterest-decision-tree-classifier)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-decision-tree-classifier)|🔥 Oct 21, 2026|
+|**Google**|[First-Fit Memory Allocator](https://www.fastprep.io/problems/google-first-fit-memory-allocator)|[![Practice][p]](https://www.fastprep.io/problems/google-first-fit-memory-allocator)|🔥 Oct 21, 2026|
 |**Google**|[Robot Assembly Line Conflicts](https://www.fastprep.io/problems/google-robot-assembly-line-conflicts)|[![Practice][p]](https://www.fastprep.io/problems/google-robot-assembly-line-conflicts)|🔥 Oct 20, 2026|
 |**Amazon**|[Climbing Stairs](https://www.fastprep.io/problems/amazon-climbing-stairs)|[![Practice][p]](https://www.fastprep.io/problems/amazon-climbing-stairs)|🔥 Oct 20, 2026|
 |**Google**|[Periodic-Color Binary Forest Roots](https://www.fastprep.io/problems/google-periodic-color-binary-forest-roots)|[![Practice][p]](https://www.fastprep.io/problems/google-periodic-color-binary-forest-roots)|🔥 Oct 20, 2026|
@@ -1822,5 +1823,4 @@
 |**Verkada**|[Find Valid IP Addresses](https://www.fastprep.io/problems/verkada-find-valid-ip-addresses)|[![Practice][p]](https://www.fastprep.io/problems/verkada-find-valid-ip-addresses)|Apr 28, 2026|
 |**Visa**|[Maximize Capped Contribution Sum](https://www.fastprep.io/problems/visa-maximize-capped-contribution-sum)|[![Practice][p]](https://www.fastprep.io/problems/visa-maximize-capped-contribution-sum)|Apr 27, 2026|
 |**Visa**|[Longest Selectable Non-Decreasing Subarray](https://www.fastprep.io/problems/visa-longest-selectable-nondecreasing-subarray)|[![Practice][p]](https://www.fastprep.io/problems/visa-longest-selectable-nondecreasing-subarray)|Apr 27, 2026|
-|**Databricks**|[Find First Anagram Index](https://www.fastprep.io/problems/databricks-find-first-anagram-index)|[![Practice][p]](https://www.fastprep.io/problems/databricks-find-first-anagram-index)|Apr 27, 2026|
 <a id="bottom"></a>

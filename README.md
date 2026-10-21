@@ -23,7 +23,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 <sub>Newest first · 🔥 2 weeks · 🆕 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (3,755)](formats/coding.md) · [SQL (81)](formats/sql.md) · [System design (608)](formats/system-design.md) · [Low-level design (180)](formats/low-level-design.md) · [AI coding (94)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (3,756)](formats/coding.md) · [SQL (81)](formats/sql.md) · [System design (608)](formats/system-design.md) · [Low-level design (180)](formats/low-level-design.md) · [AI coding (94)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 [p]: assets/practice-button.svg
@@ -36,6 +36,7 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**Pinterest**|[Find Local Maxima in Sensor Data](https://www.fastprep.io/problems/pinterest-find-local-maxima)|Coding|[![Practice][p]](https://www.fastprep.io/problems/pinterest-find-local-maxima)|🔥 Oct 21, 2026|
 |**Pinterest**|[Gradient Descent Linear Regression Predictions](https://www.fastprep.io/problems/pinterest-gradient-descent-linear-regression)|Coding|[![Practice][p]](https://www.fastprep.io/problems/pinterest-gradient-descent-linear-regression)|🔥 Oct 21, 2026|
 |**Pinterest**|[Decision Tree Classifier from Scratch](https://www.fastprep.io/problems/pinterest-decision-tree-classifier)|Coding|[![Practice][p]](https://www.fastprep.io/problems/pinterest-decision-tree-classifier)|🔥 Oct 21, 2026|
+|**Google**|[First-Fit Memory Allocator](https://www.fastprep.io/problems/google-first-fit-memory-allocator)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-first-fit-memory-allocator)|🔥 Oct 21, 2026|
 |**Google**|[Robot Assembly Line Conflicts](https://www.fastprep.io/problems/google-robot-assembly-line-conflicts)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-robot-assembly-line-conflicts)|🔥 Oct 20, 2026|
 |**Amazon**|[Climbing Stairs](https://www.fastprep.io/problems/amazon-climbing-stairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-climbing-stairs)|🔥 Oct 20, 2026|
 |**Google**|[Periodic-Color Binary Forest Roots](https://www.fastprep.io/problems/google-periodic-color-binary-forest-roots)|Coding|[![Practice][p]](https://www.fastprep.io/problems/google-periodic-color-binary-forest-roots)|🔥 Oct 20, 2026|
@@ -1691,5 +1692,4 @@ Abnormal Security, Abridge, Accenture, Addepar, Adobe, Adyen, Affirm, Agoda, Air
 |**David AI**|[Design an Audio AI Processing Backend](https://www.fastprep.io/system-design/audio-ai-processing-backend)|System design|[![Practice][p]](https://www.fastprep.io/system-design/audio-ai-processing-backend)|Sep 04, 2026|
 |**Amazon**|[Latest-Timestamp Key-Value Store](https://www.fastprep.io/problems/amazon-latest-timestamp-key-value-store)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-latest-timestamp-key-value-store)|Sep 04, 2026|
 |**Amazon**|[Design and Implement a Train Route Fare Calculator](https://www.fastprep.io/low-level-design/train-route-fare-calculator)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/train-route-fare-calculator)|Sep 03, 2026|
-|**Abridge**|[Clone a Connected Graph](https://www.fastprep.io/problems/abridge-clone-graph)|Coding|[![Practice][p]](https://www.fastprep.io/problems/abridge-clone-graph)|Sep 03, 2026|
 <a id="bottom"></a>
