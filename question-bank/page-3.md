@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Amazon**|[Calculate Total Distrance Travelled](https://www.fastprep.io/problems/amazon-calculate-total-distance-travelled)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-calculate-total-distance-travelled)|Sep 19, 2024|
+|**Salesforce**|[Find All Pairs of Integers](https://www.fastprep.io/problems/salesforce-find-all-pairs-of-integers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-find-all-pairs-of-integers)|Sep 19, 2024|
+|**Salesforce**|[Longest Substring](https://www.fastprep.io/problems/salesforce-minimize-length-of-longest-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-minimize-length-of-longest-substring)|Sep 19, 2024|
 |**Salesforce**|[Get Min Time](https://www.fastprep.io/problems/salesforce-get-minimum-time)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-get-minimum-time)|Sep 19, 2024|
 |**Salesforce**|[Schedule Batch Difference](https://www.fastprep.io/problems/salesforce-schedule-batch-difference)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-schedule-batch-difference)|Sep 19, 2024|
 |**Akuna**|[Get Probability](https://www.fastprep.io/problems/akuna-get-probability)|Coding|[![Practice][p]](https://www.fastprep.io/problems/akuna-get-probability)|Sep 19, 2024|
@@ -660,6 +663,7 @@
 |**Navan**|[Minimum Steps on a Circular Character Dial](https://www.fastprep.io/problems/navan-circular-dial-minimum-steps)|Coding|[![Practice][p]](https://www.fastprep.io/problems/navan-circular-dial-minimum-steps)|Jan 24, 2024|
 |**Navan**|[Minimum Stick Connection Cost](https://www.fastprep.io/problems/navan-minimum-cost-to-connect-sticks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/navan-minimum-cost-to-connect-sticks)|Jan 24, 2024|
 |**Navan**|[Shortest Substring with at Least K Distinct Characters](https://www.fastprep.io/problems/navan-shortest-substring-at-least-k-distinct)|Coding|[![Practice][p]](https://www.fastprep.io/problems/navan-shortest-substring-at-least-k-distinct)|Jan 24, 2024|
+|**Optiver**|[Design a Cross-Site Stock Trading Application](https://www.fastprep.io/system-design/cross-site-stock-trading-application)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cross-site-stock-trading-application)|Jan 23, 2024|
 |**Google**|[Design Near-Duplicate Image Detection](https://www.fastprep.io/system-design/near-duplicate-image-detection)|System design|[![Practice][p]](https://www.fastprep.io/system-design/near-duplicate-image-detection)|Jan 16, 2024|
 |**Marshall Wace**|[Crop a Notification at Whole-Word Boundaries](https://www.fastprep.io/problems/marshall-wace-crop-notification)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-crop-notification)|Jan 14, 2024|
 |**Marshall Wace**|[Largest Palindromic Number from Available Digits](https://www.fastprep.io/problems/marshall-wace-largest-palindromic-number)|Coding|[![Practice][p]](https://www.fastprep.io/problems/marshall-wace-largest-palindromic-number)|Jan 14, 2024|
@@ -1201,7 +1205,6 @@
 |**Bloomberg LP**|[Stock Price Range over a Sliding Day Window](https://www.fastprep.io/problems/bloomberg-stock-price-range-window)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-stock-price-range-window)|May 11, 2020|
 |**Bloomberg LP**|[Trending Stock](https://www.fastprep.io/problems/bloomberg-trending-stock)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-trending-stock)|May 11, 2020|
 |**Bloomberg LP**|[Sort Characters by Frequency](https://www.fastprep.io/problems/bloomberg-sort-characters-by-frequency)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-sort-characters-by-frequency)|May 09, 2020|
-|**Optiver**|[Design a Cross-Site Stock Trading Application](https://www.fastprep.io/system-design/cross-site-stock-trading-application)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cross-site-stock-trading-application)|May 08, 2020|
 |**Bloomberg LP**|[Minimum Insertions to Make a Palindrome](https://www.fastprep.io/problems/bloomberg-minimum-insertions-to-make-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-minimum-insertions-to-make-palindrome)|Apr 21, 2020|
 |**Bloomberg LP**|[Shortest Suffix to Form a Palindrome](https://www.fastprep.io/problems/bloomberg-shortest-suffix-to-form-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-shortest-suffix-to-form-palindrome)|Apr 21, 2020|
 |**Bloomberg LP**|[Valid Palindrome](https://www.fastprep.io/problems/bloomberg-valid-palindrome)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-valid-palindrome)|Apr 21, 2020|

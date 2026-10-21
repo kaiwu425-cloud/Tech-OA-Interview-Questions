@@ -9,6 +9,7 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Astrotalk**|[Design an Idempotent Action API](https://www.fastprep.io/system-design/idempotent-button-action-api)|System design|[![Practice][p]](https://www.fastprep.io/system-design/idempotent-button-action-api)|Sep 03, 2026|
 |**Oracle**|[Design GPU Host Health Monitoring and Repair](https://www.fastprep.io/system-design/gpu-host-health-and-repair)|System design|[![Practice][p]](https://www.fastprep.io/system-design/gpu-host-health-and-repair)|Sep 03, 2026|
 |**SentinelOne**|[Design and Implement a Concurrent Web Crawler Library](https://www.fastprep.io/low-level-design/concurrent-web-crawler-library)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/concurrent-web-crawler-library)|Sep 03, 2026|
 |**Amazon**|[Design and Implement a Sliding Window Maximum API](https://www.fastprep.io/low-level-design/sliding-window-maximum-api)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/sliding-window-maximum-api)|Sep 03, 2026|
@@ -823,6 +824,7 @@
 |**Point72**|[Lexicographically Smallest String After Substring Operation](https://www.fastprep.io/problems/point72-lexicographically-smallest-substring-operation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/point72-lexicographically-smallest-substring-operation)|May 10, 2026|
 |**Two Sigma**|[Piecewise Linear Interpolation and Extrapolation](https://www.fastprep.io/problems/twosigma-piecewise-linear-interpolation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/twosigma-piecewise-linear-interpolation)|May 10, 2026|
 |**Intuit**|[Small Business Network: Degrees of Separation](https://www.fastprep.io/problems/intuit-small-business-network-degrees-of-separation)|Coding|[![Practice][p]](https://www.fastprep.io/problems/intuit-small-business-network-degrees-of-separation)|May 08, 2026|
+|**Stripe**|[Conditional Group Aggregation](https://www.fastprep.io/problems/stripe-conditional-group-aggregation)|SQL|[![Practice][p]](https://www.fastprep.io/problems/stripe-conditional-group-aggregation)|May 06, 2026|
 |**OpenAI**|[ChatApp with Bots](https://www.fastprep.io/problems/openai-chatapp-with-bots)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-chatapp-with-bots)|May 05, 2026|
 |**OpenAI**|[IP Address to CIDR Blocks](https://www.fastprep.io/problems/openai-ip-address-to-cidr-blocks)|Coding|[![Practice][p]](https://www.fastprep.io/problems/openai-ip-address-to-cidr-blocks)|May 05, 2026|
 |**Roblox**|[Implement a Rate Limiter](https://www.fastprep.io/problems/roblox-implement-rate-limiter)|Coding|[![Practice][p]](https://www.fastprep.io/problems/roblox-implement-rate-limiter)|May 05, 2026|
@@ -973,6 +975,7 @@
 |**Bloomberg LP**|[Two City Scheduling with an Odd Candidate Count](https://www.fastprep.io/problems/bloomberg-two-city-scheduling)|Coding|[![Practice][p]](https://www.fastprep.io/problems/bloomberg-two-city-scheduling)|Mar 05, 2026|
 |**Ramp**|[In-Memory Database with TTL and Historical Lookup](https://www.fastprep.io/problems/ramp-in-memory-database-historical-lookup)|Coding|[![Practice][p]](https://www.fastprep.io/problems/ramp-in-memory-database-historical-lookup)|Mar 04, 2026|
 |**Stripe**|[Repair Template Lookup, Arguments and Includes](https://www.fastprep.io/project-coding/stripe-template-lookup-debugging)|AI coding|[![Practice][p]](https://www.fastprep.io/project-coding/stripe-template-lookup-debugging)|Mar 04, 2026|
+|**Stripe**|[BitFont Part 2 - Render a Word](https://www.fastprep.io/problems/stripe-bitfont-render-word-part2)|Coding|[![Practice][p]](https://www.fastprep.io/problems/stripe-bitfont-render-word-part2)|Mar 04, 2026|
 |**Persona**|[Design and Implement a Progressive Banking System](https://www.fastprep.io/low-level-design/progressive-banking-system)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/progressive-banking-system)|Mar 03, 2026|
 |**Salesforce**|[Count Palindromic Concatenation Pairs](https://www.fastprep.io/problems/salesforce-count-palindromic-concatenation-pairs)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-count-palindromic-concatenation-pairs)|Mar 02, 2026|
 |**WhatNot**|[Validate Rows and Columns](https://www.fastprep.io/problems/whatnot-validate-row-column-grid)|Coding|[![Practice][p]](https://www.fastprep.io/problems/whatnot-validate-row-column-grid)|Mar 01, 2026|
@@ -1773,7 +1776,4 @@
 |**Cisco**|[Convert Password](https://www.fastprep.io/problems/cisco-convert-password)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-convert-password)|Sep 20, 2024|
 |**Codeium**|[Eric's Sequence](https://www.fastprep.io/problems/codeium-erics-sequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/codeium-erics-sequence)|Sep 20, 2024|
 |**Amazon**|[Maximum Possible Racers](https://www.fastprep.io/problems/amazon-maximum-possible-racers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-possible-racers)|Sep 19, 2024|
-|**Amazon**|[Calculate Total Distrance Travelled](https://www.fastprep.io/problems/amazon-calculate-total-distance-travelled)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-calculate-total-distance-travelled)|Sep 19, 2024|
-|**Salesforce**|[Find All Pairs of Integers](https://www.fastprep.io/problems/salesforce-find-all-pairs-of-integers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-find-all-pairs-of-integers)|Sep 19, 2024|
-|**Salesforce**|[Longest Substring](https://www.fastprep.io/problems/salesforce-minimize-length-of-longest-substring)|Coding|[![Practice][p]](https://www.fastprep.io/problems/salesforce-minimize-length-of-longest-substring)|Sep 19, 2024|
 <a id="bottom"></a>
