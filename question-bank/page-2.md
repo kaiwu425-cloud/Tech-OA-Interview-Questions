@@ -9,6 +9,9 @@
 [p]: ../assets/practice-button.svg
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+|**Astrotalk**|[Design a Cached Astrologer Listing Service](https://www.fastprep.io/system-design/cached-astrologer-listing-service)|System design|[![Practice][p]](https://www.fastprep.io/system-design/cached-astrologer-listing-service)|Sep 03, 2026|
+|**Verkada**|[Design a Live A-or-B Survey](https://www.fastprep.io/system-design/live-binary-survey)|System design|[![Practice][p]](https://www.fastprep.io/system-design/live-binary-survey)|Sep 03, 2026|
+|**eBay**|[Design a Shopping Search Bar](https://www.fastprep.io/system-design/shopping-search-bar)|System design|[![Practice][p]](https://www.fastprep.io/system-design/shopping-search-bar)|Sep 03, 2026|
 |**Astrotalk**|[Design an Idempotent Action API](https://www.fastprep.io/system-design/idempotent-button-action-api)|System design|[![Practice][p]](https://www.fastprep.io/system-design/idempotent-button-action-api)|Sep 03, 2026|
 |**Oracle**|[Design GPU Host Health Monitoring and Repair](https://www.fastprep.io/system-design/gpu-host-health-and-repair)|System design|[![Practice][p]](https://www.fastprep.io/system-design/gpu-host-health-and-repair)|Sep 03, 2026|
 |**SentinelOne**|[Design and Implement a Concurrent Web Crawler Library](https://www.fastprep.io/low-level-design/concurrent-web-crawler-library)|Low-level design|[![Practice][p]](https://www.fastprep.io/low-level-design/concurrent-web-crawler-library)|Sep 03, 2026|
@@ -1773,7 +1776,4 @@
 |**Goldman Sachs**|[Get Min Moves](https://www.fastprep.io/problems/goldman-get-minimum-moves)|Coding|[![Practice][p]](https://www.fastprep.io/problems/goldman-get-minimum-moves)|Sep 20, 2024|
 |**Cisco**|[Find Out Prime or Composite](https://www.fastprep.io/problems/cisco-find-out-prime-or-composite)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-find-out-prime-or-composite)|Sep 20, 2024|
 |**Cisco**|[Compact List](https://www.fastprep.io/problems/cisco-compact-the-list)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-compact-the-list)|Sep 20, 2024|
-|**Cisco**|[Convert Password](https://www.fastprep.io/problems/cisco-convert-password)|Coding|[![Practice][p]](https://www.fastprep.io/problems/cisco-convert-password)|Sep 20, 2024|
-|**Codeium**|[Eric's Sequence](https://www.fastprep.io/problems/codeium-erics-sequence)|Coding|[![Practice][p]](https://www.fastprep.io/problems/codeium-erics-sequence)|Sep 20, 2024|
-|**Amazon**|[Maximum Possible Racers](https://www.fastprep.io/problems/amazon-maximum-possible-racers)|Coding|[![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-possible-racers)|Sep 19, 2024|
 <a id="bottom"></a>

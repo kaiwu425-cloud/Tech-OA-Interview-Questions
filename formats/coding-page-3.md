@@ -2,12 +2,15 @@
 
 [← Back to all questions](../README.md#question-bank) · [← Previous](coding-page-2.md)
 
-**3,752 questions**
+**3,755 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Deloitte**|[Parameterized Divisibility Labels](https://www.fastprep.io/problems/deloitte-parameterized-divisibility-labels)|[![Practice][p]](https://www.fastprep.io/problems/deloitte-parameterized-divisibility-labels)|Feb 12, 2019|
+|**Deloitte**|[Sorted Character Frequencies](https://www.fastprep.io/problems/deloitte-sorted-character-frequencies)|[![Practice][p]](https://www.fastprep.io/problems/deloitte-sorted-character-frequencies)|Feb 12, 2019|
+|**Deloitte**|[Top N Longest Sentences](https://www.fastprep.io/problems/deloitte-top-n-longest-sentences)|[![Practice][p]](https://www.fastprep.io/problems/deloitte-top-n-longest-sentences)|Feb 12, 2019|
 |**Benchling**|[2048 Move Simulator](https://www.fastprep.io/problems/benchling-2048-game-simulator)|[![Practice][p]](https://www.fastprep.io/problems/benchling-2048-game-simulator)|Feb 03, 2019|
 |**Benchling**|[Minimum Genetic Mutation](https://www.fastprep.io/problems/benchling-minimum-genetic-mutation)|[![Practice][p]](https://www.fastprep.io/problems/benchling-minimum-genetic-mutation)|Feb 03, 2019|
 |**Mygate**|[Count Vowels and Consonants](https://www.fastprep.io/problems/mygate-count-vowels-consonants)|[![Practice][p]](https://www.fastprep.io/problems/mygate-count-vowels-consonants)|Jan 19, 2019|

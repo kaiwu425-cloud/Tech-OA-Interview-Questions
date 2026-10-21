@@ -2,12 +2,15 @@
 
 [← Back to all questions](../README.md#question-bank) · [Next →](coding-page-2.md)
 
-**3,752 questions**
+**3,755 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+|**Pinterest**|[Find Local Maxima in Sensor Data](https://www.fastprep.io/problems/pinterest-find-local-maxima)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-find-local-maxima)|🔥 Oct 21, 2026|
+|**Pinterest**|[Gradient Descent Linear Regression Predictions](https://www.fastprep.io/problems/pinterest-gradient-descent-linear-regression)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-gradient-descent-linear-regression)|🔥 Oct 21, 2026|
+|**Pinterest**|[Decision Tree Classifier from Scratch](https://www.fastprep.io/problems/pinterest-decision-tree-classifier)|[![Practice][p]](https://www.fastprep.io/problems/pinterest-decision-tree-classifier)|🔥 Oct 21, 2026|
 |**Google**|[Robot Assembly Line Conflicts](https://www.fastprep.io/problems/google-robot-assembly-line-conflicts)|[![Practice][p]](https://www.fastprep.io/problems/google-robot-assembly-line-conflicts)|🔥 Oct 20, 2026|
 |**Amazon**|[Climbing Stairs](https://www.fastprep.io/problems/amazon-climbing-stairs)|[![Practice][p]](https://www.fastprep.io/problems/amazon-climbing-stairs)|🔥 Oct 20, 2026|
 |**Google**|[Periodic-Color Binary Forest Roots](https://www.fastprep.io/problems/google-periodic-color-binary-forest-roots)|[![Practice][p]](https://www.fastprep.io/problems/google-periodic-color-binary-forest-roots)|🔥 Oct 20, 2026|
@@ -1820,7 +1823,4 @@
 |**Visa**|[Maximize Capped Contribution Sum](https://www.fastprep.io/problems/visa-maximize-capped-contribution-sum)|[![Practice][p]](https://www.fastprep.io/problems/visa-maximize-capped-contribution-sum)|Apr 27, 2026|
 |**Visa**|[Longest Selectable Non-Decreasing Subarray](https://www.fastprep.io/problems/visa-longest-selectable-nondecreasing-subarray)|[![Practice][p]](https://www.fastprep.io/problems/visa-longest-selectable-nondecreasing-subarray)|Apr 27, 2026|
 |**Databricks**|[Find First Anagram Index](https://www.fastprep.io/problems/databricks-find-first-anagram-index)|[![Practice][p]](https://www.fastprep.io/problems/databricks-find-first-anagram-index)|Apr 27, 2026|
-|**Gemini**|[Minimum Fence Painting Operations](https://www.fastprep.io/problems/gemini-minimum-fence-painting-operations)|[![Practice][p]](https://www.fastprep.io/problems/gemini-minimum-fence-painting-operations)|Apr 27, 2026|
-|**IBM**|[Count Power Products in Range](https://www.fastprep.io/problems/ibm-count-power-products-in-range)|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-power-products-in-range)|Apr 26, 2026|
-|**IBM**|[Count Descending Subarrays](https://www.fastprep.io/problems/ibm-count-descending-subarrays)|[![Practice][p]](https://www.fastprep.io/problems/ibm-count-descending-subarrays)|Apr 26, 2026|
 <a id="bottom"></a>
